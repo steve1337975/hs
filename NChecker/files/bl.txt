@@ -4,22 +4,18 @@ https://raw.githack.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+
 https://raw.githack.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS_WEAK_DPI_RUS.txt
 https://raw.githack.com/FLAT447/v2ray-lists/main/BLACK_FULL.txt
 https://raw.githack.com/flaafix/AetrisVPN-black-list/main/configs.txt
-
-
 https://alley.serv00.net/other
 https://alley.serv00.net/gemini
 https://alley.serv00.net/youtube
 https://alley.serv00.net/ytm
-
 https://sub.vlessfo.ru/vlessforu/working_configs.txt
 https://raw.githack.com/PizdukMod/PizdukVPN/refs/heads/main/sub
 https://translate.yandex.ru/translate?url=https://hub.mos.ru/akelladejavu/bunker/-/raw/main/BLACK_LIST.txt&lang=de-de
 https://translate.yandex.ru/translate?url=https://hub.mos.ru/rkp/sub-roskompozor/raw/main/bl&lang=de-de
-
+https://raw.githack.com/Ilyacom4ik/free-v2ray-2026/refs/heads/main/subscriptions/FreeCFGHub.txt
 https://raw.githack.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri
 https://raw.githack.com/roosterkid/openproxylist/main/V2RAY_RAW.txt
 https://raw.githack.com/sakha1370/OpenRay/main/output/all_valid_proxies.txt
-https://raw.githack.com/Ilyacom4ik/free-v2ray-2026/refs/heads/main/subscriptions/FreeCFGHub.txt
 https://raw.githack.com/mirrorrepomagic/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt
 
 https://cdn.jsdelivr.net/gh/proxifly/free-proxy-list@main/proxies/all/data.txt
@@ -43,8 +39,6 @@ https://api.proxyscrape.com/?request=displayproxies&proxytype=socks5&timeout=100
 https://api.proxyscrape.com/?request=displayproxies&proxytype=http&timeout=10000&country=all
 https://api.proxyscrape.com/?request=displayproxies&proxytype=https&timeout=10000&country=all
 
-
-
 https://raw.githack.com/wlunlocker/vpn-configs/refs/heads/main/blacklist_all.txt
 https://raw.githack.com/wlunlocker/vpn-configs/refs/heads/main/blacklist_vpn1.txt
 https://raw.githack.com/wlunlocker/vpn-configs/refs/heads/main/blacklist_vpn2.txt
@@ -54,6 +48,15 @@ https://raw.githack.com/3inker/v2ray-subscription/refs/heads/main/subs/all_not_r
 https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/non_ru.txt
 https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/ping_tested.txt
 https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/speed_tested.txt
+
+-
+
+
+
+
+
+
+
 
 
 -

@@ -21,6 +21,7 @@ namespace NChecker.models.configs
         {
             Url = a1;
             ParseServer();
+            NormalizeParams();
         }
         internal virtual void ParseServer()
         {
@@ -41,7 +42,7 @@ namespace NChecker.models.configs
                 }
                 catch (FormatException exc) { throw new InvalidFormatProtocolException(exc.Message); }
             }
-            if (Url.StartsWith("hy"))
+            if (Url.StartsWith("hy", StringComparison.OrdinalIgnoreCase))
             {
                 int commaIndex = Url.IndexOf(',');
                 if (commaIndex != -1)
@@ -50,7 +51,10 @@ namespace NChecker.models.configs
                     if (slashIndex != -1) Url = Url.Remove(commaIndex, slashIndex - commaIndex);
                 }
             }
-
+            if (Url.StartsWith("trojan", StringComparison.OrdinalIgnoreCase))
+            {
+                Url = Url.Replace(";", "=&");
+            }
             if (Uri.TryCreate(Url, UriKind.Absolute, out var uri))
             {
                 Protocol = uri.Scheme;
@@ -73,6 +77,10 @@ namespace NChecker.models.configs
                 throw new BrokenProtocolException();
             }
             Name = "Anti-RKN";
+        }
+        internal virtual void NormalizeParams()
+        {
+
         }
         internal virtual string GetNewUrl()
         {
@@ -109,7 +117,7 @@ namespace NChecker.models.configs
             byte[] hash = MD5.HashData(bytes);
             return Convert.ToHexString(hash);
         }
-        protected string NormalizeId(string rawId)
+        protected string GetNormalizedId(string rawId)
         {
             if (Guid.TryParse(rawId.Trim(), out var guid))
             {

@@ -28,7 +28,7 @@ namespace NChecker.models.configs
                 {
                     Sni = parameter.Value;
                 }
-                else if (parameter.Key.Equals("insecure", StringComparison.OrdinalIgnoreCase))
+                else if (parameter.Key.Equals("allowInsecure", StringComparison.OrdinalIgnoreCase))
                 {
                     AllowInsecure = ParseAllowInsecure(parameter.Value);
                 }

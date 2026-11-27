@@ -154,7 +154,6 @@ namespace NChecker.models.configs
             if (!string.IsNullOrEmpty(ServiceName)) queryString.Add("serviceName", ServiceName);
             return queryString.ToString();
         }
-
         private VlessPacketEncoding? ParsePacketEncoding(string a1)
         {
             if (!Enum.TryParse(a1, true, out VlessPacketEncoding v1)) return null;

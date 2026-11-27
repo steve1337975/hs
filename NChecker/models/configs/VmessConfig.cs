@@ -81,7 +81,7 @@ namespace NChecker.models.configs
             VmessJsonModel vmessJsonModel = new VmessJsonModel
             {
                 Version = Version,
-                Id = NormalizeId(UUID),
+                Id = GetNormalizedId(UUID),
                 Address = Domain ?? Address,
                 Port = Port.ToString(),
                 Remarks = Name

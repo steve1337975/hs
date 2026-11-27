@@ -6,7 +6,7 @@ namespace NChecker.classes
     internal class ExportManager
     {
         private readonly string _dumpPath = Path.Combine(Directory.GetCurrentDirectory(), "dump");
-        private int _maxLinesPerFile = 1000;
+        private int _maxLinesPerFile = 750;
         public async Task ExportAsync(ServerData[] servers)
         {
             if (servers == null || servers.Length == 0)

@@ -26,29 +26,7 @@ namespace NChecker
             });
 
             servers = servers.Where(x => x.IsValid).DistinctBy(x => x.ConfigData.GetCoreSignature()).ToArray();
-
-            /*
-            servers = servers.OrderBy(x =>
-            {
-                if (x.ConfigData is VlessConfig vlessConfig)
-                {
-                    return vlessConfig.Sni ?? vlessConfig.Host ?? vlessConfig.Address;
-                }
-                else if (x.ConfigData is TrojanConfig trojanConfig)
-                {
-                    return trojanConfig.Sni ?? trojanConfig.Host ?? trojanConfig.Address;
-                }
-                else if (x.ConfigData is HysteriaConfig hysteriaConfig)
-                {
-                    return hysteriaConfig.Sni ?? hysteriaConfig.Address;
-                }
-                else if (x.ConfigData is VmessConfig vmessConfig)
-                {
-                    return vmessConfig.Sni ?? vmessConfig.Host ?? vmessConfig.Address;
-                }
-                return x.ConfigData.Address;
-            }).ToArray();
-            */
+            servers = servers.OrderBy(x => x.ConfigData.UUID.Length).ToArray();
 
             Console.WriteLine($"Отфильтровано серверов по IP: {servers.Length}");
             var deadEndpoints = new ConcurrentDictionary<string, byte>();

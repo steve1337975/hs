@@ -20,7 +20,7 @@ namespace NChecker.models.configs
                 {
                     Username = parts[0];
                     Password = parts[1];
-                    if (Username.Equals("null", StringComparison.OrdinalIgnoreCase) || Password.Equals("null", StringComparison.OrdinalIgnoreCase))
+                    if (Username.Equals("null", StringComparison.OrdinalIgnoreCase) || Password.Equals("null", StringComparison.OrdinalIgnoreCase) || Password.Equals("none", StringComparison.OrdinalIgnoreCase))
                     {
                         throw new BrokenProtocolException();
                     }

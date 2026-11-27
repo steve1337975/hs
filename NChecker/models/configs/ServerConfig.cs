@@ -60,7 +60,7 @@ namespace NChecker.models.configs
                 QueryParameters = ParseQuery(uri.Query);
                 Name = Uri.UnescapeDataString(uri.Fragment.TrimStart('#'));
             }
-            if (Protocol.StartsWith("ss", StringComparison.OrdinalIgnoreCase))
+            if (Protocol.Equals("ss", StringComparison.OrdinalIgnoreCase))
             {
                 try
                 {
@@ -68,7 +68,6 @@ namespace NChecker.models.configs
                 }
                 catch (FormatException exc) { throw new InvalidFormatProtocolException(exc.Message); }
             }
-
             if (UUID.Contains("telegram", StringComparison.OrdinalIgnoreCase) || UUID.Contains("://", StringComparison.OrdinalIgnoreCase) || UUID.Contains("www", StringComparison.OrdinalIgnoreCase))
             {
                 throw new BrokenProtocolException();

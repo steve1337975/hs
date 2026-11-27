@@ -1,16 +1,18 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [VE] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405567
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409162
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:39:27
-# servers-count: 7
+# generated-at: 11/27/2026 13:39:22
+# servers-count: 9
 
-http://161.22.37.18:999#🇻🇪 Venezuela | Anti-RKN
-http://154.3.76.16:999#🇻🇪 Venezuela, Quíbor | Anti-RKN
-http://38.51.220.64:999#🇻🇪 Venezuela, San Diego | Anti-RKN
-http://161.22.33.185:999#🇻🇪 Venezuela, Caracas | Anti-RKN
-socks4://200.8.235.10:4145#🇻🇪 Venezuela, La Guaira | Anti-RKN
-http://38.41.0.62:11201#🇻🇪 Venezuela, Caracas | Anti-RKN
+http://161.22.34.57:999#🇻🇪 Venezuela, Caracas | Anti-RKN
+http://190.94.213.244:999#🇻🇪 Venezuela, Caracas | Anti-RKN
+http://38.76.138.129:999#🇻🇪 Venezuela, Caracas | Anti-RKN
 http://200.8.121.121:8080#🇻🇪 Venezuela, Valencia | Anti-RKN
+socks4://200.8.235.10:4145#🇻🇪 Venezuela, La Guaira | Anti-RKN
+http://138.59.11.48:999#🇻🇪 Venezuela | Anti-RKN
+http://38.41.0.87:999#🇻🇪 Venezuela, Caracas | Anti-RKN
+socks4://200.8.121.121:8080#🇻🇪 Venezuela, Valencia | Anti-RKN
+socks5://200.8.121.121:8080#🇻🇪 Venezuela, Valencia | Anti-RKN

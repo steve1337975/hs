@@ -1,10 +1,10 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [DK] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 14:13:59
+# generated-at: 11/27/2026 20:01:08
 # servers-count: 11
 
 vless://35dc3ea6-2cdf-4f6e-95ea-ce786ac2947a@193.180.211.245:8443?type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=pbLP4dV9Nx4aHWf35QFadbjOCdP_klwS9fvKSszlr3Q&sid=926b123d&flow=xtls-rprx-vision#🇩🇰 Denmark, Nørre Åby | Anti-RKN

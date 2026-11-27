@@ -1,22 +1,17 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KH] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 14:13:59
-# servers-count: 13
+# generated-at: 11/27/2026 20:01:08
+# servers-count: 8
 
-socks5://202.62.50.52:1080#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
-socks5://124.248.177.43:1080#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
-socks5://203.189.135.105:1080#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
-socks5://110.235.240.223:1080#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
-socks5://203.189.153.170:1080#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
 socks5://110.235.248.81:1080#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
 socks5://110.235.252.74:1080#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
 socks5://110.235.246.62:1080#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
 socks5://202.79.27.12:1080#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
 socks5://202.79.26.242:1080#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
-socks4://36.37.203.215:4153#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
+socks4://203.189.136.174:1080#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
 socks4://96.9.88.130:4153#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
 http://110.235.248.81:1080#🇰🇭 Cambodia, Phnom Penh | Anti-RKN

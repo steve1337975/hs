@@ -1,15 +1,15 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [LT] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 14:13:59
+# generated-at: 11/27/2026 20:01:08
 # servers-count: 97
 
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@185.34.52.147:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇱🇹 Lithuania, Vilnius | Anti-RKN
 vless://a55c7536-980a-4d82-abd0-f14909f2489e@85.209.231.232:2083?type=xhttp&security=reality&fp=firefox&sni=cdndownloadlink.song69.fun&pbk=qRf5mE2QZ92-jCXpUSMcucyrOW0i4cw0ZMv3uNRIfhI&path=%2fcontent%2fv2%2fstatic#🇱🇹 Lithuania | Anti-RKN
 vless://c0742f77-5495-43bf-b007-88d368774d7c@88.119.176.64:443?type=tcp&security=reality&fp=firefox&sni=wwrtq.lerogrenta.shop&pbk=I_-Mb_q3_4-ZdzrzB6SKh-Zla1kKI4M_0OMjWDYXVxg&sid=13d8fbd7fd9e1ce8&flow=xtls-rprx-vision#🇱🇹 Lithuania, Vilnius | Anti-RKN
-vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@84.32.151.224:14443?type=tcp&security=reality&fp=firefox&sni=pixelated-cloud.ru&pbk=pHwqayxRtrx5S3Q502W5i977c6MgmptMutfYM9wLh3o&sid=64319a0f66794f56&flow=xtls-rprx-vision#🇱🇹 Lithuania, Šiauliai | Anti-RKN
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011#🇱🇹 Lithuania | Anti-RKN
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?type=tcp&security=reality&fp=firefox&sni=api-dns-gw.galioncc.com&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=a7d309e4c16b825f#🇱🇹 Lithuania, Šiauliai | Anti-RKN
 ss://YWVzLTI1Ni1jZmI6SkNKcGJSYlFaTnc5WEZaRw==@195.238.126.20:9078#🇱🇹 Lithuania | Anti-RKN
@@ -72,7 +72,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HsfCfh7kgTGl0aHVhbmlhLCDFoGlhdWxpYWkgfCBBbnRpLVJL
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsfCfh7kgTGl0aHVhbmlhIHwgQW50aS1SS04iLCJhZGQiOiI4OS4xMTYuMTgwLjIwOSIsInBvcnQiOiI0NDMiLCJpZCI6IjliMzhkMTUyLTZiMTItNGRlMC1hMjBkLTg3YThjOTAzNGNjNCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ6TE1pWEJZTkF3c1pxa3Btc2RyYmd0UFJoVFF1SWN2LnJveGlmYS5pciIsInBhdGgiOiJAUmFGYVYyQm90IiwidGxzIjoidGxzIiwic25pIjoiekxNaVhCWU5Bd3NacWtwbXNkcmJndFBSaFRRdUljdi5yb3hpZmEuaXIiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsfCfh7kgTGl0aHVhbmlhIHwgQW50aS1SS04iLCJhZGQiOiI4OS4xMTYuMTgwLjY5IiwicG9ydCI6Ijg0NDMiLCJpZCI6IjE5MWJhYmM1LTJhYWYtNGZlNS1hNTYzLWYxNDI0NGFlZmI0ZSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIveHJlbnZ3cyIsInRscyI6InRscyIsInNuaSI6ImxheDEuaWJnZncudG9wIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsfCfh7kgTGl0aHVhbmlhIHwgQW50aS1SS04iLCJhZGQiOiI4OS4xMTcuMTEyLjIzNSIsInBvcnQiOiI4NDQzIiwiaWQiOiJlODhiODVjNi05M2I0LTQ3ZjYtYjNmYi0yYzU1ZGNiMTI4OWYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2R5YWp2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsYXgyLmliZ2Z3LnRvcCIsImZwIjoiZmlyZWZveCJ9
-socks4://93.93.61.153:1080#🇱🇹 Lithuania, Vilnius | Anti-RKN
 https://89.124.11.13:443#🇱🇹 Lithuania | Anti-RKN
 https://89.124.11.10:443#🇱🇹 Lithuania | Anti-RKN
 https://89.124.11.11:443#🇱🇹 Lithuania | Anti-RKN
@@ -99,8 +98,9 @@ https://89.124.8.82:443#🇱🇹 Lithuania | Anti-RKN
 https://89.124.8.76:443#🇱🇹 Lithuania | Anti-RKN
 https://89.124.8.83:443#🇱🇹 Lithuania | Anti-RKN
 https://185.209.138.16:443#🇱🇹 Lithuania | Anti-RKN
-socks5://185.193.25.181:9050#🇱🇹 Lithuania | Anti-RKN
+socks4://81.7.112.174:4145#🇱🇹 Lithuania, Elektrėnai | Anti-RKN
 socks5://78.63.115.20:8899#🇱🇹 Lithuania, Vilnius | Anti-RKN
+socks5://185.193.25.206:9050#🇱🇹 Lithuania | Anti-RKN
 socks5://185.193.26.120:9050#🇱🇹 Lithuania | Anti-RKN
 http://84.55.46.85:8080#🇱🇹 Lithuania, Kaunas | Anti-RKN
 http://78.63.115.20:8899#🇱🇹 Lithuania, Vilnius | Anti-RKN

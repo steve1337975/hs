@@ -1,22 +1,21 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [MY] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 14:13:59
-# servers-count: 47
+# generated-at: 11/27/2026 20:01:08
+# servers-count: 67
 
-vless://d235ad20-8f30-441e-871e-ee2695e4c430@56.69.87.168:37998?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=j7lihAdLvNKWg67WMGQsRSM8WFbaUK5dAi7D2R7iXHM&sid=d5a01375&flow=xtls-rprx-vision#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-vless://d235ad20-8f30-441e-871e-ee2695e4c430@56.69.87.168:38105?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=y0p1yI8OoWqcOE4XEv7ueudaSOOc5UIb5yFyA3SstD8&sid=7e7e8c23&flow=xtls-rprx-vision#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+vless://d235ad20-8f30-441e-871e-ee2695e4c430@56.69.52.161:37998?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=j7lihAdLvNKWg67WMGQsRSM8WFbaUK5dAi7D2R7iXHM&sid=d5a01375&flow=xtls-rprx-vision#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+vless://d235ad20-8f30-441e-871e-ee2695e4c430@56.69.52.161:38105?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=y0p1yI8OoWqcOE4XEv7ueudaSOOc5UIb5yFyA3SstD8&sid=7e7e8c23&flow=xtls-rprx-vision#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@216.173.67.217:80?type=ws#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@216.173.67.217:80?type=ws&host=platform128.halalkhor.info#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-vless://d235ad20-8f30-441e-871e-ee2695e4c430@56.69.87.168:38101?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=j7lihAdLvNKWg67WMGQsRSM8WFbaUK5dAi7D2R7iXHM&sid=d5a01375&flow=xtls-rprx-vision#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 trojan://humanity@76.13.188.13:8443?security=tls&fp=firefox#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&fp=firefox#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&fp=firefox&sni=47.250.84.25#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://56.68.116.64:45270#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&fp=firefox&sni=moltbot.doctoroyy.net#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&fp=firefox#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://43.216.197.62:34340#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh74gTWFsYXlzaWEsIEt1YWxhIEx1bXB1ciB8IEFudGktUktOIiwiYWRkIjoiNDcuMjUwLjEzNS4yNDQiLCJwb3J0IjoiMTAwMDAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsInNjeSI6ImF1dG8ifQ==
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@202.43.102.57:443?security=tls&fp=firefox&sni=45.32.28.232#🇲🇾 Malaysia | Anti-RKN
@@ -43,14 +42,35 @@ socks5://47.250.177.202:80#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://47.250.159.65:161#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://47.250.159.65:9000#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://47.250.51.110:4145#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks5://47.250.11.111:69#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks5://47.250.11.111:1081#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks5://47.250.11.111:13#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks5://47.250.11.111:9080#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks5://47.250.11.111:161#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+http://111.90.143.197:60808#🇲🇾 Malaysia | Anti-RKN
+http://47.250.11.111:81#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.51.110:6379#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.51.110:808#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+http://47.250.11.111:808#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.51.110:4145#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.51.110:80#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.51.110:1081#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.159.65:8008#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.159.65:8181#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.159.65:59394#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.159.65:4145#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.159.65:41#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.159.65:800#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.159.65:8443#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.159.65:1080#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.159.65:60000#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks4://60.54.19.46:1080#🇲🇾 Malaysia, Petaling Jaya | Anti-RKN
 socks5://47.250.11.111:8081#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 socks5://47.250.11.111:8181#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://47.250.11.111:8081#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://47.250.11.111:8181#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://47.250.177.202:80#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks4://47.250.177.202:199#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.159.65:2002#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.159.65:801#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.51.110:8008#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.51.110:1234#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.51.110:3128#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.51.110:9080#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.51.110:13#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.51.110:9091#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks5://47.250.51.110:10#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN

@@ -1,10 +1,10 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [LU] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 14:13:59
+# generated-at: 11/27/2026 20:01:08
 # servers-count: 30
 
 vless://0c96aeeb-b691-48c9-91e2-8b5de4b29e01@92.223.84.254:443?encryption=mlkem768x25519plus.native.0rtt.ikrygnty5rd9tkgz209s8gbevg-ath6tj4jupxpmimg&type=ws&security=tls&fp=firefox&host=subgift2.gcorecdn.com&sni=subgift2.gcorecdn.com#🇱🇺 Luxembourg | Anti-RKN

@@ -1,53 +1,32 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [ID] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 14:13:59
-# servers-count: 201
+# generated-at: 11/27/2026 20:01:08
+# servers-count: 199
 
-http://103.179.218.14:8080#🇮🇩 Indonesia | Anti-RKN
-http://103.97.198.2:8080#🇮🇩 Indonesia | Anti-RKN
-http://103.176.97.208:8082#🇮🇩 Indonesia | Anti-RKN
-http://103.36.11.1:8181#🇮🇩 Indonesia, Surabaya | Anti-RKN
+https://65.49.68.30:443#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://103.146.185.139:1111#🇮🇩 Indonesia | Anti-RKN
 http://103.163.80.181:8085#🇮🇩 Indonesia | Anti-RKN
-http://103.106.112.166:1234#🇮🇩 Indonesia | Anti-RKN
-http://103.178.3.191:8818#🇮🇩 Indonesia | Anti-RKN
-http://103.193.145.87:1111#🇮🇩 Indonesia, Batam | Anti-RKN
-http://210.87.92.185:8080#🇮🇩 Indonesia | Anti-RKN
-http://160.191.180.149:8090#🇮🇩 Indonesia | Anti-RKN
+http://103.184.98.33:8080#🇮🇩 Indonesia | Anti-RKN
+http://210.79.140.183:8181#🇮🇩 Indonesia, Gianyar | Anti-RKN
+http://103.162.16.224:8080#🇮🇩 Indonesia | Anti-RKN
 socks5://gebHTLF6:APJ7RmY9@202.155.99.212:62000#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://165.101.42.97:8080#🇮🇩 Indonesia | Anti-RKN
-http://103.84.210.30:8080#🇮🇩 Indonesia | Anti-RKN
-http://165.99.192.27:1111#🇮🇩 Indonesia | Anti-RKN
-http://27.123.222.193:8080#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://103.156.16.237:8090#🇮🇩 Indonesia | Anti-RKN
-http://103.231.236.236:8182#🇮🇩 Indonesia | Anti-RKN
-http://103.176.97.226:8082#🇮🇩 Indonesia | Anti-RKN
-http://202.47.67.192:8080#🇮🇩 Indonesia, Tangerang | Anti-RKN
-http://103.139.126.85:8080#🇮🇩 Indonesia, Indramayu | Anti-RKN
-http://103.149.239.42:8080#🇮🇩 Indonesia, Mojokerto | Anti-RKN
-http://103.255.109.166:8082#🇮🇩 Indonesia, Sidoarjo | Anti-RKN
-http://103.154.224.227:8080#🇮🇩 Indonesia | Anti-RKN
-http://103.156.15.105:1111#🇮🇩 Indonesia | Anti-RKN
-http://103.208.103.34:8080#🇮🇩 Indonesia | Anti-RKN
-http://103.156.75.36:8181#🇮🇩 Indonesia | Anti-RKN
-http://103.177.8.133:1111#🇮🇩 Indonesia | Anti-RKN
-http://103.132.54.18:8080#🇮🇩 Indonesia | Anti-RKN
-http://103.167.156.22:1080#🇮🇩 Indonesia, Pemalang | Anti-RKN
-http://160.19.146.82:2022#🇮🇩 Indonesia, Tasikmalaya | Anti-RKN
-http://103.90.67.44:8087#🇮🇩 Indonesia | Anti-RKN
+http://103.188.169.95:8080#🇮🇩 Indonesia | Anti-RKN
+http://103.1.50.72:3125#🇮🇩 Indonesia | Anti-RKN
+socks5://103.158.96.75:1080#🇮🇩 Indonesia | Anti-RKN
+http://103.132.52.20:8080#🇮🇩 Indonesia | Anti-RKN
+http://103.187.86.34:8182#🇮🇩 Indonesia, Pinrang | Anti-RKN
+http://103.166.9.194:8888#🇮🇩 Indonesia, Bekasi | Anti-RKN
+http://175.111.96.157:3128#🇮🇩 Indonesia | Anti-RKN
+socks5://203.83.43.120:1080#🇮🇩 Indonesia, Medan | Anti-RKN
 http://103.166.33.88:8088#🇮🇩 Indonesia | Anti-RKN
-http://103.166.255.170:8080#🇮🇩 Indonesia | Anti-RKN
-http://103.147.134.99:8082#🇮🇩 Indonesia | Anti-RKN
-http://103.153.247.74:8080#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks5://9.154.253.201:1080#🇮🇩 Indonesia | Anti-RKN
-http://103.131.18.198:8080#🇮🇩 Indonesia | Anti-RKN
-http://103.146.38.113:1111#🇮🇩 Indonesia, Karawang | Anti-RKN
-http://160.19.176.39:8181#🇮🇩 Indonesia, Pandaan | Anti-RKN
-http://103.147.135.34:8082#🇮🇩 Indonesia | Anti-RKN
-http://103.101.216.70:8080#🇮🇩 Indonesia, Sungaibamban | Anti-RKN
+http://103.158.252.79:8080#🇮🇩 Indonesia, Brebes Regency | Anti-RKN
+http://182.253.25.184:9091#🇮🇩 Indonesia, West Jakarta | Anti-RKN
+http://103.227.187.217:6080#🇮🇩 Indonesia | Anti-RKN
+http://103.69.106.78:8181#🇮🇩 Indonesia, Serang | Anti-RKN
 trojan://idc117okt@103.226.139.201:443?security=tls&fp=firefox#🇮🇩 Indonesia | Anti-RKN
 vless://1d08ca28-9c86-43c6-9eff-7d3c13df06a8@43.157.197.183:443?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=O_f5yv1Cb3_4Rk2MKYpjnpCEyPNY4_GPUTJYi9usUzc&sid=b6343f999147d133&flow=xtls-rprx-vision#🇮🇩 Indonesia, Jakarta | Anti-RKN
 vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?type=ws&security=tls&fp=firefox&host=ccc.010304.xyz&sni=ccc.010304.xyz#🇮🇩 Indonesia, Jakarta | Anti-RKN
@@ -55,13 +34,17 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6kgSW5kb25lc2lhLCBKYWthcnRhIHwgQW50aS1SS04i
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6kgSW5kb25lc2lhLCBKYWthcnRhIHwgQW50aS1SS04iLCJhZGQiOiI0My4xNzMuMTkuMjEiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzEiLCJuZXQiOiJ3cyIsImhvc3QiOiJhaW8udW5saW1pdGVkLmJpei5pZCIsInBhdGgiOiIvYWlvcHJveHlib3QvMTI5LjE1MC40OS41OC0xODY1MCIsInRscyI6InRscyIsInNuaSI6ImFpby51bmxpbWl0ZWQuYml6LmlkIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6kgSW5kb25lc2lhLCBKYWthcnRhIHwgQW50aS1SS04iLCJhZGQiOiI0My4xNzMuMTkuMjEiLCJwb3J0IjoiNDQzIiwiaWQiOiIzMzkzY2M5ZS03NDk4LTQ5NDItOWJjNC1jNmRhNzMwODBmZDkiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZGlzY29yZC5jb20iLCJwYXRoIjoiL3ZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiZGlzY29yZC5jb20iLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6kgSW5kb25lc2lhLCBKYWthcnRhIHwgQW50aS1SS04iLCJhZGQiOiI0My4xNzMuMTkuMjEiLCJwb3J0IjoiODAiLCJpZCI6IjMzOTNjYzllLTc0OTgtNDk0Mi05YmM0LWM2ZGE3MzA4MGZkOSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJkaXNjb3JkLmNvbSIsInBhdGgiOiIvdm1lc3MifQ==
-socks5://103.82.246.255:1080#🇮🇩 Indonesia | Anti-RKN
-socks4://103.157.116.179:10810#🇮🇩 Indonesia, Probolinggo | Anti-RKN
+socks5://103.236.190.197:1080#🇮🇩 Indonesia, Tangerang | Anti-RKN
+socks4://36.95.189.165:5678#🇮🇩 Indonesia, Bekasi | Anti-RKN
 socks4://103.26.209.206:1080#🇮🇩 Indonesia, North Jakarta | Anti-RKN
-socks4://36.95.245.81:5678#🇮🇩 Indonesia, Kota Serang | Anti-RKN
-socks4://103.160.205.244:8080#🇮🇩 Indonesia | Anti-RKN
+socks4://103.88.204.70:1080#🇮🇩 Indonesia, Cimahi | Anti-RKN
+socks4://115.85.86.114:5678#🇮🇩 Indonesia, West Jakarta | Anti-RKN
+socks4://103.146.185.171:1083#🇮🇩 Indonesia | Anti-RKN
 socks4://182.253.144.20:4153#🇮🇩 Indonesia, Bandung | Anti-RKN
+socks4://202.146.230.102:1080#🇮🇩 Indonesia, Surabaya | Anti-RKN
+socks4://103.105.79.18:1080#🇮🇩 Indonesia, Bekasi | Anti-RKN
 socks4://119.18.156.245:1080#🇮🇩 Indonesia, Bogor | Anti-RKN
+socks4://103.43.128.123:5678#🇮🇩 Indonesia, Jakarta | Anti-RKN
 https://103.86.117.202:443#🇮🇩 Indonesia, Lenteng | Anti-RKN
 https://116.254.118.180:443#🇮🇩 Indonesia, Semarang | Anti-RKN
 https://103.86.116.118:443#🇮🇩 Indonesia, Lenteng | Anti-RKN
@@ -71,140 +54,155 @@ https://103.24.13.33:443#🇮🇩 Indonesia | Anti-RKN
 https://108.137.124.195:50963#🇮🇩 Indonesia, Jakarta | Anti-RKN
 https://108.137.124.195:331#🇮🇩 Indonesia, Jakarta | Anti-RKN
 https://15.232.45.244:4308#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://103.126.86.130:8080#🇮🇩 Indonesia | Anti-RKN
-http://157.20.121.131:3128#🇮🇩 Indonesia, South Jakarta | Anti-RKN
+http://103.245.16.133:8080#🇮🇩 Indonesia, Bekasi | Anti-RKN
 http://103.65.237.92:5678#🇮🇩 Indonesia | Anti-RKN
-http://103.151.20.131:80#🇮🇩 Indonesia | Anti-RKN
-http://202.136.82.119:8080#🇮🇩 Indonesia | Anti-RKN
-socks4://103.25.167.177:4153#🇮🇩 Indonesia | Anti-RKN
-socks4://45.198.8.102:1080#🇮🇩 Indonesia | Anti-RKN
+socks5://103.158.96.33:1080#🇮🇩 Indonesia | Anti-RKN
 socks4://119.18.156.243:1080#🇮🇩 Indonesia, Bogor | Anti-RKN
-http://36.92.199.158:8080#🇮🇩 Indonesia, Bekasi | Anti-RKN
 socks4://8.215.15.163:81#🇮🇩 Indonesia, Jakarta | Anti-RKN
 http://8.215.15.163:8118#🇮🇩 Indonesia, Jakarta | Anti-RKN
 socks4://8.215.15.163:1081#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://101.255.105.222:8080#🇮🇩 Indonesia, West Jakarta | Anti-RKN
-http://103.193.144.13:8080#🇮🇩 Indonesia, Batam | Anti-RKN
 socks5://103.158.97.243:1080#🇮🇩 Indonesia | Anti-RKN
+http://118.136.142.110:8080#🇮🇩 Indonesia, North Jakarta | Anti-RKN
 socks4://149.129.226.9:1081#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://45.198.10.41:9191#🇮🇩 Indonesia | Anti-RKN
-socks5://103.158.96.34:1080#🇮🇩 Indonesia | Anti-RKN
+socks5://103.158.96.36:1080#🇮🇩 Indonesia | Anti-RKN
+http://103.208.103.41:80#🇮🇩 Indonesia | Anti-RKN
 socks4://149.129.226.9:81#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://154.19.38.195:1111#🇮🇩 Indonesia, Tangerang | Anti-RKN
-http://160.19.16.148:8181#🇮🇩 Indonesia, Tanjungbalai | Anti-RKN
-socks5://103.174.122.197:8199#🇮🇩 Indonesia, Sumedang | Anti-RKN
 socks5://103.191.218.119:69#🇮🇩 Indonesia, Kuningan | Anti-RKN
+socks5://103.52.114.199:1080#🇮🇩 Indonesia | Anti-RKN
+socks5://31.56.78.41:1080#🇮🇩 Indonesia, Jakarta | Anti-RKN
 socks5://149.129.226.9:3129#🇮🇩 Indonesia, Jakarta | Anti-RKN
 socks5://103.119.237.60:1080#🇮🇩 Indonesia, South Jakarta | Anti-RKN
 socks5://149.129.255.179:6588#🇮🇩 Indonesia, Jakarta | Anti-RKN
 socks5://103.158.96.38:1080#🇮🇩 Indonesia | Anti-RKN
-socks5://103.31.235.211:69#🇮🇩 Indonesia | Anti-RKN
-http://210.87.124.36:1111#🇮🇩 Indonesia | Anti-RKN
-http://103.160.69.161:8080#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://103.175.236.180:8382#🇮🇩 Indonesia | Anti-RKN
-http://103.173.162.237:8818#🇮🇩 Indonesia | Anti-RKN
-http://45.198.10.131:9191#🇮🇩 Indonesia | Anti-RKN
-http://103.139.126.211:8080#🇮🇩 Indonesia, Indramayu | Anti-RKN
-http://157.66.16.63:8181#🇮🇩 Indonesia, Indramayu | Anti-RKN
-http://103.152.140.182:8090#🇮🇩 Indonesia | Anti-RKN
-http://157.66.37.52:8080#🇮🇩 Indonesia, South Lampung Regency | Anti-RKN
-http://103.81.195.150:3125#🇮🇩 Indonesia | Anti-RKN
-http://103.157.58.49:8080#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://103.8.59.12:8080#🇮🇩 Indonesia | Anti-RKN
-http://202.51.196.230:8080#🇮🇩 Indonesia, Bogor | Anti-RKN
-http://103.195.65.170:80#🇮🇩 Indonesia, Purbalingga Regency | Anti-RKN
-http://103.126.86.91:1212#🇮🇩 Indonesia | Anti-RKN
-http://110.76.147.31:8080#🇮🇩 Indonesia | Anti-RKN
-http://43.250.182.250:8080#🇮🇩 Indonesia | Anti-RKN
-http://163.227.252.3:8080#🇮🇩 Indonesia | Anti-RKN
-http://103.169.133.118:8080#🇮🇩 Indonesia | Anti-RKN
-http://103.166.213.249:8080#🇮🇩 Indonesia | Anti-RKN
-http://160.22.197.123:3125#🇮🇩 Indonesia | Anti-RKN
-http://103.152.148.7:8080#🇮🇩 Indonesia, South Jakarta | Anti-RKN
-http://103.159.195.221:8080#🇮🇩 Indonesia | Anti-RKN
+socks5://45.198.20.252:1080#🇮🇩 Indonesia | Anti-RKN
+http://103.66.62.187:8080#🇮🇩 Indonesia | Anti-RKN
+http://103.145.176.162:8080#🇮🇩 Indonesia | Anti-RKN
+http://45.198.11.183:9191#🇮🇩 Indonesia | Anti-RKN
+http://160.25.196.30:8090#🇮🇩 Indonesia, Bojonegoro | Anti-RKN
+http://103.191.196.211:8080#🇮🇩 Indonesia | Anti-RKN
+http://154.18.255.115:1111#🇮🇩 Indonesia, Karawang | Anti-RKN
+http://103.176.97.57:8082#🇮🇩 Indonesia | Anti-RKN
+http://103.78.98.74:8888#🇮🇩 Indonesia | Anti-RKN
+http://163.128.137.235:8080#🇮🇩 Indonesia | Anti-RKN
+http://103.160.205.86:8080#🇮🇩 Indonesia | Anti-RKN
+http://103.61.226.182:8080#🇮🇩 Indonesia | Anti-RKN
+http://157.66.16.38:8070#🇮🇩 Indonesia, Indramayu | Anti-RKN
+http://103.167.23.139:8080#🇮🇩 Indonesia, Central Jakarta | Anti-RKN
+http://103.169.72.231:57413#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://103.248.8.47:8080#🇮🇩 Indonesia, Garut | Anti-RKN
+http://103.139.99.246:8080#🇮🇩 Indonesia, Bandar Lampung | Anti-RKN
+http://157.15.1.190:8080#🇮🇩 Indonesia, Ngawi | Anti-RKN
+http://160.22.205.66:1080#🇮🇩 Indonesia | Anti-RKN
+http://202.47.188.205:1111#🇮🇩 Indonesia | Anti-RKN
 http://149.129.255.179:9050#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://34.101.229.7:80#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://103.172.42.125:1111#🇮🇩 Indonesia | Anti-RKN
+http://103.158.96.33:1080#🇮🇩 Indonesia | Anti-RKN
 http://8.215.3.250:1081#🇮🇩 Indonesia, Jakarta | Anti-RKN
 http://160.250.226.94:1081#🇮🇩 Indonesia, Cirebon | Anti-RKN
-http://103.75.85.203:1080#🇮🇩 Indonesia | Anti-RKN
 http://149.129.255.179:51#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://103.1.51.97:3125#🇮🇩 Indonesia | Anti-RKN
 http://8.215.12.103:8002#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://157.15.145.254:1111#🇮🇩 Indonesia, Cilacap | Anti-RKN
-http://157.15.63.48:8080#🇮🇩 Indonesia, Malang | Anti-RKN
-http://165.101.43.43:8080#🇮🇩 Indonesia | Anti-RKN
 http://103.119.237.60:1080#🇮🇩 Indonesia, South Jakarta | Anti-RKN
+http://103.102.142.98:4145#🇮🇩 Indonesia | Anti-RKN
+http://103.179.253.43:8181#🇮🇩 Indonesia | Anti-RKN
+http://202.154.19.7:8080#🇮🇩 Indonesia | Anti-RKN
 http://103.156.17.83:8080#🇮🇩 Indonesia | Anti-RKN
 http://103.172.70.153:8080#🇮🇩 Indonesia, Surakarta | Anti-RKN
-http://110.232.78.195:8080#🇮🇩 Indonesia | Anti-RKN
-http://43.229.254.221:8181#🇮🇩 Indonesia | Anti-RKN
-http://103.172.42.115:1111#🇮🇩 Indonesia | Anti-RKN
-http://103.183.8.243:8080#🇮🇩 Indonesia | Anti-RKN
-http://160.19.19.93:3125#🇮🇩 Indonesia, Bandung | Anti-RKN
-socks4://119.18.156.242:1080#🇮🇩 Indonesia, Bogor | Anti-RKN
-socks4://103.23.100.9:1080#🇮🇩 Indonesia | Anti-RKN
-http://8.215.3.250:119#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://8.215.3.250:4002#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://36.67.194.162:8042#🇮🇩 Indonesia, North Jakarta | Anti-RKN
-socks4://49.0.26.31:1080#🇮🇩 Indonesia | Anti-RKN
-socks5://gebHTLF6:APJ7RmY9@202.155.99.32:62000#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks5://9tcjLp2W:RRWtX6XP@203.84.138.59:62000#🇮🇩 Indonesia | Anti-RKN
-socks4://103.153.247.74:12#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks4://103.167.156.88:1080#🇮🇩 Indonesia, Pemalang | Anti-RKN
-socks4://103.86.116.193:1080#🇮🇩 Indonesia, Lenteng | Anti-RKN
-http://160.19.146.227:2022#🇮🇩 Indonesia, Tasikmalaya | Anti-RKN
-http://103.187.86.10:8080#🇮🇩 Indonesia, Pinrang | Anti-RKN
-http://165.99.30.34:7777#🇮🇩 Indonesia | Anti-RKN
-socks4://103.79.96.205:4153#🇮🇩 Indonesia | Anti-RKN
-http://103.131.19.42:8181#🇮🇩 Indonesia, Batang | Anti-RKN
-http://160.19.146.76:2022#🇮🇩 Indonesia, Tasikmalaya | Anti-RKN
-http://49.213.59.106:8082#🇮🇩 Indonesia | Anti-RKN
-http://103.189.197.29:3125#🇮🇩 Indonesia | Anti-RKN
-http://115.178.53.114:8080#🇮🇩 Indonesia | Anti-RKN
-http://103.171.240.150:8090#🇮🇩 Indonesia | Anti-RKN
-socks4://117.102.115.158:4153#🇮🇩 Indonesia, South Tangerang | Anti-RKN
-socks4://157.10.97.83:2021#🇮🇩 Indonesia, Palembang | Anti-RKN
-socks4://103.140.35.11:4145#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks4://117.102.115.156:4153#🇮🇩 Indonesia, South Tangerang | Anti-RKN
-socks4://103.177.20.27:1080#🇮🇩 Indonesia | Anti-RKN
-socks4://103.51.44.73:4145#🇮🇩 Indonesia | Anti-RKN
+http://36.94.27.65:8080#🇮🇩 Indonesia, Bandung | Anti-RKN
+http://202.58.77.195:8080#🇮🇩 Indonesia, Blitar | Anti-RKN
+http://210.79.140.156:8181#🇮🇩 Indonesia, Gianyar | Anti-RKN
+http://160.25.174.37:8181#🇮🇩 Indonesia | Anti-RKN
+http://103.131.19.51:8080#🇮🇩 Indonesia | Anti-RKN
+http://149.129.255.179:9091#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://149.129.255.179:8082#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://103.164.212.125:8080#🇮🇩 Indonesia, East Jakarta | Anti-RKN
+socks5://149.129.255.179:8081#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://149.129.255.179:7890#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://149.129.255.179:8082#🇮🇩 Indonesia, Jakarta | Anti-RKN
 socks4://160.250.226.94:1081#🇮🇩 Indonesia, Cirebon | Anti-RKN
-http://103.246.3.202:4153#🇮🇩 Indonesia | Anti-RKN
+socks5://149.129.255.179:9098#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://149.129.255.179:18080#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://149.129.255.179:8080#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://149.129.255.179:8060#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://149.129.255.179:80#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://149.129.255.179:9090#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://149.129.255.179:5060#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://8.215.12.103:2012#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://8.215.12.103:8003#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.12.103:9080#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://8.215.12.103:8888#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.12.103:82#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.12.103:144#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://8.215.3.250:8008#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://103.133.25.247:8080#🇮🇩 Indonesia, Bekasi | Anti-RKN
+http://8.215.3.250:9797#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://8.215.3.250:8123#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://36.92.61.75:8080#🇮🇩 Indonesia, Central Jakarta | Anti-RKN
+socks4://49.0.26.31:1080#🇮🇩 Indonesia | Anti-RKN
+socks4://157.10.97.83:2021#🇮🇩 Indonesia, Palembang | Anti-RKN
+socks4://36.64.238.83:1080#🇮🇩 Indonesia, West Bandung Regency | Anti-RKN
+socks5://gebHTLF6:APJ7RmY9@202.155.99.32:62000#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks4://103.79.96.202:4153#🇮🇩 Indonesia | Anti-RKN
+socks4://202.154.19.16:1080#🇮🇩 Indonesia | Anti-RKN
+socks5://9tcjLp2W:RRWtX6XP@203.84.138.59:62000#🇮🇩 Indonesia | Anti-RKN
+http://103.176.97.108:3128#🇮🇩 Indonesia | Anti-RKN
+http://49.213.59.106:8082#🇮🇩 Indonesia | Anti-RKN
+http://103.44.19.220:3127#🇮🇩 Indonesia, Sidoarjo | Anti-RKN
+socks4://210.79.141.226:2081#🇮🇩 Indonesia | Anti-RKN
+http://103.97.141.85:8080#🇮🇩 Indonesia | Anti-RKN
+http://110.76.147.22:3128#🇮🇩 Indonesia | Anti-RKN
+http://103.68.215.57:8181#🇮🇩 Indonesia | Anti-RKN
+http://160.22.45.6:8080#🇮🇩 Indonesia | Anti-RKN
+socks4://36.64.238.82:1080#🇮🇩 Indonesia, West Bandung Regency | Anti-RKN
+socks4://103.167.156.88:1080#🇮🇩 Indonesia, Pemalang | Anti-RKN
+socks4://119.18.156.242:1080#🇮🇩 Indonesia, Bogor | Anti-RKN
 http://101.255.166.134:80#🇮🇩 Indonesia, Bekasi | Anti-RKN
-http://36.95.245.81:5678#🇮🇩 Indonesia, Kota Serang | Anti-RKN
-http://163.227.146.38:8080#🇮🇩 Indonesia | Anti-RKN
-http://165.99.56.50:3125#🇮🇩 Indonesia, East Lampung Regency | Anti-RKN
-http://36.50.56.237:8080#🇮🇩 Indonesia, Bekasi | Anti-RKN
-http://103.156.248.247:8080#🇮🇩 Indonesia, Kota Batam | Anti-RKN
-http://103.158.96.34:1080#🇮🇩 Indonesia | Anti-RKN
-http://103.191.218.119:69#🇮🇩 Indonesia, Kuningan | Anti-RKN
+http://103.123.249.15:5678#🇮🇩 Indonesia | Anti-RKN
+http://45.126.250.34:8080#🇮🇩 Indonesia | Anti-RKN
+http://160.19.146.227:2022#🇮🇩 Indonesia, Tasikmalaya | Anti-RKN
+http://103.189.138.254:8080#🇮🇩 Indonesia, Bandung | Anti-RKN
+http://43.252.106.175:3125#🇮🇩 Indonesia | Anti-RKN
+http://103.158.97.243:1080#🇮🇩 Indonesia | Anti-RKN
 http://149.129.226.9:3129#🇮🇩 Indonesia, Jakarta | Anti-RKN
 http://8.215.15.163:104#🇮🇩 Indonesia, Jakarta | Anti-RKN
 http://119.18.156.242:1080#🇮🇩 Indonesia, Bogor | Anti-RKN
-http://103.23.100.9:1080#🇮🇩 Indonesia | Anti-RKN
+http://103.158.96.82:1080#🇮🇩 Indonesia | Anti-RKN
 socks4://103.65.237.92:5678#🇮🇩 Indonesia | Anti-RKN
 socks4://149.129.255.179:9050#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks4://103.158.96.33:1080#🇮🇩 Indonesia | Anti-RKN
 socks4://149.129.255.179:51#🇮🇩 Indonesia, Jakarta | Anti-RKN
 socks4://8.215.12.103:8002#🇮🇩 Indonesia, Jakarta | Anti-RKN
 socks4://103.119.237.60:1080#🇮🇩 Indonesia, South Jakarta | Anti-RKN
+socks4://103.102.142.98:4145#🇮🇩 Indonesia | Anti-RKN
 socks5://103.65.237.92:5678#🇮🇩 Indonesia | Anti-RKN
 socks5://149.129.255.179:9050#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://103.158.96.82:1080#🇮🇩 Indonesia | Anti-RKN
 socks5://160.250.226.94:1081#🇮🇩 Indonesia, Cirebon | Anti-RKN
 socks5://149.129.255.179:51#🇮🇩 Indonesia, Jakarta | Anti-RKN
 socks5://8.215.12.103:8002#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks4://101.255.166.134:80#🇮🇩 Indonesia, Bekasi | Anti-RKN
+socks5://103.102.142.98:4145#🇮🇩 Indonesia | Anti-RKN
+socks5://103.179.253.43:8181#🇮🇩 Indonesia | Anti-RKN
 https://103.156.17.83:8080#🇮🇩 Indonesia | Anti-RKN
-http://8.215.3.250:3128#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks4://192.232.49.144:1080#🇮🇩 Indonesia, Pringsewu | Anti-RKN
-http://8.215.12.103:8080#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks5://149.129.226.9:9160#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks5://149.129.226.9:80#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks5://149.129.226.9:4145#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks5://149.129.226.9:41#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks5://149.129.226.9:111#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks5://149.129.226.9:9098#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks5://149.129.226.9:1337#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks5://149.129.226.9:5060#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks5://149.129.226.9:93#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks5://149.129.226.9:69#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks5://149.129.226.9:9988#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://8.215.15.163:111#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.3.250:9999#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.3.250:87#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.3.250:9080#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.3.250:3129#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.3.250:6379#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.3.250:443#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.3.250:8008#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.3.250:5060#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.12.103:8085#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.12.103:8447#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.12.103:808#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.12.103:202#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.12.103:6379#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.12.103:80#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.12.103:8448#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.12.103:8001#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.12.103:8091#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks5://8.215.12.103:8080#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://103.173.142.250:3125#🇮🇩 Indonesia | Anti-RKN
+socks5://8.215.15.163:9999#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://8.215.3.250:443#🇮🇩 Indonesia, Jakarta | Anti-RKN
+http://110.232.92.49:8080#🇮🇩 Indonesia | Anti-RKN
+http://8.215.15.163:80#🇮🇩 Indonesia, Jakarta | Anti-RKN

@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SI] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 14:13:59
-# servers-count: 16
+# generated-at: 11/27/2026 20:01:08
+# servers-count: 15
 
 trojan://Aimer@92.53.190.161:2087?security=tls&fp=firefox&sni=epccf.ambercc.filegear-sg.me#🇸🇮 Slovenia | Anti-RKN
 trojan://NISHIKUITAN111@92.53.190.218:443?type=ws&security=tls&fp=firefox&sni=za.ylks.xyz&host=za.ylks.xyz#🇸🇮 Slovenia | Anti-RKN
@@ -21,5 +21,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh64gU2xvdmVuaWEgfCBBbnRpLVJLTiIsImFkZCI6Ijky
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh64gU2xvdmVuaWEgfCBBbnRpLVJLTiIsImFkZCI6IjkyLjUzLjE5MS4yMDkiLCJwb3J0IjoiODg4MCIsImlkIjoiNmY5NjQ5NGMtYmRhZi0zMDkxLWJmN2ItMjljZmU5Mjg4MmI2Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6IlRHLldhbmdDYWkyLnM0LmRiLWxpbmswMi50b3AiLCJwYXRoIjoiL2RhYmFpIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh64gU2xvdmVuaWEgfCBBbnRpLVJLTiIsImFkZCI6IjkyLjUzLjE5MS41NiIsInBvcnQiOiI4NDQzIiwiaWQiOiI4MjQxZGRjOC1iNWM1LTQ3NzgtOTYzNS0zMzE3MDBjNmZmNDgiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiamsueWxrYS51cy5rZyIsInRscyI6InRscyIsInNuaSI6ImprLnlsa2EudXMua2ciLCJmcCI6ImZpcmVmb3gifQ==
 https://193.77.81.97:443#🇸🇮 Slovenia, Ljubljana | Anti-RKN
-http://109.127.199.79:9999#🇸🇮 Slovenia, Ljubljana | Anti-RKN
-vless://50414e45-4c5f-5a45-5553-ccc0e8cd3a83@92.53.190.167:443?type=ws&security=tls&fp=firefox&host=fgzb39ezu86s.ycz7syeeu3is.workers.dev&sni=fgzb39ezu86s.ycz7syeeu3is.workers.dev&path=%2fstream%2fPANEL_ZEUS%2fccc0e8cd3a83fp%3dunsafe#🇸🇮 Slovenia | Anti-RKN
+http://109.127.199.93:9999#🇸🇮 Slovenia, Ljubljana | Anti-RKN

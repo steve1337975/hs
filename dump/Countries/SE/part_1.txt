@@ -1,69 +1,59 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SE] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:52:23
-# servers-count: 173
+# generated-at: 11/27/2026 14:13:59
+# servers-count: 163
 
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@62.182.198.85:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://2098ca45-e61c-0021-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&fp=firefox&sni=se-sto1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=%2fvless#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&path=%2fvless#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@185.153.180.9:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://042d2d08-2973-5d10-97ad-3b75f16bbe54@212.147.245.198:443?type=tcp&security=reality&fp=firefox&sni=online.1c.ru&pbk=xwLNHc6jBOg5Ddr1LezwY7I45nP485Qfu1YJXMKwVnI&sid=330a464a00000000&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:10444?type=tcp&security=reality&fp=firefox&sni=video.yandex.ru&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:10444?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=video.yandex.ru&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://ee0a6b97-4dc1-0008-8b16-95a42c917158@88.216.72.171:443?type=tcp&security=reality&fp=firefox&sni=se-sto1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://eb83b44c-ad8c-4658-9923-313e59bb4d5e@143.246.199.64:443?type=tcp&security=tls&fp=firefox&sni=sw6.yndx-game.com&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://95580a09-cce7-4b62-af74-a514083ba9e4@31.77.144.255:8444?type=xhttp&security=reality&fp=firefox&sni=www.amd.com&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820&path=%2fxh#🇸🇪 Sweden, Stockholm | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU3dlZGVuLCBTdG9ja2hvbG0gfCBBbnRpLVJLTiIsImFkZCI6IjYyLjkzLjE2Ni4xODQiLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1Iiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOiJmaXJlZm94In0=
-vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@84.32.217.173:14443?type=tcp&security=reality&fp=firefox&sni=sw.sometraffic.org&pbk=bDusKhZi2NCA08GISCdWKvfuvFE8iGLlhCyoSFzh_lI&sid=5e6ab3ab238625&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@201.58.177.48:443?type=xhttp&security=reality&fp=firefox&sni=se-1.telecomconnect.org&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@62.182.198.85:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://240cb330-efc6-4d06-b5de-eb5fa8c7cc47@143.246.195.83:8448?type=tcp&security=reality&fp=firefox&sni=www.tele2.se&pbk=ipT42Jd5c_HMbbi-x0Qt12BGl2lGfJuZ5Im87DMfNGI&sid=497b9fa9b6050f45&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://639b131f-d0f3-460c-aa17-423047f8a5df@213.21.252.56:443?type=tcp&security=reality&fp=firefox&sni=stock2.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://eb83b44c-ad8c-4658-9923-313e59bb4d5e@143.246.199.2:443?type=tcp&security=tls&fp=firefox&sni=sw6.yndx-game.com&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@84.32.217.173:14443?type=tcp&security=reality&fp=firefox&sni=sw.sometraffic.org&pbk=bDusKhZi2NCA08GISCdWKvfuvFE8iGLlhCyoSFzh_lI&sid=5e6ab3ab238625&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://95580a09-cce7-4b62-af74-a514083ba9e4@31.77.144.255:8444?type=xhttp&security=reality&fp=firefox&sni=www.amd.com&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820&path=%2fxh#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://2098ca45-e61c-000f-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&fp=firefox&sni=se-sto1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@31.77.158.172:443?type=tcp&security=reality&fp=firefox&sni=cdnjs.com&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://2098ca45-e61c-0013-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&fp=firefox&sni=se-sto1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://2098ca45-e61c-0019-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&fp=firefox&sni=se-sto1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://2098ca45-e61c-0011-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&fp=firefox&sni=se-sto1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://b1490307-d693-4392-8f32-a3f7cc139202@147.45.73.182:443?type=ws&security=tls&fp=firefox&sni=accountentry.comparecarprices.org#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.60.73:443?packetEncoding=none&type=tcp&security=reality&fp=firefox&sni=ns-api-gw.galioncc.com&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=a7c92e4b10d6f835#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://9f749472-c636-4c5a-af51-7f8feefaac81@13.51.167.89:443?type=tcp&security=reality&fp=firefox&sni=www.samsung.com&pbk=yMYWijK43WMI0voEhf7EEPvZCjo0vtCPoQibqqPlGn4&sid=7c4e91ab&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://9f749472-c636-4c5a-af51-7f8feefaac81@51.21.171.162:443?type=tcp&security=reality&fp=firefox&sni=www.samsung.com&pbk=yMYWijK43WMI0voEhf7EEPvZCjo0vtCPoQibqqPlGn4&sid=7c4e91ab&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://114ffca4-c2e6-4eea-8110-52bd041955b3@84.32.217.165:443?type=tcp&security=tls&fp=firefox&sni=geo-se.cdnvideo.network&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@136.148.213.53:25191?type=xhttp&security=reality&fp=firefox&sni=a8687er.se2.h1clayd.click&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&sid=55328e423218ee9b&path=%2fastral-edge-h1#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@136.148.208.221:443?packetEncoding=none&type=tcp&security=reality&fp=firefox&sni=8a2e72t.nl20.h1clayd.shop&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&sid=8d0d0679f42ffd98&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?packetEncoding=none&type=ws&host=193.188.21.253#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://2098ca45-e61c-0019-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&fp=firefox&sni=se-sto1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://ee0a6b97-4dc1-0008-8b16-95a42c917158@88.216.72.171:443?security=reality&fp=firefox&sni=se-sto1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://0629a723-e9fd-460e-80fe-67e3149d9f64@187.54.12.146:10455?type=xhttp&security=reality&fp=firefox&sni=addons.mozilla.org&pbk=NoLIbCssob6T9HvprXBoNoYsZyDN650OViyAMePwp1c&sid=54cd1667f48828f9&path=%2fapi#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.60.73:443?type=tcp&security=reality&fp=firefox&sni=ns-api-gw.galioncc.com&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=a7c92e4b10d6f835#🇸🇪 Sweden, Stockholm | Anti-RKN
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@147.45.73.182:443?sni=accountentry.comparecarprices.org#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://ee0a6b97-4dc1-0008-8b16-95a42c917158@88.216.72.171:443?type=tcp&security=reality&fp=firefox&sni=se-sto1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://2098ca45-e61c-0011-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&fp=firefox&sni=se-sto1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://57a3fb3c-5788-4777-933e-882dd22f5b82@136.148.216.115:443?type=tcp&security=reality&fp=firefox&sni=ba0648t.se1.h1clayd.click&pbk=_c33IsYcvvy4t95zq8ydgtQ3pXpOK7eLdQqK3O7c2Ao&sid=b684dc4aaba4a911#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?type=ws&host=193.188.21.253#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://2098ca45-e61c-0021-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&fp=firefox&sni=se-sto1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@185.103.103.159:443?type=xhttp&security=reality&fp=firefox&sni=se-3.telecomconnect.org&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://cffa0e31-7cce-4541-8a2e-4e115873090b@13.60.56.123:443?type=ws&host=sajed.kdns.fr#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@16.170.253.163:443?type=ws&security=tls&fp=firefox&host=inlay.merlano.monster&sni=inlay.merlano.monster#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://2098ca45-e61c-0013-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&fp=firefox&sni=se-sto1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?packetEncoding=none&type=ws&host=5.178.109.174#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://9fdec6be-b6b5-4f18-bac0-461cb7953ff0@187.54.12.146:10455?type=xhttp&security=reality&fp=firefox&sni=addons.mozilla.org&pbk=NoLIbCssob6T9HvprXBoNoYsZyDN650OViyAMePwp1c&sid=54cd1667f48828f9&path=%2fapi#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://240cb330-efc6-4d06-b5de-eb5fa8c7cc47@143.246.195.83:8448#🇸🇪 Sweden, Stockholm | Anti-RKN
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=%2fvless#🇸🇪 Sweden, Stockholm | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU3dlZGVuLCBTdG9ja2hvbG0gfCBBbnRpLVJLTiIsImFkZCI6IjYyLjkzLjE2Ni4xODQiLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1Iiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOiJmaXJlZm94In0=
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?packetEncoding=xudp&type=ws&host=5.178.109.174&path=%2fvless#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&path=%2fvless#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://95580a09-cce7-4b62-af74-a514083ba9e4@31.77.144.255:8444?packetEncoding=xudp&type=xhttp&security=reality&fp=firefox&sni=www.amd.com&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820&path=%2fxh#🇸🇪 Sweden, Stockholm | Anti-RKN
 trojan://pHLdtRnEC5stYZvt9GqMyMYx215AskPW@201.58.187.107:8228?type=grpc&security=tls&fp=firefox&sni=sw100.marshonet.store&serviceName=trgrpc#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://911acdf2-3968-4d3e-be41-e62e2592e422@64.112.125.183:443?type=tcp&security=reality&fp=firefox&sni=nechunaev.com&pbk=7pr2qWG1_3TjBDCidQWJ2lnbEf72lOcse4Gca8anwEo&sid=57f0eca7ae6be8&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 http://217.64.149.146:8118#🇸🇪 Sweden | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU3dlZGVuLCBTdG9ja2hvbG0gfCBBbnRpLVJLTiIsImFkZCI6IjEzOC4xOTkuNTUuMjMwIiwicG9ydCI6IjEyNzAiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsImZwIjoiZmlyZWZveCJ9
 vless://92e8d9dc-8e3b-4f81-a278-d18c6bf1b962@185.58.115.45:443?type=ws&security=tls&fp=firefox&host=app-base-njw3ky.pages.dev&sni=app-base-njw3ky.pages.dev&path=%2fws%3fip%3d185.58.115.45%3a443#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?type=ws&path=%2fvless#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://9f749472-c636-4c5a-af51-7f8feefaac81@51.21.171.162:443?type=tcp&security=reality&fp=firefox&sni=www.samsung.com&pbk=yMYWijK43WMI0voEhf7EEPvZCjo0vtCPoQibqqPlGn4&sid=7c4e91ab&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
-vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?packetEncoding=xudp&type=ws&host=193.188.21.253&path=%2fvless#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@83.147.254.70:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=lagoon.gerqix.online&sni=lagoon.gerqix.online&path=%2fapi%2fde5%2fstream#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://042d2d08-2973-5d10-97ad-3b75f16bbe54@212.147.245.198:443?type=tcp&security=reality&fp=firefox&sni=online.1c.ru&pbk=xwLNHc6jBOg5Ddr1LezwY7I45nP485Qfu1YJXMKwVnI&sid=330a464a00000000&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 socks5://171.25.158.95:1080#🇸🇪 Sweden, Rottne | Anti-RKN
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@83.147.254.70:443?type=ws&security=tls&fp=firefox&host=inlay.merlano.monster&sni=inlay.merlano.monster&path=%2fapi%2fde3%2fstream#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://c88e3f12-ad4a-4960-8a81-eecd2289b128@176.124.207.5:2082?type=tcp#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://9f749472-c636-4c5a-af51-7f8feefaac81@13.51.167.89:443?type=tcp&security=reality&fp=firefox&sni=www.samsung.com&pbk=yMYWijK43WMI0voEhf7EEPvZCjo0vtCPoQibqqPlGn4&sid=7c4e91ab&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
+vless://eb83b44c-ad8c-4658-9923-313e59bb4d5e@143.246.199.2:443?type=tcp&security=tls&fp=firefox&sni=sw6.yndx-game.com&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@199.68.198.13:443?type=tcp&security=reality&fp=firefox&sni=example.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#🇸🇪 Sweden, Falkenberg | Anti-RKN
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@199.68.198.130:443?type=tcp&security=reality&fp=firefox&sni=example.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#🇸🇪 Sweden, Falkenberg | Anti-RKN
 vless://e2bfac1b-5f89-49a2-80af-965af6e59e7b@2.26.7.47:443?type=tcp&security=reality&fp=firefox&sni=sw-cdn.xhttp.dev&pbk=RHft3k9A1v9U-vt4m5NxZ7CR1tEZDx-IAXdpybHa4gE&sid=4640a2f00a8b7e07&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
@@ -106,7 +96,6 @@ vless://50a87e21-f0e2-4b53-a787-91adfe748f63@48.102.172.172:443?type=tcp&securit
 vless://5311859f-0b5d-4c26-a8bf-2648f113e4ea@143.246.195.46:443?type=tcp&security=reality&fp=firefox&sni=sweden13.clearorbitllc.com&pbk=453QgfqoHVVQ-M7xjfH-bUu0HXz1mdWGuR3vNoBoeCM&sid=4e1682&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://53ed61cd-8be2-46eb-b7c2-850a732ed849@185.146.173.24:8880?type=tcp#🇸🇪 Sweden | Anti-RKN
 vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.146.173.63:8443?type=grpc&security=tls&fp=firefox&sni=1i3.diginoshops10.ir#🇸🇪 Sweden | Anti-RKN
-vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?type=ws&host=193.188.21.253&path=%2fvless#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://5c7d90fe-f7d5-40bf-bfca-7726d5e44786@185.146.173.185:2095?type=ws&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.#🇸🇪 Sweden | Anti-RKN
 vless://605dea9b-b485-45c9-af9b-cc2b0195023c@91.242.228.29:443?type=tcp&security=reality&fp=firefox&sni=se1.mycloud1.org&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://6e1606a7-6206-46ee-b787-7fbb73ae19c9@13.51.215.34:2096?type=xhttp&security=reality&fp=firefox&sni=Aparat.com&pbk=2W57pOqrVL0Wij5tOIHWndlvsbx8HsTXq-J7lNXnsWg&sid=9044e4a3c84dab8c#🇸🇪 Sweden, Stockholm | Anti-RKN
@@ -142,6 +131,7 @@ vless://e0106b16-1d2d-45bc-c306-e31f422d9221@70.34.223.207:443?type=grpc#🇸�
 vless://e03d2f93-6ff6-48d7-a391-de0522daad00@13.49.101.164:443?type=tcp&security=reality&fp=firefox&sni=www.microsoft.com&pbk=R5kv3wMcB3-DbGqUlvRHhoBnUAW0jIqL8Yuf4hA0KG0&sid=c439b62a#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://e0c18fb5-9de5-4180-8ffe-444b2601a5c7@185.146.173.90:2053?type=grpc&security=tls&fp=firefox&sni=connectingno.technewspaper.store#🇸🇪 Sweden | Anti-RKN
 vless://e73f6908-d248-4c22-86f3-2a299db04ea8@185.146.173.39:80?type=httpupgrade&host=de1.mmad.news&path=%2f47267%2fhgoogle#🇸🇪 Sweden | Anti-RKN
+vless://eb83b44c-ad8c-4658-9923-313e59bb4d5e@143.246.199.64:443?type=tcp&security=tls&fp=firefox&sni=sw6.yndx-game.com&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@185.146.173.167:443?type=ws&security=tls&fp=firefox&host=jnir.hpcode.ir&sni=jnir.hpcode.ir&path=%2f%40JavidnamanIran%2f%3fed%3d2560#🇸🇪 Sweden | Anti-RKN
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@185.146.173.63:443?type=ws&security=tls&fp=firefox&host=jnir.hpcode.ir&sni=jnir.hpcode.ir&path=%2f%40Jav...#🇸🇪 Sweden | Anti-RKN
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@45.8.93.12:443?type=tcp&security=reality&fp=firefox&sni=newsw.stardevs.top&pbk=YU7hzDkfhfrA8v2rhMEUhgh7EQs4mHX9M60fkraccis&sid=f37fb7531c60780d&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
@@ -155,7 +145,6 @@ vless://fa2406f0-e820-4954-b24e-df52012ef4a6@185.146.173.206:2095?encryption=mlk
 vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@185.146.173.68:2052?type=ws&host=yellow-paper-029c.yvonna.workers.dev#🇸🇪 Sweden | Anti-RKN
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?type=ws&security=tls&fp=firefox&host=www.dns-shop.ir&sni=www.dns-shop.ir&path=%2f%3fed%3d2048#🇸🇪 Sweden | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU3dlZGVuIHwgQW50aS1SS04iLCJhZGQiOiIxODUuMTQ2LjE3My4yNSIsInBvcnQiOiI4MCIsImlkIjoiZTNjYjVjMzgtMTE2OC00NmFkLWFlYzQtNjJmZmQzNjE0NjkwIiwibmV0Ijoid3MiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uc2FmYXJpLWRmLmlyLiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU3dlZGVuIHwgQW50aS1SS04iLCJhZGQiOiIxODUuMTQ2LjE3My41OSIsInBvcnQiOiI0NDMiLCJpZCI6IjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJobXMwMi5meGlhb21pLnNicyIsInBhdGgiOiIvbGluayIsInRscyI6InRscyIsInNuaSI6ImhtczAyLmZ4aWFvbWkuc2JzIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU3dlZGVuIHwgQW50aS1SS04iLCJhZGQiOiIxODUuMTQ2LjE3My4xMTciLCJwb3J0IjoiODAiLCJpZCI6ImQ5NjdmZmNhLWRlOTAtNGRhYS1iZDAwLWQ1MjdlNWJhZTExZiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5sZW9zaG9wcGluZzc3LmlyLiIsInBhdGgiOiIvP0JJQV9URUxFR1JBTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU3dlZGVuIHwgQW50aS1SS04iLCJhZGQiOiIxODUuMTQ2LjE3My4xMjYiLCJwb3J0IjoiODAiLCJpZCI6ImQ5NjdmZmNhLWRlOTAtNGRhYS1iZDAwLWQ1MjdlNWJhZTExZiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5sZW9zaG9wcGluZzc3LmlyLiIsInBhdGgiOiIvP0JJQV9URUxFR1JBTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU3dlZGVuIHwgQW50aS1SS04iLCJhZGQiOiIxODUuMTQ2LjE3My4xMjkiLCJwb3J0IjoiNDQzIiwiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibnQtaGF6ZS03ZGFkLnJvZ2FwMTY4NzUud29ya2Vycy5kZXYiLCJwYXRoIjoiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6Im50LWhhemUtN2RhZC5yb2dhcDE2ODc1LndvcmtlcnMuZGV2IiwiZnAiOiJmaXJlZm94In0=
@@ -169,14 +158,15 @@ https://46.246.39.246:443#🇸🇪 Sweden, Stockholm | Anti-RKN
 https://85.232.185.5:443#🇸🇪 Sweden | Anti-RKN
 https://74.241.130.174:443#🇸🇪 Sweden | Anti-RKN
 http://185.146.173.20:80#🇸🇪 Sweden | Anti-RKN
+http://172.232.155.226:8118#🇸🇪 Sweden, Stockholm | Anti-RKN
 socks5://176.126.70.111:16379#🇸🇪 Sweden, Stockholm | Anti-RKN
 socks5://13.63.42.31:5000#🇸🇪 Sweden, Stockholm | Anti-RKN
 socks5://62.60.186.226:1080#🇸🇪 Sweden, Stockholm | Anti-RKN
 socks5://89.169.34.80:1080#🇸🇪 Sweden, Stockholm | Anti-RKN
 socks5://80.78.25.87:9050#🇸🇪 Sweden | Anti-RKN
-http://193.181.35.140:8118#🇸🇪 Sweden, Stockholm | Anti-RKN
 http://193.181.35.217:8118#🇸🇪 Sweden, Stockholm | Anti-RKN
 http://193.181.35.85:8118#🇸🇪 Sweden, Stockholm | Anti-RKN
 http://171.25.158.95:1080#🇸🇪 Sweden, Rottne | Anti-RKN
 socks4://217.64.149.146:8118#🇸🇪 Sweden | Anti-RKN
 socks5://217.64.149.146:8118#🇸🇪 Sweden | Anti-RKN
+vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@201.58.177.48:443?type=xhttp&security=reality&fp=firefox&sni=se-1.telecomconnect.org&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#🇸🇪 Sweden, Stockholm | Anti-RKN

@@ -1,23 +1,20 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [VE] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:52:23
-# servers-count: 14
+# generated-at: 11/27/2026 14:13:59
+# servers-count: 11
 
-http://154.3.76.16:999#🇻🇪 Venezuela, Quíbor | Anti-RKN
-http://161.22.33.213:999#🇻🇪 Venezuela, Caracas | Anti-RKN
+http://161.22.39.124:999#🇻🇪 Venezuela | Anti-RKN
 http://154.59.56.72:999#🇻🇪 Venezuela | Anti-RKN
-http://170.244.91.1:999#🇻🇪 Venezuela | Anti-RKN
-http://181.233.161.50:999#🇻🇪 Venezuela | Anti-RKN
+http://38.51.221.17:999#🇻🇪 Venezuela, San Diego | Anti-RKN
+http://38.172.181.51:999#🇻🇪 Venezuela, Quíbor | Anti-RKN
+http://38.41.27.150:11201#🇻🇪 Venezuela, Caracas | Anti-RKN
 http://200.59.191.27:999#🇻🇪 Venezuela, Trujillo | Anti-RKN
-http://190.94.213.132:999#🇻🇪 Venezuela, Caracas | Anti-RKN
-http://38.134.224.179:999#🇻🇪 Venezuela, Tucaní | Anti-RKN
+http://161.22.33.226:999#🇻🇪 Venezuela, Caracas | Anti-RKN
+http://186.96.72.102:999#🇻🇪 Venezuela, Caracas | Anti-RKN
+http://186.167.83.182:999#🇻🇪 Venezuela, Caracas | Anti-RKN
 socks4://200.8.235.10:4145#🇻🇪 Venezuela, La Guaira | Anti-RKN
-http://161.22.33.121:999#🇻🇪 Venezuela, Caracas | Anti-RKN
-http://200.59.191.17:3128#🇻🇪 Venezuela, Trujillo | Anti-RKN
-http://186.167.83.178:999#🇻🇪 Venezuela, Caracas | Anti-RKN
-http://38.41.0.87:999#🇻🇪 Venezuela, Caracas | Anti-RKN
-http://82.86.112.48:999#🇻🇪 Venezuela, Maracay | Anti-RKN
+http://185.226.194.8:999#🇻🇪 Venezuela, Tinaquillo | Anti-RKN

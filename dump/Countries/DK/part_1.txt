@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [DK] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:52:23
-# servers-count: 13
+# generated-at: 11/27/2026 14:13:59
+# servers-count: 11
 
 vless://35dc3ea6-2cdf-4f6e-95ea-ce786ac2947a@193.180.211.245:8443?type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=pbLP4dV9Nx4aHWf35QFadbjOCdP_klwS9fvKSszlr3Q&sid=926b123d&flow=xtls-rprx-vision#🇩🇰 Denmark, Nørre Åby | Anti-RKN
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.148.30.11:443?packetEncoding=none&type=ws&security=tls&fp=firefox&host=cdn8848.776676.xyz&sni=cdn8848.776676.xyz&path=%2fseason%2fclassify%3fed%3d2560#🇩🇰 Denmark, Asperup | Anti-RKN
@@ -16,7 +16,5 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh7AgRGVubWFyaywgTsO4cnJlIMOFYnkgfCBBbnRpLVJL
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh7AgRGVubWFyaywgTsO4cnJlIMOFYnkgfCBBbnRpLVJLTiIsImFkZCI6IjE5My4xODEuMjEyLjgxIiwicG9ydCI6IjQ0MyIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
 https://87.238.253.66:443#🇩🇰 Denmark | Anti-RKN
 http://194.150.110.134:80#🇩🇰 Denmark | Anti-RKN
-socks5://2.110.43.58:1080#🇩🇰 Denmark | Anti-RKN
-http://2.110.43.58:1080#🇩🇰 Denmark | Anti-RKN
 socks4://194.150.110.134:80#🇩🇰 Denmark | Anti-RKN
 socks5://194.150.110.134:80#🇩🇰 Denmark | Anti-RKN

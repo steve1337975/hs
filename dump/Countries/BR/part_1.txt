@@ -1,27 +1,30 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BR] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:52:23
-# servers-count: 62
+# generated-at: 11/27/2026 14:13:59
+# servers-count: 69
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh7cgQnJhemlsLCBTw6NvIFBhdWxvIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMTQuMjcuMjA3IiwicG9ydCI6IjEyNzAiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsImZwIjoiZmlyZWZveCJ9
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@202.61.73.33:80?type=ws&host=platform115.halalkhor.info&path=%2fplatform115#🇧🇷 Brazil, São Paulo | Anti-RKN
-vless://cb7ceae2-6f47-4059-8bf0-371b62a0f0ce@157.228.157.19:25813?type=xhttp&security=reality&fp=firefox&sni=br.jetstoreapp.ru&pbk=OgGK9DS-5AAZDgDjHwNWhx_VOQ2OjEUReo-0-f_3Zxc&sid=421f11a52c02c80d&path=%2fb84b87f75dfc#🇧🇷 Brazil, São Paulo | Anti-RKN
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@202.61.73.205:80?type=ws&host=platform117.halalkhor.info#🇧🇷 Brazil, São Paulo | Anti-RKN
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@202.61.73.40:80?type=ws#🇧🇷 Brazil, São Paulo | Anti-RKN
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@202.61.73.33:80?type=ws&host=platform115.halalkhor.info#🇧🇷 Brazil, São Paulo | Anti-RKN
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@202.61.73.50:80?type=ws#🇧🇷 Brazil, São Paulo | Anti-RKN
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@202.61.73.220:80?type=ws&host=platform113.halalkhor.info#🇧🇷 Brazil, São Paulo | Anti-RKN
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@202.61.73.196:80?type=ws#🇧🇷 Brazil, São Paulo | Anti-RKN
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@202.61.73.196:80?type=ws&host=platform101.halalkhor.info#🇧🇷 Brazil, São Paulo | Anti-RKN
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@202.61.73.205:80?type=ws#🇧🇷 Brazil, São Paulo | Anti-RKN
+vless://cb7ceae2-6f47-4059-8bf0-371b62a0f0ce@157.228.157.19:25813?type=xhttp&security=reality&fp=firefox&sni=br.jetstoreapp.ru&pbk=OgGK9DS-5AAZDgDjHwNWhx_VOQ2OjEUReo-0-f_3Zxc&sid=421f11a52c02c80d&path=%2fb84b87f75dfc#🇧🇷 Brazil, São Paulo | Anti-RKN
+http://143.208.152.62:3180#🇧🇷 Brazil | Anti-RKN
 http://18.231.126.121:19050#🇧🇷 Brazil, São Paulo | Anti-RKN
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@202.61.73.69:80?type=ws&host=platform107.halalkhor.info&path=%2fplatform107#🇧🇷 Brazil, São Paulo | Anti-RKN
 http://189.1.14.130:3128#🇧🇷 Brazil, Recife | Anti-RKN
+http://186.227.119.91:8080#🇧🇷 Brazil, Catanduvas | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh7cgQnJhemlsLCBTw6NvIFBhdWxvIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuODguMjMyLjU1IiwicG9ydCI6IjEyNzAiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsImZwIjoiZmlyZWZveCJ9
-socks5://186.233.119.183:1080#🇧🇷 Brazil, Rio de Janeiro | Anti-RKN
-http://45.161.128.36:8080#🇧🇷 Brazil, Diadema | Anti-RKN
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.32:80#🇧🇷 Brazil, Curitiba | Anti-RKN
+http://201.28.86.18:61804#🇧🇷 Brazil, São Paulo | Anti-RKN
 socks5://uwrgfkwg:0mvrt5jb@191.7.129.133:62000#🇧🇷 Brazil, São Paulo | Anti-RKN
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&fp=firefox&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#🇧🇷 Brazil, Osasco | Anti-RKN
 trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443?security=tls&fp=firefox&sni=golinkwuxian.top#🇧🇷 Brazil, São Paulo | Anti-RKN
@@ -39,33 +42,37 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.99:443?type=ws&security=
 vless://cf0790c3-597e-4105-818e-2eebb3e20a09@151.101.186.133:443?type=ws&security=tls&fp=firefox&host=mashti.com&sni=zmaoz.faculty.ucdavis.edu&path=%2f%3fed%3d2560#🇧🇷 Brazil, Brasília | Anti-RKN
 vless://d795a9ec-5ed0-4309-ba6c-edc09b818669@185.133.35.86:443?type=xhttp&security=tls&fp=firefox&host=mamafrance.baklajann.ru&sni=mamafrance.baklajann.ru#🇧🇷 Brazil | Anti-RKN
 socks4://189.50.138.10:5678#🇧🇷 Brazil, Presidente Prudente | Anti-RKN
-socks4://179.108.153.128:4145#🇧🇷 Brazil, Teixeira de Freitas | Anti-RKN
+socks4://177.85.65.177:4153#🇧🇷 Brazil, Simões Filho | Anti-RKN
+socks4://143.137.116.72:1080#🇧🇷 Brazil, São Paulo | Anti-RKN
 socks4://167.250.137.129:1080#🇧🇷 Brazil, Teresina | Anti-RKN
-socks4://177.66.43.189:4145#🇧🇷 Brazil, Santo Cristo | Anti-RKN
-socks4://190.89.104.88:5432#🇧🇷 Brazil, Chapecó | Anti-RKN
-socks4://200.196.63.134:4145#🇧🇷 Brazil, Rio de Janeiro | Anti-RKN
+socks4://177.136.124.45:56113#🇧🇷 Brazil, Salvador | Anti-RKN
 https://168.138.159.191:443#🇧🇷 Brazil, São Paulo | Anti-RKN
 https://129.151.38.112:443#🇧🇷 Brazil, São Paulo | Anti-RKN
 https://134.65.17.77:443#🇧🇷 Brazil, Vinhedo | Anti-RKN
 https://54.207.141.34:443#🇧🇷 Brazil, São Paulo | Anti-RKN
-https://201.54.216.54:443#🇧🇷 Brazil, Belo Horizonte | Anti-RKN
 https://200.133.218.122:443#🇧🇷 Brazil, Suzano | Anti-RKN
 https://168.205.255.238:443#🇧🇷 Brazil, Brasília | Anti-RKN
-socks4://177.26.112.65:5678#🇧🇷 Brazil, São Paulo | Anti-RKN
+https://177.71.177.240:443#🇧🇷 Brazil, São Paulo | Anti-RKN
+https://18.230.23.72:19078#🇧🇷 Brazil, São Paulo | Anti-RKN
+https://18.231.214.206:40385#🇧🇷 Brazil, São Paulo | Anti-RKN
+https://18.230.23.72:11581#🇧🇷 Brazil, São Paulo | Anti-RKN
+https://18.231.126.121:14283#🇧🇷 Brazil, São Paulo | Anti-RKN
 socks5://168.138.155.212:9050#🇧🇷 Brazil, São Paulo | Anti-RKN
 socks5://134.65.245.71:9050#🇧🇷 Brazil, Vinhedo | Anti-RKN
-http://200.252.32.40:53281#🇧🇷 Brazil, Brasília | Anti-RKN
-http://18.230.23.72:52399#🇧🇷 Brazil, São Paulo | Anti-RKN
-http://131.0.120.162:9292#🇧🇷 Brazil, Pirapozinho | Anti-RKN
-socks4://190.109.72.41:33633#🇧🇷 Brazil, São Geraldo do Araguaia | Anti-RKN
-socks4://179.189.248.125:5432#🇧🇷 Brazil, Recife | Anti-RKN
+socks5://45.158.8.24:1080#🇧🇷 Brazil, Muriaé | Anti-RKN
+http://177.55.68.68:8080#🇧🇷 Brazil, Canaã dos Carajás | Anti-RKN
+http://138.186.133.161:4153#🇧🇷 Brazil, Itabaiana | Anti-RKN
+http://189.50.138.10:5678#🇧🇷 Brazil, Presidente Prudente | Anti-RKN
+http://201.71.137.90:5128#🇧🇷 Brazil, Cuiabá | Anti-RKN
+http://131.161.68.41:35944#🇧🇷 Brazil, Rio de Janeiro | Anti-RKN
+socks4://177.93.72.82:4153#🇧🇷 Brazil, Lagoa Grande | Anti-RKN
+socks4://177.55.191.22:60606#🇧🇷 Brazil, Pedro Leopoldo | Anti-RKN
 socks4://177.54.239.13:4145#🇧🇷 Brazil, Araguaína | Anti-RKN
+http://177.12.140.108:8080#🇧🇷 Brazil, Barroquinha | Anti-RKN
+socks4://177.128.81.10:81#🇧🇷 Brazil, Governador Valadares | Anti-RKN
+http://143.137.116.72:1080#🇧🇷 Brazil, São Paulo | Anti-RKN
 http://168.138.155.212:9050#🇧🇷 Brazil, São Paulo | Anti-RKN
 http://134.65.245.71:9050#🇧🇷 Brazil, Vinhedo | Anti-RKN
-http://177.70.8.202:3128#🇧🇷 Brazil | Anti-RKN
 socks4://189.1.14.130:3128#🇧🇷 Brazil, Recife | Anti-RKN
 socks4://177.73.248.26:55290#🇧🇷 Brazil, Cotia | Anti-RKN
-socks5://190.89.104.88:5432#🇧🇷 Brazil, Chapecó | Anti-RKN
 socks5://189.1.14.130:3128#🇧🇷 Brazil, Recife | Anti-RKN
-socks5://177.125.210.246:8080#🇧🇷 Brazil, Campo Mourão | Anti-RKN
-http://177.207.243.52:8080#🇧🇷 Brazil, Recife | Anti-RKN

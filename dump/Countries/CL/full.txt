@@ -1,0 +1,16 @@
+﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: 🌍 GEO [CL] — BLACK
+# profile-update-interval: 1
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827400581
+# sort-order: ping
+# generated-by: NChecker
+# generated-at: 11/27/2026 11:16:21
+# servers-count: 7
+
+socks4://152.231.81.18:1080#🇨🇱 Chile, Santiago | Anti-RKN
+https://200.75.11.94:443#🇨🇱 Chile, Santiago | Anti-RKN
+https://129.151.121.143:443#🇨🇱 Chile, Santiago | Anti-RKN
+https://152.230.28.131:8081#🇨🇱 Chile, Santiago | Anti-RKN
+http://45.180.26.1:999#🇨🇱 Chile, Nogales | Anti-RKN
+http://167.249.30.253:999#🇨🇱 Chile, Temuco | Anti-RKN
+http://146.83.118.9:80#🇨🇱 Chile | Anti-RKN

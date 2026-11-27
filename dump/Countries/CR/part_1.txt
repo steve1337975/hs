@@ -1,0 +1,14 @@
+﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: 🌍 GEO [CR] — BLACK #1
+# profile-update-interval: 1
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827400581
+# sort-order: ping
+# generated-by: NChecker
+# generated-at: 11/27/2026 11:16:21
+# servers-count: 5
+
+https://190.113.112.147:4443#🇨🇷 Costa Rica, San José | Anti-RKN
+https://138.118.81.189:443#🇨🇷 Costa Rica, Alajuela | Anti-RKN
+https://190.113.112.147:443#🇨🇷 Costa Rica, San José | Anti-RKN
+https://190.211.102.2:443#🇨🇷 Costa Rica, Alajuela | Anti-RKN
+socks4://200.192.236.242:1080#🇨🇷 Costa Rica | Anti-RKN

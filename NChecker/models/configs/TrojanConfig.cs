@@ -27,6 +27,10 @@ namespace NChecker.models.configs
                 {
                     Security = ParseSecurity(parameter.Value);
                 }
+                else if (parameter.Key.Equals("Fp", StringComparison.OrdinalIgnoreCase))
+                {
+                    Fp = ParseFP(parameter.Value);
+                }
                 else if (parameter.Key.Equals("Host", StringComparison.OrdinalIgnoreCase))
                 {
                     Host = parameter.Value;
@@ -43,20 +47,14 @@ namespace NChecker.models.configs
                 {
                     ServiceName = parameter.Value;
                 }
-                else if (parameter.Key.Equals("Fp", StringComparison.OrdinalIgnoreCase))
-                {
-                    Fp = ParseFP(parameter.Value);
-                }
             }
-
 
             if (Type == TrojanType.Raw || Type == TrojanType.Tcp) Type = null;
             if (Security == null) Security = TrojanSecurity.Tls;
 
-            if (Type == TrojanType.Ws || Type == TrojanType.Httpupgrade || Type == TrojanType.Xhttp)
+            if (Type == TrojanType.Ws || Type == TrojanType.Httpupgrade || Type == TrojanType.Http)
             {
                 if (string.IsNullOrEmpty(Host) && !string.IsNullOrEmpty(Sni)) Host = Sni;
-
                 if (!string.IsNullOrEmpty(Path))
                 {
                     if (Path.StartsWith("//")) Path = "/" + Path.TrimStart('/');
@@ -97,7 +95,7 @@ namespace NChecker.models.configs
             Raw, Tcp,
             Ws,
             Grpc,
-            Xhttp,
+            Http,
             Httpupgrade
         }
         private TrojanSecurity? ParseSecurity(string a1)

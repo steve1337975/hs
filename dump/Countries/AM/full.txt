@@ -1,17 +1,17 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AM] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405567
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409162
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:39:27
+# generated-at: 11/27/2026 13:39:22
 # servers-count: 8
 
-vless://0444647e-6388-4c4b-9847-1fcd5bc101ea@91.192.158.104:443?type=tcp&security=reality&fp=firefox&sni=az-fi-01-c8iyj203.farmerly.cc&pbk=97CMGywXeHWMpnvLx59xcg6Pqb4_ZN7aqPyeaek8D2U&sid=0aeec6de7d3d1a15&flow=xtls-rprx-vision#🇦🇲 Armenia | Anti-RKN
 vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@92.246.138.161:443?type=tcp&security=reality&fp=firefox&sni=q88k7v7gi0pg.img-assets.world&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&flow=xtls-rprx-vision#🇦🇲 Armenia | Anti-RKN
 hysteria2://094b4f8c-8bda-42c3-b69c-608548136f0b@157.228.65.223:443?sni=lt-1-lietuva.fantoff.online#🇦🇲 Armenia | Anti-RKN
 vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@92.246.138.161:443?security=reality&fp=firefox&sni=q88k7v7gi0pg.img-assets.world&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&flow=xtls-rprx-vision#🇦🇲 Armenia | Anti-RKN
 vless://7af8ad56-33ce-4f3d-ad15-ef32a71d67f7@178.160.228.139:443?type=tcp&security=reality&fp=firefox&sni=base.syoknew.online&pbk=1DFPjPAr5meUaXBdTX2WMZu9BWV39TXV5N36Ske6_A0&sid=a7df9e0cde3e1d79&flow=xtls-rprx-vision#🇦🇲 Armenia, Yerevan | Anti-RKN
 vless://2334da69-f414-4a83-9128-b1b589d6b44e@153.52.128.106:443?type=tcp&security=reality&fp=firefox&sni=pebble-terrace.justext.space&pbk=AH8E2UtnifgXcpkqC9P9UZ6lOLMwl4KBetLjS4dp1wc&sid=03a55323&flow=xtls-rprx-vision#🇦🇲 Armenia | Anti-RKN
+vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@88.218.92.185:443?type=tcp&security=reality&fp=firefox&sni=sadas.jugoslavija.uk&pbk=0L0a22tcISNd3pY2Le6DS9vrW1ughjmzhjj5ec8iBHo&sid=a51a6973d7d358d6&flow=xtls-rprx-vision#🇦🇲 Armenia | Anti-RKN
+https://80.86.231.109:443#🇦🇲 Armenia, Yerevan | Anti-RKN
 socks4://81.16.9.222:3629#🇦🇲 Armenia, Yerevan | Anti-RKN
-http://45.133.107.246:81#🇦🇲 Armenia | Anti-RKN

@@ -1,24 +1,24 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KZ] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827400581
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 11:16:21
-# servers-count: 86
+# generated-at: 11/27/2026 12:31:22
+# servers-count: 91
 
-vless://1bc29b34-0a7d-4252-97bb-1cc3514e7d42@31.43.179.0:443?type=ws&security=tls&fp=firefox&host=worker3.xomoh98816.workers.dev#🇰🇿 Kazakhstan | Anti-RKN
-vless://1bc29b34-0a7d-4252-97bb-1cc3514e7d42@31.43.179.0:443?type=ws&security=tls&fp=firefox&host=worker3.xomoh98816.workers.dev&sni=worker3.xomoh98816.workers.dev&path=%2fLF5LdoZelHLG07nl#🇰🇿 Kazakhstan | Anti-RKN
-vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.165:8443?type=tcp&security=tls&fp=firefox&sni=api-6b04608f.adhil.uk&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | Anti-RKN
-vless://c0742f77-5495-43bf-b007-88d368774d7c@212.116.234.66:443?type=tcp&security=reality&fp=firefox&sni=kazakx.kovsh.lol&pbk=AQvd3i3V4g-Im7Oaq4xKGxWszTSXZLgsPPtiIlN_kRk&sid=01a71fb3926ba422&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | Anti-RKN
+vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.179:8443?type=tcp&security=tls&fp=firefox&sni=api-6b04608f.adhil.uk&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | Anti-RKN
+vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.187:8443?type=tcp&security=tls&fp=firefox&sni=api-6b04608f.adhil.uk&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | Anti-RKN
 vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.122:443?type=xhttp&security=tls&fp=firefox&sni=cab-6b07048f.ferrin.uk#🇰🇿 Kazakhstan | Anti-RKN
-vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.180:8443?type=tcp&security=tls&fp=firefox&sni=api-6b04608f.adhil.uk&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | Anti-RKN
+vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.130:443?type=xhttp&security=tls&fp=firefox&sni=cab-6b07048f.ferrin.uk#🇰🇿 Kazakhstan | Anti-RKN
+vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.146:443?type=xhttp&security=tls&fp=firefox&sni=cab-6b07048f.ferrin.uk#🇰🇿 Kazakhstan | Anti-RKN
+vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.166:8443?type=tcp&security=tls&fp=firefox&sni=api-6b04608f.adhil.uk&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | Anti-RKN
+vless://2424febb-43cb-488d-bdd1-401e923c8e48@38.107.234.57:8443?type=ws&security=tls&fp=firefox&sni=3h-kazakhstan1.09vpn.com&path=%2fvless%2f#🇰🇿 Kazakhstan, Almaty | Anti-RKN
 vless://fa906181-5d9b-4ff6-8a81-e6148ce4ece7@5.180.27.134:443?type=tcp&security=reality&fp=firefox&sni=kz.koteika3528.dev&pbk=qljbddkyGqBkkOnPdvgw4s6HX_iyEUB2qesNM1qiFg0&sid=36f3c7&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | Anti-RKN
 vless://2424febb-43cb-488d-bdd1-401e923c8e48@38.107.234.57:8443?type=ws&security=tls&fp=firefox&host=3h-kazakhstan1.09vpn.com&sni=3h-kazakhstan1.09vpn.com#🇰🇿 Kazakhstan, Almaty | Anti-RKN
-vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.146:443?type=xhttp&security=tls&fp=firefox&sni=cab-6b07048f.ferrin.uk#🇰🇿 Kazakhstan | Anti-RKN
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?type=tcp&security=reality&fp=firefox&sni=yahoo.com&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83#🇰🇿 Kazakhstan, Karaganda | Anti-RKN
+vless://1bc29b34-0a7d-4252-97bb-1cc3514e7d42@31.43.179.0:443?type=ws&security=tls&fp=firefox&host=worker3.xomoh98816.workers.dev#🇰🇿 Kazakhstan | Anti-RKN
 vless://0629a723-e9fd-460e-80fe-67e3149d9f64@170.168.100.73:443?type=xhttp&security=reality&fp=firefox&sni=kz.global-cdn.org&pbk=Er7EdUtUFdQpp8DKeHLdvAVpXTDK332AYily0nddLwA&sid=99bc3af8f6d50ecf&path=%2fac4ac189775f4f8720141dcd#🇰🇿 Kazakhstan, Astana | Anti-RKN
-vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.130:443?type=xhttp&security=tls&fp=firefox&sni=cab-6b07048f.ferrin.uk#🇰🇿 Kazakhstan | Anti-RKN
 vless://2424febb-43cb-488d-bdd1-401e923c8e48@38.107.234.57:8443?type=ws&security=tls&fp=firefox&sni=3h-kazakhstan1.09vpn.com#🇰🇿 Kazakhstan, Almaty | Anti-RKN
 vless://3bfaf855-a05a-482a-93d3-d66388c5506c@170.168.100.73:443?type=xhttp&security=reality&fp=firefox&sni=kz.global-cdn.org&pbk=Er7EdUtUFdQpp8DKeHLdvAVpXTDK332AYily0nddLwA&sid=99bc3af8f6d50ecf&path=%2fac4ac189775f4f8720141dcd#🇰🇿 Kazakhstan, Astana | Anti-RKN
 vless://517320f0-5367-4a71-a679-9fd5f06d3d86@45.88.90.168:443?type=tcp&security=reality&fp=firefox&sni=kz.staxel.click&pbk=7RoAmB1Y-nck4vhHwkZxi0G7NXsVoegpSJNa8ZqQygo&flow=xtls-rprx-vision#🇰🇿 Kazakhstan, Almaty | Anti-RKN
@@ -32,8 +32,12 @@ http://31.130.153.132:3128#🇰🇿 Kazakhstan, Almaty | Anti-RKN
 vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.138:8443?type=tcp&security=tls&fp=firefox&sni=api-6b04608f.adhil.uk&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | Anti-RKN
 vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.107:8443?type=tcp&security=tls&fp=firefox&sni=api-6b04608f.adhil.uk&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh78gS2F6YWtoc3RhbiwgQWxtYXR5IHwgQW50aS1SS04iLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6IjgwIiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoidmliZXIuY29tIiwicGF0aCI6Ii92bWVzcy8ifQ==
-vless://2424febb-43cb-488d-bdd1-401e923c8e48@38.107.234.57:8443?type=ws&security=tls&fp=firefox&sni=3h-kazakhstan1.09vpn.com&path=%2fvless%2f#🇰🇿 Kazakhstan, Almaty | Anti-RKN
+socks5://188.0.153.235:1080#🇰🇿 Kazakhstan, Aktau | Anti-RKN
 vless://a80acd3a-3df5-40b5-a54a-29bb18056115@38.180.206.44:48982?packetEncoding=xudp&type=xhttp&security=reality&fp=firefox&sni=cdn3-88.yahoo.com&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE#🇰🇿 Kazakhstan, Almaty | Anti-RKN
+vless://e2bfac1b-5f89-49a2-80af-965af6e59e7b@5.180.47.24:443?type=tcp&security=reality&fp=firefox&sni=kz-cdn.xhttp.dev&pbk=RHft3k9A1v9U-vt4m5NxZ7CR1tEZDx-IAXdpybHa4gE&sid=4640a2f00a8b7e07&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | Anti-RKN
+vless://1bc29b34-0a7d-4252-97bb-1cc3514e7d42@31.43.179.0:443?type=ws&security=tls&fp=firefox&host=worker3.xomoh98816.workers.dev&sni=worker3.xomoh98816.workers.dev&path=%2fLF5LdoZelHLG07nl#🇰🇿 Kazakhstan | Anti-RKN
+vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.180:8443?type=tcp&security=tls&fp=firefox&sni=api-6b04608f.adhil.uk&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | Anti-RKN
+vless://c0742f77-5495-43bf-b007-88d368774d7c@212.116.234.66:443?type=tcp&security=reality&fp=firefox&sni=kazakx.kovsh.lol&pbk=AQvd3i3V4g-Im7Oaq4xKGxWszTSXZLgsPPtiIlN_kRk&sid=01a71fb3926ba422&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | Anti-RKN
 vless://0ead14bf-0ad9-4d5e-9fc2-df7c52db6a1b@94.198.221.136:443?type=tcp&security=reality&fp=firefox&sni=store.steampowered.com&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a111&flow=xtls-rprx-vision#🇰🇿 Kazakhstan, Almaty | Anti-RKN
 hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443?sni=kaz0001hy01.packet-drop-society.net&allowInsecure=1#🇰🇿 Kazakhstan | Anti-RKN
 ss://YWVzLTEyOC1nY206NTEyNmNjYzc4ZWVhNGM2NDNjYmVkNGU2YzIxNDY1ZTg=@38.180.38.19:15231#🇰🇿 Kazakhstan, Almaty | Anti-RKN
@@ -85,6 +89,7 @@ vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.58:2082?type=httpupgrade&
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.213:2053?type=ws&security=tls&fp=firefox&host=dl1-tr-cdn.easy-upload.org&sni=dl1-tr-cdn.easy-upload.org#🇰🇿 Kazakhstan | Anti-RKN
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.234:2053?type=ws&security=tls&fp=firefox&host=dl1-fr-cdn.easy-upload.org&sni=dl1-fr-cdn.easy-upload.org#🇰🇿 Kazakhstan | Anti-RKN
 vless://probabblynot-ch@194.76.18.126:2087?type=ws&security=tls&fp=firefox&host=probabblynot.fazelextremeisreal.com&sni=probabblynot.fazelextremeisreal.com&path=%2f%40probabblynot#🇰🇿 Kazakhstan, Almaty | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh78gS2F6YWtoc3RhbiwgQWxtYXR5IHwgQW50aS1SS04iLCJhZGQiOiIyMTcuNzYuNjQuMTk1IiwicG9ydCI6IjQ0MyIsImlkIjoiNGFiZGY1OGUtMDUxNi00NjhkLTk1NzEtZmUyNWNiNDg5N2VmIiwibmV0Ijoid3MiLCJob3N0Ijoic2t1b25lLnNlcnZlbWluZWNyYWZ0Lm5ldCIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 https://185.206.32.72:443#🇰🇿 Kazakhstan | Anti-RKN
 http://31.43.179.235:80#🇰🇿 Kazakhstan | Anti-RKN
 http://31.43.179.94:80#🇰🇿 Kazakhstan | Anti-RKN

@@ -1,35 +1,43 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BD] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827400581
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 11:16:21
-# servers-count: 26
+# generated-at: 11/27/2026 12:31:22
+# servers-count: 34
 
-socks4://202.40.179.18:4145#🇧🇩 Bangladesh, Rangpur City | Anti-RKN
-socks5://103.81.70.71:1080#🇧🇩 Bangladesh | Anti-RKN
-socks5://203.76.123.6:1080#🇧🇩 Bangladesh | Anti-RKN
+http://175.29.174.174:2525#🇧🇩 Bangladesh, Dhaka | Anti-RKN
+socks5://103.155.185.26:1088#🇧🇩 Bangladesh | Anti-RKN
+socks5://118.179.205.174:2080#🇧🇩 Bangladesh, Dhaka | Anti-RKN
+socks4://123.200.6.58:5678#🇧🇩 Bangladesh, Gazipur | Anti-RKN
 socks4://123.200.28.149:1080#🇧🇩 Bangladesh, Gazipur | Anti-RKN
-http://45.117.60.150:8080#🇧🇩 Bangladesh, Dhaka | Anti-RKN
+socks4://103.114.97.59:80#🇧🇩 Bangladesh | Anti-RKN
+socks4://118.179.135.69:9090#🇧🇩 Bangladesh, Dhaka | Anti-RKN
+socks5://103.81.70.71:1080#🇧🇩 Bangladesh | Anti-RKN
+socks5://202.44.106.141:1080#🇧🇩 Bangladesh, Comilla | Anti-RKN
 socks5://103.125.253.112:1080#🇧🇩 Bangladesh | Anti-RKN
+socks5://115.127.112.178:1080#🇧🇩 Bangladesh, Dhaka | Anti-RKN
 socks5://118.179.144.113:9090#🇧🇩 Bangladesh, Dhaka | Anti-RKN
 socks5://202.4.116.146:9090#🇧🇩 Bangladesh, Mymensingh | Anti-RKN
 socks5://202.4.123.220:9090#🇧🇩 Bangladesh, Mymensingh | Anti-RKN
 socks5://202.4.115.232:9090#🇧🇩 Bangladesh, Mymensingh | Anti-RKN
 socks5://118.179.205.159:9090#🇧🇩 Bangladesh, Dhaka | Anti-RKN
+socks5://118.179.102.168:9090#🇧🇩 Bangladesh, Dhaka | Anti-RKN
 socks5://118.179.151.158:9090#🇧🇩 Bangladesh, Dhaka | Anti-RKN
 socks5://202.4.119.226:9090#🇧🇩 Bangladesh, Mymensingh | Anti-RKN
 socks5://202.4.116.140:9090#🇧🇩 Bangladesh, Mymensingh | Anti-RKN
 socks5://118.179.195.140:9090#🇧🇩 Bangladesh, Dhaka | Anti-RKN
-http://202.40.179.18:4145#🇧🇩 Bangladesh, Rangpur City | Anti-RKN
-http://103.170.185.226:80#🇧🇩 Bangladesh | Anti-RKN
 http://103.101.98.117:8080#🇧🇩 Bangladesh | Anti-RKN
-socks4://123.200.5.146:57775#🇧🇩 Bangladesh, Gazipur | Anti-RKN
-http://124.6.225.124:1088#🇧🇩 Bangladesh | Anti-RKN
+http://103.150.49.90:8090#🇧🇩 Bangladesh | Anti-RKN
+http://203.18.159.164:80#🇧🇩 Bangladesh | Anti-RKN
+http://113.212.111.4:8090#🇧🇩 Bangladesh, Dhaka | Anti-RKN
 http://103.81.70.71:1080#🇧🇩 Bangladesh | Anti-RKN
+http://103.170.185.226:80#🇧🇩 Bangladesh | Anti-RKN
+socks4://121.200.60.122:4153#🇧🇩 Bangladesh | Anti-RKN
+socks4://202.40.177.94:5678#🇧🇩 Bangladesh, Rangpur City | Anti-RKN
 socks4://113.212.111.4:8090#🇧🇩 Bangladesh, Dhaka | Anti-RKN
 socks4://103.81.70.71:1080#🇧🇩 Bangladesh | Anti-RKN
+socks4://203.18.159.164:80#🇧🇩 Bangladesh | Anti-RKN
 socks5://113.212.111.4:8090#🇧🇩 Bangladesh, Dhaka | Anti-RKN
-http://113.212.111.4:8090#🇧🇩 Bangladesh, Dhaka | Anti-RKN
-socks4://124.6.225.124:1088#🇧🇩 Bangladesh | Anti-RKN
+socks5://203.18.159.164:80#🇧🇩 Bangladesh | Anti-RKN

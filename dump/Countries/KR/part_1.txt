@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KR] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827400581
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 11:16:21
-# servers-count: 197
+# generated-at: 11/27/2026 12:31:22
+# servers-count: 188
 
 vless://cdb7d825-9892-4d6f-80b8-7add83159dac@43.108.48.169:40701?type=tcp&security=reality&fp=firefox&sni=amazon.com&pbk=TWuVILeiSXfCSMZPsqNHtRquNALPRaW5Z51I63zdLEA&sid=7ef3a8ab2886#🇰🇷 South Korea, Seoul | Anti-RKN
 ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ=@49.254.204.133:1774#🇰🇷 South Korea | Anti-RKN
@@ -18,10 +18,9 @@ ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ=@49.254.204.134:1774#🇰🇷 South Korea | Ant
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#🇰🇷 South Korea, Gangseo-gu | Anti-RKN
 vless://91d2a8f3-6eb0-4b6a-a8f7-0beabcf06fb7@8.220.198.29:443?security=reality&fp=firefox&sni=www.cloudflare.com&pbk=8hnBOcqsETW6u3TchfqlE0Y7wZ002v60fPlFM1qrww4&sid=ad9e6079&flow=xtls-rprx-vision#🇰🇷 South Korea, Seoul | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIENodW5jaGVvbiB8IEFudGktUktOIiwiYWRkIjoiMTQ2LjU2LjExMi4xMTAiLCJwb3J0IjoiODg4OCIsImlkIjoiZTdjMzAyZjMtOTBkNi00MmRkLTlkN2QtOTRhMzY4M2EzNzA3Iiwic2N5IjoiYXV0byJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsInBvcnQiOiI4MCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImtyMDIuYTBhLnh5eiIsInBhdGgiOiIvY2N0djEzLm0zdTgifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIENodW5jaGVvbiB8IEFudGktUktOIiwiYWRkIjoiMTI5LjE1NC42MS4xOTYiLCJwb3J0IjoiODAwIiwiaWQiOiJhOTE1YjFkNi1jZjI4LTRkYzgtZTRiNC1lMDljNDhjMzdlYzAiLCJzY3kiOiJhdXRvIn0=
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@168.107.36.135:443?type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#🇰🇷 South Korea, Chuncheon | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsInBvcnQiOiI4MCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiIyMTcuMTQyLjEzOC42MSIsInBvcnQiOiI4MCIsImlkIjoiYWMxYjkzM2QtYWZmZi00NDg3LTkzZWYtZjU3MTMwYTU1ZGZmIiwic2N5IjoiYXV0byIsInR5cGUiOiJodHRwIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIENodW5jaGVvbiB8IEFudGktUktOIiwiYWRkIjoiMTI5LjE1NC42MS4xOTYiLCJwb3J0IjoiODAwIiwiaWQiOiJhOTE1YjFkNi1jZjI4LTRkYzgtZTRiNC1lMDljNDhjMzdlYzAiLCJzY3kiOiJhdXRvIn0=
 trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?security=tls&fp=firefox#🇰🇷 South Korea, Seoul | Anti-RKN
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?type=ws&host=152.69.226.63#🇰🇷 South Korea, Chuncheon | Anti-RKN
 socks5://59.11.209.162:1080#🇰🇷 South Korea, Yongin-si | Anti-RKN
@@ -35,7 +34,8 @@ http://43.202.114.177:10101#🇰🇷 South Korea, Incheon | Anti-RKN
 vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&sid=ca193e889d958f81&flow=xtls-rprx-vision#🇰🇷 South Korea, Seoul | Anti-RKN
 trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?security=tls&fp=firefox&sni=154.90.62.70#🇰🇷 South Korea, Seoul | Anti-RKN
 http://101.79.22.162:80#🇰🇷 South Korea | Anti-RKN
-http://222.111.130.73:8080#🇰🇷 South Korea, Dongdaemun | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiIyMTcuMTQyLjEzOC42MSIsInBvcnQiOiI4MCIsImlkIjoiYWMxYjkzM2QtYWZmZi00NDg3LTkzZWYtZjU3MTMwYTU1ZGZmIn0=
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.234:4652#🇰🇷 South Korea, Seoul | Anti-RKN
 ss://YWVzLTI1Ni1nY206cXBvd2lfdmlwX3R1bm5lbF8yMDI2X3NlY3VyZQ==@211.233.33.228:8388#🇰🇷 South Korea | Anti-RKN
 trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@144.24.72.126:443?security=tls&fp=firefox#🇰🇷 South Korea, Chuncheon | Anti-RKN
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@221.155.202.236:8443?security=tls&fp=firefox#🇰🇷 South Korea, Paju | Anti-RKN
@@ -63,11 +63,8 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.176.226.26:8443?type=ws&security
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiIxMDQuMzcuMjE1LjEwMiIsInBvcnQiOiI0NDMiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwiaG9zdCI6Ind3dy4zMTczMzEwOS54eXoiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiIxMDQuMzcuMjE1LjgzIiwicG9ydCI6IjMwMDAwIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsImhvc3QiOiJ3d3cuMTkyODkyNDMueHl6IiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIEJ1c2FuIHwgQW50aS1SS04iLCJhZGQiOiI1Mi4yMzEuMjAwLjE3OSIsInBvcnQiOiI0NDMiLCJpZCI6IjI3NGYxMWM2LWY2OWItNDBiOS04OTY2LWYzOWUwNmU5N2JlNyIsIm5ldCI6IndzIiwiaG9zdCI6ImZ1bGxhY2Nlc3N0b2tvcmVhbm5ldHN1Ym5vZGUxLmF6dXJld2Vic2l0ZXMubmV0IiwicGF0aCI6Ii93cyIsInRscyI6InRscyIsInNuaSI6ImZ1bGxhY2Nlc3N0b2tvcmVhbm5ldHN1Ym5vZGUxLmF6dXJld2Vic2l0ZXMubmV0IiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiIxMDQuMzcuMjE1LjY3IiwicG9ydCI6IjMwMDAxIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiIxMDQuMzcuMjE1Ljc0IiwicG9ydCI6IjMwMDA0IiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiIxMDcuMTQ4LjcwLjc5IiwicG9ydCI6IjMwMDAyIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoid3d3LjkxMzk3NTkyLnh5eiIsInBhdGgiOiIvcGF0aC8zNTEyMTIwODE1MTciLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuOTEzOTc1OTIueHl6IiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIEluY2hlb24gfCBBbnRpLVJLTiIsImFkZCI6IjMuMzcuMTc0LjEzMSIsInBvcnQiOiIxNjY0OCIsImlkIjoiOTA0ZjA1NjktODY5NS00NjZmLTk3Y2YtMGRlMmZhY2UxYjQ2Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImY5MzA5Y2M4ODYzN2MyNmY1NTJhMWE2NGZiMzExY2FlLm1vYmdzbGIudGJjYWNoZS5jb20ifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIEluY2hlb24gfCBBbnRpLVJLTiIsImFkZCI6IjMuMzcuMTc0LjEzMSIsInBvcnQiOiIxNjYxNiIsImlkIjoiOTA0ZjA1NjktODY5NS00NjZmLTk3Y2YtMGRlMmZhY2UxYjQ2Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImY5MzA5Y2M4ODYzN2MyNmY1NTJhMWE2NGZiMzExY2FlLm1vYmdzbGIudGJjYWNoZS5jb20ifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiIxNTIuNzAuMjMyLjE1MSIsInBvcnQiOiI0NDMiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJlMTMwOTE3Yy0xYjU4LTQxMzYtYjJkOS03NmRjOTIwZTBhZGQuYWRkOTdlZTgtMGYxNC00OGEzLWIyY2QtOTc5YzU2NzQyZTY0Lmxvc2V5b3VyaXAuY29tIiwidGxzIjoidGxzIiwic25pIjoiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiIxOTMuMTIyLjExOS42NCIsInBvcnQiOiI4MCIsImlkIjoiZmEwNzAyZjQtOGVjOS00OGU1LTliNTMtYTBhZmI3YzM3MTdlIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImRtLnRvdXRpYW8uY29tIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiI2NC4xMTAuOTEuMTMiLCJwb3J0IjoiNDQzIiwiaWQiOiI3YjhjMzcwZC04NjEwLTQ5ODgtYjBhNy1jZGU3NGFhMDcxM2IiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoid3d3LmFwdWxuaW9uLmNvbSIsInBhdGgiOiIvNThhNTM0MmY3YS8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuYXB1bG5pb24uY29tIiwiZnAiOiJmaXJlZm94In0=
@@ -75,24 +72,28 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04i
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiI0My4xMDguMTExLjk3IiwicG9ydCI6IjQ0MyIsImlkIjoiMTBkNjY2NWYtMTBjOS00ZjAzLTliODMtYmE0NTk2OGY3NDhkIiwibmV0Ijoid3MiLCJob3N0IjoiNEtuUFJ3NUg3NHc0QVZOcy52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiI0My4xMDguOTYuMjMxIiwicG9ydCI6IjQ0MyIsImlkIjoiMWQ4NGU0ODAtOGZkMi00ZmFlLTk2ZGUtZTQ2ZmUzNmZmZTg2IiwibmV0Ijoid3MiLCJob3N0IjoiSkJRNGRQRFB1SkZ6ajRLVi52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiI0My4xMDguOTYuMjMxIiwicG9ydCI6IjQ0MyIsImlkIjoiMWQ4NGU0ODAtOGZkMi00ZmFlLTk2ZGUtZTQ2ZmUzNmZmZTg2Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6IkpCUTRkUERQdUpGemo0S1Yudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJKQlE0ZFBEUHVKRnpqNEtWLnYuM2Rucy52aXAiLCJmcCI6ImZpcmVmb3gifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiI0My4xMDguMzUuMTc5IiwicG9ydCI6IjQ0MyIsImlkIjoiZWZlODJlYmMtNDZiMy00MjQyLWI2MTItYjY1MmI4ZmJjODcwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6IldJRGt6YXZ4d3dqaVhzTmsudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJXSURremF2eHd3amlYc05rLnYuM2Rucy52aXAiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiI0My4xMDguNDAuMTI3IiwicG9ydCI6IjQ0MyIsImlkIjoiYjg5YjcwMmItMzFlZi00ZjZhLTg1ZGYtYzI2NDc5NWE5ODdiIiwibmV0Ijoid3MiLCJob3N0IjoiYmFCZkdHbGhqczg2YVR4Wi52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiI0My4xMDguMTUuMzkiLCJwb3J0IjoiNDQzIiwiaWQiOiJhZDg2ODVmMi01ZDE3LTQxMWUtODU1Yy0xY2MyZWQ1MTQ0YTkiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiendSY2Y3OUdFeGQxM1ZHSC52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6Inp3UmNmNzlHRXhkMTNWR0gudi4zZG5zLnZpcCIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiI0My4xMDguOTIuNTIiLCJwb3J0IjoiNDQzIiwiaWQiOiJhMjYzYmQ2Ni04MjhmLTQ1ZWUtOTE5Ny1mZmM4MDFhYjAxOWMiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiSVNyb0lzdUFHRlNUUGtQSi52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IklTcm9Jc3VBR0ZTVFBrUEoudi4zZG5zLnZpcCIsImZwIjoiZmlyZWZveCJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFNlb3VsIHwgQW50aS1SS04iLCJhZGQiOiI0My4xMDguMzUuMTc5IiwicG9ydCI6IjQ0MyIsImlkIjoiZWZlODJlYmMtNDZiMy00MjQyLWI2MTItYjY1MmI4ZmJjODcwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6IldJRGt6YXZ4d3dqaVhzTmsudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJXSURremF2eHd3amlYc05rLnYuM2Rucy52aXAiLCJmcCI6ImZpcmVmb3gifQ==
 socks5://183.106.215.208:1080#🇰🇷 South Korea, Yeongyang-gun | Anti-RKN
 socks5://43.108.84.178:1080#🇰🇷 South Korea, Seoul | Anti-RKN
 https://152.69.230.221:443#🇰🇷 South Korea, Chuncheon | Anti-RKN
 https://123.108.164.102:443#🇰🇷 South Korea, Seoul | Anti-RKN
 https://123.108.164.103:443#🇰🇷 South Korea, Seoul | Anti-RKN
+https://13.209.65.136:4473#🇰🇷 South Korea, Incheon | Anti-RKN
+https://54.117.6.131:33276#🇰🇷 South Korea, Incheon | Anti-RKN
+socks4://43.108.34.208:1080#🇰🇷 South Korea, Seoul | Anti-RKN
 http://8.213.151.128:3128#🇰🇷 South Korea, Seoul | Anti-RKN
 socks4://183.106.215.208:1080#🇰🇷 South Korea, Yeongyang-gun | Anti-RKN
+http://61.111.251.68:80#🇰🇷 South Korea | Anti-RKN
 socks5://43.108.46.4:9050#🇰🇷 South Korea, Seoul | Anti-RKN
 socks5://8.220.204.215:9200#🇰🇷 South Korea, Seoul | Anti-RKN
 socks5://8.220.204.215:31433#🇰🇷 South Korea, Seoul | Anti-RKN
 socks5://8.220.204.215:1080#🇰🇷 South Korea, Seoul | Anti-RKN
 socks5://8.213.134.213:18080#🇰🇷 South Korea, Seoul | Anti-RKN
 socks5://8.213.134.213:1000#🇰🇷 South Korea, Seoul | Anti-RKN
-socks5://43.155.215.149:20000#🇰🇷 South Korea, Seoul | Anti-RKN
+socks5://58.234.114.199:1080#🇰🇷 South Korea, Hwaseong-si | Anti-RKN
 socks5://8.220.204.92:55443#🇰🇷 South Korea, Seoul | Anti-RKN
 socks5://8.220.204.92:30001#🇰🇷 South Korea, Seoul | Anti-RKN
 socks5://8.220.205.172:9020#🇰🇷 South Korea, Seoul | Anti-RKN
@@ -104,24 +105,22 @@ socks5://158.247.231.94:1080#🇰🇷 South Korea, Seoul | Anti-RKN
 socks5://121.133.16.56:1080#🇰🇷 South Korea, Gangdong-gu | Anti-RKN
 socks5://182.231.145.236:1080#🇰🇷 South Korea, Yangcheon-gu | Anti-RKN
 socks5://146.56.158.84:22222#🇰🇷 South Korea, Seoul | Anti-RKN
-http://121.154.140.226:9898#🇰🇷 South Korea, Koch'ang | Anti-RKN
-http://8.213.134.213:4145#🇰🇷 South Korea, Seoul | Anti-RKN
-http://54.117.6.131:1714#🇰🇷 South Korea, Incheon | Anti-RKN
-http://140.245.66.105:8081#🇰🇷 South Korea, Chuncheon | Anti-RKN
-http://8.220.204.92:18080#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.156.191:808#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.156.191:1080#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.128.6:82#🇰🇷 South Korea, Seoul | Anti-RKN
-http://43.202.114.177:2255#🇰🇷 South Korea, Incheon | Anti-RKN
-http://8.213.156.191:50#🇰🇷 South Korea, Seoul | Anti-RKN
-http://221.153.92.39:80#🇰🇷 South Korea, Anyang-si | Anti-RKN
-http://8.213.128.6:20002#🇰🇷 South Korea, Seoul | Anti-RKN
+http://54.117.6.131:8322#🇰🇷 South Korea, Incheon | Anti-RKN
+http://8.213.156.191:8081#🇰🇷 South Korea, Seoul | Anti-RKN
 http://8.213.128.6:8090#🇰🇷 South Korea, Seoul | Anti-RKN
-http://183.106.215.208:1080#🇰🇷 South Korea, Yeongyang-gun | Anti-RKN
-socks4://59.11.209.162:1080#🇰🇷 South Korea, Yongin-si | Anti-RKN
-socks4://43.155.215.149:20000#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.128.6:8080#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.220.204.92:12000#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.213.128.6:55443#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.213.128.6:8014#🇰🇷 South Korea, Seoul | Anti-RKN
 http://59.11.209.162:1080#🇰🇷 South Korea, Yongin-si | Anti-RKN
+http://8.213.134.213:10000#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.213.156.191:8008#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.213.156.191:808#🇰🇷 South Korea, Seoul | Anti-RKN
+http://54.117.6.131:45079#🇰🇷 South Korea, Incheon | Anti-RKN
+http://221.157.45.249:80#🇰🇷 South Korea, Daegu | Anti-RKN
+http://43.202.114.177:2255#🇰🇷 South Korea, Incheon | Anti-RKN
+socks4://59.11.209.162:1080#🇰🇷 South Korea, Yongin-si | Anti-RKN
+http://8.213.128.6:8080#🇰🇷 South Korea, Seoul | Anti-RKN
+http://183.106.215.208:1080#🇰🇷 South Korea, Yeongyang-gun | Anti-RKN
 http://43.108.84.178:1080#🇰🇷 South Korea, Seoul | Anti-RKN
 http://43.108.46.4:9050#🇰🇷 South Korea, Seoul | Anti-RKN
 http://8.220.204.215:9200#🇰🇷 South Korea, Seoul | Anti-RKN
@@ -129,24 +128,22 @@ http://8.220.204.215:31433#🇰🇷 South Korea, Seoul | Anti-RKN
 http://8.220.204.215:1080#🇰🇷 South Korea, Seoul | Anti-RKN
 http://8.213.134.213:18080#🇰🇷 South Korea, Seoul | Anti-RKN
 http://8.213.134.213:1000#🇰🇷 South Korea, Seoul | Anti-RKN
-http://43.155.215.149:20000#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.220.205.172:9000#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.134.213:9091#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.134.213:9098#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.156.191:85#🇰🇷 South Korea, Seoul | Anti-RKN
-http://54.117.6.131:45079#🇰🇷 South Korea, Incheon | Anti-RKN
-http://8.213.128.6:443#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.134.213:20#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.134.213:20002#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.128.6:999#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.128.6:4000#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.134.213:89#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.128.6:80#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.134.213:6666#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.128.6:993#🇰🇷 South Korea, Seoul | Anti-RKN
+http://58.234.114.199:1080#🇰🇷 South Korea, Hwaseong-si | Anti-RKN
+http://8.220.204.92:55443#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.220.204.92:30001#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.220.205.172:9020#🇰🇷 South Korea, Seoul | Anti-RKN
 http://8.220.204.215:80#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.128.6:804#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.128.6:10001#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.220.204.92:18080#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.213.128.6:82#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.220.204.215:8080#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.220.204.215:8443#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.213.134.213:1111#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.213.134.213:4145#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.220.204.92:6379#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.220.204.92:8443#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.220.204.92:8091#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.220.204.92:100#🇰🇷 South Korea, Seoul | Anti-RKN
+http://125.141.133.49:5566#🇰🇷 South Korea, Gwanak-gu | Anti-RKN
 http://8.220.204.92:19#🇰🇷 South Korea, Seoul | Anti-RKN
 socks4://8.220.205.172:9000#🇰🇷 South Korea, Seoul | Anti-RKN
 socks4://8.213.134.213:9091#🇰🇷 South Korea, Seoul | Anti-RKN
@@ -186,21 +183,15 @@ socks5://8.213.134.213:55443#🇰🇷 South Korea, Seoul | Anti-RKN
 socks5://125.141.133.49:5566#🇰🇷 South Korea, Gwanak-gu | Anti-RKN
 socks5://8.213.156.191:194#🇰🇷 South Korea, Seoul | Anti-RKN
 socks5://8.213.151.128:3128#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.220.204.92:6379#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.220.205.172:9000#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.213.134.213:9091#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.213.134.213:9098#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.213.134.213:20002#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.213.134.213:6666#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.213.128.6:10001#🇰🇷 South Korea, Seoul | Anti-RKN
 http://8.220.205.172:11443#🇰🇷 South Korea, Seoul | Anti-RKN
 http://8.220.205.172:3129#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.156.191:8081#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.128.6:55443#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.156.191:8008#🇰🇷 South Korea, Seoul | Anti-RKN
 http://8.213.156.191:199#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.134.213:1111#🇰🇷 South Korea, Seoul | Anti-RKN
 http://8.213.134.213:55443#🇰🇷 South Korea, Seoul | Anti-RKN
 http://8.213.156.191:194#🇰🇷 South Korea, Seoul | Anti-RKN
-socks4://8.220.204.215:43#🇰🇷 South Korea, Seoul | Anti-RKN
-socks4://8.220.204.215:31433#🇰🇷 South Korea, Seoul | Anti-RKN
-socks4://8.220.204.215:4002#🇰🇷 South Korea, Seoul | Anti-RKN
-socks4://8.220.204.215:80#🇰🇷 South Korea, Seoul | Anti-RKN
-http://8.213.156.191:443#🇰🇷 South Korea, Seoul | Anti-RKN
-socks4://8.213.156.191:85#🇰🇷 South Korea, Seoul | Anti-RKN
-socks5://8.220.205.172:30001#🇰🇷 South Korea, Seoul | Anti-RKN
-socks5://8.220.205.172:3749#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.220.205.172:1337#🇰🇷 South Korea, Seoul | Anti-RKN

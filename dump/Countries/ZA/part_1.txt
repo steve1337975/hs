@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [ZA] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827400581
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 11:16:21
-# servers-count: 35
+# generated-at: 11/27/2026 12:31:22
+# servers-count: 32
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🇿🇦 South Africa, Johannesburg | Anti-RKN
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls&fp=firefox&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com#🇿🇦 South Africa, Isando | Anti-RKN
@@ -16,7 +16,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkeDV6MmJ6cG4wdFRwWXp2@102.37.97.69:443#🇿�
 http://13.245.161.189:5796#🇿🇦 South Africa, Cape Town | Anti-RKN
 http://16.28.32.67:9123#🇿🇦 South Africa, Cape Town | Anti-RKN
 http://13.245.161.189:40873#🇿🇦 South Africa, Cape Town | Anti-RKN
-socks5://102.211.132.75:1080#🇿🇦 South Africa | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#🇿🇦 South Africa, Johannesburg | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWGhOeGlqQXZ5S0prbEM4@20.87.212.8:443#🇿🇦 South Africa, Johannesburg | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNlVxQWI0MTMweWNNN3FN@20.164.212.146:443#🇿🇦 South Africa, Johannesburg | Anti-RKN
@@ -36,9 +35,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hv/Cfh6YgU291dGggQWZyaWNhLCBDYXBlIFRvd24gfCBBbnRp
 https://129.151.160.199:443#🇿🇦 South Africa, Johannesburg | Anti-RKN
 https://196.21.109.82:443#🇿🇦 South Africa, Alice | Anti-RKN
 https://196.21.187.115:443#🇿🇦 South Africa | Anti-RKN
-http://20.33.10.79:443#🇿🇦 South Africa, Johannesburg | Anti-RKN
-http://160.119.51.209:8088#🇿🇦 South Africa, Cape Town | Anti-RKN
-http://147.161.162.14:11080#🇿🇦 South Africa, Johannesburg | Anti-RKN
-http://13.245.183.150:18776#🇿🇦 South Africa, Cape Town | Anti-RKN
-socks4://102.215.245.6:4153#🇿🇦 South Africa, Johannesburg | Anti-RKN
-http://41.57.136.174:8080#🇿🇦 South Africa, Pretoria | Anti-RKN
+https://16.28.32.67:13604#🇿🇦 South Africa, Cape Town | Anti-RKN
+http://20.33.10.79:9480#🇿🇦 South Africa, Johannesburg | Anti-RKN
+http://196.251.222.170:1080#🇿🇦 South Africa, Brits | Anti-RKN
+socks4://160.226.220.30:1080#🇿🇦 South Africa, Bloemfontein | Anti-RKN

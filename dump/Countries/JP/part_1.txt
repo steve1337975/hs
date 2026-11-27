@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [JP] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405567
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:31:22
-# servers-count: 401
+# generated-at: 11/27/2026 12:39:27
+# servers-count: 368
 
 vless://7a87d516-058e-495a-bc09-e527178639b4@140.238.55.215:46935?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=yahoo.com&pbk=MmzrzoNr4muOhgi1ZAmzHbuciiKTWeu3hoi66Rp8Ai4&sid=e582410c5e3ccd68&flow=xtls-rprx-vision#🇯🇵 Japan, Inzai | Anti-RKN
 vless://7a87d516-058e-495a-bc09-e527178639b4@140.238.55.215:46935?type=tcp&security=reality&fp=firefox&sni=yahoo.com&pbk=MmzrzoNr4muOhgi1ZAmzHbuciiKTWeu3hoi66Rp8Ai4&sid=e582410c5e3ccd68&flow=xtls-rprx-vision#🇯🇵 Japan, Inzai | Anti-RKN
@@ -20,20 +20,10 @@ ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.7.248:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.7.48:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.217:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.19.169:5555#🇯🇵 Japan, Tokyo | Anti-RKN
-vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@34.84.103.229:43118?type=tcp&security=reality&fp=firefox&sni=v1-dy.ixigua.com&pbk=p0crO-ZNRjb07T_GGy9JdkXTjei3-D9f6s2ZzCo2gx8&sid=1a70fe8d4b05&flow=xtls-rprx-vision#🇯🇵 Japan, Tokyo | Anti-RKN
-vless://4159303d-25f1-45ff-98f9-7875dd291fbc@13.113.238.66:443?type=tcp&security=reality&fp=firefox&sni=www.bandainamcoent.co.jp&pbk=qkSw1mYeebLzLGFAxnSu0CuNaSQXdhR-doksZoqEniA&sid=d493b199be265162&flow=xtls-rprx-vision#🇯🇵 Japan, Tokyo | Anti-RKN
-ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.2.13:5555#🇯🇵 Japan, Tokyo | Anti-RKN
-ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.18.249:5555#🇯🇵 Japan, Tokyo | Anti-RKN
-vless://8840fac2-5361-4cb6-b887-cd1b95092394@50.7.159.242:443?security=tls&fp=firefox&sni=jp.reddotcorp.org#🇯🇵 Japan, Tokyo | Anti-RKN
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.6.223:5555#🇯🇵 Japan, Tokyo | Anti-RKN
-ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.16.50:5555#🇯🇵 Japan, Tokyo | Anti-RKN
+vless://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@109.61.109.28:443?type=tcp&security=reality&fp=firefox&sni=jp.cloude.one&pbk=PYz9lZZb4mGkYpokD8TyPR1iXzBThEwI-S5RHXfjG1w&sid=e9f4872efa1c4415&flow=xtls-rprx-vision#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@34.84.103.229:33161?type=tcp&security=reality&fp=firefox&sni=v1-dy.ixigua.com&pbk=BECARsUsTAoGzHFcGEquyFHKnI_LVL5FL6s1jZbLhVk&sid=6dbd86dc61ccb46d&flow=xtls-rprx-vision#🇯🇵 Japan, Tokyo | Anti-RKN
-vless://4159303d-25f1-45ff-98f9-7875dd291fbc@54.178.18.65:443?type=tcp&security=reality&fp=firefox&sni=www.bandainamcoent.co.jp&pbk=HtrHyKJvjeh9xNVlNXidqFra8n_DhlL8EGu4ERst8QI&sid=d493b199be265162&flow=xtls-rprx-vision#🇯🇵 Japan, Tokyo | Anti-RKN
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.174.191:5555#🇯🇵 Japan, Tokyo | Anti-RKN
-ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.15.111:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@54.150.132.91:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://8840fac2-5361-4cb6-b887-cd1b95092394@50.7.159.242:443?type=tcp&security=tls&fp=firefox&sni=jp.reddotcorp.org#🇯🇵 Japan, Tokyo | Anti-RKN
-hysteria2://36187bef1c708c82fd4099b9d70116ffd8c0f1f5bfd19cbb319eeb67899714f6@156.246.93.237:443?sni=jpk.wentibuxiaobuda.xyz&allowInsecure=1#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.5.230:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.245.25:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://57715fc4-f787-4e90-9eb2-53fa515fbf37@207.65.189.9:443?type=ws&security=tls&fp=firefox&host=spsudu.pages.dev#🇯🇵 Japan, Minato | Anti-RKN
@@ -43,6 +33,7 @@ ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.15.175:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://d508df52-3acb-483f-85d2-3fd5f6a76808@151.242.164.51:443?type=tcp&security=reality&fp=firefox&sni=buybox.amazon.com&pbk=dtNeCNIcRgs8_EKIJg_oTJEsiA8KBU-QaE1yVpkoX0I&sid=2c92d6&flow=xtls-rprx-vision#🇯🇵 Japan | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.16.98:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.18.170:5555#🇯🇵 Japan, Tokyo | Anti-RKN
+vless://4159303d-25f1-45ff-98f9-7875dd291fbc@54.178.18.65:443?type=tcp&security=reality&fp=firefox&sni=www.bandainamcoent.co.jp&pbk=HtrHyKJvjeh9xNVlNXidqFra8n_DhlL8EGu4ERst8QI&sid=d493b199be265162&flow=xtls-rprx-vision#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.11.25:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://4159303d-25f1-45ff-98f9-7875dd291fbc@35.78.178.27:443?type=tcp&security=reality&fp=firefox&sni=www.capcom.co.jp&pbk=3yorIs_psiYbIeESwMdne5mPe2JVzeNOpDa2IJxQ-Es&sid=d493b199be265162&flow=xtls-rprx-vision#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.27.11:5555#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -52,18 +43,23 @@ ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.17.86:6666#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.221.183:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.253.213:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.174.60:5555#🇯🇵 Japan, Tokyo | Anti-RKN
+ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.2.13:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.24.29:5555#🇯🇵 Japan, Tokyo | Anti-RKN
+vless://4159303d-25f1-45ff-98f9-7875dd291fbc@13.113.238.66:443?type=tcp&security=reality&fp=firefox&sni=www.bandainamcoent.co.jp&pbk=qkSw1mYeebLzLGFAxnSu0CuNaSQXdhR-doksZoqEniA&sid=d493b199be265162&flow=xtls-rprx-vision#🇯🇵 Japan, Tokyo | Anti-RKN
+vless://8840fac2-5361-4cb6-b887-cd1b95092394@50.7.159.242:443?security=tls&fp=firefox&sni=jp.reddotcorp.org#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@62.106.75.37:443?type=ws&security=tls&fp=firefox&sni=jp3.yohototo.top#🇯🇵 Japan, Tokyo | Anti-RKN
-vless://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@109.61.109.28:443?security=reality&fp=firefox&sni=jp.cloude.one&pbk=PYz9lZZb4mGkYpokD8TyPR1iXzBThEwI-S5RHXfjG1w&sid=e9f4872efa1c4415&flow=xtls-rprx-vision#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.5.89:5555#🇯🇵 Japan, Tokyo | Anti-RKN
+ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.16.50:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=8.209.247.109#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.17.52:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.16.102:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.198.176:5555#🇯🇵 Japan, Tokyo | Anti-RKN
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.174.191:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.132.94:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.3.160:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?type=tcp&security=reality&fp=firefox&sni=www.microsoft.com&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0&flow=xtls-rprx-vision#🇯🇵 Japan, Inzai | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.154.126:5555#🇯🇵 Japan, Tokyo | Anti-RKN
+ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.18.249:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.49.154:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.129.80:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@185.200.66.193:443?type=ws&security=tls&fp=firefox&sni=jp3.yohototo.top#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -84,14 +80,17 @@ ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.18.173:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.10.204:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.40.77:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.130.59:5555#🇯🇵 Japan, Tokyo | Anti-RKN
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.8.176:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.249.205:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.128.146:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.41:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?type=tcp&security=reality&fp=firefox&sni=fuji.etherhub.cc&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&sid=bd6f67b6b2152b45&flow=xtls-rprx-vision#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://7a87d516-058e-495a-bc09-e527178639b4@140.238.55.215:46935?security=reality&fp=firefox&sni=yahoo.com&pbk=MmzrzoNr4muOhgi1ZAmzHbuciiKTWeu3hoi66Rp8Ai4&sid=e582410c5e3ccd68&flow=xtls-rprx-vision#🇯🇵 Japan, Inzai | Anti-RKN
+ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.15.111:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.245.42.226:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.8.0:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.31.150:5555#🇯🇵 Japan, Tokyo | Anti-RKN
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.6.223:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.18.167:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.8.135:5555#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -105,7 +104,6 @@ ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.196.11:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.245.40.193:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.74.9.21:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.18.202:5555#🇯🇵 Japan, Tokyo | Anti-RKN
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.4.158:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.236.164:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.18.189:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.142:5555#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -120,8 +118,10 @@ ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.14.14:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.151:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@47.91.29.60:5555#🇯🇵 Japan, Tokyo | Anti-RKN
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.154:5555#🇯🇵 Japan, Tokyo | Anti-RKN
+vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@34.84.103.229:43118?type=tcp&security=reality&fp=firefox&sni=v1-dy.ixigua.com&pbk=p0crO-ZNRjb07T_GGy9JdkXTjei3-D9f6s2ZzCo2gx8&sid=1a70fe8d4b05&flow=xtls-rprx-vision#🇯🇵 Japan, Tokyo | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIE9zYWthIHwgQW50aS1SS04iLCJhZGQiOiIxNjEuMzMuMjAuMjU1IiwicG9ydCI6Ijg4ODAiLCJpZCI6ImUwODU2NTA4LWQ2OTMtNDUwYS1hMDk5LTQ1NTA5MWRjNGYyNSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvZTA4NTY1MDgtZDY5My00NTBhLWEwOTktNDU1MDkxZGM0ZjI1LXZtIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIE9zYWthIHwgQW50aS1SS04iLCJhZGQiOiIxNjEuMzMuMjAuMjU1IiwicG9ydCI6Ijg4ODAiLCJpZCI6ImUwODU2NTA4LWQ2OTMtNDUwYS1hMDk5LTQ1NTA5MWRjNGYyNSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiJlMDg1NjUwOC1kNjkzLTQ1MGEtYTA5OS00NTUwOTFkYzRmMjUtdm0ifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIE9zYWthIHwgQW50aS1SS04iLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiTm9uZSIsInBhdGgiOiIvY2N0djEzLm0zdTgifQ==
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 Japan, Tokyo | Anti-RKN
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@64.118.147.6:443?security=tls&fp=firefox&sni=nu3rb.supertoolify.com#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@103.201.131.202:2053?type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -143,7 +143,6 @@ http://13.208.246.143:46020#🇯🇵 Japan, Osaka | Anti-RKN
 vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=www.microsoft.com&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0&flow=xtls-rprx-vision#🇯🇵 Japan, Inzai | Anti-RKN
 vless://76f1ce49-bcea-4680-b9ef-16592269445b@172.105.216.21:443?type=ws&security=reality&fp=firefox&sni=itunes.apple.com&pbk=Mjv5qe_CrvfHdVwgtyqYbqPesZ-1oko2XYg3dguzvxg&sid=c29f9af4&path=%2fws#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@185.200.66.193:443?type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#🇯🇵 Japan, Tokyo | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIE9zYWthIHwgQW50aS1SS04iLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoibm9uZSIsInBhdGgiOiIvY2N0djEzLm0zdTgifQ==
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@62.106.75.37:443?type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://92e8d9dc-8e3b-4f81-a278-d18c6bf1b962@167.179.106.168:443?type=ws&security=tls&fp=firefox&host=app-base-njw3ky.pages.dev&sni=app-base-njw3ky.pages.dev&path=%2fws%3fip%3d167.179.106.168%3a443#🇯🇵 Japan, Minamishinagawa | Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@185.222.43.175:443?type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -152,7 +151,6 @@ vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@62.106.75.2:443?type=ws&security=tl
 vless://92e8d9dc-8e3b-4f81-a278-d18c6bf1b962@154.19.187.5:443?type=ws&security=tls&fp=firefox&host=app-base-njw3ky.pages.dev&sni=app-base-njw3ky.pages.dev&path=%2fws%3fip%3d154.19.187.5%3a443#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.66.129.128:443?type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://1e709d98-d4c3-45c1-bdcc-4268cf83eff8@139.162.101.74:443?type=ws&security=reality&fp=firefox&sni=itunes.apple.com&pbk=jd8UNLpim43LVV-iEzIXlUgTVuvi9Pf7E0kgQb3o0CI&sid=7e1e09f4&path=%2fws#🇯🇵 Japan, Tokyo | Anti-RKN
-https://14.137.237.91:443#🇯🇵 Japan | Anti-RKN
 vless://dfa9bd91-35ad-4163-bf32-eaaaab64a043@151.242.164.51:443?type=tcp&security=reality&fp=firefox&sni=intel.com&pbk=2gEyCa4p40rmut61LN-jwQDEOW5JZGZImU92WOXOcnQ&sid=ac1b79beb059f1d6&flow=xtls-rprx-vision#🇯🇵 Japan | Anti-RKN
 vless://980df025-74b9-4853-93e8-fb813006d7e5@203.137.165.164:57554?type=ws&security=tls&fp=firefox&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&path=%2f%40Marisa_kristi#🇯🇵 Japan, Shirakawa | Anti-RKN
 vless://92e8d9dc-8e3b-4f81-a278-d18c6bf1b962@212.192.221.107:443?type=ws&security=tls&fp=firefox&host=app-base-njw3ky.pages.dev&sni=app-base-njw3ky.pages.dev&path=%2fws%3fip%3d212.192.221.107%3a443#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -165,11 +163,9 @@ vless://c8c9b995-b4b9-4915-9c7d-dee94aa733ba@172.105.203.15:443?type=ws&security
 vless://5e6575a1-459c-4077-ac3d-92dea966ad7c@139.162.91.137:443?type=ws&security=reality&fp=firefox&sni=itunes.apple.com&pbk=4LfX16VwHkHQzoZ04o2VnO85N1o_Y8OcoJwfYdfaIGw&sid=0c0c806b&path=%2fws#🇯🇵 Japan, Tokyo | Anti-RKN
 hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=8.209.247.109&allowInsecure=1#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://paZFN3JA:EGJDy5Kg@103.248.150.50:42000#🇯🇵 Japan | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIE9zYWthIHwgQW50aS1SS04iLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4In0=
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://103.13.19.219:10808#🇯🇵 Japan | Anti-RKN
 http://15.152.38.117:12984#🇯🇵 Japan, Osaka | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIE9zYWthIHwgQW50aS1SS04iLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJuZXQiOiJ3cyIsImhvc3QiOiJqcDAxLmEwYS54eXoiLCJwYXRoIjoiL2NjdHYxMy5tM3U4In0=
 vless://1f08d52f-126e-46e3-929a-4b6a58e21168@172.105.212.91:443?type=ws&security=reality&fp=firefox&sni=itunes.apple.com&pbk=jb8kqeM_3z0NW3huxWLD0ma2eUCFRsiwapF9I_O3Ei8&sid=17676229&path=%2fws#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://8cfdacf8-e781-42f0-9872-8d1d22469de5@139.162.91.247:443?type=ws&security=reality&fp=firefox&sni=itunes.apple.com&pbk=_gFFckW3h8hFfllawgec9U2PDBeLJeCK_Jgk1S5tgC8&sid=536d7739&path=%2fws#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@131.143.214.224:443?type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -187,7 +183,6 @@ socks5://43.133.21.24:3001#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@62.106.70.68:443?type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://81f4e114-5a60-41b5-9038-8d742380c84f@172.105.197.24:443?type=ws&security=reality&fp=firefox&sni=itunes.apple.com&pbk=EfNOl6-YAuW-WSg7Op-1YOqKZV9emIuLwH8YPhzc7ms&sid=772bef67&path=%2fws#🇯🇵 Japan, Tokyo | Anti-RKN
 vless://92e8d9dc-8e3b-4f81-a278-d18c6bf1b962@13.230.247.88:443?type=ws&security=tls&fp=firefox&host=app-base-njw3ky.pages.dev&sni=app-base-njw3ky.pages.dev&path=%2fws%3fip%3d13.230.247.88%3a443#🇯🇵 Japan, Tokyo | Anti-RKN
-vless://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@109.61.109.28:443?type=tcp&security=reality&fp=firefox&sni=jp.cloude.one&pbk=PYz9lZZb4mGkYpokD8TyPR1iXzBThEwI-S5RHXfjG1w&sid=e9f4872efa1c4415&flow=xtls-rprx-vision#🇯🇵 Japan, Tokyo | Anti-RKN
 trojan://14bdba6dede262387ebdebaa706e1c90@153.125.148.41:443?security=tls&fp=firefox#🇯🇵 Japan | Anti-RKN
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@64.118.146.255:443?security=tls&fp=firefox&sni=nu2rb.supertoolify.com#🇯🇵 Japan, Tokyo | Anti-RKN
 trojan://5a2c16f9@138.2.59.96:10129?security=tls&fp=firefox&sni=snippets.kkii.eu.org#🇯🇵 Japan, Osaka | Anti-RKN
@@ -241,53 +236,34 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQi
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIE9zYWthIHwgQW50aS1SS04iLCJhZGQiOiI0MC43NC4xMDAuMTI5IiwicG9ydCI6IjQ0MyIsImlkIjoiMjc0ZjExYzYtZjY5Yi00MGI5LTg5NjYtZjM5ZTA2ZTk3YmU3IiwibmV0Ijoid3MiLCJob3N0IjoiZnVsbGFjY2Vzc3RvamFwYW5uZXRzdWJub2RlMS5henVyZXdlYnNpdGVzLm5ldCIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmdWxsYWNjZXNzdG9qYXBhbm5ldHN1Ym5vZGUxLmF6dXJld2Vic2l0ZXMubmV0IiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiIzNS43OC4xMjAuODEiLCJwb3J0IjoiMTI4ODkiLCJpZCI6IjQ5NDFhYThkLTA3ZDItNDA4Yy1iZTJjLTExN2RlYmVjYmEzMCIsIm5ldCI6IndzIiwiaG9zdCI6Imd0bTEua3Rtd2FuLm5ldCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiIyMTAuMTM4LjM3LjUzIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjctYzFmOS00MzczLTg3NmMtMmY0M2U5Zjc5MGYzIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6IkRyQktnMTZlR2YzRlpsTTMudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJEckJLZzE2ZUdmM0ZabE0zLnYuM2Rucy52aXAiLCJmcCI6ImZpcmVmb3gifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiIyMTIuMTM1LjIxMS4yNDIiLCJwb3J0IjoiNDQzIiwiaWQiOiIxYzNmYjFjMC0xMjA0LTQ5ZGItYjg0Mi1mNzJkNTBmMDE0YzEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiYXVzLmxvdmVoay54eXoiLCJwYXRoIjoiL1N5ZG5leTMiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiI4LjIwOS4yMDIuMzAiLCJwb3J0IjoiNDQzIiwiaWQiOiJiNjY0Y2MzNi00ODk2LTQ1NGItYmI5Yy0xMzc3Yzc2MTc2ZGUiLCJuZXQiOiJ3cyIsImhvc3QiOiI0ZGhnam8ydDlhbmNpcXBrLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiNGRoZ2pvMnQ5YW5jaXFway52LjNkbnMudmlwIiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIEluemFpIHwgQW50aS1SS04iLCJhZGQiOiIxMzEuMTg2LjU3LjExMSIsInBvcnQiOiI0NDMiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJlMTMwOTE3Yy0xYjU4LTQxMzYtYjJkOS03NmRjOTIwZTBhZGQuYWRkOTdlZTgtMGYxNC00OGEzLWIyY2QtOTc5YzU2NzQyZTY0Lmxvc2V5b3VyaXAuY29tIiwidGxzIjoidGxzIiwic25pIjoiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIE9zYWthIHwgQW50aS1SS04iLCJhZGQiOiIxNzIuMjMzLjkyLjE1NSIsInBvcnQiOiI0NDMiLCJpZCI6ImFmMGJmY2NlLTg3MzAtNDEzMy1iZGFhLWY2YjFkYTcwZmMxYyIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiIxNzIuMjMzLjkyLjE1NSIsInRscyI6InRscyIsInNuaSI6IjE3Mi4yMzMuOTIuMTU1IiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiI5MS4yMDAuMjQyLjE4NyIsInBvcnQiOiIxNDk1NCIsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImRvd25sb2FkLndpbmRvd3N1cGRhdGUuY29tIiwicGF0aCI6Ii9kb3dubG9hZCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIE9zYWthIHwgQW50aS1SS04iLCJhZGQiOiIxNDAuODMuNTcuMjAiLCJwb3J0IjoiMTMxMTgiLCJpZCI6IjFmMDFlMzg5LWZiY2ItNDk0Yy1lNDZhLTIxMGVjMzYzMjljMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJzZy4xMTE2MDMyMS5kZTUubmV0IiwidGxzIjoidGxzIiwic25pIjoic2cuMTExNjAzMjEuZGU1Lm5ldCIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiI1Mi4xOTcuMTMyLjI0NiIsInBvcnQiOiI0NDQiLCJpZCI6IjdhNmNiNTliLWZiY2QtM2Y1MC1iNWYyLWEyNTM0MzI2YzRjOCIsInNjeSI6ImF1dG8ifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiI0My4xNjUuMTc0LjI1MiIsInBvcnQiOiI4OTk4IiwiaWQiOiI0YjAxOWZhYS0zOGIwLTQ3M2QtYmM0OS02MGJiNjgxNTFjMzQiLCJuZXQiOiJ3cyIsImhvc3QiOiJjYzI4LmdvaW5nc2lkZS5zaXRlIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiIxMy4xOTYuMTk2LjE2MSIsInBvcnQiOiIyMTU4NCIsImlkIjoiZDY4N2IwMjQtYTVjZi0zNDMzLThkMDYtMWM5OWUyZTI4ODIxIiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6ImhoejRxeHMtZzA0LmpwMDMtajctdm0wLmVudHJ5LmZyMDUyOC5hcnQiLCJmcCI6ImZpcmVmb3gifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiIzNS43OS4xNi45OCIsInBvcnQiOiIxMTc3NSIsImlkIjoiYTg1MTUwYmEtZGFlMy0zMDU1LTg5ODQtNzAwZmFjYTRkNTc2Iiwic2N5IjoiYXV0byJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiI3NC4yMjIuMTIuOTYiLCJwb3J0IjoiNDQzIiwiaWQiOiIwNjBhZWRlNy0xMWVhLTQwMzItYjAyNS02YzQxNjhhNTE4MmUiLCJuZXQiOiJ3cyIsImhvc3QiOiJqcC52cG4udGFpYWlzZS5jbiIsInBhdGgiOiIvanAiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiI4LjIxMS4xNjEuMTI5IiwicG9ydCI6IjQ0MyIsImlkIjoiZjBiN2JiZDYtNmFhZC00NThhLWFlYzAtZTlhY2FhYjc2OGI2Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImtRb3Y3VUthRGtuWGI4YTMudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJrUW92N1VLYURrblhiOGEzLnYuM2Rucy52aXAiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiIxMy4xOTYuMjE0Ljk1IiwicG9ydCI6IjI4Nzg2IiwiaWQiOiJkNjg3YjAyNC1hNWNmLTM0MzMtOGQwNi0xYzk5ZTJlMjg4MjEiLCJzY3kiOiJhdXRvIiwidGxzIjoidGxzIiwic25pIjoib3U0NGJ4cy1nMDQuanAwNi1qei12bTAuZW50cnkuZnIwNTI4LmFydCIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiIzNS43Ny4xMi4zNSIsInBvcnQiOiIyODc4NyIsImlkIjoiMmNlMDA1YjQtZTU3YS0zNjcwLWJlODgtNjBlZWViMDc4YmI3Iiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6InFkaXlzbHktZzA1LmpwMDYtanotdm0wLmVudHJ5LmZyMDUyOC5hcnQiLCJmcCI6ImZpcmVmb3gifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiI1Ny4xODMuMTYuMjMxIiwicG9ydCI6IjExNzc3IiwiaWQiOiI4ZWU2NWM3OS00NDg3LTMyZmYtYjg5Ni02MmM4ZGNlMDU5MjEiLCJzY3kiOiJhdXRvIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiIxMy4yMzAuNDIuMjQzIiwicG9ydCI6IjQ2NDgyIiwiaWQiOiI3YTZjYjU5Yi1mYmNkLTNmNTAtYjVmMi1hMjUzNDMyNmM0YzgiLCJzY3kiOiJhdXRvIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIFRva3lvIHwgQW50aS1SS04iLCJhZGQiOiIzNS43Ny4xMi4zNSIsInBvcnQiOiIyODc4OCIsImlkIjoiYTNiNWE2ZmMtMGI5Mi0zYjY2LWJlZGEtZWIyYTQ5MzYxYTIxIiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6IndvNmFoMGYtZzA2LmpwMDYtanotdm0wLmVudHJ5LmZyMDUyOC5hcnQiLCJmcCI6ImZpcmVmb3gifQ==
 socks4://43.163.219.10:20000#🇯🇵 Japan, Tokyo | Anti-RKN
-https://133.242.152.27:443#🇯🇵 Japan | Anti-RKN
-https://133.167.87.173:443#🇯🇵 Japan, Osaka | Anti-RKN
-https://160.16.144.120:443#🇯🇵 Japan, Tokyo | Anti-RKN
-https://64.176.51.83:8443#🇯🇵 Japan, Osaka | Anti-RKN
-https://8.216.57.38:443#🇯🇵 Japan, Tokyo | Anti-RKN
-https://150.95.26.146:7081#🇯🇵 Japan | Anti-RKN
-https://133.18.200.207:343#🇯🇵 Japan, Osaka | Anti-RKN
-https://140.238.50.134:1234#🇯🇵 Japan, Inzai | Anti-RKN
-https://8.216.54.87:443#🇯🇵 Japan, Tokyo | Anti-RKN
-https://18.182.219.42:443#🇯🇵 Japan, Tokyo | Anti-RKN
-https://20.78.34.79:443#🇯🇵 Japan, Tokyo | Anti-RKN
-https://54.168.38.75:443#🇯🇵 Japan, Tokyo | Anti-RKN
-https://172.207.56.122:443#🇯🇵 Japan, Tokyo | Anti-RKN
-https://147.157.130.1:443#🇯🇵 Japan | Anti-RKN
-https://52.195.147.51:34052#🇯🇵 Japan, Tokyo | Anti-RKN
-https://3.113.38.132:443#🇯🇵 Japan, Tokyo | Anti-RKN
-https://35.78.47.215:443#🇯🇵 Japan, Tokyo | Anti-RKN
-https://43.207.113.167:311#🇯🇵 Japan, Tokyo | Anti-RKN
-https://15.152.38.117:50158#🇯🇵 Japan, Osaka | Anti-RKN
-socks4://103.13.19.219:10808#🇯🇵 Japan | Anti-RKN
+http://140.238.32.108:3128#🇯🇵 Japan, Inzai | Anti-RKN
 socks4://8.216.40.169:7890#🇯🇵 Japan, Tokyo | Anti-RKN
+socks5://172.105.192.212:9080#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.209.255.13:3128#🇯🇵 Japan, Tokyo | Anti-RKN
 http://47.79.33.142:3128#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://101.36.104.239:10808#🇯🇵 Japan, Tokyo | Anti-RKN
-socks5://85.92.156.93:1080#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://43.165.133.188:9050#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://202.78.167.58:9050#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://8.221.138.111:31433#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://8.221.138.111:4002#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://8.221.138.111:19#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.221.141.88:221#🇯🇵 Japan, Tokyo | Anti-RKN
-socks5://132.226.7.23:30277#🇯🇵 Japan, Inzai | Anti-RKN
 socks5://47.74.46.81:98#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://85.121.50.25:1080#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://140.238.43.53:54322#🇯🇵 Japan, Inzai | Anti-RKN
@@ -295,7 +271,6 @@ socks5://8.221.139.222:6379#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://8.221.139.222:9080#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://8.221.139.222:80#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://8.221.141.88:11#🇯🇵 Japan, Tokyo | Anti-RKN
-socks5://8.216.40.169:7890#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://47.91.29.151:31281#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://43.163.219.10:20000#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://47.91.29.151:91#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -307,43 +282,37 @@ http://160.16.105.145:8080#🇯🇵 Japan, Tokyo | Anti-RKN
 http://47.74.46.81:5060#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.221.141.88:4002#🇯🇵 Japan, Tokyo | Anti-RKN
 http://15.152.38.117:59745#🇯🇵 Japan, Osaka | Anti-RKN
-http://172.233.72.239:3128#🇯🇵 Japan, Osaka | Anti-RKN
 http://139.162.78.109:8080#🇯🇵 Japan, Tokyo | Anti-RKN
-http://132.226.7.23:30277#🇯🇵 Japan, Inzai | Anti-RKN
-http://43.167.240.38:8118#🇯🇵 Japan, Tokyo | Anti-RKN
+http://172.105.192.212:9080#🇯🇵 Japan, Tokyo | Anti-RKN
+http://61.118.38.234:60808#🇯🇵 Japan | Anti-RKN
 http://4.189.247.239:3128#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.138.111:1200#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.138.111:8045#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.138.111:8443#🇯🇵 Japan, Tokyo | Anti-RKN
-http://140.238.43.53:54322#🇯🇵 Japan, Inzai | Anti-RKN
-http://47.74.46.81:443#🇯🇵 Japan, Tokyo | Anti-RKN
 http://101.36.104.46:10808#🇯🇵 Japan, Tokyo | Anti-RKN
 http://43.165.133.188:9050#🇯🇵 Japan, Tokyo | Anti-RKN
 http://202.78.167.58:9050#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.138.111:31433#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.138.111:4002#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.138.111:19#🇯🇵 Japan, Tokyo | Anti-RKN
 http://139.162.78.109:1080#🇯🇵 Japan, Tokyo | Anti-RKN
 http://43.133.21.24:3001#🇯🇵 Japan, Tokyo | Anti-RKN
 http://47.74.46.81:98#🇯🇵 Japan, Tokyo | Anti-RKN
+http://85.121.50.25:1080#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.221.139.222:6379#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.221.139.222:9080#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.221.139.222:80#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.221.141.88:11#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.138.111:100#🇯🇵 Japan, Tokyo | Anti-RKN
-http://47.91.29.151:4145#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.141.88:31433#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.139.222:8108#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.139.222:8443#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.141.88:8003#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.141.88:9992#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.139.222:8080#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.141.88:1027#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.141.88:9036#🇯🇵 Japan, Tokyo | Anti-RKN
 http://47.91.29.151:9080#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.141.88:8820#🇯🇵 Japan, Tokyo | Anti-RKN
-http://43.163.219.10:20000#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.141.88:91#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.141.88:9992#🇯🇵 Japan, Tokyo | Anti-RKN
 http://47.91.29.151:9098#🇯🇵 Japan, Tokyo | Anti-RKN
-socks5://8.221.138.111:1200#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.139.222:31433#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.141.88:91#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.138.111:100#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.138.111:8045#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://8.209.255.13:3128#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://8.221.141.88:1027#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://8.221.141.88:9036#🇯🇵 Japan, Tokyo | Anti-RKN
+socks4://172.105.192.212:9080#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://47.91.29.151:9080#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://8.221.141.88:4002#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://8.221.141.88:9992#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -361,7 +330,6 @@ socks4://8.221.139.222:9080#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://8.221.141.88:8820#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://139.162.78.109:3128#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://8.221.141.88:8003#🇯🇵 Japan, Tokyo | Anti-RKN
-socks4://160.16.105.145:8080#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://47.91.29.151:4145#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://8.221.139.222:4002#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://8.221.139.222:199#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -379,6 +347,7 @@ socks5://8.221.139.222:31433#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://8.221.138.111:100#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://8.221.138.111:8045#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://8.221.141.88:8083#🇯🇵 Japan, Tokyo | Anti-RKN
+socks5://47.79.33.142:3128#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://8.221.141.88:3142#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://8.221.138.111:8443#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://47.91.29.151:4002#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -393,18 +362,16 @@ socks5://8.221.139.222:199#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://8.221.138.111:3129#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://139.162.78.109:8080#🇯🇵 Japan, Tokyo | Anti-RKN
 socks5://8.221.138.111:1080#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.141.88:1027#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.141.88:9036#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.139.222:31433#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.221.141.88:8083#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.216.40.169:7890#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.221.141.88:3142#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.138.111:8443#🇯🇵 Japan, Tokyo | Anti-RKN
 http://47.91.29.151:4002#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.141.88:31433#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.141.88:8820#🇯🇵 Japan, Tokyo | Anti-RKN
+http://8.221.141.88:8003#🇯🇵 Japan, Tokyo | Anti-RKN
+http://47.91.29.151:4145#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.221.139.222:4002#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.221.139.222:199#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.221.138.111:3129#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.221.138.111:1080#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.138.111:9000#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.138.111:13#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.138.111:8072#🇯🇵 Japan, Tokyo | Anti-RKN
-socks4://8.221.141.88:20#🇯🇵 Japan, Tokyo | Anti-RKN
+http://47.74.46.81:37777#🇯🇵 Japan, Tokyo | Anti-RKN

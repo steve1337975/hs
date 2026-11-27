@@ -1,23 +1,26 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🛡️ VPN BLACK #8
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405566
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:31:22
+# generated-at: 11/27/2026 12:39:26
 # servers-count: 1000
 
+trojan://blue2024@108.162.195.202:443?type=ws&security=tls&fp=firefox&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg&path=%2f%3fed%3d2560#Anti-RKN
+trojan://blue2024@162.159.44.155:443?security=tls&fp=firefox&sni=tb.promote.icu#Anti-RKN
+trojan://blue2024@172.66.158.115:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
+trojan://blue2024@172.67.198.203:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
 trojan://blue2024@104.26.13.31:443?type=ws&security=tls&fp=firefox&sni=tb.promote.icu&host=tb.promote.icu&path=%2f%3fed%3d2560#Anti-RKN
-trojan://blue2024@108.162.195.207:443?type=ws&security=tls&fp=firefox&sni=tb.promote.icu&host=tb.promote.icu&path=%2f%3fed%3d2560#Anti-RKN
-trojan://blue2024@108.162.195.159:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
-trojan://blue2024@172.64.35.217:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@162.159.44.207:443?type=ws&security=tls&fp=firefox&sni=tb.promote.icu&host=tb.promote.icu&path=%2f%3fed%3d2560#Anti-RKN
+trojan://blue2024@172.64.35.159:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
+trojan://blue2024@162.159.44.217:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
 trojan://blue2024@108.162.195.135:443?type=ws&security=tls&fp=firefox&sni=tb.promote.icu&host=tb.promote.icu&path=%2f%3fed%3d2560#Anti-RKN
-trojan://blue2024@172.64.35.161:443?security=tls&fp=firefox&sni=tb.promote.icu#Anti-RKN
-trojan://blue2024@104.26.3.36:443?security=tls&fp=firefox&sni=tb.promote.icu#Anti-RKN
-trojan://blue2024@162.159.44.154:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
-trojan://blue2024@222.211.66.207:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#🇨🇳 China | Anti-RKN
+trojan://blue2024@104.26.2.36:443?security=tls&fp=firefox&sni=tb.promote.icu#Anti-RKN
+trojan://blue2024@108.162.195.154:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
+trojan://blue2024@183.214.166.138:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#🇨🇳 China | Anti-RKN
 trojan://blue2024@91.134.121.55:443?security=tls&fp=firefox&sni=ta.promote.icu#🇫🇷 France | Anti-RKN
-trojan://blue2024@43.174.247.41:443?security=tls&fp=firefox&sni=ta.promote.icu#🇸🇬 Singapore | Anti-RKN
+trojan://blue2024@43.174.246.41:443?security=tls&fp=firefox&sni=ta.promote.icu#🇸🇬 Singapore | Anti-RKN
 trojan://blue2024@104.16.142.237:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
 trojan://blue2024@104.20.29.151:443?security=tls&fp=firefox&sni=tb.promote.icu#Anti-RKN
 trojan://bpb-trojan@104.16.147.158:443?security=tls&fp=firefox&sni=fcspring.ggff.net#Anti-RKN
@@ -197,7 +200,7 @@ trojan://bpb-trojan@45.131.209.114:443?security=tls&fp=firefox&sni=bpb.my79801.c
 trojan://bpb-trojan@45.142.120.4:2096?type=ws&security=tls&fp=firefox&sni=403B3611-99bC-43b7-88D7-26ed5d0825A9-3.PageS.DEV&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2ftroUbg9Q3QgD0TJRfy%3fed%3d2560#🇫🇮 Finland, Helsinki | Anti-RKN
 trojan://bpb-trojan@45.80.111.9:443?security=tls&fp=firefox&sni=bpb.my79801.com#🇩🇪 Germany | Anti-RKN
 trojan://bpb-trojan@89.117.112.181:443?security=tls&fp=firefox&sni=bpb.my79801.com#🇱🇹 Lithuania | Anti-RKN
-trojan://bpb-trojan@104.21.7.153:443?security=tls&fp=firefox&sni=bpb.macser.us.kg#Anti-RKN
+trojan://bpb-trojan@172.67.130.82:443?security=tls&fp=firefox&sni=bpb.macser.us.kg#Anti-RKN
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&fp=firefox&sni=15.204.210.176#🇺🇸 United States, Reston | Anti-RKN
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?type=ws&security=tls&fp=firefox&sni=space.byu.id.yxls.eu.cc&host=space.byu.id.yxls.eu.cc&path=%2fin-pdr#🇳🇱 The Netherlands | Anti-RKN
 trojan://c226ac5d-65e9-4379-95c3-fb542bc242d8@172.67.177.109:443?security=tls&fp=firefox&sni=sssxXZAw.666461.xYz#Anti-RKN
@@ -330,7 +333,7 @@ trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&fp
 trojan://f82fb954-06a1-4f0b-9180-17e07585b61f@172.67.212.82:443?security=tls&fp=firefox&sni=6yuioph.131.pp.ua#Anti-RKN
 trojan://f898ffcb-6417-4373-9640-0b66091e8206@104.21.22.159:443?security=tls&fp=firefox&sni=q12.11890604.xyz#Anti-RKN
 trojan://f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@151.101.194.228:443?type=ws&security=tls&fp=firefox&sni=pscresearch.faculty.ucdavis.edu&host=hgc6rct87gy.com#🇺🇸 United States | Anti-RKN
-trojan://f8d19ba5-8684-45f2-8523-77dbea588955@157.90.33.73:443?security=tls&fp=firefox&sni=hgc.iamnotagoodman.com#🇩🇪 Germany, Falkenstein | Anti-RKN
+trojan://f8d19ba5-8684-45f2-8523-77dbea588955@157.90.33.74:443?security=tls&fp=firefox&sni=hgc.iamnotagoodman.com#🇩🇪 Germany, Falkenstein | Anti-RKN
 trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@104.21.63.135:443?security=tls&fp=firefox&sni=Rrr4.8906004.xYZ#Anti-RKN
 trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@172.67.145.200:443?type=ws&security=tls&fp=firefox&sni=Rrr4.8906004.xYZ&host=rrr4.8906004.xyz&path=%2fDZxb5QZyWgQPuXTwt#Anti-RKN
 trojan://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?security=tls&fp=firefox#🇺🇸 United States | Anti-RKN
@@ -494,7 +497,8 @@ trojan://humanity@86.38.214.205:443?type=ws&security=tls&fp=firefox&sni=www.igni
 trojan://humanity@89.116.46.8:443?type=ws&security=tls&fp=firefox&sni=www.calmloud.com&host=www.calmloud.com&path=%2fassignment#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 trojan://humanity@92.42.99.143:443?type=ws&security=tls&fp=firefox&sni=www.pleadcourt.org&host=www.pleadcourt.org&path=%2fassignment#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 trojan://humanity@104.16.73.213:443?type=ws&security=tls&fp=firefox&sni=www.ignitelimit.com&host=www.ignitelimit.com&path=%2fassignment#Anti-RKN
-trojan://humanity@104.18.8.83:443?type=ws&security=tls&fp=firefox&path=%2fassignment#Anti-RKN
+trojan://humanity@104.18.9.83:443?type=ws&security=tls&fp=firefox&path=%2fassignment#Anti-RKN
+trojan://humanity@104.18.9.83:443?type=ws&security=tls&fp=firefox&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2fassignment#Anti-RKN
 trojan://iP7yrI79tI@172.67.175.40:443?type=httpupgrade&security=tls&fp=firefox&sni=iran.farsonline24.ir&host=iran.farsonline24.ir&path=%2f16730%2f%40M3HDIO1#Anti-RKN
 trojan://idc117okt@103.226.139.201:443?security=tls&fp=firefox#🇮🇩 Indonesia | Anti-RKN
 trojan://iyinglong@18.140.67.76:443?security=tls&fp=firefox#🇸🇬 Singapore, Singapore | Anti-RKN
@@ -607,7 +611,8 @@ trojan://trojan@172.64.155.16:2053?type=ws&security=tls&fp=firefox&sni=ana-servi
 trojan://trojan@172.67.130.66:443?security=tls&fp=firefox&sni=test-a23.pages.dev#Anti-RKN
 trojan://trojan@172.67.75.172:8443?security=tls&fp=firefox&sni=fofang.pages.dev#Anti-RKN
 trojan://trojan@172.67.75.172:8443?security=tls&fp=firefox#Anti-RKN
-trojan://trojan@104.19.174.68:443?type=ws&security=tls&fp=firefox&sni=azadnet-9ya.pages.dev&host=azadnet-9ya.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://trojan@104.26.13.31:8443?type=ws&security=tls&fp=firefox&sni=fofang.pages.dev&host=fofang.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://trojan@104.19.173.68:443?type=ws&security=tls&fp=firefox&sni=azadnet-9ya.pages.dev&host=azadnet-9ya.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://uV8u9Q41e2@104.17.180.185:443?type=ws&security=tls&fp=firefox&sni=DieGo.DIEgoMAraDOnA.iR.&host=DieGo.DIEgoMAraDOnA.iR.#Anti-RKN
 trojan://vip@104.16.20.118:443?security=tls&fp=firefox&sni=heihu880.pages.dev#Anti-RKN
 trojan://vip@104.16.228.229:443?security=tls&fp=firefox&sni=heihu880.pages.dev#Anti-RKN
@@ -618,28 +623,30 @@ trojan://vip@104.26.8.156:443?security=tls&fp=firefox&sni=heihu880.pages.dev#Ant
 trojan://vip@172.65.90.53:443?security=tls&fp=firefox&sni=heihu880.pages.dev#Anti-RKN
 trojan://vip@172.67.179.98:443?security=tls&fp=firefox&sni=heihu880.pages.dev#Anti-RKN
 trojan://vip@172.67.182.83:443?security=tls&fp=firefox&sni=heihu880.pages.dev#Anti-RKN
-trojan://vip@104.26.10.222:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://vip@172.67.70.100:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vip@104.26.5.60:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vip@104.26.13.140:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
-trojan://vip@104.19.222.79:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://vip@104.19.223.79:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://vip@104.18.27.94:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vip@172.67.68.240:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
-trojan://vip@104.16.20.118:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://vip@104.16.21.118:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vip@172.64.145.158:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
-trojan://vip@104.18.11.143:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://vip@104.18.10.143:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vip@104.18.4.250:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vip@172.65.90.53:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vs6f8hvt@104.17.246.203:2053?type=ws&security=tls&fp=firefox#Anti-RKN
 trojan://xxoo@138.124.183.216:443?security=tls&fp=firefox#🇪🇪 Estonia, Tallinn | Anti-RKN
 trojan://xxoo@138.124.183.222:443?security=tls&fp=firefox&sni=138.124.183.222#🇪🇪 Estonia, Tallinn | Anti-RKN
 trojan://xxoo@3.34.6.217:443?security=tls&fp=firefox#🇰🇷 South Korea, Incheon | Anti-RKN
-trojan://xxoo@157.90.33.74:443?security=tls&fp=firefox&sni=telewebion.com#🇩🇪 Germany, Falkenstein | Anti-RKN
+trojan://xxoo@157.90.33.73:443?security=tls&fp=firefox&sni=telewebion.com#🇩🇪 Germany, Falkenstein | Anti-RKN
 trojan://yaml777@104.21.61.73:443?type=ws&security=tls&fp=firefox&sni=yaml7.ggff.net&host=yaml7.ggff.net#Anti-RKN
-trojan://zWFjJENcljZm@104.18.2.150:443?type=ws&security=tls&fp=firefox&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://zWFjJENcljZm@104.18.3.150:443?type=ws&security=tls&fp=firefox&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=%2f%3fed%3d2560#Anti-RKN
 vless://-----DIGIV2RAY----@185.146.173.68:2095?type=tcp#🇸🇪 Sweden | Anti-RKN
 vless://-----DIGIV2RAY----@188.114.97.2:2095?type=ws&host=QUENTIN--_--DiG.radiotehran.org.&path=%2fDigiconnecT%3fed#Anti-RKN
 vless://----DIGIV2RAY@198.41.202.5:2087?type=ws&security=tls&fp=firefox&host=SpeedV2rayNg-ConneCtion.digiv2ray.shop&sni=SpeedV2rayNg-ConneCtion.digiv2ray.shop&path=%2fDigiV%3fed%3d2048#Anti-RKN
 vless://--DIGiV2RAY---@185.146.173.59:80?type=ws&host=digi--v2raycncfs.RadioTeHran.oRG.&path=%2fDigiv2ray-#🇸🇪 Sweden | Anti-RKN
 vless://--DIGiV2RAY---@162.159.136.234:80?type=ws&host=%c3%a6d%c3%adg%c3%ad.RadioTeHran.oRG.&path=%2fDigiv2ray-#🇺🇸 United States | Anti-RKN
+vless://-DIGiV2RAY@162.159.130.234:80?type=ws&host=%c3%a6d%c3%adg%c3%ad.RadioTeHran.oRG.&path=%2fDigiv2ray-#🇺🇸 United States | Anti-RKN
 vless://-VPNCUSTOMIZE-@188.114.98.224:2095?type=ws&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&path=%2fV2rayCUSTOMIZE%3fed%3d1024#Anti-RKN
 vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?type=ws&security=tls&fp=firefox&host=sub.mot.ip-ddns.com&sni=sub.mot.ip-ddns.com#🇩🇪 Germany | Anti-RKN
 vless://00000000-0000-4000-8000-000000000000@84.247.129.205:4433?type=ws&security=tls&fp=firefox&host=sub.mot.ip-ddns.com&sni=sub.mot.ip-ddns.com#🇫🇷 France, Lauterbourg | Anti-RKN
@@ -651,12 +658,13 @@ vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@188.114.98.6:443?type=ws&security=t
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?type=ws&security=tls&fp=firefox&host=albedoalbedochan.violetchaan.ip-ddns.com&sni=albedoalbedochan.violetchaan.ip-ddns.com&path=%2f%3fJOKERRVPN_BIA_CHANEL%40JOKERRVPN#Anti-RKN
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.7.18:443?type=ws&security=tls&fp=firefox&host=albedoalbedochan.violetchaan.ip-ddns.com&sni=albedoalbedochan.violetchaan.ip-ddns.com&path=%2fJOKERRVPN_BIA_CHANEL%40JOKERRVPN#Anti-RKN
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?type=ws&security=tls&fp=firefox&host=albedoalbedochan.violetchaan.ip-ddns.com&sni=albedoalbedochan.violetchaan.ip-ddns.com#Anti-RKN
-vless://004ebee8-b102-4e9b-a6dd-620d587f5ff4@172.67.185.153:8880?type=httpupgrade&host=ger.huge-b.com&path=%2f%40Artemis_Vpn#Anti-RKN
+vless://004ebee8-b102-4e9b-a6dd-620d587f5ff4@104.21.19.69:8880?type=httpupgrade&host=ger.huge-b.com&path=%2f%40Artemis_Vpn#Anti-RKN
 vless://0050dd81-65fb-439c-abf6-c4c609205c44@104.21.18.141:443?type=ws&security=tls&fp=firefox&host=f2au50vwmige9oftda.netizo14.workers.dev&sni=f2AU50vwMiGE9OFTDa.NEtiZO14.WORkERs.DEv&path=%2fvl%2fuS3nCneDSYbdF04CAp%3fed#Anti-RKN
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?type=ws&host=max-gb1.global.ssl.fastly.net#🇺🇸 United States | Anti-RKN
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?type=ws&host=max-gb1.global.ssl.fastly.net#🇺🇸 United States | Anti-RKN
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.164.242:8080?type=ws&host=tr-cd.sublink-vip2.com#Anti-RKN
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?type=ws&host=tr-cd.sublink-vip2.com#Anti-RKN
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.21.65.173:8080?type=ws&host=tr-cd.sublink-vip2.com#Anti-RKN
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@104.21.23.95:443?type=ws&security=tls&fp=firefox&host=us7.candyfans.win&sni=us7.candyfans.win&path=%2fjqliws#Anti-RKN
 vless://00799b08-1090-4ed3-bec0-0fa26816a703@194.87.250.49:443?type=xhttp&security=tls&fp=firefox&sni=fial.bootless.ru#🇳🇱 The Netherlands, Amsterdam | Anti-RKN
 vless://00947839-40de-4e3f-a6e5-0570c16b4bce@140.225.209.152:2083?type=ws&security=tls&fp=firefox&sni=speedtestmark.com&path=%2fvless-ws#🇦🇪 United Arab Emirates | Anti-RKN
@@ -676,7 +684,7 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@89.116.161.251:8880?type=ws&host=cf
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@89.116.250.251:8880?type=ws&host=cf.d3z.net#🇱🇹 Lithuania | Anti-RKN
 vless://014f817e-b200-4e6f-bfda-2c1cbf05aa6a@185.143.232.201:80?type=ws#🇮🇷 Iran | Anti-RKN
 vless://0157cd12-e329-40e7-ad52-f31b795635dd@5.253.31.24:443?type=tcp&security=reality&fp=firefox&sni=ind.luna-nodes.com&pbk=gsLmlhHyrirOHrVV1_rYiQvrrZn2nkqH7SPCYQQnpyc&sid=3ec20ac098953ce9&flow=xtls-rprx-vision#🇨🇾 Cyprus | Anti-RKN
-vless://01868cd8-7316-45c2-bc72-62e847e41b81@91.107.134.39:443?type=ws&security=tls&fp=firefox&host=goold.zovip2.ir&sni=goold.zovip2.ir&path=%2fapi%2fv3%2fpulse#🇩🇪 Germany, Falkenstein | Anti-RKN
+vless://01868cd8-7316-45c2-bc72-62e847e41b81@91.107.138.11:443?type=ws&security=tls&fp=firefox&host=goold.zovip2.ir&sni=goold.zovip2.ir&path=%2fapi%2fv3%2fpulse#🇩🇪 Germany, Falkenstein | Anti-RKN
 vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@162.159.136.234:2053?type=grpc&security=tls&fp=firefox&sni=sub1.ailreza.org.tr&serviceName=2053vless#🇺🇸 United States | Anti-RKN
 vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@194.76.18.253:2087?type=grpc&security=tls&fp=firefox&sni=qauuf2.telzirrr.com.tr&serviceName=%f0%9f%91%a8%e2%80%8d%f0%9f%9a%80Free%f0%9f%91%a8%e2%80%8d%f0%9f%9a%80#🇰🇿 Kazakhstan, Almaty | Anti-RKN
 vless://019832a7-9376-445a-ba66-76ee9df0685d@185.112.56.83:8443?type=xhttp&security=reality&fp=firefox&sni=github.com&pbk=CsB20mYga1ELkQfn_MTZP1Rr6RHVWJ_P6yVP0NproWo&sid=e3a41cf04c4ebf4a&path=%2f48hvv8hg7bnJhg71xcdRE32#🇫🇮 Finland, Helsinki | Anti-RKN
@@ -686,15 +694,17 @@ vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=mudd
 vless://01d31e8f-5eb5-4f2f-bceb-addb87f107a3@87.107.102.221:443?type=tcp&security=reality&fp=firefox&sni=speedtest.net&pbk=hvgEwCWp__pO1IzyQfvz-whyQhBbj760XxZ6SxD9qDg&sid=b101b6832ecf3eca&flow=xtls-rprx-vision#🇮🇷 Iran | Anti-RKN
 vless://01e2c6be-624d-4824-9fab-68afd2db90df@160.202.132.203:1820?type=tcp#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.208:43000?type=tcp&security=reality&fp=firefox&sni=147.45.66.208&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&sid=4d3d8e15&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@155.94.134.214:443?type=tcp&security=tls&fp=firefox&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443#🇫🇷 France, Paris | Anti-RKN
 vless://01f93877-3307-4e73-ba4c-592d4489a9ea@37.32.9.243:8080?type=tcp&security=tls&fp=firefox&sni=newnexip1.nexvpnfun.com#🇮🇷 Iran | Anti-RKN
 vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@104.18.26.90:2095?type=httpupgrade&host=us.badomzamini.uk&path=%2f%3fed%3d2095#Anti-RKN
-vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@151.101.65.55:80?type=ws&host=lexeu.global.ssl.fastly.net&path=%2fcontainers%2ffi#🇺🇸 United States | Anti-RKN
+vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@151.101.1.55:80?type=ws&host=lexeu.global.ssl.fastly.net&path=%2fcontainers%2ffi#🇺🇸 United States | Anti-RKN
 vless://022c385b-5b5d-4bcd-89e2-fc5fcd3d8211@104.16.6.70:8880?type=httpupgrade&host=gozar-dev2.amirconfigpaanelllll.com&path=%2f%3fed%3d2560#Anti-RKN
 vless://024cf4e8-fa64-44ea-b22f-c28437120563@43.174.247.63:443?encryption=mlkem768x25519plus.native.0rtt.HgOBFNZBsI-IbLuV7IeOJbMRNb9CodLXi3YDHVWPWQU&type=ws&security=tls&fp=firefox&host=ded1ws.samcdn.shop&sni=msydjt.com&path=%2f51544%2fws#🇸🇬 Singapore | Anti-RKN
-vless://0259b0b9-c954-4de2-988e-a5877b2cd6e5@151.101.201.242:443?type=ws&security=tls&fp=firefox&host=adheres-scruple.quick-cdn.net&sni=adheres-scruple.quick-cdn.net&path=%2fws#🇺🇸 United States, Palo Alto | Anti-RKN
-vless://026ce330-bb63-42fa-fac9-254275728d40@104.26.6.119:8080?type=ws&host=shad.ir.fin.test.digicyber.click.&path=%2folem%2fws%3fed%3d1024#Anti-RKN
+vless://0259b0b9-c954-4de2-988e-a5877b2cd6e5@151.101.21.242:443?type=ws&security=tls&fp=firefox&host=adheres-scruple.quick-cdn.net&sni=adheres-scruple.quick-cdn.net&path=%2fws#🇺🇸 United States, Seattle | Anti-RKN
+vless://026ce330-bb63-42fa-fac9-254275728d40@172.67.68.237:8080?type=ws&host=shad.ir.fin.test.digicyber.click.&path=%2folem%2fws%3fed%3d1024#Anti-RKN
 vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:2200?type=ws&host=rzd.ru&path=%2fv1#🇷🇺 Russia, Moscow | Anti-RKN
 vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:4100?type=ws&host=live.ok.ru&path=%2fv1#🇷🇺 Russia, Moscow | Anti-RKN
+vless://0280c276-641b-49af-b699-4931c30ac137@104.18.138.67:443?type=xhttp&security=tls&fp=firefox&host=norway.xn--nlqaa425dbaab446bbabd698meae.online&sni=norway.xn--nlqaa425dbaab446bbabd698meae.online.&path=%2fapi#Anti-RKN
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.68.95:8880?type=ws&host=vghavi32.ip-ddns.com#Anti-RKN
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?type=ws&host=vghavi32.ip-ddns.com&path=%2f7YVyoVNnbaVzgl6D%3fed%3d2560#Anti-RKN
 vless://028caef1-1852-4074-884b-993e8baf4fd7@109.61.91.230:80#🇺🇸 United States, Ashburn | Anti-RKN
@@ -707,7 +717,6 @@ vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@172.64.33.167:443?type=ws&security=
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@173.245.58.66:443?type=ws&security=tls&fp=firefox&host=server19.aibox.tv&sni=server19.aibox.tv&path=%2f...#Anti-RKN
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@108.162.193.91:443?type=ws&security=tls&fp=firefox&host=redlabell.info&sni=redlabell.info&path=%2faafeuws#Anti-RKN
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@172.64.33.91:443?type=ws&security=tls&fp=firefox&host=redlabell.info&sni=redlabell.info&path=%2faafeuws#Anti-RKN
-vless://02fd082a-89c0-45c3-84c9-b24e3aac7b3c@23.191.200.207:443?type=tcp&security=reality&fp=firefox&sni=dl.google.com&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&flow=xtls-rprx-vision#🇺🇸 United States | Anti-RKN
 vless://030ff4cf-6194-4177-90da-a49f46f9afce@172.67.188.196:443?type=ws&security=tls&fp=firefox&host=WoRkeR-wIntER-BrEezE-4702.C6A6C6.WORKErs.Dev&sni=WoRKeR-WINTeR-BreEzE-4702.C6A6c6.wORkers.DeV&path=%2fAgjOkU51bJ1hNmHL%3fed%3d2048#Anti-RKN
 vless://0328e45c-10a5-4bb2-b381-20b2c3470524@172.67.137.11:2053?type=httpupgrade&security=tls&fp=firefox&host=...&sni=PjYeUnLx69.jHyGyUc05-iNd5848Kk.fUn#Anti-RKN
 vless://0333b495-1f8b-4d75-be2e-11c023bf78e5@104.21.13.125:80?type=ws&host=nl21.vlessx.us&path=%2f%3fed%3d2048#Anti-RKN
@@ -736,6 +745,8 @@ vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?type=ws&host=nethe
 vless://04ba133d-1f99-4f5c-b942-bed79cddd0a0@146.75.123.82:80?type=xhttp#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 vless://04bef300-74b8-5311-b875-a5df3d121a7a@104.17.78.58:80?type=ws&host=www.iranserever.com.k%d0%be%d0%bc%d0%bd%d0%b0%d1%82%d0%b00.%e6%88%bf%e9%96%93.wonkacapitano.buzz.&path=%2fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3fed%3d2048#Anti-RKN
 vless://04d630b3-4b8d-422d-b53c-99addcb13191@104.16.75.207:443?type=xhttp&security=tls&fp=firefox&host=v3.sub1vpn.dpdns.org&sni=v3.sub1vpn.dpdns.org&path=%2fapi#Anti-RKN
+vless://04f4af27-af47-4f97-9eb0-17a46df671e6@146.75.59.186:443?type=ws&security=tls&fp=firefox&host=pumkin.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com#🇺🇸 United States | Anti-RKN
+vless://04f4af27-af47-4f97-9eb0-17a46df671e6@167.82.76.31:443?type=ws&security=tls&fp=firefox&host=fraboijji.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com#🇺🇸 United States | Anti-RKN
 vless://050c0819-d893-44da-b654-e806c0ecbff2@104.16.7.70:2082?type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.&path=%2fJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3fed%3d2048#Anti-RKN
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?type=ws&security=tls&fp=firefox&host=matoride.adaspoloandco.com&sni=matoride.adaspoloandco.com&path=%2fdownloader#Anti-RKN
 vless://0533b568-482c-4c0a-81c5-729891270934@172.65.237.80:443?type=ws&security=tls&fp=firefox&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2f%3fed%3d2048#Anti-RKN
@@ -746,7 +757,7 @@ vless://05badb9a-9b94-4a07-85af-65bdc2e1c4bf@172.64.80.173:2096?type=ws&security
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?type=xhttp&security=tls&fp=firefox&sni=hel1.nordlinkcloud.com&path=%2fapi%2fv3%2fstream%2f#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://05dde938-bb2d-41c3-b176-2a9d370489b4@151.101.109.223:443?type=ws&security=tls&fp=firefox&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net#🇺🇸 United States | Anti-RKN
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?type=ws&security=tls&fp=firefox&host=cf.vless.sandesh.fr&sni=cf.vless.sandesh.fr#Anti-RKN
-vless://061da3a1-0b8a-4abe-a739-8b33ae5519c4@185.143.234.200:2052?type=ws&host=library.phill-up.ir&path=%2fAPI%2fsuperip#🇮🇷 Iran | Anti-RKN
+vless://061da3a1-0b8a-4abe-a739-8b33ae5519c4@185.143.233.200:2052?type=ws&host=library.phill-up.ir&path=%2fAPI%2fsuperip#🇮🇷 Iran | Anti-RKN
 vless://06252225-3f07-4c5b-a38e-5a68717bb07d@92.223.124.62:443?type=xhttp&security=tls&fp=firefox&host=my-site-vgbho7ei.gcorecdn.com&sni=gcore.com&path=%2fsakeneko%3fed%3d2048#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 vless://062a230c-211d-4569-958d-dddf2c3aa613@104.18.32.47:2053?type=ws&security=tls&fp=firefox&host=ir3uk.airpanel.top&sni=ir3uk.airpanel.top#Anti-RKN
 vless://0632a4e7-d55a-4d17-a47b-9958b471be90@146.75.57.111:443?type=xhttp&security=tls&fp=firefox&host=france-sgood-wopppd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&sni=cdn.akamai.steamstatic.com&path=%2ffast#🇺🇸 United States | Anti-RKN
@@ -790,10 +801,11 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.183.88.24:443?packetEncoding=xu
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.218:443?type=ws&security=tls&fp=firefox&host=dse.bgm2024.us.kg&sni=dse.bgm2024.us.kg&path=%2f%3fed%3d2560#🇷🇺 Russia | Anti-RKN
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@69.84.182.104:443?type=ws&security=tls&fp=firefox&host=dse.bgm2024.us.kg&sni=dse.bgm2024.us.kg&path=%2f%3fed%3d2560#🇺🇸 United States | Anti-RKN
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.173:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=il.ylkszy.eu.org&sni=il.ylkszy.eu.org&path=%2f%3fed%3d2560#Anti-RKN
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.187:443?type=ws&security=tls&fp=firefox&host=cb.dong2025.cfd&sni=cb.dong2025.cfd&path=%2f%3fed%3d2560#Anti-RKN
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.75.172:443?type=ws&security=tls&fp=firefox&host=vk.ylka.dpdns.org&sni=vk.ylka.dpdns.org&path=%2f%3fed%3d2560%26prot_type%3dvless#Anti-RKN
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.187:443?type=ws&security=tls&fp=firefox&host=cb.dong2025.cfd&sni=cb.dong2025.cfd&path=%2f%3fed%3d2560#Anti-RKN
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.176:443?type=ws&security=tls&fp=firefox&host=jk.ylka.dpdns.org&sni=jk.ylka.dpdns.org&path=%2f%3fed%3d2560%26prot_type%3dvless#Anti-RKN
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.110:443?type=ws&security=tls&fp=firefox&host=vk.ylka.dpdns.org&sni=vk.ylka.dpdns.org&path=%2f%3fed%3d2560%26prot_type%3dvless#Anti-RKN
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.26.12.54:443?type=ws&security=tls&fp=firefox&host=jk.ylka.dpdns.org&sni=jk.ylka.dpdns.org&path=%2f%3fed%3d2560%26prot_type%3dvless#Anti-RKN
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.110:443?type=ws&security=tls&fp=firefox&host=vk.ylka.dpdns.org&sni=vk.ylka.dpdns.org&path=%2f%3fed%3d2560%26prot_type%3dvless#Anti-RKN
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@43.174.247.41:443?type=ws&security=tls&fp=firefox&host=jk.ylka.dpdns.org&sni=jk.ylka.dpdns.org&path=%2f%3fed%3d2560%26prot_type%3dvless#🇸🇬 Singapore | Anti-RKN
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?type=ws&security=tls&fp=firefox&host=2026.hhhhh.eu.org&sni=2026.hhhhh.eu.org&path=%2f222.167.202.31%3a7443#Anti-RKN
 vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080?type=ws&host=WQ.R5Kt41PbPO.zuLAIR.orG.&path=%2f%3fed%3d2048#Anti-RKN
 vless://071435dc-6ab9-4502-8441-ed4a4b609092@104.26.7.205:443?type=grpc&security=tls&fp=firefox&sni=n1.n1server.org#Anti-RKN
@@ -812,7 +824,7 @@ vless://07a3df8f-2a2c-42f8-ad92-65889d90f3bf@104.21.25.95:443?type=ws&security=t
 vless://07d23e52-6088-4fb8-916c-c91906f3f227@66.33.22.227:46859?type=xhttp&security=reality&fp=firefox&sni=is1-ssl.mzstatic.com&pbk=bAlBx7V-CLNn7E0ne0zjInR9aJKxRMJtXbLM9bzKNE8&sid=0c01#🇺🇸 United States | Anti-RKN
 vless://0806e6e2-e01d-482c-b530-be3b57d486d4@31.76.230.158:8443?type=tcp&security=reality&fp=firefox&sni=mosdownloand.song69.fun&pbk=yY1fkI_LuyCUjEiJcdltWRSegNPQVEGe8RT_1-e-8kI&sid=55f184e2a4067714&flow=xtls-rprx-vision#🇷🇺 Russia | Anti-RKN
 vless://081b4532-255d-4481-9484-b75ceab21b0d@140.248.159.164:80?type=ws&host=faqatchai.global.ssl.fastly.net&path=%2fcontainers%2ffi#🇨🇦 Canada, Toronto | Anti-RKN
-vless://081b4532-255d-4481-9484-b75ceab21b0d@151.101.64.84:80?type=ws&host=dojman.global.ssl.fastly.net&path=%2fcontainers%2ffi#🇺🇸 United States | Anti-RKN
+vless://081b4532-255d-4481-9484-b75ceab21b0d@151.101.0.84:80?type=ws&host=dojman.global.ssl.fastly.net&path=%2fcontainers%2ffi#🇺🇸 United States | Anti-RKN
 vless://081cd1d2-4a06-440b-b68a-1472a6aa69f1@88.80.145.95:8443?type=tcp&security=reality&fp=firefox&sni=apple.com&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&sid=9ce04f63&flow=xtls-rprx-vision#🇷🇸 Serbia, Belgrade | Anti-RKN
 vless://08452ee9-1653-4d08-8d83-6cb0528dad13@130.49.188.120:443?type=tcp&security=reality&fp=firefox&sni=dk-1.alpha-ai-studio.com&pbk=RsUYIPGTv1QIAC1wERleUBoyMZ-mpxHPRT_hA80u-BM&sid=1aa760b0&flow=xtls-rprx-vision#🇷🇺 Russia | Anti-RKN
 vless://089151c6-276a-4292-b8c3-b65ce1193b49@172.66.213.209:2087?type=ws&security=tls&fp=firefox&sni=testvip1.aattaash.com#Anti-RKN
@@ -875,8 +887,8 @@ vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.8.201:443?type=tcp&security=r
 vless://0c53a6f3-a2ea-49f6-9eb4-2cdeb6da714b@13.60.98.155:443?type=tcp&security=reality&fp=firefox&sni=jize.behmangt.qzz.io&pbk=rXknkFOUb6eoQ-JQT2OC9LrBH8huewlJQcBgu_a-bTI&sid=1470a48390a8&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://0c57c801-c2e2-4af0-8dd5-05e0d080a5e8@87.121.105.127:443?type=tcp&security=reality&fp=firefox&sni=cdnjs.com&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://0c57c801-c2e2-4af0-8dd5-05e0d080a5e8@94.103.15.110:443?type=tcp&security=reality&fp=firefox&sni=cdnjs.com&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693&flow=xtls-rprx-vision#🇲🇩 Moldova, Tighina | Anti-RKN
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@108.139.10.113:80?type=ws&host=d36lt9hzl2ug3d.cloudfront.net%3aassets.opensignal.com&path=%2flogout#🇺🇸 United States | Anti-RKN
-vless://0c94ca98-3643-4cb4-de75-6167815af665@172.67.212.223:8443?type=grpc&security=tls&fp=firefox&sni=admin.kanal-tel-nufilter.store&serviceName=Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER#Anti-RKN
+vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@143.204.1.99:80?type=ws&host=d36lt9hzl2ug3d.cloudfront.net%3aassets.opensignal.com&path=%2flogout#🇺🇸 United States | Anti-RKN
+vless://0c94ca98-3643-4cb4-de75-6167815af665@104.21.45.99:8443?type=grpc&security=tls&fp=firefox&sni=admin.kanal-tel-nufilter.store&serviceName=Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER-Telegram%3a%40NUFiLTER#Anti-RKN
 vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?type=ws&security=tls&fp=firefox&host=black.fullmargintraders.com&sni=black.fullmargintraders.com&path=%2fwsv%2f0cc731b9-0375-4590-aeaa-7e2611a149fe#Anti-RKN
 vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.16.132.136:80?type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=%2f%3fed%3d2560#Anti-RKN
 vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.24.192.51:80?type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=%2f%3fed%3d2560#Anti-RKN
@@ -938,7 +950,7 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?type=ws&security
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80?type=ws&host=masaleini.mahsaamini.dpdns.org&path=%2fTel-%40V2ray_Alpha#Anti-RKN
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.96.1:80?type=ws&host=masaleini.mahsaamini.dpdns.org&path=%2fTM%40AZAFBAYJAB1#Anti-RKN
 vless://10d9df89-9a20-4110-9711-bca119490ee9@172.66.47.63:80?type=ws&host=masaleini.mahsaamini.dpdns.org#Anti-RKN
-vless://11111111-2222-3333-4444-555555555555@104.18.40.152:443?type=ws&security=tls&fp=firefox&host=yngrfnubcecn.hostc.app&sni=yngrfnubcecn.hostc.app&path=%2ftg-jiedianxielou#Anti-RKN
+vless://11111111-2222-3333-4444-555555555555@172.64.147.104:443?type=ws&security=tls&fp=firefox&host=yngrfnubcecn.hostc.app&sni=yngrfnubcecn.hostc.app&path=%2ftg-jiedianxielou#Anti-RKN
 vless://1113a576-d328-447a-99a7-6fe72aac9596@172.67.210.173:443?type=tcp&security=tls&fp=firefox&sni=HTTPSTMeYushIkvpn.wI1KEd9-2222.WorkERs.deV#Anti-RKN
 vless://112858f5-760f-4886-95c1-c87b3b6b298e@104.16.77.1:443?type=ws&security=tls&fp=firefox&host=sbs666.jjjj2024.sbs&sni=sbs666.jjjj2024.sbs#Anti-RKN
 vless://112858f5-760f-4886-95c1-c87b3b6b298e@104.24.35.106:443?type=ws&security=tls&fp=firefox&host=sbs666.jjjj2024.sbs&sni=sbs666.jjjj2024.sbs#Anti-RKN
@@ -956,7 +968,7 @@ vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@104.21.60.171:443?type=tcp#Anti-RKN
 vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@104.21.75.235:443?type=ws&security=tls&fp=firefox&host=ancient-heart-60c5.dpccgizieb.workers.dev&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV&path=%2feyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3d%3fed%3d2560#Anti-RKN
 vless://11f0eadd-9a8d-4791-ada3-4789ac3ff7ca@104.17.16.171:8080?type=ws&host=empty-tree-6008.jobaf49186.workers.dev&path=%2fvless-ws%2f%40Azarbayjab1+%40Azarbayjab1+%40Azarbayjab1+%40Azarbayjab1%3fed%3d2560#Anti-RKN
 vless://11f21602-47aa-42e2-9149-69120f2e6df6@45.91.138.179:443?type=tcp&security=reality&fp=firefox&sni=us05.shifor01.life&pbk=36sTeaLdaAjQQxxzh492XihoPi2YxmttQyncmLuxYHE&sid=169fc2df88419465&flow=xtls-rprx-vision#🇺🇸 United States, Miami | Anti-RKN
-vless://1220c563-30a8-46bd-9264-052d7ba92e7d@151.101.201.242:443?type=ws&security=tls&fp=firefox&host=minimize-evenness.cdn-content.com&sni=minimize-evenness.cdn-content.com&path=%2fws#🇺🇸 United States, Palo Alto | Anti-RKN
+vless://1220c563-30a8-46bd-9264-052d7ba92e7d@151.101.21.242:443?type=ws&security=tls&fp=firefox&host=minimize-evenness.cdn-content.com&sni=minimize-evenness.cdn-content.com&path=%2fws#🇺🇸 United States, Seattle | Anti-RKN
 vless://122b8a33-d923-48a6-8f1b-e721cf842864@192.200.160.181:2083?type=xhttp&security=tls&fp=firefox&host=daltoon.persianclouding.ir&sni=daltoon.persianclouding.ir&path=%2fapi#🇺🇸 United States | Anti-RKN
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?type=ws&security=tls&fp=firefox&host=sni.aizrf.com&sni=sni.aizrf.com&path=%2fsnippets#🇱🇹 Lithuania | Anti-RKN
 vless://123dcf44-5cea-4076-896c-137ae3fc214b@172.67.187.18:2087?type=ws&security=tls&fp=firefox&host=panel.proxystore11.news&sni=panel.proxystore11.news&path=%2fprx11#Anti-RKN
@@ -991,19 +1003,7 @@ vless://14b48651-3738-4926-bc09-4c04e87ff80b@2.57.91.92:443#🇱🇹 Lithuania |
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.139:443?type=ws&security=tls&fp=firefox&host=vangoghhh.info&sni=vangoghhh.info&path=%2frdfgtws#Anti-RKN
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.18.153.10:443?type=ws&security=tls&fp=firefox&host=vangoghhh.info&sni=vangoghhh.info&path=%2frdfgtws#Anti-RKN
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.126:443?type=ws&security=tls&fp=firefox&host=vangoghhh.info&sni=vangoghhh.info&path=%2frdfgtws#🇸🇨 Seychelles | Anti-RKN
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@172.64.32.75:443?type=ws&security=tls&fp=firefox&host=vangoghhh.info&sni=vangoghhh.info&path=%2frdfgtws#Anti-RKN
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@173.245.58.75:443?type=ws&security=tls&fp=firefox&host=vangoghhh.info&sni=vangoghhh.info&path=%2frdfgtws#Anti-RKN
 vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?type=tcp#🇩🇪 Germany, Falkenstein | Anti-RKN
 vless://14eba471-4623-4ed1-b937-f5b2206749bf@91.99.168.213:443?type=grpc&security=reality&fp=firefox&sni=miro.com&pbk=UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4&sid=1c547814&serviceName=Telegram-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers#🇩🇪 Germany, Nuremberg | Anti-RKN
-vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@172.67.213.171:2087?type=grpc&security=reality&fp=firefox&sni=amp-api-edge.apps.apple.com&pbk=4vqnyvBYwbYWLCTK0a849E1eEQ3z03W0cSU2E5_Au2U&sid=a89fcda873316426&serviceName=yourServiceName#Anti-RKN
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.41.28:443?type=ws&security=tls&fp=firefox&host=d5.medicaltreatment.ir&sni=d5.medicaltreatment.ir#Anti-RKN
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.145:443?type=tcp#🇩🇪 Germany, Nuremberg | Anti-RKN
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?type=tcp#🇩🇪 Germany, Nuremberg | Anti-RKN
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?type=tcp#🇩🇪 Germany, Nuremberg | Anti-RKN
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?type=tcp#🇩🇪 Germany, Nuremberg | Anti-RKN
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?type=tcp#🇩🇪 Germany, Nuremberg | Anti-RKN
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?type=tcp#🇩🇪 Germany, Nuremberg | Anti-RKN
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?type=tcp#🇩🇪 Germany, Nuremberg | Anti-RKN
-vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.70:443?type=ws&security=tls&fp=firefox&host=static.lk.pc-club.app&sni=static.lk.pc-club.app&path=%2fgateway%2fv1%2fws%2fde963c1a03a37c66383da198813099b1#🇷🇺 Russia | Anti-RKN
-vless://155f0c23-cebe-4b71-adc5-72ef97b1f524@78.46.247.83:8080?type=tcp&security=reality&fp=firefox&sni=www.tgju.org&pbk=SAW3BGJNg72vtXHswOafte0QqaIEjM1dD1vZahkwJlk&sid=73693dea6faae051#🇩🇪 Germany, Nuremberg | Anti-RKN
-vless://15634a62-7add-473b-a76c-cf26d158850d@89.105.206.151:443?type=tcp&security=reality&fp=firefox&sni=nl.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&flow=xtls-rprx-vision#🇳🇱 The Netherlands, Enschede | Anti-RKN
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@178.249.213.177:8443?type=tcp&security=tls&fp=firefox&sni=jp1.fromblancwithlove.com#🇯🇵 Japan, Tokyo | Anti-RKN
+vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@104.21.16.155:2087?type=grpc&security=reality&fp=firefox&sni=amp-api-edge.apps.apple.com&pbk=4vqnyvBYwbYWLCTK0a849E1eEQ3z03W0cSU2E5_Au2U&sid=a89fcda873316426&serviceName=yourServiceName#Anti-RKN

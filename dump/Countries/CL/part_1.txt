@@ -1,21 +1,20 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CL] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409162
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:39:22
-# servers-count: 12
+# generated-at: 11/27/2026 13:52:23
+# servers-count: 11
 
+http://45.232.211.130:999#🇨🇱 Chile, La Pintana | Anti-RKN
 https://200.75.11.94:443#🇨🇱 Chile, Santiago | Anti-RKN
 https://129.151.121.143:443#🇨🇱 Chile, Santiago | Anti-RKN
 https://152.230.28.131:8081#🇨🇱 Chile, Santiago | Anti-RKN
-http://186.148.31.28:999#🇨🇱 Chile, Pozo Almonte | Anti-RKN
+http://200.126.94.179:999#🇨🇱 Chile, Quirihue | Anti-RKN
+http://181.74.82.91:999#🇨🇱 Chile, Limache | Anti-RKN
+http://45.180.26.1:999#🇨🇱 Chile, Nogales | Anti-RKN
+http://45.162.132.157:999#🇨🇱 Chile, Puente Alto | Anti-RKN
+http://200.111.104.59:3128#🇨🇱 Chile, Santiago | Anti-RKN
+http://200.39.139.65:999#🇨🇱 Chile, Valparaíso | Anti-RKN
 http://146.83.118.9:80#🇨🇱 Chile | Anti-RKN
-http://152.230.215.123:80#🇨🇱 Chile, Santiago | Anti-RKN
-http://170.239.84.103:3128#🇨🇱 Chile, Curicó | Anti-RKN
-socks4://152.231.81.19:1080#🇨🇱 Chile, Santiago | Anti-RKN
-http://190.110.96.250:999#🇨🇱 Chile, Chillan | Anti-RKN
-socks4://152.230.215.123:80#🇨🇱 Chile, Santiago | Anti-RKN
-socks4://170.239.84.103:3128#🇨🇱 Chile, Curicó | Anti-RKN
-socks5://152.230.215.123:80#🇨🇱 Chile, Santiago | Anti-RKN

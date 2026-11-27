@@ -1,14 +1,12 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SY] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409162
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409944
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:39:22
-# servers-count: 5
+# generated-at: 11/27/2026 13:52:24
+# servers-count: 3
 
-socks4://205.209.66.105:1080#🇸🇾 Syria | Anti-RKN
-socks4://89.43.135.181:1080#🇸🇾 Syria | Anti-RKN
-socks4://82.137.245.41:1080#🇸🇾 Syria | Anti-RKN
 http://213.178.250.33:8080#🇸🇾 Syria | Anti-RKN
-https://213.178.250.33:8080#🇸🇾 Syria | Anti-RKN
+socks4://205.209.66.105:1080#🇸🇾 Syria | Anti-RKN
+http://185.225.42.81:8080#🇸🇾 Syria | Anti-RKN

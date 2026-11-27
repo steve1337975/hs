@@ -1,18 +1,18 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [VN] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405567
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:31:22
-# servers-count: 109
+# generated-at: 11/27/2026 12:39:27
+# servers-count: 96
 
 vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@103.163.24.22:56026?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063#🇻🇳 Vietnam | Anti-RKN
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=tcp#🇻🇳 Vietnam | Anti-RKN
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?packetEncoding=none&type=tcp#🇻🇳 Vietnam | Anti-RKN
 vless://51e5021f-6ceb-4da8-8f35-b7c90a95519e@42.114.45.197:443#🇻🇳 Vietnam, Hanoi | Anti-RKN
 vless://9b637584-3647-4422-9e1f-be93c54bf0e0@42.114.45.197:443#🇻🇳 Vietnam, Hanoi | Anti-RKN
 vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&sid=f3a10622fe#🇻🇳 Vietnam | Anti-RKN
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086#🇻🇳 Vietnam | Anti-RKN
 http://42.96.15.210:60000#🇻🇳 Vietnam | Anti-RKN
 http://42.96.15.210:60001#🇻🇳 Vietnam | Anti-RKN
 http://42.96.12.16:55555#🇻🇳 Vietnam | Anti-RKN
@@ -20,10 +20,10 @@ vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@103.163.24.22:56026?packetEncoding=
 http://180.93.102.159:40008#🇻🇳 Vietnam | Anti-RKN
 http://180.93.102.159:40007#🇻🇳 Vietnam | Anti-RKN
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.30.54.63:443?packetEncoding=none&type=ws&security=tls&fp=firefox&host=cdn8848.776676.xyz&sni=cdn8848.776676.xyz&path=%2fchannel%3fed%3d2560#🇻🇳 Vietnam | Anti-RKN
-http://123.24.119.227:3128#🇻🇳 Vietnam, Hanoi | Anti-RKN
 vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&sid=f3a10622fe#🇻🇳 Vietnam | Anti-RKN
 http://103.21.150.15:3128#🇻🇳 Vietnam | Anti-RKN
-http://103.81.86.170:8888#🇻🇳 Vietnam, Hanoi | Anti-RKN
+socks5://27.69.70.18:1083#🇻🇳 Vietnam, Nha Trang | Anti-RKN
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?packetEncoding=xudp&type=tcp#🇻🇳 Vietnam | Anti-RKN
 vless://9d214fca-48d7-49e9-a648-aa8aa91b0273@42.114.45.197:443?security=reality&fp=firefox&sni=tiki.vn&pbk=FiTujAicjc_XXhb1g_G_72IC8IVkG57hWs15RPRjhxU&sid=c5a41699&flow=xtls-rprx-vision#🇻🇳 Vietnam, Hanoi | Anti-RKN
 vless://cd2d1988-9399-442e-96e6-635c9beba45e@42.114.45.197:443?security=reality&fp=firefox&sni=tiki.vn&pbk=FiTujAicjc_XXhb1g_G_72IC8IVkG57hWs15RPRjhxU&sid=c5a41699&flow=xtls-rprx-vision#🇻🇳 Vietnam, Hanoi | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#🇻🇳 Vietnam | Anti-RKN
@@ -32,20 +32,17 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hu/Cfh7MgVmlldG5hbSB8IEFudGktUktOIiwiYWRkIjoiMTAz
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hu/Cfh7MgVmlldG5hbSB8IEFudGktUktOIiwiYWRkIjoiMTAzLjU2LjE2MC4xODQiLCJwb3J0IjoiODAiLCJpZCI6ImVmOTE5YzY3LTY2MzgtNDQxNi05MWFmLTlhMTNmZmU1YjljYSIsIm5ldCI6IndzIiwicGF0aCI6Ii90YW5kdW5nMjg4LmNsaWNrIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hu/Cfh7MgVmlldG5hbSB8IEFudGktUktOIiwiYWRkIjoiMTAzLjc1LjE4Ni4xNTMiLCJwb3J0IjoiODAiLCJpZCI6ImVmOTE5YzY3LTY2MzgtNDQxNi05MWFmLTlhMTNmZmU1YjljYSIsIm5ldCI6IndzIiwicGF0aCI6Ii90YW5kdW5nMjg4LmNsaWNrIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hu/Cfh7MgVmlldG5hbSB8IEFudGktUktOIiwiYWRkIjoiMTAzLjgyLjI1LjEwNiIsInBvcnQiOiI4MCIsImlkIjoiZWM3Yzk0YjUtNmNhNi00Mjg5LWI0NGItYzY1ODNmMmM1ZjZjIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Z1enp5bmc/ZWQ9MjA0OCJ9
-socks4://113.161.134.128:1080#🇻🇳 Vietnam, Bien Hoa | Anti-RKN
-socks4://171.248.208.246:1080#🇻🇳 Vietnam | Anti-RKN
-socks4://113.161.185.160:1080#🇻🇳 Vietnam, Mỹ Tho | Anti-RKN
+socks4://14.241.242.177:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://27.72.122.228:51067#🇻🇳 Vietnam, Hanoi | Anti-RKN
+socks4://113.163.156.8:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://171.250.217.161:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://171.247.247.25:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://171.248.215.26:1080#🇻🇳 Vietnam | Anti-RKN
 socks4://171.248.219.72:1080#🇻🇳 Vietnam | Anti-RKN
 socks4://171.247.158.166:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-https://14.225.19.28:8443#🇻🇳 Vietnam, Hanoi | Anti-RKN
-https://14.225.71.128:8443#🇻🇳 Vietnam, Hanoi | Anti-RKN
-https://14.225.71.128:443#🇻🇳 Vietnam, Hanoi | Anti-RKN
 socks4://171.248.223.223:1080#🇻🇳 Vietnam | Anti-RKN
 socks4://27.77.229.107:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://113.161.185.238:1080#🇻🇳 Vietnam, Mỹ Tho | Anti-RKN
+socks4://171.250.219.119:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://27.77.232.125:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://171.248.217.119:1080#🇻🇳 Vietnam | Anti-RKN
 socks4://27.68.171.168:1080#🇻🇳 Vietnam, Thai Nguyen | Anti-RKN
@@ -54,13 +51,9 @@ socks4://171.247.245.76:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://27.68.171.218:1080#🇻🇳 Vietnam, Thai Nguyen | Anti-RKN
 socks4://171.248.223.121:1080#🇻🇳 Vietnam | Anti-RKN
 socks4://27.77.228.98:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://171.248.216.69:1080#🇻🇳 Vietnam | Anti-RKN
-http://117.5.162.133:8080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks5://118.68.189.6:1080#🇻🇳 Vietnam, Hanoi | Anti-RKN
 socks5://103.190.120.79:10000#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks5://180.93.102.159:40008#🇻🇳 Vietnam | Anti-RKN
 socks5://103.179.189.64:9191#🇻🇳 Vietnam | Anti-RKN
-socks5://103.166.184.104:9191#🇻🇳 Vietnam | Anti-RKN
 socks5://180.93.102.159:40002#🇻🇳 Vietnam | Anti-RKN
 socks5://14.225.205.152:1085#🇻🇳 Vietnam | Anti-RKN
 socks5://160.187.1.225:9050#🇻🇳 Vietnam | Anti-RKN
@@ -72,47 +65,41 @@ socks5://42.113.229.111:20001#🇻🇳 Vietnam, Hanoi | Anti-RKN
 socks5://14.225.68.207:1337#🇻🇳 Vietnam, Hanoi | Anti-RKN
 socks5://171.244.199.151:1337#🇻🇳 Vietnam | Anti-RKN
 socks5://103.200.22.28:1080#🇻🇳 Vietnam | Anti-RKN
-http://113.160.37.152:53281#🇻🇳 Vietnam, Hanoi | Anti-RKN
+http://103.82.23.129:8888#🇻🇳 Vietnam | Anti-RKN
+http://14.248.84.131:8080#🇻🇳 Vietnam, Hanoi | Anti-RKN
 http://36.50.135.41:443#🇻🇳 Vietnam | Anti-RKN
+http://27.77.239.5:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 http://1.53.84.125:8080#🇻🇳 Vietnam, Hanoi | Anti-RKN
 http://27.77.227.218:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 http://160.187.1.225:9050#🇻🇳 Vietnam | Anti-RKN
+http://27.77.228.98:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 http://103.190.120.79:10000#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 http://103.82.20.76:8080#🇻🇳 Vietnam | Anti-RKN
 http://180.93.102.159:40014#🇻🇳 Vietnam | Anti-RKN
-socks4://113.161.248.167:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://171.248.209.191:1080#🇻🇳 Vietnam | Anti-RKN
-socks4://171.247.247.254:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://171.238.62.144:1080#🇻🇳 Vietnam, Hanoi | Anti-RKN
-socks4://171.247.247.113:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://171.253.90.204:1111#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks5://180.93.102.159:40007#🇻🇳 Vietnam | Anti-RKN
-socks4://171.248.222.178:1080#🇻🇳 Vietnam | Anti-RKN
-socks4://27.75.159.208:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks5://171.253.90.204:1111#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://27.68.168.105:1080#🇻🇳 Vietnam, Thai Nguyen | Anti-RKN
-socks4://171.250.217.32:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://116.100.218.113:1080#🇻🇳 Vietnam | Anti-RKN
+socks4://171.247.247.113:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks5://180.93.102.159:40015#🇻🇳 Vietnam | Anti-RKN
+socks4://27.68.169.237:1080#🇻🇳 Vietnam, Thai Nguyen | Anti-RKN
+http://180.93.102.159:40018#🇻🇳 Vietnam | Anti-RKN
+socks4://113.161.162.0:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+http://58.187.97.254:2069#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://171.248.217.220:1080#🇻🇳 Vietnam | Anti-RKN
+socks4://27.77.227.218:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks5://qT46DZLv:jHsK2gqs@103.184.113.190:62000#🇻🇳 Vietnam | Anti-RKN
 socks5://qT46DZLv:jHsK2gqs@103.184.113.236:62000#🇻🇳 Vietnam | Anti-RKN
-http://103.179.189.64:9191#🇻🇳 Vietnam | Anti-RKN
-http://103.166.184.104:9191#🇻🇳 Vietnam | Anti-RKN
-http://27.68.168.105:1080#🇻🇳 Vietnam, Thai Nguyen | Anti-RKN
-http://27.77.232.125:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-http://113.161.134.128:1080#🇻🇳 Vietnam, Bien Hoa | Anti-RKN
-socks4://27.68.169.237:1080#🇻🇳 Vietnam, Thai Nguyen | Anti-RKN
-socks4://103.82.20.76:8080#🇻🇳 Vietnam | Anti-RKN
-socks4://103.81.86.170:8888#🇻🇳 Vietnam, Hanoi | Anti-RKN
-socks4://116.100.218.113:1080#🇻🇳 Vietnam | Anti-RKN
-socks5://171.248.222.178:1080#🇻🇳 Vietnam | Anti-RKN
-socks5://103.82.20.76:8080#🇻🇳 Vietnam | Anti-RKN
-socks5://171.248.209.191:1080#🇻🇳 Vietnam | Anti-RKN
-socks5://171.248.217.220:1080#🇻🇳 Vietnam | Anti-RKN
-socks5://116.100.218.113:1080#🇻🇳 Vietnam | Anti-RKN
-http://171.248.222.178:1080#🇻🇳 Vietnam | Anti-RKN
-http://171.248.209.191:1080#🇻🇳 Vietnam | Anti-RKN
-socks4://27.76.193.208:1080#🇻🇳 Vietnam, Ha Long | Anti-RKN
-socks4://171.253.91.148:1100#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://113.161.162.0:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-http://160.30.204.24:10008#🇻🇳 Vietnam | Anti-RKN
+socks4://27.69.71.254:1083#🇻🇳 Vietnam, Nha Trang | Anti-RKN
 socks5://103.190.120.79:10001#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+http://103.179.189.64:9191#🇻🇳 Vietnam | Anti-RKN
+http://171.248.222.178:1080#🇻🇳 Vietnam | Anti-RKN
+http://171.247.247.25:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+http://171.238.62.144:1080#🇻🇳 Vietnam, Hanoi | Anti-RKN
+socks4://171.238.62.144:1080#🇻🇳 Vietnam, Hanoi | Anti-RKN
+socks4://27.75.159.208:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://27.76.193.208:1080#🇻🇳 Vietnam, Ha Long | Anti-RKN
+socks4://171.250.217.32:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://171.248.222.178:1080#🇻🇳 Vietnam | Anti-RKN
+socks4://103.82.20.76:8080#🇻🇳 Vietnam | Anti-RKN
+socks5://103.82.20.76:8080#🇻🇳 Vietnam | Anti-RKN
+http://171.253.90.204:2047#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+http://103.28.37.131:3128#🇻🇳 Vietnam | Anti-RKN

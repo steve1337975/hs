@@ -1,16 +1,17 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BE] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405567
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:31:22
-# servers-count: 21
+# generated-at: 11/27/2026 12:39:27
+# servers-count: 20
 
 vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@109.69.218.160:443?security=reality&fp=firefox&sni=agile-raptor.cdn.cachefleet.com&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&flow=xtls-rprx-vision#🇧🇪 Belgium | Anti-RKN
 vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@109.69.218.162:443?type=tcp&security=reality&fp=firefox&sni=bright-glyph.cdn.cachefleet.com&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&flow=xtls-rprx-vision#🇧🇪 Belgium | Anti-RKN
 vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@109.69.218.160:443?type=tcp&security=reality&fp=firefox&sni=agile-raptor.cdn.cachefleet.com&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&flow=xtls-rprx-vision#🇧🇪 Belgium | Anti-RKN
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@35.241.172.224:443?type=ws&security=tls&fp=firefox&host=inlay.merlano.monster&sni=inlay.merlano.monster&path=%2fapi%2fde3%2fstream#🇧🇪 Belgium, Brussels | Anti-RKN
+http://34.79.151.191:8888#🇧🇪 Belgium, Brussels | Anti-RKN
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@35.241.172.224:443?type=ws&security=tls&fp=firefox&host=lagoon.gerqix.online&sni=lagoon.gerqix.online&path=%2fapi%2fde5%2fstream#🇧🇪 Belgium, Brussels | Anti-RKN
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@35.241.172.224:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇧🇪 Belgium, Brussels | Anti-RKN
 vless://92e8d9dc-8e3b-4f81-a278-d18c6bf1b962@35.210.99.51:443?type=ws&security=tls&fp=firefox&host=app-base-njw3ky.pages.dev&sni=app-base-njw3ky.pages.dev&path=%2fws%3fip%3d35.210.99.51%3a443#🇧🇪 Belgium, Brussels | Anti-RKN
@@ -21,10 +22,8 @@ vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?type=tcp&securit
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@188.95.12.226:2095?type=httpupgrade&host=usv4.monopolitass.ir#🇧🇪 Belgium | Anti-RKN
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.65.255:443?type=ws&security=tls&fp=firefox&host=en.mfa.gov.ir&sni=en.mfa.gov.ir&path=%2fH%3fed%3d2560#🇧🇪 Belgium, Brussels | Anti-RKN
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.168:443?type=tcp&security=reality&fp=firefox&sni=agile-raptor.cdn.cachefleet.com&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&flow=xtls-rprx-vision#🇧🇪 Belgium | Anti-RKN
-vless://f8cb3c89-32af-4255-bebc-d90aad175069@94.126.225.138:443?type=tcp&security=reality&fp=firefox&sni=beb.899themes.pro&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&flow=xtls-rprx-vision#🇧🇪 Belgium, Brussels | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh6ogQmVsZ2l1bSwgQnJ1c3NlbHMgfCBBbnRpLVJLTiIsImFkZCI6IjM3LjEyMC4yMzYuMjUxIiwicG9ydCI6IjQ0MyIsImlkIjoiZWQxNjJkYWEtZWUyMC00NGVkLTgzMGYtYjUyMmM1MDEzODdhIiwibmV0Ijoid3MiLCJob3N0Ijoid3d3LjQyMDg4MzI2Lnh5eiIsInBhdGgiOiIvcGF0aC8xNDMwMTMwOTI0MjUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh6ogQmVsZ2l1bSwgQnJ1c3NlbHMgfCBBbnRpLVJLTiIsImFkZCI6IjM3LjEyMC4yMzYuMjUyIiwicG9ydCI6IjQ0MyIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0Ijoid3MiLCJob3N0Ijoid3d3LjgzNTcxOTQ1Lnh5eiIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
-https://89.207.188.137:443#🇧🇪 Belgium | Anti-RKN
 http://34.140.137.151:80#🇧🇪 Belgium, Brussels | Anti-RKN
 socks4://34.140.137.151:80#🇧🇪 Belgium, Brussels | Anti-RKN
 socks5://34.140.137.151:80#🇧🇪 Belgium, Brussels | Anti-RKN

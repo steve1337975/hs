@@ -1,34 +1,65 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ⚡ HTTP — BLACK #3
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405567
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:31:22
-# servers-count: 60
+# generated-at: 11/27/2026 12:39:27
+# servers-count: 88
 
+http://190.229.64.252:443#🇦🇷 Argentina, Las Talitas | Anti-RKN
+http://161.97.106.223:9050#🇫🇷 France, Lauterbourg | Anti-RKN
+http://8.211.194.78:3129#🇬🇧 United Kingdom, London | Anti-RKN
+http://8.211.195.173:100#🇬🇧 United Kingdom, London | Anti-RKN
+http://8.213.197.208:5060#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://47.254.36.213:1080#🇺🇸 United States | Anti-RKN
+http://147.161.246.34:10946#🇨🇭 Switzerland, Zurich | Anti-RKN
+http://8.221.141.88:31433#🇯🇵 Japan, Tokyo | Anti-RKN
+http://47.121.183.107:6379#🇨🇳 China, Shenzhen | Anti-RKN
+http://47.92.219.102:8090#🇨🇳 China, Beijing | Anti-RKN
+http://116.203.139.209:8081#🇩🇪 Germany, Nuremberg | Anti-RKN
+http://47.92.219.102:8080#🇨🇳 China, Beijing | Anti-RKN
+http://109.194.34.246:8082#🇷🇺 Russia, Tomsk | Anti-RKN
+http://8.211.42.167:1081#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+http://147.161.246.34:12085#🇨🇭 Switzerland, Zurich | Anti-RKN
+http://47.238.134.126:18080#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
+http://109.127.199.122:9999#🇸🇮 Slovenia, Ljubljana | Anti-RKN
+http://47.251.73.54:8443#🇺🇸 United States | Anti-RKN
+http://8.213.222.247:8443#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://8.221.141.88:8820#🇯🇵 Japan, Tokyo | Anti-RKN
+http://147.161.246.34:11913#🇨🇭 Switzerland, Zurich | Anti-RKN
+http://47.252.11.233:8090#🇺🇸 United States | Anti-RKN
+http://142.54.226.214:4145#🇺🇸 United States | Anti-RKN
 http://47.99.112.148:8888#🇨🇳 China, Hangzhou | Anti-RKN
 http://182.155.254.159:80#🇹🇼 Taiwan | Anti-RKN
 http://47.89.159.212:6379#🇺🇸 United States | Anti-RKN
 http://47.105.122.72:8008#🇨🇳 China, Qingdao | Anti-RKN
+http://8.221.141.88:8003#🇯🇵 Japan, Tokyo | Anti-RKN
 http://8.211.42.167:8005#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 http://47.119.164.33:8085#🇨🇳 China, Shenzhen | Anti-RKN
 http://8.213.156.191:199#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.213.222.157:4002#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://12.11.59.114:1080#🇺🇸 United States, Fort Worth | Anti-RKN
 http://47.91.115.179:7878#🇦🇪 United Arab Emirates, Dubai | Anti-RKN
 http://8.211.194.78:4002#🇬🇧 United Kingdom, London | Anti-RKN
 http://8.211.194.78:5671#🇬🇧 United Kingdom, London | Anti-RKN
 http://103.146.137.137:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
+http://147.161.246.34:11139#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://47.238.128.246:4002#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 http://120.26.104.146:80#🇨🇳 China, Hangzhou | Anti-RKN
+http://47.91.29.151:4145#🇯🇵 Japan, Tokyo | Anti-RKN
 http://47.238.128.246:1000#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 http://8.221.139.222:4002#🇯🇵 Japan, Tokyo | Anti-RKN
 http://47.119.22.92:8085#🇨🇳 China, Shenzhen | Anti-RKN
+http://8.213.134.213:1111#🇰🇷 South Korea, Seoul | Anti-RKN
+http://8.211.194.85:31433#🇬🇧 United Kingdom, London | Anti-RKN
 http://47.238.130.212:9080#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 http://8.213.134.213:55443#🇰🇷 South Korea, Seoul | Anti-RKN
 http://8.213.215.187:18080#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://47.252.11.233:1081#🇺🇸 United States | Anti-RKN
-http://103.102.142.98:4145#🇮🇩 Indonesia | Anti-RKN
+http://147.161.246.34:10936#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://138.201.198.53:80#🇩🇪 Germany, Falkenstein | Anti-RKN
+http://47.238.134.126:82#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 http://8.130.74.114:8888#🇨🇳 China, Beijing | Anti-RKN
 http://8.213.222.247:3333#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://47.116.181.146:8800#🇨🇳 China, Shanghai | Anti-RKN
@@ -42,28 +73,25 @@ http://8.221.138.111:1080#🇯🇵 Japan, Tokyo | Anti-RKN
 http://47.238.130.212:8443#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 http://39.100.88.89:4006#🇨🇳 China, Beijing | Anti-RKN
 http://8.211.42.167:6379#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-http://8.130.54.67:20002#🇨🇳 China, Beijing | Anti-RKN
-http://8.211.194.78:138#🇬🇧 United Kingdom, London | Anti-RKN
-http://8.211.194.78:111#🇬🇧 United Kingdom, London | Anti-RKN
-http://8.220.136.174:2000#🇵🇭 Philippines, Manila | Anti-RKN
-http://8.213.215.187:6666#🇹🇭 Thailand, Bangkok | Anti-RKN
-http://81.31.228.10:1090#🇮🇷 Iran | Anti-RKN
-http://8.213.215.187:5060#🇹🇭 Thailand, Bangkok | Anti-RKN
-http://8.220.205.172:1337#🇰🇷 South Korea, Seoul | Anti-RKN
-http://160.30.204.24:10008#🇻🇳 Vietnam | Anti-RKN
-http://8.221.138.111:9000#🇯🇵 Japan, Tokyo | Anti-RKN
-http://8.221.138.111:13#🇯🇵 Japan, Tokyo | Anti-RKN
-http://157.20.233.65:3125#🇮🇩 Indonesia | Anti-RKN
-http://8.221.138.111:8072#🇯🇵 Japan, Tokyo | Anti-RKN
-http://47.238.130.212:80#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-http://47.238.130.212:1337#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-http://47.238.130.212:20#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-http://47.91.109.17:8118#🇦🇪 United Arab Emirates, Dubai | Anti-RKN
-http://47.238.130.212:3128#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-http://47.91.109.17:8080#🇦🇪 United Arab Emirates, Dubai | Anti-RKN
-http://8.215.15.163:80#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://47.251.74.38:202#🇺🇸 United States | Anti-RKN
-http://8.215.15.163:8080#🇮🇩 Indonesia, Jakarta | Anti-RKN
-http://8.210.17.35:443#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-http://8.211.195.173:80#🇬🇧 United Kingdom, London | Anti-RKN
-http://8.211.195.173:28737#🇬🇧 United Kingdom, London | Anti-RKN
+http://147.161.246.34:12002#🇨🇭 Switzerland, Zurich | Anti-RKN
+http://8.211.195.139:8001#🇬🇧 United Kingdom, London | Anti-RKN
+http://177.130.104.86:33333#🇧🇷 Brazil, Nova Andradina | Anti-RKN
+http://8.211.195.139:20002#🇬🇧 United Kingdom, London | Anti-RKN
+http://51.89.24.168:10005#🇬🇧 United Kingdom, London | Anti-RKN
+http://167.99.3.26:7621#🇺🇸 United States, North Bergen | Anti-RKN
+http://167.99.3.26:5279#🇺🇸 United States, North Bergen | Anti-RKN
+http://167.99.3.26:6249#🇺🇸 United States, North Bergen | Anti-RKN
+http://167.99.3.26:9204#🇺🇸 United States, North Bergen | Anti-RKN
+http://62.60.186.155:8080#🇸🇪 Sweden, Stockholm | Anti-RKN
+http://103.28.37.131:3128#🇻🇳 Vietnam | Anti-RKN
+http://178.104.234.144:8118#🇩🇪 Germany, Nuremberg | Anti-RKN
+http://47.237.107.41:5060#🇸🇬 Singapore | Anti-RKN
+http://47.237.113.119:1720#🇸🇬 Singapore | Anti-RKN
+http://47.74.46.81:37777#🇯🇵 Japan, Tokyo | Anti-RKN
+http://47.237.113.119:16044#🇸🇬 Singapore | Anti-RKN
+http://65.109.65.238:18080#🇫🇮 Finland, Helsinki | Anti-RKN
+http://103.126.86.91:1212#🇮🇩 Indonesia | Anti-RKN
+http://143.244.141.103:3128#🇮🇳 India, Bengaluru | Anti-RKN
+http://31.145.149.75:9090#🇹🇷 Türkiye, Istanbul | Anti-RKN
+http://47.237.92.86:45#🇸🇬 Singapore | Anti-RKN
+http://47.238.60.156:9080#🇭🇰 Hong Kong, Hong Kong | Anti-RKN

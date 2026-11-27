@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AU] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405567
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:31:22
-# servers-count: 85
+# generated-at: 11/27/2026 12:39:27
+# servers-count: 74
 
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@202.133.89.8:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇦🇺 Australia | Anti-RKN
 vless://3c778768-d511-4221-8be3-3eba45640e9e@51.161.204.242:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=l0I4SmPtUDyjp1PAeSxBJ5qr9vubCOl9w3b-eDI4x24&sid=d432fe14bbdc17f6&flow=xtls-rprx-vision#🇦🇺 Australia, Sydney | Anti-RKN
@@ -48,13 +48,14 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIx
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJuZXQiOiJ3cyIsImhvc3QiOiI1NS43MmltZy54eXoiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJuZXQiOiJ3cyIsImhvc3QiOiI5LjcyaW1nLnh5eiIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJidXl2bS5zaGFyZWNlbnRyZS5vbmxpbmUiLCJwYXRoIjoiL3NoaXJrZXIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJidXl2bS5zaGFyZWNlbnRyZS5vbmxpbmUiLCJmcCI6ImZpcmVmb3gifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJ1cy1kcC5zaGFyZWNlbnRyZS5vbmxpbmUiLCJwYXRoIjoiL3NoaXJrZXIiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJjZi1keC1kbnMuc2hhcmVjZW50cmUub25saW5lIiwicGF0aCI6Ii9zaGlya2VyIiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJjZi1sdC5zaGFyZWNlbnRyZS5vbmxpbmUiLCJwYXRoIjoiL3NoaXJrZXIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZy1nY29yZS5zaGFyZWNlbnRyZS5vbmxpbmUiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiODAiLCJpZCI6IjRhNDdlNjgwLWQ4NjAtNGU2My05ZmE2LTgxMzg1N2ZiMGY0MiIsIm5ldCI6IndzIiwiaG9zdCI6ImNmLWx0LnNoYXJlY2VudHJlLm9ubGluZSIsInBhdGgiOiI0YTQ3ZTY4MCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJsdS5zaGFyZWNlbnRyZS5vbmxpbmUiLCJwYXRoIjoiL3NoaXJrZXIiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJsdnJ5emVua3ZtMWdiLnNoYXJlY2VudHJlLm9ubGluZSIsInBhdGgiOiIvc2hpcmtlciIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJzZy1nY29yZS5zaGFyZWNlbnRyZS5vbmxpbmUiLCJwYXRoIjoiL3NoaXJrZXIiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiODAiLCJpZCI6IjZjNDZlMTdkLTRmOTAtNGZkYS04NDg0LTk4ZjE5MjUyNGJjNyIsIm5ldCI6IndzIiwiaG9zdCI6InNzcnN1Yi52MTAuYXN1a2EuYnV6eiIsInBhdGgiOiIvYXBpL3YzL2Rvd25sb2FkLmdldEZpbGUifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJ1cy1kcC5zaGFyZWNlbnRyZS5vbmxpbmUiLCJwYXRoIjoiL3NoaXJrZXIiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJ1cy1lYXN0LnNoYXJlY2VudHJlLm9ubGluZSIsInBhdGgiOiIvc2hpcmtlciIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI1ZjY0ZmE2NS03YjE0LTQ5YzUtOTU0ZC1hYTE1YzZiZmNhY2QiLCJuZXQiOiJ3cyIsImhvc3QiOiJjbGFzaDYuc3NyLWZyZWUueHl6IiwicGF0aCI6Ii9kb25ndGFpd2FuZy5jb20iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjbGFzaDYuc3NyLWZyZWUueHl6IiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJkZS0yLnNoYXJlY2VudHJlLm9ubGluZSIsInBhdGgiOiIvc2hpcmtlciIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
@@ -75,20 +76,8 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIx
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiNTMuNzJpbWcueHl6IiwidGxzIjoidGxzIiwic25pIjoiNTMuNzJpbWcueHl6IiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhLCBIdW50aW5nd29vZCB8IEFudGktUktOIiwiYWRkIjoiMTU5LjEzLjM0LjIyIiwicG9ydCI6IjEwMDAxIiwiaWQiOiJhZWM4ZTVlMy1iYjgxLTRiMjItODgwMi0wYjg4YzU0OTk3YjMiLCJzY3kiOiJhdXRvIn0=
 socks5://159.196.163.64:80#🇦🇺 Australia, Sydney | Anti-RKN
-https://4.198.140.211:443#🇦🇺 Australia, Melbourne | Anti-RKN
-https://150.230.14.159:443#🇦🇺 Australia, Huntingwood | Anti-RKN
-https://103.77.232.74:443#🇦🇺 Australia | Anti-RKN
-https://103.77.232.74:9443#🇦🇺 Australia | Anti-RKN
-https://51.161.152.170:443#🇦🇺 Australia, Sydney | Anti-RKN
-https://203.31.65.32:443#🇦🇺 Australia, Melbourne | Anti-RKN
-https://140.238.205.29:443#🇦🇺 Australia, Huntingwood | Anti-RKN
-https://13.239.253.213:49861#🇦🇺 Australia, Sydney | Anti-RKN
-https://140.238.207.23:443#🇦🇺 Australia, Huntingwood | Anti-RKN
-https://16.51.53.116:9595#🇦🇺 Australia, Melbourne | Anti-RKN
 http://4.195.16.140:80#🇦🇺 Australia, Sydney | Anti-RKN
 http://139.99.237.62:80#🇦🇺 Australia, Sydney | Anti-RKN
-http://202.174.103.98:3128#🇦🇺 Australia, Brisbane | Anti-RKN
-socks5://168.138.9.147:1080#🇦🇺 Australia, Melbourne | Anti-RKN
-http://114.111.151.41:80#🇦🇺 Australia, Adelaide | Anti-RKN
+http://159.196.163.64:80#🇦🇺 Australia, Sydney | Anti-RKN
 socks4://134.199.160.93:8888#🇦🇺 Australia, Sydney | Anti-RKN
 socks5://134.199.160.93:8888#🇦🇺 Australia, Sydney | Anti-RKN

@@ -1,12 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [VG] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827400581
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 11:16:21
-# servers-count: 3
+# generated-at: 11/27/2026 12:31:22
+# servers-count: 2
 
-vless://7f64eeb1-b5f1-40a0-d80e-e6c718f6bd6a@203.32.121.53:2096?type=grpc&security=tls&fp=firefox&serviceName=(#🇻🇬 British Virgin Islands | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hu/Cfh6wgQnJpdGlzaCBWaXJnaW4gSXNsYW5kcyB8IEFudGktUktOIiwiYWRkIjoiMjAzLjI0LjEwMy40NSIsInBvcnQiOiI0NDMiLCJpZCI6ImIzYTIxZGVmLTVmY2MtNDdhOC1hNmEwLWEzNGUyOWQ1Mjg4YSIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3M1MTA2OCIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hu/Cfh6wgQnJpdGlzaCBWaXJnaW4gSXNsYW5kcyB8IEFudGktUktOIiwiYWRkIjoiMjAzLjM0LjgwLjEwNyIsInBvcnQiOiI0NDMiLCJpZCI6IjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3MxMzg4OSIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9

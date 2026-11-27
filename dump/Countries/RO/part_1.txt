@@ -1,21 +1,21 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [RO] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827400581
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 11:16:21
-# servers-count: 148
+# generated-at: 11/27/2026 12:31:22
+# servers-count: 145
 
-vless://c0742f77-5495-43bf-b007-88d368774d7c@85.120.252.86:443?type=tcp&security=reality&fp=firefox&sni=molda.thewalkingded.life&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&flow=xtls-rprx-vision#🇷🇴 Romania | Anti-RKN
-vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e&flow=xtls-rprx-vision#🇷🇴 Romania, Bucharest | Anti-RKN
 vless://89f361ea-a370-4cbe-b2b3-d3e9c0b7c4c1@193.168.140.228:443?type=xhttp&security=reality&fp=firefox&sni=www.vodafone.ro&pbk=UGeXXP0IS2_P7AWPDbbk_w7BzZLoPPrk3ha7OgI_0D4#🇷🇴 Romania | Anti-RKN
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru#🇷🇴 Romania, Bucharest | Anti-RKN
+vless://c0742f77-5495-43bf-b007-88d368774d7c@85.120.252.86:443?type=tcp&security=reality&fp=firefox&sni=molda.thewalkingded.life&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&flow=xtls-rprx-vision#🇷🇴 Romania | Anti-RKN
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=google.com#🇷🇴 Romania, Bucharest | Anti-RKN
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?allowInsecure=1#🇷🇴 Romania, Bucharest | Anti-RKN
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=css.rbxcdn.com#🇷🇴 Romania, Bucharest | Anti-RKN
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@185.247.224.206:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org#🇷🇴 Romania, Bucharest | Anti-RKN
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=whatsapp.com#🇷🇴 Romania, Bucharest | Anti-RKN
+vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e&flow=xtls-rprx-vision#🇷🇴 Romania, Bucharest | Anti-RKN
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=185.156.44.99#🇷🇴 Romania, Bucharest | Anti-RKN
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=www.amazon.com#🇷🇴 Romania, Bucharest | Anti-RKN
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=css.rbxcdn.com&allowInsecure=1#🇷🇴 Romania, Bucharest | Anti-RKN
@@ -31,6 +31,7 @@ hy2://gf1:gfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru&allowInsecur
 vless://3b386319-a65a-4260-9702-561301b938bd@212.193.0.117:443?type=grpc&security=reality&fp=firefox&sni=dl.google.com&pbk=cAFMol_SqbGzF6IZSHdOS8taChr8dRe9n3RdxJp0QEQ&serviceName=grpc#🇷🇴 Romania, Bucharest | Anti-RKN
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@45.142.140.132:443?type=ws&security=tls&fp=firefox&host=inlay.merlano.monster&sni=inlay.merlano.monster&path=%2fapi%2fde3%2fstream#🇷🇴 Romania | Anti-RKN
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@185.247.224.206:443?type=ws&security=tls&fp=firefox&host=parchment.merlano.monster&sni=parchment.merlano.monster&path=%2fapi%2fde7%2fstream#🇷🇴 Romania, Bucharest | Anti-RKN
+vless://e2bfac1b-5f89-49a2-80af-965af6e59e7b@46.28.67.246:443?type=tcp&security=reality&fp=firefox&sni=ro-cdn.xhttp.dev&pbk=RHft3k9A1v9U-vt4m5NxZ7CR1tEZDx-IAXdpybHa4gE&sid=4640a2f00a8b7e07&flow=xtls-rprx-vision#🇷🇴 Romania, Bucharest | Anti-RKN
 vless://52681257-b686-4a7c-b737-0d87b02c61af@152.237.230.98:80?security=tls&fp=firefox&sni=pl.bobrkurva.shop&flow=xtls-rprx-vision#🇷🇴 Romania, Bucharest | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#🇷🇴 Romania, Bucharest | Anti-RKN
 trojan://blue2024@45.85.118.20:443?type=ws&security=tls&fp=firefox&sni=ta.promote.icu&host=ta.promote.icu&path=%2f%3fed%3d2560#🇷🇴 Romania | Anti-RKN
@@ -42,6 +43,7 @@ vless://20fda433-1864-433b-b3dd-8f119fe4cafd@146.70.254.232:8443?type=ws&host=ha
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@146.70.254.235:8443?type=ws&host=happy.mianfeicf.lol#🇷🇴 Romania | Anti-RKN
 vless://329472ea-85c0-4f8d-a44c-b2e56745a040@82.152.132.211:8020?encryption=mlkem768x25519plus.native.0rtt.t0hQofUqeYMjXtmm6IG734Z7kuJS2zYmK6rFtruyiRGKytNvWghi7EAeR4MD3CuUoSZSlmKiSYFctaoWGVw4Xkc-UHIJtXolF_wlmPoyt4xRC1FzdfYP82mZPXWpseh2NpEEN9W1lGqDzIeMVng9ACWPgIcUC8kIL0fPt-mt41iDXaB1QTgQFYtJItw9OIcGCUWt6Htw9xQXulp8MNNoJrtvhzu3rNE9qTVIDTqAukdwP6FS4cdCbZbK7tBG4OAIVqOJxFl40ZjCV_WE99BeXKIBY2A_RjUw_RDEeyowUCFlqGIY2kBki7pdzaFpP-jGVbpeYCnP_4giPhF2c7jGjIODBhSCg_TBJpCZuwgrEEO_TdaPzoRul3xd8AhqengGLVMGSxDP0IeTjvmAejmSdVBovoOFv5MVDYS-kdPFN8YPhvYGJPS492Cj2uAb-rQ4ucI9HLy0WAdTXSNjlkIRP4IPrMfG3KcTRMq4nZq_SDnMZikBBmfAKWY-QymmATanQGdg_5RyYWgVAcscPPi6QNCxb8ephPNNwbeaiPIHTcKDj7ArtzaN7zlPXLHPlZPE5BqIvqSapOgEHHlmorhZItoZzCVFxWcxEFbKDXOiY8N1nBRgDMIOJTul4vtbctiFOhMarcQ_pspp0rEu9MkEKEcLLZO5K6Sw3eCezPGw1cMp4YcGyGSZRzjAFipE9peXyydlKwC_0FE_YbHGBXwqUTivLdqSEwBzJopkUcUxBwxNUlseqJNrpcd0LGWy4toPvLJiNbiS74Jlwcxdn9iiH0VwcJFyjpWAzVSDNoRVlkx6S1smyZFTFVRFR6wJY2EJ7crEY-smkOW_RvRsfaw_Yow0PKk71iAGl-Y6DMOi6TVWGmIsznVi_rSUKbA1H2ofaoKx8VFKyKLIQYVAuHyVz4OW4YuYk1uYghw40qgNBOkLpuMjmOYVgwdcbLxyJAUd-dEtshJ-S_QHMKqCbAqLAUSFNKCbguLFr3ET1uCPlkwNGgcMNrgITraoZEqtTbuApIdt2ixBvGcehpQaGTdfI8UsCjMDiecZjRpZfGO_q4aLq1jEtHZlWkkVwXuPPvObYvm4rjvJzUmgzswQtlFabgEj1EiRnNMbvVl65dFP3MWSZTgGJKYIfYbOAkJifVkOMFiP-CodgSu7ZzJ7WBy4cWUAX0Fb4RB3I8eGJ4i1vZCj8cIveXwL_0oharuM9yQqf8lj5-Gjioh5UDEM7HVZgutdc_mGEDgvitCUGhfIFKcNxkw0JsyQuXd6rpB5LJuOYuKKnZOnZNfMV8NnDrVhP5aPm9OLaUCrBQI5i2uYqZYYw_UmvpRcnySs01Cr1ww3s4CUzWhFCrrN5HOztsWEH7ytvMoI3Nc_S5A2xONPhDtaU1UY-kVOF0GEaHALYVWcPjRDtCtfAlW2ZJV4psIChgQoV3IOC9ElmPgW_1S5X2cYuZWlPJm_qHCtMKpNX_hkCMw4kCMl9cO-fuOVMswrQuRfgiC2xUN4knwIoQGWifyvyhIvYFtPP2CT76LAexxgXzf6E0fUaw7ArXhXAG4Y7jwiwNFbV5sO5_wW-r8DwGs&type=tcp#🇷🇴 Romania, Bucharest | Anti-RKN
 vless://32ea050a-1981-4ed2-b63f-77e0f53c4b65@89.41.182.79:2443?type=tcp&security=tls&fp=firefox&sni=cdn4.velmoradigital.store&flow=xtls-rprx-vision#🇷🇴 Romania | Anti-RKN
+vless://3b715892-8610-4fdc-9086-647b36af5443@45.85.119.114:2086?type=xhttp&host=h.cafearen.ir&path=%2f%3fed%3d2082#🇷🇴 Romania | Anti-RKN
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?type=tcp&security=reality&fp=firefox&sni=www.aliexpress.com&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&sid=9b4fc5a116efd6c8&flow=xtls-rprx-vision#🇷🇴 Romania, Bucharest | Anti-RKN
 vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?type=tcp&security=reality&fp=firefox&sni=www.alibaba.com&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&sid=c906f73d3ba8211f&flow=xtls-rprx-vision#🇷🇴 Romania, Bucharest | Anti-RKN
 vless://4fb82973-a7f1-4fc2-9958-cb21f5162f06@37.46.196.85:8443?type=xhttp&security=reality&fp=firefox&sni=s3.netavex.com&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&sid=e0&path=%2fassets%2fv2%2fpkg#🇷🇴 Romania, Bucharest | Anti-RKN
@@ -50,9 +52,6 @@ vless://573c787d-d549-4171-b05f-29984bc0266c@45.85.118.209:443?type=ws&security=
 vless://5b601433-e7c0-4ec6-8249-1ed052af11da@45.85.119.120:443?type=grpc&security=tls&fp=firefox&sni=love.sarizo.ga&serviceName=codepen.io#🇷🇴 Romania | Anti-RKN
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.163:8443?type=tcp&security=tls&fp=firefox&sni=cdn3-87.vk-cdnvideo.com#🇷🇴 Romania | Anti-RKN
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.165:8443?type=tcp&security=tls&fp=firefox&sni=cdn3-87.vk-cdnvideo.com#🇷🇴 Romania | Anti-RKN
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?type=tcp&security=tls&fp=firefox&sni=cdn7-09.vk-cdnvideo.com#🇷🇴 Romania | Anti-RKN
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?type=tcp&security=tls&fp=firefox#🇷🇴 Romania | Anti-RKN
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.163:8443?type=tcp&security=tls&fp=firefox#🇷🇴 Romania | Anti-RKN
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.116:2096?type=ws&security=tls&fp=firefox&host=LhCgBjGr29.vElTrIxS.OrG&sni=LhCgBjGr29.vElTrIxS.OrG#🇷🇴 Romania | Anti-RKN
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.81:8443?type=ws&security=tls&fp=firefox&host=QtRkJtLt27.pRiMeXaD.OrG&sni=QtRkJtLt27.pRiMeXaD.OrG#🇷🇴 Romania | Anti-RKN
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.30.83:2096?type=ws&security=tls&fp=firefox&host=LhCgBjGr29.vElTrIxS.OrG&sni=LhCgBjGr29.vElTrIxS.OrG#🇷🇴 Romania | Anti-RKN
@@ -87,8 +86,6 @@ vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.119.1:2087?type=grpc&security
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7QgUm9tYW5pYSB8IEFudGktUktOIiwiYWRkIjoiNDUuODUuMTE5LjIwNyIsInBvcnQiOiI0NDMiLCJpZCI6ImIzYTIxZGVmLTVmY2MtNDdhOC1hNmEwLWEzNGUyOWQ1Mjg4YSIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3M1MTA2OCIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7QgUm9tYW5pYSB8IEFudGktUktOIiwiYWRkIjoiNDUuMTIuMzAuMjM3IiwicG9ydCI6IjIwODIiLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJpcDE4LjY5MjkxOTgueHl6IiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7QgUm9tYW5pYSB8IEFudGktUktOIiwiYWRkIjoiNDUuODUuMTE4LjIzNCIsInBvcnQiOiIyMDgyIiwiaWQiOiI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiaXAxOC42OTI5MTk4Lnh5eiIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ==
-socks4://109.166.207.162:3629#🇷🇴 Romania, Rudeni | Anti-RKN
-socks4://81.18.90.43:4153#🇷🇴 Romania, Ploieşti | Anti-RKN
 https://193.176.84.34:9002#🇷🇴 Romania, Bucharest | Anti-RKN
 https://193.176.84.20:9002#🇷🇴 Romania, Bucharest | Anti-RKN
 https://193.176.84.36:9002#🇷🇴 Romania, Bucharest | Anti-RKN
@@ -153,5 +150,5 @@ http://45.12.30.157:80#🇷🇴 Romania | Anti-RKN
 http://45.85.119.124:80#🇷🇴 Romania | Anti-RKN
 http://45.12.31.30:80#🇷🇴 Romania | Anti-RKN
 http://45.85.119.236:80#🇷🇴 Romania | Anti-RKN
-http://45.80.151.33:3128#🇷🇴 Romania | Anti-RKN
-http://86.125.19.21:8080#🇷🇴 Romania, Bucharest | Anti-RKN
+http://81.12.169.254:4153#🇷🇴 Romania, Bucharest | Anti-RKN
+socks4://81.12.169.254:4153#🇷🇴 Romania, Bucharest | Anti-RKN

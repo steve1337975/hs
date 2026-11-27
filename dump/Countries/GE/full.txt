@@ -1,12 +1,12 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [GE] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827400581
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 11:16:21
+# generated-at: 11/27/2026 12:31:22
 # servers-count: 3
 
+http://85.117.56.114:8080#🇬🇪 Georgia, Tbilisi | Anti-RKN
 vless://f8cb3c89-32af-4255-bebc-d90aad175069@206.53.48.69:443?type=grpc&security=reality&fp=firefox&sni=gea.kosmosapp.net&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇬🇪 Georgia, Tbilisi | Anti-RKN
-http://80.241.251.54:8080#🇬🇪 Georgia, Tbilisi | Anti-RKN
-http://85.117.61.74:8080#🇬🇪 Georgia, Tbilisi | Anti-RKN
+https://195.54.178.210:443#🇬🇪 Georgia, Tbilisi | Anti-RKN

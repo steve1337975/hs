@@ -2,18 +2,9 @@ https://raw.githack.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLE
 https://raw.githack.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt
 https://raw.githack.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt
 https://raw.githack.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS_WEAK_DPI_RUS.txt
-https://raw.githack.com/wlunlocker/vpn-configs/refs/heads/main/blacklist_all.txt
-https://raw.githack.com/wlunlocker/vpn-configs/refs/heads/main/blacklist_vpn1.txt
-https://raw.githack.com/wlunlocker/vpn-configs/refs/heads/main/blacklist_vpn2.txt
-https://raw.githack.com/pog7x/vpn-configs/refs/heads/master/githubmirror/23.txt
-https://raw.githack.com/3inker/v2ray-subscription/refs/heads/main/subs/all_ru.txt
-https://raw.githack.com/3inker/v2ray-subscription/refs/heads/main/subs/all_not_ru.txt
 https://raw.githack.com/FLAT447/v2ray-lists/main/BLACK_FULL.txt
 https://raw.githack.com/flaafix/AetrisVPN-black-list/main/configs.txt
 
-https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/non_ru.txt
-https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/ping_tested.txt
-https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/speed_tested.txt
 
 https://alley.serv00.net/other
 https://alley.serv00.net/gemini
@@ -54,6 +45,15 @@ https://api.proxyscrape.com/?request=displayproxies&proxytype=https&timeout=1000
 
 
 
+https://raw.githack.com/wlunlocker/vpn-configs/refs/heads/main/blacklist_all.txt
+https://raw.githack.com/wlunlocker/vpn-configs/refs/heads/main/blacklist_vpn1.txt
+https://raw.githack.com/wlunlocker/vpn-configs/refs/heads/main/blacklist_vpn2.txt
+https://raw.githack.com/pog7x/vpn-configs/refs/heads/master/githubmirror/23.txt
+https://raw.githack.com/3inker/v2ray-subscription/refs/heads/main/subs/all_ru.txt
+https://raw.githack.com/3inker/v2ray-subscription/refs/heads/main/subs/all_not_ru.txt
+https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/non_ru.txt
+https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/ping_tested.txt
+https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/speed_tested.txt
 
 
 -

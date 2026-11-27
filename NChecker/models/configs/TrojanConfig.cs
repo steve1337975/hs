@@ -48,11 +48,10 @@ namespace NChecker.models.configs
                     ServiceName = parameter.Value;
                 }
             }
-
             if (Type == TrojanType.Raw || Type == TrojanType.Tcp) Type = null;
             if (Security == null) Security = TrojanSecurity.Tls;
 
-            if (Type == TrojanType.Ws || Type == TrojanType.Httpupgrade || Type == TrojanType.Http)
+            if (Type == TrojanType.Ws || Type == TrojanType.Httpupgrade ) // XHttp
             {
                 if (string.IsNullOrEmpty(Host) && !string.IsNullOrEmpty(Sni)) Host = Sni;
                 if (!string.IsNullOrEmpty(Path))

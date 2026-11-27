@@ -1,27 +1,37 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AR] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405567
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409162
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:39:27
-# servers-count: 18
+# generated-at: 11/27/2026 13:39:22
+# servers-count: 28
 
+http://138.117.13.65:999#🇦🇷 Argentina, 28 de Noviembre | Anti-RKN
+http://181.209.103.18:999#🇦🇷 Argentina, Victoria | Anti-RKN
+http://187.102.219.42:999#🇦🇷 Argentina, Eldorado | Anti-RKN
+http://187.102.219.64:999#🇦🇷 Argentina, Eldorado | Anti-RKN
+http://187.102.219.32:999#🇦🇷 Argentina, Eldorado | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#🇦🇷 Argentina, Buenos Aires | Anti-RKN
-socks4://45.172.177.253:59341#🇦🇷 Argentina, Carcarañá | Anti-RKN
-socks4://200.0.227.220:4153#🇦🇷 Argentina, Buenos Aires | Anti-RKN
-http://181.168.156.192:8080#🇦🇷 Argentina, Neuquén | Anti-RKN
-http://190.122.91.130:999#🇦🇷 Argentina | Anti-RKN
-http://200.41.149.66:12323#🇦🇷 Argentina, Buenos Aires | Anti-RKN
+socks4://168.196.24.29:60606#🇦🇷 Argentina, San Antonio Oeste | Anti-RKN
+socks4://190.18.170.230:5678#🇦🇷 Argentina, Córdoba | Anti-RKN
+socks4://143.105.96.149:1080#🇦🇷 Argentina, Buenos Aires | Anti-RKN
+https://170.210.44.231:443#🇦🇷 Argentina | Anti-RKN
+socks5://45.169.106.140:1086#🇦🇷 Argentina, Córdoba | Anti-RKN
 socks5://190.229.64.252:443#🇦🇷 Argentina, Las Talitas | Anti-RKN
-http://45.226.227.217:999#🇦🇷 Argentina, Pocito | Anti-RKN
-http://168.228.140.145:999#🇦🇷 Argentina, Caleta Olivia | Anti-RKN
-socks4://45.172.176.1:59341#🇦🇷 Argentina, Carcarañá | Anti-RKN
-socks4://198.50.17.177:4145#🇦🇷 Argentina, Villa Carlos Paz | Anti-RKN
-socks4://198.12.37.25:1080#🇦🇷 Argentina | Anti-RKN
-http://201.234.24.89:4153#🇦🇷 Argentina, Buenos Aires | Anti-RKN
 http://190.103.16.93:999#🇦🇷 Argentina, Tapalque | Anti-RKN
-http://181.209.108.218:999#🇦🇷 Argentina, Victoria | Anti-RKN
-socks4://200.16.211.68:4153#🇦🇷 Argentina, Buenos Aires | Anti-RKN
-socks4://190.229.64.252:443#🇦🇷 Argentina, Las Talitas | Anti-RKN
+http://187.102.219.34:999#🇦🇷 Argentina, Eldorado | Anti-RKN
+http://190.104.252.14:999#🇦🇷 Argentina | Anti-RKN
+http://181.13.221.155:999#🇦🇷 Argentina, San Pedro de Jujuy | Anti-RKN
 http://190.229.64.252:443#🇦🇷 Argentina, Las Talitas | Anti-RKN
+http://38.224.254.9:999#🇦🇷 Argentina, Rada Tilly | Anti-RKN
+socks4://170.79.182.202:3389#🇦🇷 Argentina, Rodeo de la Cruz | Anti-RKN
+socks4://45.172.177.253:59341#🇦🇷 Argentina, Carcarañá | Anti-RKN
+socks4://198.50.17.177:4145#🇦🇷 Argentina, Villa Carlos Paz | Anti-RKN
+socks4://198.50.21.40:4145#🇦🇷 Argentina, Villa Carlos Paz | Anti-RKN
+socks4://198.12.37.25:1080#🇦🇷 Argentina | Anti-RKN
+http://45.65.227.161:999#🇦🇷 Argentina, Buenos Aires | Anti-RKN
+http://181.209.118.254:999#🇦🇷 Argentina | Anti-RKN
+socks4://200.0.227.220:4153#🇦🇷 Argentina, Buenos Aires | Anti-RKN
+http://38.226.251.66:999#🇦🇷 Argentina, San Juan | Anti-RKN
+socks4://190.229.64.252:443#🇦🇷 Argentina, Las Talitas | Anti-RKN

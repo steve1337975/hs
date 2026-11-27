@@ -1,16 +1,25 @@
-https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt
-https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt
-https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt
-https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS_WEAK_DPI_RUS.txt
-https://raw.githack.com/FLAT447/v2ray-lists/main/BLACK_FULL.txt
-https://raw.githack.com/flaafix/AetrisVPN-black-list/main/configs.txt
+https://raw.githack.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
+https://raw.githack.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt
+https://raw.githack.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt
+https://raw.githack.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS_WEAK_DPI_RUS.txt
 https://raw.githack.com/wlunlocker/vpn-configs/refs/heads/main/blacklist_all.txt
 https://raw.githack.com/wlunlocker/vpn-configs/refs/heads/main/blacklist_vpn1.txt
 https://raw.githack.com/wlunlocker/vpn-configs/refs/heads/main/blacklist_vpn2.txt
+https://raw.githack.com/pog7x/vpn-configs/refs/heads/master/githubmirror/23.txt
+https://raw.githack.com/3inker/v2ray-subscription/refs/heads/main/subs/all_ru.txt
+https://raw.githack.com/3inker/v2ray-subscription/refs/heads/main/subs/all_not_ru.txt
+https://raw.githack.com/FLAT447/v2ray-lists/main/BLACK_FULL.txt
+https://raw.githack.com/flaafix/AetrisVPN-black-list/main/configs.txt
+
+https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/non_ru.txt
+https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/ping_tested.txt
+https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/speed_tested.txt
+
 https://alley.serv00.net/other
 https://alley.serv00.net/gemini
 https://alley.serv00.net/youtube
 https://alley.serv00.net/ytm
+
 https://sub.vlessfo.ru/vlessforu/working_configs.txt
 https://raw.githack.com/PizdukMod/PizdukVPN/refs/heads/main/sub
 https://translate.yandex.ru/translate?url=https://hub.mos.ru/akelladejavu/bunker/-/raw/main/BLACK_LIST.txt&lang=de-de
@@ -21,23 +30,30 @@ https://raw.githack.com/roosterkid/openproxylist/main/V2RAY_RAW.txt
 https://raw.githack.com/sakha1370/OpenRay/main/output/all_valid_proxies.txt
 https://raw.githack.com/Ilyacom4ik/free-v2ray-2026/refs/heads/main/subscriptions/FreeCFGHub.txt
 https://raw.githack.com/mirrorrepomagic/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt
+
 https://cdn.jsdelivr.net/gh/proxifly/free-proxy-list@main/proxies/all/data.txt
 https://cdn.jsdelivr.net/gh/proxyscrape/free-proxy-list@main/proxies/all/data.txt
+
 https://raw.githack.com/monosans/proxy-list/main/proxies/all.txt
-https://raw.githack.com/Argh94/Proxy-List/refs/heads/main/HTTP.txt
 https://raw.githack.com/Argh94/Proxy-List/refs/heads/main/SOCKS4.txt
 https://raw.githack.com/Argh94/Proxy-List/refs/heads/main/SOCKS5.txt
+https://raw.githack.com/Argh94/Proxy-List/refs/heads/main/HTTP.txt
 https://raw.githack.com/TheSpeedX/PROXY-List/refs/heads/master/socks4.txt
 https://raw.githack.com/TheSpeedX/PROXY-List/refs/heads/master/socks5.txt
 https://raw.githack.com/TheSpeedX/PROXY-List/refs/heads/master/http.txt
 https://raw.githack.com/roosterkid/openproxylist/refs/heads/main/SOCKS4_RAW.txt
 https://raw.githack.com/roosterkid/openproxylist/refs/heads/main/SOCKS5_RAW.txt
 https://raw.githack.com/roosterkid/openproxylist/refs/heads/main/HTTPS_RAW.txt
+
 https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=protocolipport&format=text&protocol=http%2Csocks4%2Csocks5
+
 https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4&timeout=10000&country=all
 https://api.proxyscrape.com/?request=displayproxies&proxytype=socks5&timeout=10000&country=all
 https://api.proxyscrape.com/?request=displayproxies&proxytype=http&timeout=10000&country=all
 https://api.proxyscrape.com/?request=displayproxies&proxytype=https&timeout=10000&country=all
+
+
+
 
 
 -
@@ -152,6 +168,7 @@ https://github.com/igareck/vpn-configs-for-russia/raw/refs/heads/main/BLACK_VLES
 https://github.com/Mr-Meshky/vify/raw/refs/heads/main/configs/vless.txt
 https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt
 
+
 https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/1.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/2.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/3.txt
@@ -173,10 +190,12 @@ https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirr
 https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/20.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/21.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/22.txt
-https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/23.txt
-https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/22.txt
+
+https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/24.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/25.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/26.txt
+
+
 https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/27.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/28.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/29.txt
@@ -201,12 +220,8 @@ https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirr
 https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/48.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/49.txt
 
-https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/non_ru.txt
-https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/ping_tested.txt
-https://cdn.jsdelivr.net/gh/luxxuria/harvester@main/speed_tested.txt
 
-https://raw.githubusercontent.com/3inker/v2ray-subscription/main/subs/all_ru.txt
-https://raw.githubusercontent.com/3inker/v2ray-subscription/main/subs/all_not_ru.txt
+
 https://raw.githubusercontent.com/mfuu/FreeProxies/master/sub
 
 https://gitlab.com/avencores/goida-vpn-configs/-/raw/main/githubmirror/1.txt

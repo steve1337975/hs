@@ -1,4 +1,5 @@
-﻿using System.Collections.Specialized;
+﻿using NChecker.models.errors;
+using System.Collections.Specialized;
 using System.Web;
 
 namespace NChecker.models.configs
@@ -19,6 +20,10 @@ namespace NChecker.models.configs
                 {
                     Username = parts[0];
                     Password = parts[1];
+                    if (Username.Equals("null", StringComparison.OrdinalIgnoreCase) || Password.Equals("null", StringComparison.OrdinalIgnoreCase))
+                    {
+                        throw new BrokenProtocolException();
+                    }
                 }
             }
             foreach (var parameter in QueryParameters)

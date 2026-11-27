@@ -67,6 +67,7 @@ namespace NChecker.models.configs
                 Path = null;
                 Host = null;
             }
+            if (string.IsNullOrEmpty(UUID)) throw new BrokenProtocolException();
 
             if (Type != TrojanType.Grpc) ServiceName = null;
             if (Path?.Contains("telegram", StringComparison.OrdinalIgnoreCase) == true) throw new BrokenProtocolException();

@@ -10,13 +10,13 @@ namespace NChecker.models.configs
         private VlessPacketEncoding? PacketEncoding { get; set; }
         private VlessType? Type { get; set; }
         private VlessSecurity? Security { get; set; }
+        private VlessFingerprint? Fp { get; set; }
         internal string Sni { get; set; }
         private string Pbk { get; set; }
         private string Sid { get; set; }
         private string Flow { get; set; }
         internal string Host { get; set; }
         private string Path { get; set; }
-        private VlessFingerprint? Fp { get; set; }
         private string ServiceName { get; set; }
         internal VlessConfig(string a1) : base(a1) { }
         internal override void ParseServer()
@@ -39,6 +39,10 @@ namespace NChecker.models.configs
                 else if (parameter.Key.Equals("Security", StringComparison.OrdinalIgnoreCase))
                 {
                     Security = ParseSecurity(parameter.Value);
+                }
+                else if (parameter.Key.Equals("Fp", StringComparison.OrdinalIgnoreCase))
+                {
+                    Fp = ParseFP(parameter.Value);
                 }
                 else if (parameter.Key.Equals("Sni", StringComparison.OrdinalIgnoreCase))
                 {
@@ -63,10 +67,6 @@ namespace NChecker.models.configs
                 else if (parameter.Key.Equals("Path", StringComparison.OrdinalIgnoreCase))
                 {
                     Path = parameter.Value;
-                }
-                else if (parameter.Key.Equals("Fp", StringComparison.OrdinalIgnoreCase))
-                {
-                    Fp = ParseFP(parameter.Value);
                 }
                 else if (parameter.Key.Equals("serviceName", StringComparison.OrdinalIgnoreCase))
                 {
@@ -140,7 +140,6 @@ namespace NChecker.models.configs
         internal override string GetUriQuery()
         {
             NameValueCollection queryString = HttpUtility.ParseQueryString(string.Empty);
-
             if (!string.IsNullOrEmpty(Encryption)) queryString.Add("encryption", Encryption);
             if (PacketEncoding != null) queryString.Add("packetEncoding", PacketEncoding.ToString().ToLower());
             if (Type != null) queryString.Add("type", Type.ToString().ToLower());

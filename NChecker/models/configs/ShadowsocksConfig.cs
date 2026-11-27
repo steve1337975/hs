@@ -12,7 +12,7 @@ namespace NChecker.models.configs
             base.ParseServer();
             if (!string.IsNullOrEmpty(UUID))
             {
-                string[] parts = UUID.Split(":");
+                string[] parts = UUID.Split(':');
                 if (parts.Length > 0)
                 {
                     Method = parts[0];

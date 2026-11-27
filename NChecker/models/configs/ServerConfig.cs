@@ -39,14 +39,11 @@ namespace NChecker.models.configs
                         Name = vmessJsonModel.Remarks;
                     }
                 }
-                catch (FormatException exc)
-                {
-                    throw new InvalidFormatProtocolException(exc.Message);
-                }
+                catch (FormatException exc) { throw new InvalidFormatProtocolException(exc.Message); }
             }
-
             if (Url.StartsWith("hy"))
             {
+                Console.WriteLine(Url);
                 int commaIndex = Url.IndexOf(',');
                 if (commaIndex != -1)
                 {
@@ -54,6 +51,7 @@ namespace NChecker.models.configs
                     if (slashIndex != -1) Url = Url.Remove(commaIndex, slashIndex - commaIndex);
                 }
             }
+
             if (Uri.TryCreate(Url, UriKind.Absolute, out var uri))
             {
                 Protocol = uri.Scheme;
@@ -63,17 +61,13 @@ namespace NChecker.models.configs
                 QueryParameters = ParseQuery(uri.Query);
                 Name = Uri.UnescapeDataString(uri.Fragment.TrimStart('#'));
             }
-
-            try
+            if (Protocol.StartsWith("ss", StringComparison.OrdinalIgnoreCase))
             {
-                if (Protocol.StartsWith("ss", StringComparison.OrdinalIgnoreCase))
+                try
                 {
                     UUID = Encoding.UTF8.GetString(Convert.FromBase64String(UUID));
                 }
-            }
-            catch (FormatException exc)
-            {
-                throw new InvalidFormatProtocolException(exc.Message);
+                catch (FormatException exc) { throw new InvalidFormatProtocolException(exc.Message); }
             }
 
             if (UUID.Contains("telegram", StringComparison.OrdinalIgnoreCase) || UUID.Contains("://", StringComparison.OrdinalIgnoreCase) || UUID.Contains("www", StringComparison.OrdinalIgnoreCase))
@@ -85,9 +79,7 @@ namespace NChecker.models.configs
         internal virtual string GetNewUrl()
         {
             if (Protocol.Equals("vmess", StringComparison.OrdinalIgnoreCase))
-            {
                 return "vmess://" + GetUriQuery();
-            }
             UriBuilder uriBuilder = new UriBuilder();
             uriBuilder.Scheme = Protocol.ToLower();
             if (Protocol.Equals("ss", StringComparison.OrdinalIgnoreCase))

@@ -38,7 +38,7 @@ namespace NChecker.models.configs
 
                 if (Type == VmessType.None) Type = null;
                 if (Path?.Equals("/", StringComparison.OrdinalIgnoreCase) == true) Path = null;
-                if (Net == null || Net == VmessNet.Tcp)
+                if (Net == VmessNet.Tcp)
                 {
                     if (Type != VmessType.Http)
                     {

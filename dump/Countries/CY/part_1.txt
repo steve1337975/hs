@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CY] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827400581
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 11:16:21
-# servers-count: 62
+# generated-at: 11/27/2026 12:31:22
+# servers-count: 60
 
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@194.76.154.230:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇨🇾 Cyprus | Anti-RKN
 vless://7c768ae5-33eb-4460-b901-cffa40948c5f@5.253.31.24:443?type=tcp&security=reality&fp=firefox&sni=ind.luna-nodes.com&pbk=gsLmlhHyrirOHrVV1_rYiQvrrZn2nkqH7SPCYQQnpyc&sid=3ec20ac098953ce9&flow=xtls-rprx-vision#🇨🇾 Cyprus | Anti-RKN
@@ -27,11 +27,13 @@ vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@132.243.242.216:9543?packetEncoding
 vless://e2bfac1b-5f89-49a2-80af-965af6e59e7b@194.55.137.30:443?type=tcp&security=reality&fp=firefox&sni=fr-cdn.xhttp.dev&pbk=RHft3k9A1v9U-vt4m5NxZ7CR1tEZDx-IAXdpybHa4gE&sid=4640a2f00a8b7e07&flow=xtls-rprx-vision#🇨🇾 Cyprus | Anti-RKN
 hysteria2://e2bfac1b-5f89-49a2-80af-965af6e59e7b@45.149.115.108:443?sni=fi-cdn.xhttp.dev#🇨🇾 Cyprus | Anti-RKN
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@5.253.31.32:443?type=tcp&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&flow=xtls-rprx-vision#🇨🇾 Cyprus | Anti-RKN
+vless://0ead14bf-0ad9-4d5e-9fc2-df7c52db6a1b@45.89.105.147:443?type=tcp&security=reality&fp=firefox&sni=store.steampowered.com&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=3decb73e&flow=xtls-rprx-vision#🇨🇾 Cyprus | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#🇨🇾 Cyprus, Limassol | Anti-RKN
 trojan://NISHIKUITAN111@195.85.59.158:443?security=tls&fp=firefox#🇨🇾 Cyprus | Anti-RKN
 trojan://blue2024@195.85.59.161:443?type=ws&security=tls&fp=firefox&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg&path=%2f%3fed%3d2560#🇨🇾 Cyprus | Anti-RKN
 trojan://blue2024@195.85.59.95:443?security=tls&fp=firefox&sni=ta.promote.icu#🇨🇾 Cyprus | Anti-RKN
 vless://0157cd12-e329-40e7-ad52-f31b795635dd@5.253.31.24:443?type=tcp&security=reality&fp=firefox&sni=ind.luna-nodes.com&pbk=gsLmlhHyrirOHrVV1_rYiQvrrZn2nkqH7SPCYQQnpyc&sid=3ec20ac098953ce9&flow=xtls-rprx-vision#🇨🇾 Cyprus | Anti-RKN
+vless://05b544a4-d479-4ba4-8208-950bd4411453@45.89.105.56:80?type=ws&path=%2fvless%2f#🇨🇾 Cyprus | Anti-RKN
 vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@195.85.59.155:2087?type=ws&security=tls&fp=firefox&host=trojanyu.pages.dev&sni=trojanyu.pages.dev#🇨🇾 Cyprus | Anti-RKN
 vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@91.92.137.165:443?type=grpc&security=tls&fp=firefox&sni=bg.oncloudvpn.com&serviceName=grpc#🇨🇾 Cyprus | Anti-RKN
 vless://46e98c52-cfb4-404f-8163-8b1ba208d52b@2.56.125.209:80?type=tcp&security=reality&fp=firefox&sni=api-stg.semiconductor.samsung.cn&pbk=rI-T-Tg9OSeTitOe9zwApjKQfVZ6bhYZ5CJGJneatmE&sid=ed#🇨🇾 Cyprus | Anti-RKN
@@ -63,9 +65,5 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh74gQ3lwcnVzIHwgQW50aS1SS04iLCJhZGQiOiIxOTUu
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh74gQ3lwcnVzIHwgQW50aS1SS04iLCJhZGQiOiIxOTUuODUuNTkuMTAiLCJwb3J0IjoiODg4MCIsImlkIjoiNjc4MjhhNmUtMDE0NC00ZTU3LTgxNjktMjQ0N2EzZGQyZTYxIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImNkbi1ub2RlLW9zcy05OS5wYW9mdS5kZSIsInBhdGgiOiIvcHJvZmlsZS90ZWxlZ3JhbUBzc3JzdWIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh74gQ3lwcnVzIHwgQW50aS1SS04iLCJhZGQiOiIxOTUuODUuNTkuMTU3IiwicG9ydCI6IjIwNTMiLCJpZCI6IjhiMGE1OTJmLTFmZWUtNGRhMC1hZGQ2LWY4ZTEwODYxMTE2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJjZG4tbm9kZS1vc3MtOTQucGFvZnUuZGUiLCJwYXRoIjoiL3Byb2ZpbGUvdGVsZWdyYW0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjZG4tbm9kZS1vc3MtOTQucGFvZnUuZGUiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh74gQ3lwcnVzIHwgQW50aS1SS04iLCJhZGQiOiIxOTUuODUuNTkuMTU3IiwicG9ydCI6IjgwIiwiaWQiOiI0NTdmNjRkNS1jYzY4LTQ5MTEtODJlZS02MzZlYmI1NjhhNDYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiY2RuLW5vZGUtb3NzLTk5LnBhb2Z1LmRlIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh74gQ3lwcnVzIHwgQW50aS1SS04iLCJhZGQiOiIxOTUuODUuNTkuMjQ2IiwicG9ydCI6IjIwNTMiLCJpZCI6IjhiMGE1OTJmLTFmZWUtNGRhMC1hZGQ2LWY4ZTEwODYxMTE2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJjZG4tbm9kZS1vc3MtOTQucGFvZnUuZGUiLCJwYXRoIjoiL3Byb2ZpbGUvdGVsZWdyYW0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjZG4tbm9kZS1vc3MtOTQucGFvZnUuZGUiLCJmcCI6ImZpcmVmb3gifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh74gQ3lwcnVzIHwgQW50aS1SS04iLCJhZGQiOiIxOTUuODUuNTkuMjQ2IiwicG9ydCI6IjgwIiwiaWQiOiI0NTdmNjRkNS1jYzY4LTQ5MTEtODJlZS02MzZlYmI1NjhhNDYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiY2RuLW5vZGUtb3NzLTk5LnBhb2Z1LmRlIn0=
-https://46.199.75.105:443#🇨🇾 Cyprus, Nicosia | Anti-RKN
-https://46.199.75.105:9443#🇨🇾 Cyprus, Nicosia | Anti-RKN
 socks5://5.253.28.239:1089#🇨🇾 Cyprus | Anti-RKN
 socks4://212.31.100.138:4153#🇨🇾 Cyprus, Limassol | Anti-RKN

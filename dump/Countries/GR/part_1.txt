@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [GR] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827400581
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 11:16:21
-# servers-count: 10
+# generated-at: 11/27/2026 12:31:22
+# servers-count: 11
 
 vless://4777d90d-265b-4927-a0d1-63f36ed1421c@94.241.172.107:443?type=xhttp&security=tls&fp=firefox&sni=94.241.172.107&path=%2fassets%2fnl02%2f#🇬🇷 Greece | Anti-RKN
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@85.90.197.91:443?type=tcp&security=reality&fp=firefox&sni=gr.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&flow=xtls-rprx-vision#🇬🇷 Greece, Thessaloniki | Anti-RKN
@@ -17,3 +17,4 @@ https://83.212.225.30:443#🇬🇷 Greece | Anti-RKN
 https://83.212.225.31:443#🇬🇷 Greece | Anti-RKN
 https://83.212.229.157:443#🇬🇷 Greece | Anti-RKN
 https://83.212.225.32:443#🇬🇷 Greece | Anti-RKN
+http://94.68.245.147:8080#🇬🇷 Greece, Náousa | Anti-RKN

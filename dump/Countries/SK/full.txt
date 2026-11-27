@@ -1,10 +1,10 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SK] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405567
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:31:22
+# generated-at: 11/27/2026 12:39:27
 # servers-count: 21
 
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.156:443?type=grpc&security=reality&fp=firefox&sni=961ec0g.nl17.h1clayd.click&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&sid=6d289ff0f47c0aac&serviceName=7d5abcd7d8a1#🇸🇰 Slovakia, Bratislava | Anti-RKN
@@ -18,13 +18,13 @@ vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.92:443?packetEncoding=x
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.245.153.114:443?packetEncoding=xudp&type=xhttp&security=reality&fp=firefox&sni=38917fx.es9.h1clayd.click&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d#🇸🇰 Slovakia, Bratislava | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?type=grpc&security=reality&fp=firefox&sni=15b171g.nl7.h1clayd.click&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&serviceName=5b79e8a94241#🇸🇰 Slovakia, Bratislava | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.156:443?type=xhttp&security=reality&fp=firefox&sni=80cb66x.nl17.h1clayd.click&pbk=jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0&sid=f72d4a2c7cbbacb1&path=%2fd610f026b146#🇸🇰 Slovakia, Bratislava | Anti-RKN
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?type=xhttp&security=reality&fp=firefox&sni=e60833x.nl7.h1clayd.click&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&sid=2d2598d60447a967&path=%2fd20896a4ce30#🇸🇰 Slovakia, Bratislava | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?packetEncoding=xudp&type=grpc&security=reality&fp=firefox&sni=15b171g.nl7.h1clayd.click&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&serviceName=5b79e8a94241#🇸🇰 Slovakia, Bratislava | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.156:443?packetEncoding=xudp&type=xhttp&security=reality&fp=firefox&sni=80cb66x.nl17.h1clayd.click&pbk=jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0&sid=f72d4a2c7cbbacb1&path=%2fd610f026b146#🇸🇰 Slovakia, Bratislava | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.111:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=76574ct.nl8.h1clayd.click&pbk=9zW5lTDbs9svY-lzlPp-pq0j2Sr6g031SY0E-3xSHDc&sid=2ca59bdc5121f921#🇸🇰 Slovakia, Bratislava | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.156:443?packetEncoding=xudp&type=grpc&security=reality&fp=firefox&sni=961ec0g.nl17.h1clayd.click&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&sid=6d289ff0f47c0aac&serviceName=7d5abcd7d8a1#🇸🇰 Slovakia, Bratislava | Anti-RKN
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=5d0319t.nl7.h1clayd.click&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f#🇸🇰 Slovakia, Bratislava | Anti-RKN
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?packetEncoding=xudp&type=xhttp&security=reality&fp=firefox&sni=e60833x.nl7.h1clayd.click&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&sid=2d2598d60447a967&path=%2fd20896a4ce30#🇸🇰 Slovakia, Bratislava | Anti-RKN
 vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@196.245.153.105:443?type=tcp&security=reality&fp=firefox&sni=345739t.de15.h1clayd.click&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d#🇸🇰 Slovakia, Bratislava | Anti-RKN
 socks4://185.98.208.98:28000#🇸🇰 Slovakia, Cífer | Anti-RKN
-https://195.146.134.204:443#🇸🇰 Slovakia, Kolárovo | Anti-RKN
-https://193.87.1.47:443#🇸🇰 Slovakia, Trnava | Anti-RKN
-https://193.87.1.71:443#🇸🇰 Slovakia, Trnava | Anti-RKN
-https://195.80.165.154:443#🇸🇰 Slovakia, Šurany | Anti-RKN
+socks4://217.145.199.45:56746#🇸🇰 Slovakia, Kolárovo | Anti-RKN

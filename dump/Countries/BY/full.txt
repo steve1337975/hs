@@ -1,10 +1,10 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BY] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405567
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:31:22
+# generated-at: 11/27/2026 12:39:27
 # servers-count: 16
 
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?type=tcp#🇧🇾 Belarus | Anti-RKN

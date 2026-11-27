@@ -1,12 +1,14 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ⚡ TROJAN — BLACK #3
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405567
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:31:22
-# servers-count: 467
+# generated-at: 11/27/2026 12:39:27
+# servers-count: 472
 
+trojan://bpb-trojan@190.93.244.89:443?security=tls&fp=firefox&sni=adagio.us.kg#Anti-RKN
+trojan://bpb-trojan@190.93.245.12:443?type=ws&security=tls&fp=firefox&sni=fcspring.ggff.net&host=fcspring.ggff.net&path=%2ftr%3fed#Anti-RKN
 trojan://bpb-trojan@190.93.245.157:443?type=ws&security=tls&fp=firefox&sni=fcspring.ggff.net&host=fcspring.ggff.net&path=%2ftr%3fed#Anti-RKN
 trojan://bpb-trojan@190.93.245.48:443?security=tls&fp=firefox&sni=adagio.us.kg#Anti-RKN
 trojan://bpb-trojan@190.93.245.69:443?type=ws&security=tls&fp=firefox#Anti-RKN
@@ -36,7 +38,7 @@ trojan://bpb-trojan@45.131.209.114:443?security=tls&fp=firefox&sni=bpb.my79801.c
 trojan://bpb-trojan@45.142.120.4:2096?type=ws&security=tls&fp=firefox&sni=403B3611-99bC-43b7-88D7-26ed5d0825A9-3.PageS.DEV&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2ftroUbg9Q3QgD0TJRfy%3fed%3d2560#🇫🇮 Finland, Helsinki | Anti-RKN
 trojan://bpb-trojan@45.80.111.9:443?security=tls&fp=firefox&sni=bpb.my79801.com#🇩🇪 Germany | Anti-RKN
 trojan://bpb-trojan@89.117.112.181:443?security=tls&fp=firefox&sni=bpb.my79801.com#🇱🇹 Lithuania | Anti-RKN
-trojan://bpb-trojan@104.21.7.153:443?security=tls&fp=firefox&sni=bpb.macser.us.kg#Anti-RKN
+trojan://bpb-trojan@172.67.130.82:443?security=tls&fp=firefox&sni=bpb.macser.us.kg#Anti-RKN
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&fp=firefox&sni=15.204.210.176#🇺🇸 United States, Reston | Anti-RKN
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?type=ws&security=tls&fp=firefox&sni=space.byu.id.yxls.eu.cc&host=space.byu.id.yxls.eu.cc&path=%2fin-pdr#🇳🇱 The Netherlands | Anti-RKN
 trojan://c226ac5d-65e9-4379-95c3-fb542bc242d8@172.67.177.109:443?security=tls&fp=firefox&sni=sssxXZAw.666461.xYz#Anti-RKN
@@ -169,7 +171,7 @@ trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&fp
 trojan://f82fb954-06a1-4f0b-9180-17e07585b61f@172.67.212.82:443?security=tls&fp=firefox&sni=6yuioph.131.pp.ua#Anti-RKN
 trojan://f898ffcb-6417-4373-9640-0b66091e8206@104.21.22.159:443?security=tls&fp=firefox&sni=q12.11890604.xyz#Anti-RKN
 trojan://f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@151.101.194.228:443?type=ws&security=tls&fp=firefox&sni=pscresearch.faculty.ucdavis.edu&host=hgc6rct87gy.com#🇺🇸 United States | Anti-RKN
-trojan://f8d19ba5-8684-45f2-8523-77dbea588955@157.90.33.73:443?security=tls&fp=firefox&sni=hgc.iamnotagoodman.com#🇩🇪 Germany, Falkenstein | Anti-RKN
+trojan://f8d19ba5-8684-45f2-8523-77dbea588955@157.90.33.74:443?security=tls&fp=firefox&sni=hgc.iamnotagoodman.com#🇩🇪 Germany, Falkenstein | Anti-RKN
 trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@104.21.63.135:443?security=tls&fp=firefox&sni=Rrr4.8906004.xYZ#Anti-RKN
 trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@172.67.145.200:443?type=ws&security=tls&fp=firefox&sni=Rrr4.8906004.xYZ&host=rrr4.8906004.xyz&path=%2fDZxb5QZyWgQPuXTwt#Anti-RKN
 trojan://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?security=tls&fp=firefox#🇺🇸 United States | Anti-RKN
@@ -333,7 +335,8 @@ trojan://humanity@86.38.214.205:443?type=ws&security=tls&fp=firefox&sni=www.igni
 trojan://humanity@89.116.46.8:443?type=ws&security=tls&fp=firefox&sni=www.calmloud.com&host=www.calmloud.com&path=%2fassignment#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 trojan://humanity@92.42.99.143:443?type=ws&security=tls&fp=firefox&sni=www.pleadcourt.org&host=www.pleadcourt.org&path=%2fassignment#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 trojan://humanity@104.16.73.213:443?type=ws&security=tls&fp=firefox&sni=www.ignitelimit.com&host=www.ignitelimit.com&path=%2fassignment#Anti-RKN
-trojan://humanity@104.18.8.83:443?type=ws&security=tls&fp=firefox&path=%2fassignment#Anti-RKN
+trojan://humanity@104.18.9.83:443?type=ws&security=tls&fp=firefox&path=%2fassignment#Anti-RKN
+trojan://humanity@104.18.9.83:443?type=ws&security=tls&fp=firefox&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2fassignment#Anti-RKN
 trojan://iP7yrI79tI@172.67.175.40:443?type=httpupgrade&security=tls&fp=firefox&sni=iran.farsonline24.ir&host=iran.farsonline24.ir&path=%2f16730%2f%40M3HDIO1#Anti-RKN
 trojan://idc117okt@103.226.139.201:443?security=tls&fp=firefox#🇮🇩 Indonesia | Anti-RKN
 trojan://iyinglong@18.140.67.76:443?security=tls&fp=firefox#🇸🇬 Singapore, Singapore | Anti-RKN
@@ -446,7 +449,8 @@ trojan://trojan@172.64.155.16:2053?type=ws&security=tls&fp=firefox&sni=ana-servi
 trojan://trojan@172.67.130.66:443?security=tls&fp=firefox&sni=test-a23.pages.dev#Anti-RKN
 trojan://trojan@172.67.75.172:8443?security=tls&fp=firefox&sni=fofang.pages.dev#Anti-RKN
 trojan://trojan@172.67.75.172:8443?security=tls&fp=firefox#Anti-RKN
-trojan://trojan@104.19.174.68:443?type=ws&security=tls&fp=firefox&sni=azadnet-9ya.pages.dev&host=azadnet-9ya.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://trojan@104.26.13.31:8443?type=ws&security=tls&fp=firefox&sni=fofang.pages.dev&host=fofang.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://trojan@104.19.173.68:443?type=ws&security=tls&fp=firefox&sni=azadnet-9ya.pages.dev&host=azadnet-9ya.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://uV8u9Q41e2@104.17.180.185:443?type=ws&security=tls&fp=firefox&sni=DieGo.DIEgoMAraDOnA.iR.&host=DieGo.DIEgoMAraDOnA.iR.#Anti-RKN
 trojan://vip@104.16.20.118:443?security=tls&fp=firefox&sni=heihu880.pages.dev#Anti-RKN
 trojan://vip@104.16.228.229:443?security=tls&fp=firefox&sni=heihu880.pages.dev#Anti-RKN
@@ -457,20 +461,21 @@ trojan://vip@104.26.8.156:443?security=tls&fp=firefox&sni=heihu880.pages.dev#Ant
 trojan://vip@172.65.90.53:443?security=tls&fp=firefox&sni=heihu880.pages.dev#Anti-RKN
 trojan://vip@172.67.179.98:443?security=tls&fp=firefox&sni=heihu880.pages.dev#Anti-RKN
 trojan://vip@172.67.182.83:443?security=tls&fp=firefox&sni=heihu880.pages.dev#Anti-RKN
-trojan://vip@104.26.10.222:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://vip@172.67.70.100:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vip@104.26.5.60:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vip@104.26.13.140:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
-trojan://vip@104.19.222.79:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://vip@104.19.223.79:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://vip@104.18.27.94:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vip@172.67.68.240:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
-trojan://vip@104.16.20.118:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://vip@104.16.21.118:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vip@172.64.145.158:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
-trojan://vip@104.18.11.143:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://vip@104.18.10.143:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vip@104.18.4.250:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vip@172.65.90.53:443?type=ws&security=tls&fp=firefox&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560#Anti-RKN
 trojan://vs6f8hvt@104.17.246.203:2053?type=ws&security=tls&fp=firefox#Anti-RKN
 trojan://xxoo@138.124.183.216:443?security=tls&fp=firefox#🇪🇪 Estonia, Tallinn | Anti-RKN
 trojan://xxoo@138.124.183.222:443?security=tls&fp=firefox&sni=138.124.183.222#🇪🇪 Estonia, Tallinn | Anti-RKN
 trojan://xxoo@3.34.6.217:443?security=tls&fp=firefox#🇰🇷 South Korea, Incheon | Anti-RKN
-trojan://xxoo@157.90.33.74:443?security=tls&fp=firefox&sni=telewebion.com#🇩🇪 Germany, Falkenstein | Anti-RKN
+trojan://xxoo@157.90.33.73:443?security=tls&fp=firefox&sni=telewebion.com#🇩🇪 Germany, Falkenstein | Anti-RKN
 trojan://yaml777@104.21.61.73:443?type=ws&security=tls&fp=firefox&sni=yaml7.ggff.net&host=yaml7.ggff.net#Anti-RKN
-trojan://zWFjJENcljZm@104.18.2.150:443?type=ws&security=tls&fp=firefox&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=%2f%3fed%3d2560#Anti-RKN
+trojan://zWFjJENcljZm@104.18.3.150:443?type=ws&security=tls&fp=firefox&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=%2f%3fed%3d2560#Anti-RKN

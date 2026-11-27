@@ -43,7 +43,6 @@ namespace NChecker.models.configs
             }
             if (Url.StartsWith("hy"))
             {
-                Console.WriteLine(Url);
                 int commaIndex = Url.IndexOf(',');
                 if (commaIndex != -1)
                 {

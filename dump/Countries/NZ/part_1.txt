@@ -1,11 +1,10 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [NZ] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405567
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:31:22
-# servers-count: 2
+# generated-at: 11/27/2026 12:39:27
+# servers-count: 1
 
 trojan://humanity@202.37.33.80:443?type=ws&security=tls&fp=firefox&sni=www.creationlong.org&host=www.creationlong.org&path=%2fassignment#🇳🇿 New Zealand | Anti-RKN
-https://120.138.21.80:443#🇳🇿 New Zealand | Anti-RKN

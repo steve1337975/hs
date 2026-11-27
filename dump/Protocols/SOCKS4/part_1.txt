@@ -1,13 +1,14 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ⚡ SOCKS4 — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405082
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827405567
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 12:31:22
-# servers-count: 847
+# generated-at: 11/27/2026 12:39:27
+# servers-count: 843
 
 socks4://31.43.63.70:4145#🇺🇦 Ukraine | Anti-RKN
+socks4://37.26.86.206:4145#🇦🇱 Albania, Elbasan | Anti-RKN
 socks4://72.49.49.11:31034#🇺🇸 United States, Fort Thomas | Anti-RKN
 socks4://72.195.114.184:4145#🇺🇸 United States | Anti-RKN
 socks4://24.249.199.4:4145#🇺🇸 United States, San Diego | Anti-RKN
@@ -24,7 +25,6 @@ socks4://98.175.31.195:4145#🇺🇸 United States, Norfolk | Anti-RKN
 socks4://98.188.47.132:4145#🇺🇸 United States | Anti-RKN
 socks4://72.195.114.169:4145#🇺🇸 United States | Anti-RKN
 socks4://98.188.47.150:4145#🇺🇸 United States | Anti-RKN
-socks4://72.195.34.59:4145#🇺🇸 United States | Anti-RKN
 socks4://184.181.217.206:4145#🇺🇸 United States | Anti-RKN
 socks4://184.178.172.3:4145#🇺🇸 United States, Roanoke | Anti-RKN
 socks4://184.178.172.11:4145#🇺🇸 United States, Roanoke | Anti-RKN
@@ -46,8 +46,8 @@ socks4://98.181.137.80:4145#🇺🇸 United States, Henderson | Anti-RKN
 socks4://74.119.144.60:4145#🇺🇸 United States | Anti-RKN
 socks4://184.178.172.13:15311#🇺🇸 United States, Roanoke | Anti-RKN
 socks4://68.1.210.189:4145#🇺🇸 United States, San Diego | Anti-RKN
+socks4://181.143.59.140:4153#🇨🇴 Colombia, Medellín | Anti-RKN
 socks4://67.206.213.202:55555#🇵🇷 Puerto Rico, Bayamón | Anti-RKN
-socks4://124.41.213.174:5678#🇳🇵 Nepal, Kathmandu | Anti-RKN
 socks4://174.75.211.222:4145#🇺🇸 United States | Anti-RKN
 socks4://72.195.101.99:4145#🇺🇸 United States | Anti-RKN
 socks4://72.214.108.67:4145#🇺🇸 United States | Anti-RKN
@@ -57,7 +57,6 @@ socks4://98.170.57.241:4145#🇺🇸 United States | Anti-RKN
 socks4://199.116.112.6:4145#🇺🇸 United States | Anti-RKN
 socks4://192.252.216.86:4145#🇺🇸 United States | Anti-RKN
 socks4://98.175.31.222:4145#🇺🇸 United States, Norfolk | Anti-RKN
-socks4://31.42.6.125:5678#🇵🇱 Poland, Częstochowa | Anti-RKN
 socks4://72.205.0.93:4145#🇺🇸 United States, Las Vegas | Anti-RKN
 socks4://142.54.235.9:4145#🇺🇸 United States | Anti-RKN
 socks4://104.200.135.46:4145#🇺🇸 United States, Los Angeles | Anti-RKN
@@ -65,7 +64,7 @@ socks4://142.54.226.214:4145#🇺🇸 United States | Anti-RKN
 socks4://68.71.241.33:4145#🇺🇸 United States | Anti-RKN
 socks4://72.37.216.68:4145#🇺🇸 United States | Anti-RKN
 socks4://181.129.182.138:5678#🇨🇴 Colombia, Bucaramanga | Anti-RKN
-socks4://195.140.226.32:5678#🇺🇦 Ukraine, Kharkiv | Anti-RKN
+socks4://78.128.124.108:5678#🇧🇬 Bulgaria, Devin | Anti-RKN
 socks4://216.68.128.121:4145#🇺🇸 United States, Cincinnati | Anti-RKN
 socks4://212.50.19.150:4153#🇧🇬 Bulgaria, Sofia | Anti-RKN
 socks4://90.182.147.170:4145#🇨🇿 Czechia, Tábor | Anti-RKN
@@ -74,141 +73,143 @@ socks4://36.94.119.218:4145#🇮🇩 Indonesia, Bekasi | Anti-RKN
 socks4://80.78.74.66:65530#🇦🇱 Albania, Tirana | Anti-RKN
 socks4://184.181.178.33:4145#🇺🇸 United States | Anti-RKN
 socks4://98.190.239.3:4145#🇺🇸 United States, Tulsa | Anti-RKN
+socks4://88.87.79.18:3629#🇷🇺 Russia, Volgograd | Anti-RKN
+socks4://109.224.12.170:52015#🇮🇶 Iraq | Anti-RKN
 socks4://46.21.186.252:1080#🇮🇹 Italy, Zanica | Anti-RKN
 socks4://184.182.240.12:4145#🇺🇸 United States, Phoenix | Anti-RKN
 socks4://72.206.74.126:4145#🇺🇸 United States, Niceville | Anti-RKN
 socks4://184.182.240.211:4145#🇺🇸 United States, Phoenix | Anti-RKN
-socks4://41.223.234.116:37259#🇧🇫 Burkina Faso | Anti-RKN
 socks4://98.191.0.47:4145#🇺🇸 United States, Roanoke | Anti-RKN
 socks4://72.207.113.97:4145#🇺🇸 United States, Mesquite | Anti-RKN
 socks4://193.158.12.140:4153#🇩🇪 Germany, Berlin | Anti-RKN
-socks4://31.13.239.4:5678#🇧🇬 Bulgaria | Anti-RKN
-socks4://177.93.72.82:4153#🇧🇷 Brazil, Lagoa Grande | Anti-RKN
-socks4://112.78.138.164:5678#🇮🇩 Indonesia, Jember | Anti-RKN
-socks4://118.91.175.146:5678#🇳🇵 Nepal | Anti-RKN
-socks4://103.18.47.79:4145#🇮🇩 Indonesia, Jakarta | Anti-RKN
 socks4://45.172.177.253:59341#🇦🇷 Argentina, Carcarañá | Anti-RKN
 socks4://186.251.253.53:31337#🇧🇷 Brazil, Carazinho | Anti-RKN
 socks4://103.204.55.221:1080#🇮🇳 India | Anti-RKN
+socks4://43.252.238.238:4153#🇮🇩 Indonesia | Anti-RKN
 socks4://185.98.208.98:28000#🇸🇰 Slovakia, Cífer | Anti-RKN
 socks4://202.162.197.57:4145#🇮🇩 Indonesia, Medan | Anti-RKN
-socks4://123.200.6.58:5678#🇧🇩 Bangladesh, Gazipur | Anti-RKN
+socks4://213.165.185.211:4153#🇲🇹 Malta, Birkirkara | Anti-RKN
 socks4://193.200.151.69:32777#🇺🇦 Ukraine | Anti-RKN
-socks4://46.98.193.59:5678#🇺🇦 Ukraine, Kamyanske | Anti-RKN
+socks4://196.0.111.186:46048#🇺🇬 Uganda, Mbarara | Anti-RKN
 socks4://187.95.136.46:5678#🇧🇷 Brazil, Osasco | Anti-RKN
 socks4://189.203.181.34:1080#🇲🇽 Mexico | Anti-RKN
-socks4://110.77.135.70:4145#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://60.54.19.44:1080#🇲🇾 Malaysia, Petaling Jaya | Anti-RKN
-socks4://202.123.183.66:5678#🇱🇦 Laos | Anti-RKN
+socks4://188.191.18.66:1080#🇺🇦 Ukraine | Anti-RKN
 socks4://202.178.114.61:4145#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
-socks4://62.201.233.59:4145#🇮🇶 Iraq | Anti-RKN
-socks4://187.87.35.148:4153#🇧🇷 Brazil, Feira de Santana | Anti-RKN
+socks4://103.26.209.206:1080#🇮🇩 Indonesia, North Jakarta | Anti-RKN
+socks4://43.248.27.11:54730#🇮🇩 Indonesia | Anti-RKN
 socks4://179.108.153.128:4145#🇧🇷 Brazil, Teixeira de Freitas | Anti-RKN
 socks4://5.254.178.160:10801#🇷🇺 Russia | Anti-RKN
-socks4://200.188.246.122:60606#🇧🇷 Brazil, Florianópolis | Anti-RKN
 socks4://160.250.226.94:1081#🇮🇩 Indonesia, Cirebon | Anti-RKN
+socks4://92.255.190.64:4153#🇷🇺 Russia, Omsk | Anti-RKN
 socks4://103.1.105.10:4153#🇲🇾 Malaysia | Anti-RKN
-socks4://64.49.67.164:5678#🇺🇸 United States, New York | Anti-RKN
+socks4://190.14.5.164:5678#🇬🇹 Guatemala | Anti-RKN
+socks4://167.250.137.129:1080#🇧🇷 Brazil, Teresina | Anti-RKN
 socks4://199.66.183.226:4145#🇺🇸 United States, Hampton | Anti-RKN
+socks4://36.95.245.81:5678#🇮🇩 Indonesia, Kota Serang | Anti-RKN
+socks4://185.157.111.3:5678#🇪🇪 Estonia, Tartu | Anti-RKN
 socks4://46.10.198.10:4153#🇧🇬 Bulgaria, Sofia | Anti-RKN
-socks4://46.55.3.113:4145#🇲🇩 Moldova, Chisinau | Anti-RKN
+socks4://170.150.1.253:4145#🇧🇷 Brazil, Campos Novos | Anti-RKN
 socks4://160.155.90.26:1080#🇨🇮 Ivory Coast, Abidjan | Anti-RKN
+socks4://196.1.182.130:1080#🇳🇬 Nigeria | Anti-RKN
+socks4://36.88.242.103:1080#🇮🇩 Indonesia, South Tangerang | Anti-RKN
 socks4://200.8.235.10:4145#🇻🇪 Venezuela, La Guaira | Anti-RKN
 socks4://192.252.215.2:4145#🇺🇸 United States | Anti-RKN
 socks4://72.205.0.67:4145#🇺🇸 United States, Las Vegas | Anti-RKN
 socks4://68.71.245.206:4145#🇺🇸 United States | Anti-RKN
 socks4://199.66.183.251:4145#🇺🇸 United States, Hampton | Anti-RKN
 socks4://199.66.182.243:4145#🇺🇸 United States, Hampton | Anti-RKN
-socks4://213.149.156.87:5678#🇧🇬 Bulgaria, Razlog | Anti-RKN
+socks4://31.43.33.55:4153#🇺🇦 Ukraine | Anti-RKN
 socks4://84.2.239.42:4153#🇭🇺 Hungary | Anti-RKN
 socks4://103.102.142.98:4145#🇮🇩 Indonesia | Anti-RKN
-socks4://49.207.177.65:5678#🇮🇳 India, Chennai | Anti-RKN
-socks4://181.48.243.194:4153#🇨🇴 Colombia, Bogotá | Anti-RKN
-socks4://94.253.95.241:3629#🇷🇺 Russia, Ivanteyevka | Anti-RKN
-socks4://190.12.95.170:37209#🇵🇪 Peru, Lima | Anti-RKN
-socks4://159.192.97.129:5678#🇹🇭 Thailand, Bangkok | Anti-RKN
-socks4://113.161.134.128:1080#🇻🇳 Vietnam, Bien Hoa | Anti-RKN
-socks4://124.248.164.36:1080#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
-socks4://76.26.114.253:39593#🇺🇸 United States | Anti-RKN
+socks4://85.187.5.66:48293#🇧🇬 Bulgaria | Anti-RKN
+socks4://170.244.0.179:4145#🇧🇷 Brazil, Bom Jesus do Itabapoana | Anti-RKN
+socks4://179.189.249.130:5432#🇧🇷 Brazil, Recife | Anti-RKN
+socks4://177.66.43.189:4145#🇧🇷 Brazil, Santo Cristo | Anti-RKN
+socks4://103.162.196.117:5678#🇮🇳 India | Anti-RKN
 socks4://161.49.100.131:1080#🇵🇭 Philippines, Pasig | Anti-RKN
-socks4://103.156.15.129:12#🇮🇩 Indonesia | Anti-RKN
 socks4://190.93.188.196:1080#🇩🇴 Dominican Republic, Santiago de los Caballeros | Anti-RKN
 socks4://199.66.182.232:4145#🇺🇸 United States, Hampton | Anti-RKN
-socks4://103.58.16.106:4145#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 socks4://213.6.68.210:4145#🇵🇸 Palestine, Nablus | Anti-RKN
 socks4://103.146.170.244:5678#🇮🇳 India | Anti-RKN
+socks4://181.189.132.74:5678#🇬🇹 Guatemala | Anti-RKN
 socks4://45.238.57.1:3629#🇪🇨 Ecuador, Guayaquil | Anti-RKN
 socks4://77.238.79.111:5678#🇧🇬 Bulgaria, Sofia | Anti-RKN
 socks4://185.26.168.17:4153#🇷🇺 Russia | Anti-RKN
-socks4://123.200.28.149:1080#🇧🇩 Bangladesh, Gazipur | Anti-RKN
-socks4://81.91.157.133:5678#🇮🇷 Iran | Anti-RKN
+socks4://193.43.159.161:1080#🇸🇾 Syria | Anti-RKN
+socks4://103.248.9.69:80#🇮🇩 Indonesia, Garut | Anti-RKN
+socks4://14.241.242.177:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://89.43.135.181:1080#🇸🇾 Syria | Anti-RKN
 socks4://190.89.104.88:5432#🇧🇷 Brazil, Chapecó | Anti-RKN
 socks4://43.160.245.155:8080#🇸🇬 Singapore, Singapore | Anti-RKN
-socks4://83.56.15.57:5678#🇪🇸 Spain, Madrid | Anti-RKN
 socks4://103.83.252.61:1080#🇮🇳 India | Anti-RKN
-socks4://103.231.105.158:4145#🇵🇸 Palestine, Ramallah | Anti-RKN
+socks4://110.38.234.74:1080#🇵🇰 Pakistan, Lahore | Anti-RKN
+socks4://115.85.86.114:5678#🇮🇩 Indonesia, West Jakarta | Anti-RKN
+socks4://181.115.207.114:1080#🇧🇴 Bolivia, Santa Cruz de la Sierra | Anti-RKN
 socks4://12.11.59.114:1080#🇺🇸 United States, Fort Worth | Anti-RKN
-socks4://96.9.88.130:4153#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
-socks4://93.184.7.73:1080#🇵🇸 Palestine | Anti-RKN
-socks4://102.64.116.254:4145#🇨🇬 Congo Republic | Anti-RKN
+socks4://200.71.123.77:60606#🇧🇷 Brazil, Constantina | Anti-RKN
+socks4://5.23.104.251:1080#🇷🇺 Russia, Ryazan | Anti-RKN
 socks4://185.130.219.11:4153#🇪🇸 Spain, Javea | Anti-RKN
-socks4://182.16.171.42:51459#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks4://203.170.146.146:4153#🇹🇭 Thailand | Anti-RKN
 socks4://122.102.41.226:4153#🇮🇩 Indonesia, East Jakarta | Anti-RKN
-socks4://24.37.245.42:51056#🇨🇦 Canada, Montreal | Anti-RKN
-socks4://123.231.230.58:31196#🇮🇩 Indonesia, Bekasi | Anti-RKN
-socks4://49.229.36.214:4153#🇹🇭 Thailand, Nakhon Pathom | Anti-RKN
-socks4://103.167.156.88:1080#🇮🇩 Indonesia, Pemalang | Anti-RKN
-socks4://110.77.149.227:4153#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://81.16.9.222:3629#🇦🇲 Armenia, Yerevan | Anti-RKN
+socks4://27.72.122.228:51067#🇻🇳 Vietnam, Hanoi | Anti-RKN
+socks4://103.59.200.26:4145#🇮🇳 India | Anti-RKN
 socks4://216.105.143.146:4145#🇺🇸 United States, Atlanta | Anti-RKN
 socks4://216.105.128.144:4145#🇺🇸 United States, Atlanta | Anti-RKN
+socks4://49.229.36.210:4153#🇹🇭 Thailand, Nakhon Pathom | Anti-RKN
 socks4://216.105.130.131:4145#🇺🇸 United States, Atlanta | Anti-RKN
 socks4://72.194.42.156:4145#🇺🇸 United States, Las Vegas | Anti-RKN
 socks4://109.224.22.36:51372#🇮🇶 Iraq | Anti-RKN
 socks4://43.163.219.10:20000#🇯🇵 Japan, Tokyo | Anti-RKN
-socks4://103.146.185.172:1083#🇮🇩 Indonesia | Anti-RKN
-socks4://103.114.97.59:80#🇧🇩 Bangladesh | Anti-RKN
-socks4://195.225.49.137:55774#🇺🇦 Ukraine, Koryukivka | Anti-RKN
+socks4://163.176.179.226:1080#🇧🇷 Brazil, São Paulo | Anti-RKN
+socks4://91.211.100.35:44744#🇵🇱 Poland, Warsaw | Anti-RKN
 socks4://119.63.95.3:4153#🇹🇭 Thailand, Bang Phli | Anti-RKN
-socks4://102.132.17.30:1080#🇨🇲 Cameroon, Douala | Anti-RKN
-socks4://58.27.160.253:1080#🇵🇰 Pakistan, Mardan | Anti-RKN
+socks4://160.119.159.98:1080#🇲🇿 Mozambique, Maputo | Anti-RKN
+socks4://182.253.144.20:4153#🇮🇩 Indonesia, Bandung | Anti-RKN
+socks4://103.177.20.27:1080#🇮🇩 Indonesia | Anti-RKN
 socks4://118.179.135.69:9090#🇧🇩 Bangladesh, Dhaka | Anti-RKN
+socks4://103.115.255.225:36331#🇧🇩 Bangladesh | Anti-RKN
 socks4://202.57.46.138:4145#🇵🇭 Philippines, Pasay | Anti-RKN
+socks4://182.93.75.162:1080#🇳🇵 Nepal, Kathmandu | Anti-RKN
 socks4://58.27.200.225:1080#🇵🇰 Pakistan, Lahore | Anti-RKN
 socks4://169.255.48.50:1080#🇹🇿 Tanzania | Anti-RKN
-socks4://202.142.176.130:1080#🇵🇰 Pakistan | Anti-RKN
 socks4://37.18.73.60:5566#🇷🇺 Russia | Anti-RKN
-socks4://111.125.154.22:1080#🇦🇫 Afghanistan | Anti-RKN
+socks4://103.158.13.191:100#🇮🇩 Indonesia, Bojonegoro | Anti-RKN
 socks4://167.99.3.26:5555#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://202.46.78.82:4145#🇮🇩 Indonesia, Bandung | Anti-RKN
 socks4://119.18.156.245:1080#🇮🇩 Indonesia, Bogor | Anti-RKN
-socks4://103.4.94.124:1080#🇵🇰 Pakistan | Anti-RKN
 socks4://81.7.112.174:4145#🇱🇹 Lithuania, Elektrėnai | Anti-RKN
+socks4://50.233.111.162:32100#🇺🇸 United States, Memphis | Anti-RKN
+socks4://172.99.187.33:4145#🇵🇷 Puerto Rico, San Juan | Anti-RKN
 socks4://119.18.156.242:1080#🇮🇩 Indonesia, Bogor | Anti-RKN
 socks4://119.18.156.243:1080#🇮🇩 Indonesia, Bogor | Anti-RKN
+socks4://101.109.245.200:4153#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://115.187.50.40:5678#🇮🇳 India, Kolkata | Anti-RKN
 socks4://91.92.80.199:4145#🇧🇬 Bulgaria, Plovdiv | Anti-RKN
-socks4://103.85.103.41:5678#🇮🇳 India | Anti-RKN
-socks4://36.89.126.123:1080#🇮🇩 Indonesia | Anti-RKN
-socks4://212.5.132.74:5678#🇧🇬 Bulgaria, Sofia | Anti-RKN
+socks4://163.128.137.239:1080#🇮🇩 Indonesia | Anti-RKN
 socks4://188.150.229.60:5678#🇸🇪 Sweden, Malmö | Anti-RKN
 socks4://200.0.227.220:4153#🇦🇷 Argentina, Buenos Aires | Anti-RKN
+socks4://110.34.28.67:1080#🇳🇵 Nepal, Kathmandu | Anti-RKN
 socks4://110.34.1.156:1080#🇳🇵 Nepal, Kathmandu | Anti-RKN
-socks4://103.167.156.98:1080#🇮🇩 Indonesia, Pemalang | Anti-RKN
 socks4://99.56.147.242:53096#🇺🇸 United States, Dallas | Anti-RKN
+socks4://36.66.203.163:5678#🇮🇩 Indonesia, East Jakarta | Anti-RKN
+socks4://201.184.179.198:1080#🇨🇴 Colombia, Envigado | Anti-RKN
+socks4://110.34.8.100:1080#🇳🇵 Nepal, Kathmandu | Anti-RKN
 socks4://5.58.97.86:41641#🇺🇦 Ukraine, Ternopil | Anti-RKN
-socks4://146.196.63.235:4145#🇮🇳 India | Anti-RKN
-socks4://171.248.208.246:1080#🇻🇳 Vietnam | Anti-RKN
+socks4://102.209.123.184:1080#🇿🇦 South Africa, L’Agulhas | Anti-RKN
+socks4://43.231.22.146:1080#🇧🇩 Bangladesh | Anti-RKN
+socks4://113.163.156.8:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://49.0.26.31:1080#🇮🇩 Indonesia | Anti-RKN
 socks4://45.114.63.131:9100#🇳🇱 The Netherlands, Amsterdam | Anti-RKN
-socks4://211.22.151.163:60909#🇹🇼 Taiwan, Taichung | Anti-RKN
+socks4://187.87.34.82:60606#🇧🇷 Brazil, Feira de Santana | Anti-RKN
 socks4://93.183.175.6:5678#🇧🇬 Bulgaria, Svilengrad | Anti-RKN
-socks4://181.143.31.242:1080#🇨🇴 Colombia, Medellín | Anti-RKN
-socks4://113.161.185.160:1080#🇻🇳 Vietnam, Mỹ Tho | Anti-RKN
-socks4://58.65.142.254:1080#🇵🇰 Pakistan, Faisalabad | Anti-RKN
 socks4://178.48.13.177:80#🇭🇺 Hungary, Nagyréde | Anti-RKN
 socks4://160.30.104.170:1080#🇵🇰 Pakistan, Liaquatpur | Anti-RKN
-socks4://149.248.18.106:1081#🇺🇸 United States, Los Angeles | Anti-RKN
+socks4://122.252.183.21:4153#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
+socks4://102.0.42.14:1080#🇰🇪 Kenya | Anti-RKN
 socks4://171.250.217.161:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://49.0.85.207:1080#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://103.104.112.9:1080#🇮🇳 India, Safdarjung Enclave | Anti-RKN
 socks4://171.247.247.25:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://186.47.213.158:5678#🇪🇨 Ecuador, Guayaquil | Anti-RKN
 socks4://171.248.215.26:1080#🇻🇳 Vietnam | Anti-RKN
@@ -266,217 +267,211 @@ socks4://192.111.135.18:18301#🇺🇸 United States, Atlanta | Anti-RKN
 socks4://98.181.137.83:4145#🇺🇸 United States, Henderson | Anti-RKN
 socks4://192.111.138.29:4145#🇺🇸 United States | Anti-RKN
 socks4://192.252.215.5:16137#🇺🇸 United States | Anti-RKN
-socks4://192.111.139.165:4145#🇺🇸 United States | Anti-RKN
+socks4://192.111.130.5:17002#🇺🇸 United States | Anti-RKN
 socks4://70.166.167.55:57745#🇺🇸 United States | Anti-RKN
 socks4://68.1.210.163:4145#🇺🇸 United States, San Diego | Anti-RKN
 socks4://98.178.72.30:4145#🇺🇸 United States | Anti-RKN
 socks4://70.166.167.38:57728#🇺🇸 United States | Anti-RKN
 socks4://171.248.223.223:1080#🇻🇳 Vietnam | Anti-RKN
-socks4://103.13.19.219:10808#🇯🇵 Japan | Anti-RKN
+socks4://37.193.125.68:1090#🇷🇺 Russia, Novosibirsk | Anti-RKN
 socks4://27.77.229.107:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://113.161.185.238:1080#🇻🇳 Vietnam, Mỹ Tho | Anti-RKN
+socks4://171.250.219.119:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://203.150.171.129:1080#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://8.216.40.169:7890#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://27.77.232.125:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://174.64.199.82:4145#🇺🇸 United States | Anti-RKN
 socks4://171.248.217.119:1080#🇻🇳 Vietnam | Anti-RKN
-socks4://193.105.62.11:58973#🇺🇦 Ukraine | Anti-RKN
+socks4://85.143.71.188:10808#🇷🇺 Russia | Anti-RKN
 socks4://27.68.171.168:1080#🇻🇳 Vietnam, Thai Nguyen | Anti-RKN
 socks4://47.251.73.54:1080#🇺🇸 United States | Anti-RKN
-socks4://125.25.57.57:4153#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://47.251.73.54:3128#🇺🇸 United States | Anti-RKN
 socks4://176.115.192.185:1080#🇷🇺 Russia | Anti-RKN
 socks4://47.85.37.60:1080#🇺🇸 United States | Anti-RKN
+socks4://212.39.114.139:5678#🇧🇦 Bosnia and Herzegovina, Mostar | Anti-RKN
 socks4://47.251.73.54:8123#🇺🇸 United States | Anti-RKN
 socks4://167.99.3.26:5249#🇺🇸 United States, North Bergen | Anti-RKN
 socks4://27.77.234.21:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://171.247.245.76:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://144.91.82.219:9050#🇫🇷 France, Lauterbourg | Anti-RKN
-socks4://103.25.167.177:4153#🇮🇩 Indonesia | Anti-RKN
+socks4://193.158.12.141:4153#🇩🇪 Germany, Berlin | Anti-RKN
 socks4://109.245.110.145:4145#🇷🇸 Serbia, Belgrade | Anti-RKN
 socks4://27.68.171.218:1080#🇻🇳 Vietnam, Thai Nguyen | Anti-RKN
 socks4://47.91.89.3:55443#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks4://43.108.34.208:1080#🇰🇷 South Korea, Seoul | Anti-RKN
 socks4://171.248.223.121:1080#🇻🇳 Vietnam | Anti-RKN
+socks4://103.136.250.154:1080#🇹🇼 Taiwan, Taipei | Anti-RKN
 socks4://176.9.107.170:1083#🇩🇪 Germany, Falkenstein | Anti-RKN
 socks4://101.36.112.205:1081#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-socks4://46.62.212.153:1080#🇫🇮 Finland, Helsinki | Anti-RKN
 socks4://183.106.215.208:1080#🇰🇷 South Korea, Yeongyang-gun | Anti-RKN
 socks4://27.77.228.98:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
 socks4://144.91.82.211:9050#🇫🇷 France, Lauterbourg | Anti-RKN
-socks4://171.248.216.69:1080#🇻🇳 Vietnam | Anti-RKN
 socks4://5.78.181.0:9052#🇺🇸 United States, Hillsboro | Anti-RKN
 socks4://202.166.219.80:4153#🇳🇵 Nepal, Kathmandu | Anti-RKN
 socks4://47.90.149.238:1241#🇺🇸 United States | Anti-RKN
+socks4://124.41.196.3:1080#🇳🇵 Nepal, Kathmandu | Anti-RKN
 socks4://47.90.149.238:4001#🇺🇸 United States | Anti-RKN
 socks4://47.90.149.238:8008#🇺🇸 United States | Anti-RKN
 socks4://47.237.113.119:9000#🇸🇬 Singapore | Anti-RKN
-socks4://31.170.17.141:4153#🇱🇻 Latvia, Saldus | Anti-RKN
 socks4://47.85.9.228:10800#🇺🇸 United States | Anti-RKN
-socks4://95.178.108.189:5678#🇫🇷 France, Clamart | Anti-RKN
-socks4://167.99.3.26:5231#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://113.161.248.167:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://39.175.80.225:1080#🇨🇳 China | Anti-RKN
-socks4://95.140.118.34:1080#🇷🇸 Serbia, Belgrade | Anti-RKN
-socks4://70.38.101.182:40000#🇨🇦 Canada | Anti-RKN
-socks4://171.248.209.191:1080#🇻🇳 Vietnam | Anti-RKN
-socks4://167.99.3.26:5649#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://171.247.247.254:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://171.238.62.144:1080#🇻🇳 Vietnam, Hanoi | Anti-RKN
-socks4://167.99.3.26:7867#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://110.34.10.226:1080#🇳🇵 Nepal, Kathmandu | Anti-RKN
-socks4://47.90.167.27:8181#🇺🇸 United States | Anti-RKN
-socks4://171.247.247.113:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://171.253.90.204:1111#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://122.252.183.18:4153#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
-socks4://102.0.26.212:1080#🇰🇪 Kenya, Nairobi | Anti-RKN
-socks4://171.248.222.178:1080#🇻🇳 Vietnam | Anti-RKN
-socks4://27.75.159.208:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://8.213.222.247:3129#🇹🇭 Thailand, Bangkok | Anti-RKN
-socks4://103.146.137.169:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
-socks4://8.213.222.247:9090#🇹🇭 Thailand, Bangkok | Anti-RKN
-socks4://8.213.215.187:9080#🇹🇭 Thailand, Bangkok | Anti-RKN
-socks4://8.213.215.187:443#🇹🇭 Thailand, Bangkok | Anti-RKN
-socks4://161.97.104.161:9050#🇫🇷 France, Lauterbourg | Anti-RKN
-socks4://185.242.107.224:9999#🇱🇻 Latvia, Riga | Anti-RKN
-socks4://103.167.156.35:1080#🇮🇩 Indonesia, Pemalang | Anti-RKN
-socks4://47.238.60.156:9999#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-socks4://47.238.60.156:3128#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-socks4://47.238.60.156:3129#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
+socks4://103.225.205.78:52195#🇮🇳 India, Gautam Buddha Nagar | Anti-RKN
+socks4://167.99.3.26:7029#🇺🇸 United States, North Bergen | Anti-RKN
 socks4://27.68.168.105:1080#🇻🇳 Vietnam, Thai Nguyen | Anti-RKN
-socks4://167.99.3.26:8242#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://49.13.150.79:9050#🇩🇪 Germany, Nuremberg | Anti-RKN
-socks4://85.192.62.252:1080#🇷🇺 Russia | Anti-RKN
-socks4://109.68.189.22:54643#🇷🇺 Russia | Anti-RKN
-socks4://77.232.155.2:1080#🇷🇺 Russia | Anti-RKN
-socks4://217.14.192.183:1080#🇷🇺 Russia | Anti-RKN
-socks4://185.32.4.126:4153#🇵🇱 Poland | Anti-RKN
-socks4://185.32.4.65:4153#🇵🇱 Poland | Anti-RKN
-socks4://185.32.4.102:4153#🇵🇱 Poland | Anti-RKN
-socks4://83.220.46.106:4145#🇷🇺 Russia, Moscow | Anti-RKN
-socks4://213.210.67.186:3629#🇷🇺 Russia | Anti-RKN
-socks4://81.12.169.254:4153#🇷🇴 Romania, Bucharest | Anti-RKN
-socks4://212.31.100.138:4153#🇨🇾 Cyprus, Limassol | Anti-RKN
-socks4://119.40.98.29:8069#🇲🇳 Mongolia | Anti-RKN
-socks4://151.232.18.66:5678#🇮🇷 Iran | Anti-RKN
-socks4://203.112.134.74:5678#🇮🇳 India | Anti-RKN
-socks4://82.137.245.41:1080#🇸🇾 Syria | Anti-RKN
-socks4://64.64.152.248:39593#🇺🇸 United States, Imperial | Anti-RKN
-socks4://190.93.188.198:1080#🇩🇴 Dominican Republic, Santiago de los Caballeros | Anti-RKN
-socks4://191.102.82.83:4153#🇨🇴 Colombia, Montecristo | Anti-RKN
-socks4://186.1.182.194:4153#🇨🇴 Colombia, Santa Marta | Anti-RKN
-socks4://190.93.188.194:1080#🇩🇴 Dominican Republic, Santiago de los Caballeros | Anti-RKN
-socks4://103.204.54.50:1080#🇮🇳 India | Anti-RKN
-socks4://186.190.228.83:4153#🇨🇴 Colombia, Bogotá | Anti-RKN
-socks4://121.200.60.122:4153#🇧🇩 Bangladesh | Anti-RKN
-socks4://181.143.37.11:32767#🇨🇴 Colombia, Medellín | Anti-RKN
-socks4://103.153.247.74:12#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks4://111.119.162.248:10979#🇵🇰 Pakistan | Anti-RKN
-socks4://171.250.217.32:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://171.248.217.220:1080#🇻🇳 Vietnam | Anti-RKN
-socks4://111.119.162.248:10930#🇵🇰 Pakistan | Anti-RKN
-socks4://103.88.204.70:1080#🇮🇩 Indonesia, Cimahi | Anti-RKN
-socks4://111.119.162.248:10914#🇵🇰 Pakistan | Anti-RKN
-socks4://177.54.239.13:4145#🇧🇷 Brazil, Araguaína | Anti-RKN
-socks4://189.90.118.105:4153#🇧🇷 Brazil, Leopoldina | Anti-RKN
-socks4://111.119.162.248:10960#🇵🇰 Pakistan | Anti-RKN
-socks4://201.131.214.1:5678#🇧🇷 Brazil, Utinga | Anti-RKN
-socks4://102.222.145.8:1080#🇰🇪 Kenya | Anti-RKN
-socks4://111.119.162.248:10944#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10948#🇵🇰 Pakistan | Anti-RKN
-socks4://187.102.16.66:51327#🇧🇷 Brazil, Guanhães | Anti-RKN
-socks4://111.119.162.248:10935#🇵🇰 Pakistan | Anti-RKN
-socks4://59.11.209.162:1080#🇰🇷 South Korea, Yongin-si | Anti-RKN
-socks4://212.103.118.77:5678#🇷🇺 Russia | Anti-RKN
-socks4://111.119.162.248:10949#🇵🇰 Pakistan | Anti-RKN
-socks4://198.50.17.177:4145#🇦🇷 Argentina, Villa Carlos Paz | Anti-RKN
-socks4://209.150.151.90:1080#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10963#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10943#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10932#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10937#🇵🇰 Pakistan | Anti-RKN
-socks4://109.235.188.171:1080#🇷🇺 Russia, Sochi | Anti-RKN
-socks4://111.119.162.248:11012#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10958#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10942#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10950#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10919#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10918#🇵🇰 Pakistan | Anti-RKN
-socks4://37.131.165.19:59341#🇵🇱 Poland | Anti-RKN
-socks4://109.106.196.250:4145#🇷🇺 Russia | Anti-RKN
-socks4://111.119.162.248:10923#🇵🇰 Pakistan | Anti-RKN
-socks4://103.143.8.126:51951#🇮🇳 India | Anti-RKN
-socks4://111.119.162.248:10947#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10913#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10946#🇵🇰 Pakistan | Anti-RKN
-socks4://186.216.195.1:4153#🇧🇷 Brazil, Rio de Janeiro | Anti-RKN
-socks4://186.194.234.18:4153#🇧🇷 Brazil, Presidente Prudente | Anti-RKN
-socks4://111.119.162.248:10901#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10957#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10900#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10917#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10902#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10931#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10924#🇵🇰 Pakistan | Anti-RKN
-socks4://176.235.182.90:1080#🇹🇷 Türkiye, Gaziantep | Anti-RKN
-socks4://103.151.226.11:12#🇮🇩 Indonesia | Anti-RKN
-socks4://160.20.37.126:80#🇮🇩 Indonesia | Anti-RKN
-socks4://103.148.201.74:1089#🇮🇩 Indonesia, Surakarta | Anti-RKN
-socks4://111.119.162.248:10936#🇵🇰 Pakistan | Anti-RKN
-socks4://179.189.248.125:5432#🇧🇷 Brazil, Recife | Anti-RKN
-socks4://111.119.162.248:10928#🇵🇰 Pakistan | Anti-RKN
-socks4://111.119.162.248:10959#🇵🇰 Pakistan | Anti-RKN
-socks4://185.32.4.110:4153#🇵🇱 Poland | Anti-RKN
-socks4://111.119.162.248:10926#🇵🇰 Pakistan | Anti-RKN
-socks4://103.151.155.20:11080#🇮🇩 Indonesia | Anti-RKN
-socks4://36.37.189.64:5678#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
-socks4://160.226.220.30:1080#🇿🇦 South Africa, Bloemfontein | Anti-RKN
-socks4://111.119.162.248:10920#🇵🇰 Pakistan | Anti-RKN
-socks4://60.54.19.45:1080#🇲🇾 Malaysia, Petaling Jaya | Anti-RKN
-socks4://49.0.156.20:32000#🇲🇳 Mongolia, Ulan Bator | Anti-RKN
-socks4://31.170.19.5:4153#🇱🇻 Latvia, Saldus | Anti-RKN
-socks4://201.234.24.89:4153#🇦🇷 Argentina, Buenos Aires | Anti-RKN
-socks4://94.247.241.70:51006#🇷🇺 Russia, St Petersburg | Anti-RKN
-socks4://111.119.162.248:10927#🇵🇰 Pakistan | Anti-RKN
-socks4://113.53.29.228:13629#🇹🇭 Thailand, Phuket | Anti-RKN
-socks4://111.119.162.248:10938#🇵🇰 Pakistan | Anti-RKN
-socks4://95.31.115.101:9150#🇷🇺 Russia | Anti-RKN
-socks4://111.119.162.248:10934#🇵🇰 Pakistan | Anti-RKN
-socks4://120.55.169.40:7890#🇨🇳 China, Hangzhou | Anti-RKN
-socks4://46.188.2.42:5678#🇷🇺 Russia, Moscow | Anti-RKN
-socks4://154.18.220.190:5678#🇲🇲 Myanmar, Yangon | Anti-RKN
-socks4://109.72.100.113:48293#🇲🇪 Montenegro, Bar | Anti-RKN
-socks4://157.90.113.23:9052#🇩🇪 Germany, Nuremberg | Anti-RKN
-socks4://198.12.37.25:1080#🇦🇷 Argentina | Anti-RKN
-socks4://85.30.215.48:60541#🇷🇺 Russia | Anti-RKN
-socks4://190.220.1.173:35376#🇦🇷 Argentina | Anti-RKN
-socks4://198.0.198.132:54321#🇺🇸 United States, San Jose | Anti-RKN
-socks4://167.99.3.26:8282#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://8.220.136.174:5060#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://8.220.136.174:8181#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://8.220.136.174:8091#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://8.212.168.170:1081#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://8.212.168.170:1000#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://47.237.113.119:999#🇸🇬 Singapore | Anti-RKN
-socks4://47.237.107.41:6379#🇸🇬 Singapore | Anti-RKN
-socks4://47.237.113.119:16044#🇸🇬 Singapore | Anti-RKN
-socks4://8.212.168.170:808#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://47.250.51.110:1081#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks4://47.237.113.119:16010#🇸🇬 Singapore | Anti-RKN
-socks4://47.250.51.110:80#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks4://8.213.195.191:50#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://72.194.42.131:4145#🇺🇸 United States, Las Vegas | Anti-RKN
+socks4://8.213.195.191:8060#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://116.100.218.113:1080#🇻🇳 Vietnam | Anti-RKN
+socks4://47.251.73.54:8000#🇺🇸 United States | Anti-RKN
+socks4://8.213.195.191:31433#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://47.251.73.54:8008#🇺🇸 United States | Anti-RKN
+socks4://8.213.195.191:1081#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://8.213.195.191:8000#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://47.91.89.3:9119#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://47.251.73.54:8077#🇺🇸 United States | Anti-RKN
+socks4://8.213.195.191:6379#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://144.91.83.39:9050#🇫🇷 France, Lauterbourg | Anti-RKN
+socks4://47.91.89.3:4153#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://47.91.89.3:9050#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://8.213.195.191:34567#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://171.247.247.113:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://8.213.195.191:3129#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://165.154.20.187:10808#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
+socks4://47.91.89.3:202#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://47.91.89.3:139#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://47.91.89.3:8085#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://47.251.87.199:2083#🇺🇸 United States | Anti-RKN
+socks4://47.91.89.3:4000#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://72.36.32.222:9050#🇺🇸 United States, Kaycee | Anti-RKN
+socks4://47.251.87.199:3129#🇺🇸 United States | Anti-RKN
+socks4://212.41.0.183:21080#🇷🇺 Russia, Moscow | Anti-RKN
 socks4://27.68.169.237:1080#🇻🇳 Vietnam, Thai Nguyen | Anti-RKN
-socks4://47.250.51.110:10#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks4://8.211.42.167:41890#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks4://91.107.186.23:1080#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks4://8.211.51.115:4145#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks4://8.211.51.115:3128#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://89.250.148.158:1080#🇷🇺 Russia, Tyumen | Anti-RKN
+socks4://70.38.101.182:40000#🇨🇦 Canada | Anti-RKN
+socks4://179.253.66.78:1080#🇺🇸 United States | Anti-RKN
+socks4://47.250.51.110:3129#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 socks4://185.135.81.149:9060#🇷🇺 Russia | Anti-RKN
+socks4://47.250.51.110:10017#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks4://47.250.177.202:2000#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks4://47.250.177.202:10804#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks4://47.250.177.202:41451#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks4://8.215.3.250:8118#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks4://185.242.107.224:9999#🇱🇻 Latvia, Riga | Anti-RKN
+socks4://46.188.2.42:5678#🇷🇺 Russia, Moscow | Anti-RKN
+socks4://85.192.62.252:1080#🇷🇺 Russia | Anti-RKN
+socks4://77.232.155.2:1080#🇷🇺 Russia | Anti-RKN
+socks4://91.223.224.238:48293#🇷🇺 Russia | Anti-RKN
+socks4://176.214.78.230:5678#🇷🇺 Russia, Yaroslavl | Anti-RKN
+socks4://217.14.192.183:1080#🇷🇺 Russia | Anti-RKN
+socks4://89.250.148.154:4145#🇷🇺 Russia, Tyumen | Anti-RKN
+socks4://185.32.4.126:4153#🇵🇱 Poland | Anti-RKN
+socks4://109.72.100.113:48293#🇲🇪 Montenegro, Bar | Anti-RKN
+socks4://109.106.196.250:4145#🇷🇺 Russia | Anti-RKN
+socks4://217.145.199.45:56746#🇸🇰 Slovakia, Kolárovo | Anti-RKN
+socks4://85.105.194.113:4153#🇹🇷 Türkiye, Istanbul | Anti-RKN
+socks4://119.40.98.29:8069#🇲🇳 Mongolia | Anti-RKN
+socks4://176.235.182.90:1080#🇹🇷 Türkiye, Gaziantep | Anti-RKN
+socks4://205.209.66.105:1080#🇸🇾 Syria | Anti-RKN
+socks4://212.31.100.138:4153#🇨🇾 Cyprus, Limassol | Anti-RKN
+socks4://203.112.134.74:5678#🇮🇳 India | Anti-RKN
+socks4://151.232.18.66:5678#🇮🇷 Iran | Anti-RKN
+socks4://58.65.167.165:4145#🇵🇰 Pakistan, Islamabad | Anti-RKN
+socks4://116.66.188.44:10888#🇮🇳 India | Anti-RKN
+socks4://103.105.79.18:1080#🇮🇩 Indonesia, Bekasi | Anti-RKN
+socks4://113.161.162.0:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://103.231.45.189:1080#🇮🇳 India | Anti-RKN
+socks4://191.102.82.83:4153#🇨🇴 Colombia, Montecristo | Anti-RKN
+socks4://122.15.255.229:60606#🇮🇳 India | Anti-RKN
+socks4://103.204.54.50:1080#🇮🇳 India | Anti-RKN
+socks4://95.31.115.101:9150#🇷🇺 Russia | Anti-RKN
+socks4://103.118.127.222:4153#🇮🇩 Indonesia | Anti-RKN
+socks4://102.215.245.6:4153#🇿🇦 South Africa, Johannesburg | Anti-RKN
+socks4://186.190.228.83:4153#🇨🇴 Colombia, Bogotá | Anti-RKN
+socks4://181.143.37.11:32767#🇨🇴 Colombia, Medellín | Anti-RKN
+socks4://171.248.217.220:1080#🇻🇳 Vietnam | Anti-RKN
+socks4://59.11.209.162:1080#🇰🇷 South Korea, Yongin-si | Anti-RKN
+socks4://103.146.170.233:5678#🇮🇳 India | Anti-RKN
+socks4://111.119.162.248:10949#🇵🇰 Pakistan | Anti-RKN
+socks4://27.77.227.218:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://45.172.176.1:59341#🇦🇷 Argentina, Carcarañá | Anti-RKN
+socks4://198.50.17.177:4145#🇦🇷 Argentina, Villa Carlos Paz | Anti-RKN
+socks4://198.12.37.25:1080#🇦🇷 Argentina | Anti-RKN
+socks4://89.237.35.145:51549#🇷🇺 Russia | Anti-RKN
+socks4://88.213.214.254:4145#🇧🇬 Bulgaria | Anti-RKN
+socks4://111.119.162.248:10935#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10947#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10919#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:11012#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10942#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10958#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10925#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10929#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10938#🇵🇰 Pakistan | Anti-RKN
+socks4://186.216.195.1:4153#🇧🇷 Brazil, Rio de Janeiro | Anti-RKN
+socks4://111.119.162.248:10946#🇵🇰 Pakistan | Anti-RKN
+socks4://186.248.87.172:5678#🇧🇷 Brazil, Belo Horizonte | Anti-RKN
+socks4://111.119.162.248:10951#🇵🇰 Pakistan | Anti-RKN
+socks4://109.68.189.22:54643#🇷🇺 Russia | Anti-RKN
+socks4://111.119.162.248:10930#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10944#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10950#🇵🇰 Pakistan | Anti-RKN
+socks4://103.153.247.74:12#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks4://129.101.121.240:8080#🇳🇱 The Netherlands, Amsterdam | Anti-RKN
+socks4://41.70.106.1:5678#🇲🇼 Malawi | Anti-RKN
+socks4://111.119.162.248:10934#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10918#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10937#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10923#🇵🇰 Pakistan | Anti-RKN
+socks4://177.54.239.13:4145#🇧🇷 Brazil, Araguaína | Anti-RKN
+socks4://177.125.144.94:1080#🇧🇷 Brazil, Afonso Cláudio | Anti-RKN
+socks4://111.119.162.248:10960#🇵🇰 Pakistan | Anti-RKN
+socks4://185.130.219.12:4153#🇪🇸 Spain, Javea | Anti-RKN
+socks4://111.119.162.248:10959#🇵🇰 Pakistan | Anti-RKN
+socks4://210.22.100.242:1080#🇨🇳 China, Shanghai | Anti-RKN
+socks4://185.130.219.10:4153#🇪🇸 Spain, Javea | Anti-RKN
+socks4://111.119.162.248:10924#🇵🇰 Pakistan | Anti-RKN
+socks4://103.88.204.70:1080#🇮🇩 Indonesia, Cimahi | Anti-RKN
+socks4://60.217.64.237:35292#🇨🇳 China | Anti-RKN
+socks4://111.119.162.248:10927#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10948#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10943#🇵🇰 Pakistan | Anti-RKN
+socks4://27.69.71.254:1083#🇻🇳 Vietnam, Nha Trang | Anti-RKN
+socks4://111.119.162.248:10926#🇵🇰 Pakistan | Anti-RKN
+socks4://111.119.162.248:10979#🇵🇰 Pakistan | Anti-RKN
+socks4://94.72.158.129:4153#🇧🇬 Bulgaria | Anti-RKN
+socks4://89.151.134.157:3629#🇷🇺 Russia, Cheboksary | Anti-RKN
+socks4://36.64.238.82:1080#🇮🇩 Indonesia, West Bandung Regency | Anti-RKN
+socks4://45.70.188.10:4153#🇧🇷 Brazil, Juazeiro | Anti-RKN
+socks4://95.178.108.189:5678#🇫🇷 France, Clamart | Anti-RKN
+socks4://91.147.235.162:4153#🇭🇺 Hungary, Debrecen | Anti-RKN
+socks4://157.10.97.83:2021#🇮🇩 Indonesia, Palembang | Anti-RKN
+socks4://38.41.225.174:8888#🇬🇹 Guatemala | Anti-RKN
+socks4://200.16.211.68:4153#🇦🇷 Argentina, Buenos Aires | Anti-RKN
+socks4://41.216.232.213:4153#🇨🇲 Cameroon | Anti-RKN
+socks4://177.128.81.10:81#🇧🇷 Brazil, Governador Valadares | Anti-RKN
+socks4://154.66.108.52:3629#🇱🇸 Lesotho | Anti-RKN
+socks4://103.140.35.11:4145#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks4://82.114.181.147:9050#🇾🇪 Yemen, Sanaa | Anti-RKN
+socks4://122.252.179.66:5678#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
+socks4://103.151.226.12:12#🇮🇩 Indonesia | Anti-RKN
+socks4://171.238.62.144:1080#🇻🇳 Vietnam, Hanoi | Anti-RKN
+socks4://27.75.159.208:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://167.99.3.26:8235#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://167.99.3.26:5757#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://27.76.193.208:1080#🇻🇳 Vietnam, Ha Long | Anti-RKN
+socks4://47.89.159.212:179#🇺🇸 United States | Anti-RKN
+socks4://171.250.217.32:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://8.212.165.164:106#🇵🇭 Philippines, Manila | Anti-RKN
+socks4://8.212.165.164:5061#🇵🇭 Philippines, Manila | Anti-RKN
+socks4://8.212.165.164:3129#🇵🇭 Philippines, Manila | Anti-RKN
+socks4://149.129.226.9:81#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks4://144.91.83.56:9050#🇫🇷 France, Lauterbourg | Anti-RKN
+socks4://171.248.222.178:1080#🇻🇳 Vietnam | Anti-RKN
+socks4://38.242.158.117:9050#🇫🇷 France, Lauterbourg | Anti-RKN
+socks4://47.91.120.190:9999#🇦🇪 United Arab Emirates, Dubai | Anti-RKN
 socks4://173.249.50.95:3128#🇫🇷 France, Lauterbourg | Anti-RKN
 socks4://102.244.78.61:8090#🇨🇲 Cameroon, Garoua | Anti-RKN
 socks4://8.211.195.139:5060#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://47.238.134.126:80#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 socks4://8.213.222.157:8008#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://39.102.208.149:20002#🇨🇳 China, Beijing | Anti-RKN
-socks4://61.184.189.124:10800#🇨🇳 China | Anti-RKN
 socks4://8.220.205.172:9000#🇰🇷 South Korea, Seoul | Anti-RKN
 socks4://3.134.245.77:57240#🇺🇸 United States, Columbus | Anti-RKN
 socks4://47.90.167.27:3128#🇺🇸 United States | Anti-RKN
@@ -488,7 +483,6 @@ socks4://8.213.215.187:104#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://47.252.11.233:1080#🇺🇸 United States | Anti-RKN
 socks4://47.252.11.233:9050#🇺🇸 United States | Anti-RKN
 socks4://8.211.195.173:9080#🇬🇧 United Kingdom, London | Anti-RKN
-socks4://80.74.54.148:3128#🇩🇪 Germany, Kevelaer | Anti-RKN
 socks4://197.221.249.198:80#🇿🇼 Zimbabwe, Harare | Anti-RKN
 socks4://8.213.134.213:9091#🇰🇷 South Korea, Seoul | Anti-RKN
 socks4://8.213.134.213:9098#🇰🇷 South Korea, Seoul | Anti-RKN
@@ -496,10 +490,8 @@ socks4://88.156.178.59:1122#🇵🇱 Poland, Warsaw | Anti-RKN
 socks4://85.234.158.253:5002#🇬🇧 United Kingdom | Anti-RKN
 socks4://8.211.194.78:1081#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://47.238.130.212:8008#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-socks4://72.195.34.42:4145#🇺🇸 United States | Anti-RKN
 socks4://47.238.130.212:8080#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 socks4://8.213.222.247:18080#🇹🇭 Thailand, Bangkok | Anti-RKN
-socks4://102.221.35.177:3128#🇰🇪 Kenya | Anti-RKN
 socks4://198.199.86.11:3128#🇺🇸 United States, North Bergen | Anti-RKN
 socks4://47.238.128.246:8001#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 socks4://39.104.16.201:9080#🇨🇳 China, Beijing | Anti-RKN
@@ -509,13 +501,9 @@ socks4://47.92.219.102:9098#🇨🇳 China, Beijing | Anti-RKN
 socks4://8.211.195.139:28737#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://8.209.96.245:3128#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://8.209.255.13:3128#🇯🇵 Japan, Tokyo | Anti-RKN
-socks4://103.146.137.233:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
 socks4://18.217.248.118:8158#🇺🇸 United States, Columbus | Anti-RKN
 socks4://47.252.18.37:3128#🇺🇸 United States | Anti-RKN
-socks4://47.89.159.212:179#🇺🇸 United States | Anti-RKN
 socks4://54.117.6.131:45079#🇰🇷 South Korea, Incheon | Anti-RKN
-socks4://89.106.84.72:1081#🇺🇸 United States, Miami | Anti-RKN
-socks4://202.40.177.94:5678#🇧🇩 Bangladesh, Rangpur City | Anti-RKN
 socks4://77.242.177.57:3128#🇮🇹 Italy, Biella | Anti-RKN
 socks4://8.211.194.85:9080#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://147.161.246.34:12507#🇨🇭 Switzerland, Zurich | Anti-RKN
@@ -528,19 +516,20 @@ socks4://34.96.238.40:8080#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 socks4://47.91.109.17:8888#🇦🇪 United Arab Emirates, Dubai | Anti-RKN
 socks4://8.221.141.88:9036#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://38.127.179.236:37234#🇺🇸 United States, Washington | Anti-RKN
-socks4://122.252.179.66:5678#🇰🇭 Cambodia, Phnom Penh | Anti-RKN
 socks4://197.221.234.149:80#🇿🇼 Zimbabwe, Masvingo | Anti-RKN
 socks4://8.211.195.173:5555#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://47.251.87.74:1036#🇺🇸 United States | Anti-RKN
 socks4://8.213.222.247:5060#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://8.211.195.173:5060#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://8.211.51.115:5060#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://172.105.192.212:9080#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://8.213.134.213:20002#🇰🇷 South Korea, Seoul | Anti-RKN
 socks4://128.140.113.110:5153#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks4://185.247.141.86:3128#🇫🇮 Finland, Helsinki | Anti-RKN
 socks4://39.102.214.208:3128#🇨🇳 China, Beijing | Anti-RKN
 socks4://157.250.206.170:1080#🇺🇸 United States, Los Angeles | Anti-RKN
 socks4://8.211.200.183:9098#🇬🇧 United Kingdom, London | Anti-RKN
+socks4://50.238.106.26:3128#🇺🇸 United States, Atlanta | Anti-RKN
+socks4://80.241.251.54:8080#🇬🇪 Georgia, Tbilisi | Anti-RKN
 socks4://8.220.136.174:8999#🇵🇭 Philippines, Manila | Anti-RKN
 socks4://47.91.29.151:9080#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://47.90.167.27:8443#🇺🇸 United States | Anti-RKN
@@ -552,6 +541,7 @@ socks4://45.195.90.142:8080#🇮🇳 India, Noida | Anti-RKN
 socks4://39.104.27.89:9080#🇨🇳 China, Beijing | Anti-RKN
 socks4://47.252.18.37:8834#🇺🇸 United States | Anti-RKN
 socks4://149.129.255.179:9050#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks4://34.153.18.123:443#🇺🇸 United States, Columbus | Anti-RKN
 socks4://8.138.149.37:30001#🇨🇳 China, Guangzhou | Anti-RKN
 socks4://192.252.208.70:14282#🇺🇸 United States | Anti-RKN
 socks4://45.194.33.12:30001#🇭🇰 Hong Kong | Anti-RKN
@@ -561,12 +551,13 @@ socks4://8.213.215.187:1080#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://47.254.36.213:999#🇺🇸 United States | Anti-RKN
 socks4://44.200.234.67:8097#🇺🇸 United States, Ashburn | Anti-RKN
 socks4://8.213.134.213:6666#🇰🇷 South Korea, Seoul | Anti-RKN
+socks4://218.52.200.62:1080#🇰🇷 South Korea, Gwanak-gu | Anti-RKN
 socks4://47.238.60.156:4002#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 socks4://47.121.133.212:3128#🇨🇳 China, Shenzhen | Anti-RKN
 socks4://8.213.197.208:31433#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://8.221.141.88:4002#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://5.198.179.172:10800#🇮🇷 Iran | Anti-RKN
-socks4://24.102.236.218:8888#🇺🇸 United States, Lititz | Anti-RKN
+socks4://188.165.199.207:80#🇫🇷 France | Anti-RKN
 socks4://204.108.154.43:80#🇺🇸 United States, Downingtown | Anti-RKN
 socks4://107.174.30.93:1080#🇺🇸 United States, Buffalo | Anti-RKN
 socks4://47.251.87.199:312#🇺🇸 United States | Anti-RKN
@@ -596,6 +587,7 @@ socks4://8.209.96.245:18080#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://51.85.44.149:17583#🇮🇱 Israel, Tel Aviv | Anti-RKN
 socks4://154.201.127.46:8080#🇮🇳 India, Noida | Anti-RKN
 socks4://197.221.234.253:80#🇿🇼 Zimbabwe, Masvingo | Anti-RKN
+socks4://81.168.119.85:5443#🇬🇧 United Kingdom | Anti-RKN
 socks4://8.221.139.222:31433#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://47.84.65.214:3128#🇸🇬 Singapore | Anti-RKN
 socks4://47.238.130.212:20000#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
@@ -616,16 +608,14 @@ socks4://8.211.194.78:6379#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://8.221.138.111:100#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://34.122.187.196:80#🇺🇸 United States, Council Bluffs | Anti-RKN
 socks4://47.238.60.156:2526#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-socks4://94.76.224.104:5002#🇬🇧 United Kingdom, Reading | Anti-RKN
 socks4://8.211.51.115:1900#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://85.97.190.88:8080#🇹🇷 Türkiye, Istanbul | Anti-RKN
 socks4://8.221.138.111:8045#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://47.254.36.213:20000#🇺🇸 United States | Anti-RKN
 socks4://8.213.197.208:8000#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://8.211.194.78:8005#🇬🇧 United Kingdom, London | Anti-RKN
-socks4://43.252.238.102:8080#🇮🇩 Indonesia | Anti-RKN
 socks4://91.107.186.23:8081#🇩🇪 Germany, Falkenstein | Anti-RKN
 socks4://154.201.127.158:8080#🇮🇳 India, Noida | Anti-RKN
-socks4://154.29.145.165:3128#🇺🇸 United States, Los Angeles | Anti-RKN
 socks4://216.154.201.132:54321#🇺🇸 United States, Stone Mountain | Anti-RKN
 socks4://47.251.73.54:9050#🇺🇸 United States | Anti-RKN
 socks4://18.163.182.106:55345#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
@@ -652,9 +642,8 @@ socks4://47.238.128.246:8002#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 socks4://95.217.167.252:11108#🇫🇮 Finland, Helsinki | Anti-RKN
 socks4://8.213.156.191:8081#🇰🇷 South Korea, Seoul | Anti-RKN
 socks4://18.170.45.5:21005#🇬🇧 United Kingdom, City of London | Anti-RKN
+socks4://8.211.51.115:4145#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://116.202.108.111:3128#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks4://103.81.86.170:8888#🇻🇳 Vietnam, Hanoi | Anti-RKN
-socks4://37.187.109.70:10111#🇫🇷 France | Anti-RKN
 socks4://45.194.90.194:8080#🇮🇳 India, Noida | Anti-RKN
 socks4://8.213.222.247:6379#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://47.238.134.126:9080#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
@@ -671,17 +660,20 @@ socks4://197.221.240.246:80#🇿🇼 Zimbabwe, Harare | Anti-RKN
 socks4://197.221.234.252:80#🇿🇼 Zimbabwe, Masvingo | Anti-RKN
 socks4://47.238.128.246:10002#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 socks4://197.221.240.178:80#🇿🇼 Zimbabwe, Harare | Anti-RKN
+socks4://45.117.60.150:8080#🇧🇩 Bangladesh, Dhaka | Anti-RKN
 socks4://8.211.195.173:992#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://8.221.141.88:3142#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://47.238.128.246:90#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-socks4://178.18.147.109:9050#🇩🇪 Germany | Anti-RKN
 socks4://47.108.159.113:4006#🇨🇳 China, Chengdu | Anti-RKN
 socks4://8.221.138.111:8443#🇯🇵 Japan, Tokyo | Anti-RKN
+socks4://47.251.166.203:1080#🇺🇸 United States | Anti-RKN
 socks4://47.238.130.212:5060#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
+socks4://193.25.215.182:22222#🇺🇸 United States | Anti-RKN
 socks4://195.114.209.50:80#🇪🇸 Spain | Anti-RKN
 socks4://8.146.200.53:9080#🇨🇳 China, Beijing | Anti-RKN
 socks4://113.212.111.4:8090#🇧🇩 Bangladesh, Dhaka | Anti-RKN
 socks4://149.129.255.179:51#🇮🇩 Indonesia, Jakarta | Anti-RKN
+socks4://107.174.30.92:1080#🇺🇸 United States, Buffalo | Anti-RKN
 socks4://47.91.29.151:4002#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://103.194.88.226:1080#🇮🇳 India, Gurugram | Anti-RKN
 socks4://109.199.119.160:80#🇫🇷 France, Lauterbourg | Anti-RKN
@@ -695,6 +687,7 @@ socks4://8.138.125.130:9098#🇨🇳 China, Guangzhou | Anti-RKN
 socks4://47.92.219.102:6379#🇨🇳 China, Beijing | Anti-RKN
 socks4://8.211.42.167:3129#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://203.19.38.114:1080#🇨🇳 China | Anti-RKN
+socks4://81.168.119.85:443#🇬🇧 United Kingdom | Anti-RKN
 socks4://194.150.110.134:80#🇩🇰 Denmark | Anti-RKN
 socks4://8.215.12.103:8002#🇮🇩 Indonesia, Jakarta | Anti-RKN
 socks4://47.92.219.102:9080#🇨🇳 China, Beijing | Anti-RKN
@@ -702,22 +695,22 @@ socks4://47.119.19.221:8081#🇨🇳 China, Shenzhen | Anti-RKN
 socks4://8.211.195.139:8888#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://47.252.18.37:8008#🇺🇸 United States | Anti-RKN
 socks4://18.175.170.244:53508#🇬🇧 United Kingdom, City of London | Anti-RKN
-socks4://38.242.158.117:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 socks4://39.102.214.152:3128#🇨🇳 China, Beijing | Anti-RKN
-socks4://194.182.178.90:3128#🇧🇬 Bulgaria, Sofia | Anti-RKN
 socks4://8.211.42.167:8083#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://47.119.22.156:9080#🇨🇳 China, Shenzhen | Anti-RKN
 socks4://8.211.49.86:20002#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://209.97.150.167:3128#🇺🇸 United States, Clifton | Anti-RKN
 socks4://213.188.215.223:80#🇺🇸 United States | Anti-RKN
 socks4://8.213.156.191:8008#🇰🇷 South Korea, Seoul | Anti-RKN
-socks4://175.144.198.226:31694#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks4://111.119.162.248:10963#🇵🇰 Pakistan | Anti-RKN
 socks4://47.90.167.27:1080#🇺🇸 United States | Anti-RKN
 socks4://190.229.64.252:443#🇦🇷 Argentina, Las Talitas | Anti-RKN
+socks4://45.74.31.46:10621#🇺🇸 United States | Anti-RKN
 socks4://72.195.34.35:27360#🇺🇸 United States | Anti-RKN
 socks4://173.212.207.102:1214#🇫🇷 France, Lauterbourg | Anti-RKN
 socks4://161.97.106.223:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 socks4://18.222.231.188:27161#🇺🇸 United States, Columbus | Anti-RKN
+socks4://189.1.14.130:3128#🇧🇷 Brazil, Recife | Anti-RKN
 socks4://8.211.194.78:3129#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://47.238.130.212:443#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 socks4://8.211.195.173:100#🇬🇧 United Kingdom, London | Anti-RKN
@@ -731,16 +724,14 @@ socks4://47.121.183.107:6379#🇨🇳 China, Shenzhen | Anti-RKN
 socks4://47.92.219.102:8090#🇨🇳 China, Beijing | Anti-RKN
 socks4://197.221.235.122:80#🇿🇼 Zimbabwe, Masvingo | Anti-RKN
 socks4://116.203.139.209:8081#🇩🇪 Germany, Nuremberg | Anti-RKN
-socks4://20.235.56.94:8080#🇮🇳 India, Chennai | Anti-RKN
-socks4://103.81.70.71:1080#🇧🇩 Bangladesh | Anti-RKN
 socks4://47.92.219.102:8080#🇨🇳 China, Beijing | Anti-RKN
 socks4://18.224.94.46:10366#🇺🇸 United States, Columbus | Anti-RKN
-socks4://103.161.62.29:1080#🇮🇩 Indonesia | Anti-RKN
 socks4://109.194.34.246:8082#🇷🇺 Russia, Tomsk | Anti-RKN
 socks4://8.211.42.167:1081#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks4://204.199.81.90:999#🇨🇴 Colombia, Bogotá | Anti-RKN
 socks4://47.238.134.126:18080#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
+socks4://31.24.44.115:9050#🇪🇸 Spain | Anti-RKN
 socks4://197.221.249.199:80#🇿🇼 Zimbabwe, Harare | Anti-RKN
+socks4://27.254.99.183:8118#🇹🇭 Thailand | Anti-RKN
 socks4://103.119.237.60:1080#🇮🇩 Indonesia, South Jakarta | Anti-RKN
 socks4://3.21.247.154:4761#🇺🇸 United States, Columbus | Anti-RKN
 socks4://134.199.160.93:8888#🇦🇺 Australia, Sydney | Anti-RKN
@@ -757,7 +748,6 @@ socks4://182.155.254.159:80#🇹🇼 Taiwan | Anti-RKN
 socks4://139.162.78.109:3128#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://39.102.209.128:13#🇨🇳 China, Beijing | Anti-RKN
 socks4://47.89.159.212:8010#🇺🇸 United States | Anti-RKN
-socks4://88.213.214.254:4145#🇧🇬 Bulgaria | Anti-RKN
 socks4://47.89.159.212:6379#🇺🇸 United States | Anti-RKN
 socks4://47.105.122.72:8008#🇨🇳 China, Qingdao | Anti-RKN
 socks4://8.221.141.88:8003#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -768,12 +758,9 @@ socks4://47.119.164.33:8085#🇨🇳 China, Shenzhen | Anti-RKN
 socks4://47.90.167.27:8081#🇺🇸 United States | Anti-RKN
 socks4://178.185.231.196:3128#🇷🇺 Russia | Anti-RKN
 socks4://8.213.156.191:199#🇰🇷 South Korea, Seoul | Anti-RKN
+socks4://45.194.90.225:8080#🇮🇳 India, Noida | Anti-RKN
 socks4://8.213.222.157:4002#🇹🇭 Thailand, Bangkok | Anti-RKN
-socks4://203.18.159.164:80#🇧🇩 Bangladesh | Anti-RKN
-socks4://103.146.170.233:5678#🇮🇳 India | Anti-RKN
-socks4://160.16.105.145:8080#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://8.211.194.78:4002#🇬🇧 United Kingdom, London | Anti-RKN
-socks4://198.111.166.184:80#🇺🇸 United States, Westland | Anti-RKN
 socks4://8.211.194.78:5671#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://103.146.137.137:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
 socks4://89.108.81.40:8118#🇷🇺 Russia | Anti-RKN
@@ -782,17 +769,18 @@ socks4://38.242.156.163:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 socks4://120.26.104.146:80#🇨🇳 China, Hangzhou | Anti-RKN
 socks4://47.91.29.151:4145#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://47.238.128.246:1000#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
+socks4://141.147.109.224:1080#🇬🇧 United Kingdom, Slough | Anti-RKN
 socks4://8.221.139.222:4002#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://3.21.156.147:20303#🇺🇸 United States, Columbus | Anti-RKN
 socks4://46.232.249.209:40001#🇩🇪 Germany, Nuremberg | Anti-RKN
 socks4://47.238.60.156:8080#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-socks4://116.100.218.113:1080#🇻🇳 Vietnam | Anti-RKN
 socks4://47.119.22.92:8085#🇨🇳 China, Shenzhen | Anti-RKN
 socks4://8.213.134.213:1111#🇰🇷 South Korea, Seoul | Anti-RKN
 socks4://8.211.194.85:31433#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://47.238.130.212:9080#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 socks4://8.213.134.213:55443#🇰🇷 South Korea, Seoul | Anti-RKN
 socks4://8.213.215.187:4002#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://209.50.255.91:1080#🇺🇸 United States, Manassas | Anti-RKN
 socks4://8.213.215.187:18080#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://129.153.97.250:9443#🇺🇸 United States, Phoenix | Anti-RKN
 socks4://47.252.11.233:1081#🇺🇸 United States | Anti-RKN
@@ -804,14 +792,15 @@ socks4://8.213.222.247:3333#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://47.116.181.146:8800#🇨🇳 China, Shanghai | Anti-RKN
 socks4://47.90.149.238:9098#🇺🇸 United States | Anti-RKN
 socks4://197.221.240.176:80#🇿🇼 Zimbabwe, Harare | Anti-RKN
+socks4://180.191.232.182:3128#🇵🇭 Philippines, Davao City | Anti-RKN
 socks4://197.221.249.196:80#🇿🇼 Zimbabwe, Harare | Anti-RKN
-socks4://172.245.64.104:8888#🇺🇸 United States, Elk Grove Village | Anti-RKN
 socks4://8.213.156.191:194#🇰🇷 South Korea, Seoul | Anti-RKN
 socks4://8.211.194.85:8008#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://8.221.139.222:199#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://34.140.137.151:80#🇧🇪 Belgium, Brussels | Anti-RKN
 socks4://102.244.78.61:8089#🇨🇲 Cameroon, Garoua | Anti-RKN
 socks4://8.221.138.111:3129#🇯🇵 Japan, Tokyo | Anti-RKN
+socks4://121.169.46.116:1090#🇰🇷 South Korea, Suwon | Anti-RKN
 socks4://139.162.78.109:8080#🇯🇵 Japan, Tokyo | Anti-RKN
 socks4://34.207.102.197:12662#🇺🇸 United States, Ashburn | Anti-RKN
 socks4://47.251.87.199:5060#🇺🇸 United States | Anti-RKN
@@ -828,29 +817,36 @@ socks4://8.213.195.191:9098#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://8.213.151.128:3128#🇰🇷 South Korea, Seoul | Anti-RKN
 socks4://134.209.29.120:1080#🇬🇧 United Kingdom, Slough | Anti-RKN
 socks4://8.211.195.139:20002#🇬🇧 United Kingdom, London | Anti-RKN
+socks4://167.148.33.176:3128#🇺🇸 United States, Miami | Anti-RKN
 socks4://45.194.41.141:8080#🇮🇳 India, Mumbai | Anti-RKN
 socks4://51.89.24.168:10005#🇬🇧 United Kingdom, London | Anti-RKN
 socks4://161.35.70.249:1080#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks4://190.103.29.245:4145#🇻🇪 Venezuela, Caracas | Anti-RKN
+socks4://49.229.36.211:4153#🇹🇭 Thailand, Nakhon Pathom | Anti-RKN
 socks4://101.255.166.134:80#🇮🇩 Indonesia, Bekasi | Anti-RKN
 socks4://110.238.113.119:8080#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://103.146.170.65:5678#🇮🇳 India | Anti-RKN
-socks4://8.212.151.166:199#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://8.212.151.166:20000#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://8.220.136.174:8008#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://8.212.151.166:9050#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://8.212.151.166:9999#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://82.19.0.114:9150#🇬🇧 United Kingdom, Hinckley | Anti-RKN
-socks4://27.76.193.208:1080#🇻🇳 Vietnam, Ha Long | Anti-RKN
-socks4://8.212.151.166:3128#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://8.220.136.174:1200#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://8.220.136.174:45#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://171.253.91.148:1100#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://113.161.162.0:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://144.91.83.56:9050#🇫🇷 France, Lauterbourg | Anti-RKN
-socks4://47.250.177.202:2000#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks4://161.97.153.238:9050#🇫🇷 France, Lauterbourg | Anti-RKN
-socks4://47.250.177.202:199#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks4://47.250.177.202:10804#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks4://47.250.177.202:41451#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks4://8.221.141.88:20#🇯🇵 Japan, Tokyo | Anti-RKN
+socks4://62.201.212.198:4673#🇮🇶 Iraq | Anti-RKN
+socks4://202.144.134.150:5678#🇧🇹 Bhutan | Anti-RKN
+socks4://8.209.96.245:1081#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://8.209.96.245:8118#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://8.209.96.245:999#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://47.237.92.86:8181#🇸🇬 Singapore | Anti-RKN
+socks4://47.237.92.86:8080#🇸🇬 Singapore | Anti-RKN
+socks4://47.237.92.86:115#🇸🇬 Singapore | Anti-RKN
+socks4://47.237.92.86:45#🇸🇬 Singapore | Anti-RKN
+socks4://8.209.96.245:55443#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://47.237.92.86:104#🇸🇬 Singapore | Anti-RKN
+socks4://179.1.95.162:1080#🇨🇴 Colombia, La Plata | Anti-RKN
+socks4://167.99.3.26:5788#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://167.99.3.26:6087#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://47.252.18.37:443#🇺🇸 United States | Anti-RKN
+socks4://47.252.18.37:8888#🇺🇸 United States | Anti-RKN
+socks4://47.252.18.37:8081#🇺🇸 United States | Anti-RKN
+socks4://18.159.34.202:443#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://47.252.18.37:1080#🇺🇸 United States | Anti-RKN
+socks4://47.252.18.37:1234#🇺🇸 United States | Anti-RKN
+socks4://47.250.155.254:1080#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks4://47.252.18.37:9098#🇺🇸 United States | Anti-RKN
+socks4://49.13.150.79:9050#🇩🇪 Germany, Nuremberg | Anti-RKN
+socks4://47.250.155.254:89#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks4://47.250.155.254:55443#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN

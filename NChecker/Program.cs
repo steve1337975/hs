@@ -18,6 +18,7 @@ namespace NChecker
         {
 
 
+
             await App.Instance.Start();
         }
     }

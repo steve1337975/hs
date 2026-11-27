@@ -1,11 +1,10 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: 🌍 GEO [NE] — BLACK #1
+# profile-title: 🌍 GEO [CI] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409162
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:39:22
-# servers-count: 2
+# generated-at: 11/27/2026 13:52:23
+# servers-count: 1
 
-http://129.222.104.151:1080#🇳🇪 Niger, Niamey | Anti-RKN
-socks4://129.222.104.151:1080#🇳🇪 Niger, Niamey | Anti-RKN
+socks4://160.155.90.26:1080#🇨🇮 Ivory Coast, Abidjan | Anti-RKN

@@ -1,32 +1,25 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PK] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409162
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:39:22
-# servers-count: 23
+# generated-at: 11/27/2026 13:52:23
+# servers-count: 16
 
+http://203.99.183.197:3128#🇵🇰 Pakistan, Lahore | Anti-RKN
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&fp=firefox#🇵🇰 Pakistan, Karachi | Anti-RKN
-http://138.252.74.111:3128#🇵🇰 Pakistan, Lahore | Anti-RKN
+http://154.57.208.127:8080#🇵🇰 Pakistan, Lahore | Anti-RKN
+http://43.245.131.90:8080#🇵🇰 Pakistan | Anti-RKN
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&security=reality&fp=firefox&sni=speed.cloudflare.com&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&flow=xtls-rprx-vision#🇵🇰 Pakistan, Islamabad | Anti-RKN
-socks4://160.30.104.170:1080#🇵🇰 Pakistan, Liaquatpur | Anti-RKN
-socks4://209.150.151.90:1080#🇵🇰 Pakistan | Anti-RKN
+socks5://119.73.109.210:1080#🇵🇰 Pakistan, Lahore | Anti-RKN
+socks5://110.93.199.114:1080#🇵🇰 Pakistan | Anti-RKN
+socks4://160.250.97.154:1080#🇵🇰 Pakistan | Anti-RKN
 https://110.38.225.213:443#🇵🇰 Pakistan, Lahore | Anti-RKN
-socks4://103.146.137.233:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
-socks5://117.20.17.210:1080#🇵🇰 Pakistan | Anti-RKN
-socks5://182.184.30.96:1080#🇵🇰 Pakistan | Anti-RKN
-http://202.166.175.203:8080#🇵🇰 Pakistan, Lahore | Anti-RKN
-http://103.146.137.137:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
-socks4://58.27.200.225:1080#🇵🇰 Pakistan, Lahore | Anti-RKN
-http://58.27.200.225:8080#🇵🇰 Pakistan, Lahore | Anti-RKN
+http://113.197.55.156:8080#🇵🇰 Pakistan | Anti-RKN
+http://160.30.104.170:1256#🇵🇰 Pakistan, Liaquatpur | Anti-RKN
 socks4://103.178.120.53:1080#🇵🇰 Pakistan | Anti-RKN
-socks4://103.146.137.61:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
-http://103.198.154.196:8080#🇵🇰 Pakistan, Lahore | Anti-RKN
-http://202.165.232.238:8080#🇵🇰 Pakistan, Lahore | Anti-RKN
-http://182.184.30.96:1080#🇵🇰 Pakistan | Anti-RKN
-http://103.146.137.13:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
-socks4://103.146.137.137:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
+socks4://160.30.104.170:1256#🇵🇰 Pakistan, Liaquatpur | Anti-RKN
 socks4://103.146.137.81:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
 socks5://103.146.137.137:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
-http://163.61.129.198:8080#🇵🇰 Pakistan, Faisalabad | Anti-RKN
+socks4://103.146.137.145:1081#🇵🇰 Pakistan, Karachi | Anti-RKN

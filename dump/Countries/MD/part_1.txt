@@ -1,21 +1,23 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [MD] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409162
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:39:22
-# servers-count: 12
+# generated-at: 11/27/2026 13:52:23
+# servers-count: 14
 
 vless://81f705b5-9039-4adf-8671-783095bba0e8@193.84.71.76:443?type=tcp&security=reality&fp=firefox&sni=md3.sky-vault.top&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&sid=ae64c9b46bff174a&flow=xtls-rprx-vision#🇲🇩 Moldova, Chisinau | Anti-RKN
-vless://9f97497b-d882-4187-b33f-16d2b3e3789c@5.181.156.92:8443?type=tcp&security=reality&fp=firefox&sni=it.nvidia.com&pbk=G_fY9pA9N6QmXPUMVPjnxzAqvpyvVRqbPZwOaC7iin0&sid=aace430d&flow=xtls-rprx-vision#🇲🇩 Moldova, Chisinau | Anti-RKN
 vless://b1490307-d693-4392-8f32-a3f7cc139202@176.123.11.40:443?type=ws&security=tls&fp=firefox&sni=seriesseller.ratethatrestaurant.org#🇲🇩 Moldova, Chisinau | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@176.123.11.40:443?sni=seriesseller.ratethatrestaurant.org#🇲🇩 Moldova, Chisinau | Anti-RKN
 vless://81f705b5-9039-4adf-8671-783095bba0e8@193.84.71.76:443#🇲🇩 Moldova, Chisinau | Anti-RKN
+vless://9f97497b-d882-4187-b33f-16d2b3e3789c@5.181.156.92:8443?type=tcp&security=reality&fp=firefox&sni=it.nvidia.com&pbk=G_fY9pA9N6QmXPUMVPjnxzAqvpyvVRqbPZwOaC7iin0&sid=aace430d&flow=xtls-rprx-vision#🇲🇩 Moldova, Chisinau | Anti-RKN
 vless://0c57c801-c2e2-4af0-8dd5-05e0d080a5e8@94.103.15.110:443?type=tcp&security=reality&fp=firefox&sni=cdnjs.com&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693&flow=xtls-rprx-vision#🇲🇩 Moldova, Tighina | Anti-RKN
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?type=grpc&security=reality&fp=firefox&sni=md4.univesalsrv.com&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&sid=8e07337954f9823f&serviceName=hub.v1.ApiService#🇲🇩 Moldova | Anti-RKN
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.90:443?type=grpc&security=reality&fp=firefox&sni=md1.univesalsrv.com&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&sid=221ba6174224ca5b&serviceName=hub.v1.RelayService#🇲🇩 Moldova | Anti-RKN
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@185.153.198.86:443?type=ws&security=tls&fp=firefox&host=shuma.ccwu.cc&sni=shuma.ccwu.cc#🇲🇩 Moldova, Chisinau | Anti-RKN
 vless://f8cb3c89-32af-4255-bebc-d90aad175069@217.156.123.33:443?type=grpc&security=reality&fp=firefox&sni=mda.kosmosapp.net&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇲🇩 Moldova, Chisinau | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh6kgTW9sZG92YSwgQ2hpc2luYXUgfCBBbnRpLVJLTiIsImFkZCI6IjE3OC4xNzUuMTM1LjE1NSIsInBvcnQiOiI0NDMiLCJpZCI6IjdlNDIxOWFlLThiZjEtNGY3OS05MDJiLTRmMjU5YzY0NTMzZCIsIm5ldCI6IndzIiwiaG9zdCI6Ind3dy4yMjg2MDY5Mi54eXoiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
+https://178.175.134.186:443#🇲🇩 Moldova, Chisinau | Anti-RKN
+https://178.175.134.186:9443#🇲🇩 Moldova, Chisinau | Anti-RKN
 socks5://5.181.158.54:1080#🇲🇩 Moldova, Chisinau | Anti-RKN

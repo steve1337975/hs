@@ -16,7 +16,11 @@ namespace NChecker.models
                 if (a1.StartsWith("vmess", StringComparison.OrdinalIgnoreCase)) return new VmessConfig(a1);
                 if (a1.StartsWith("socks4", StringComparison.OrdinalIgnoreCase)) return new Socks4Config(a1);
                 if (a1.StartsWith("socks5", StringComparison.OrdinalIgnoreCase)) return new Socks5Config(a1);
-                if (a1.StartsWith("https", StringComparison.OrdinalIgnoreCase)) return new HttpsConfig(a1);
+                if (a1.StartsWith("https", StringComparison.OrdinalIgnoreCase))
+                {
+                    return null;
+                    //return new HttpsConfig(a1);
+                }
                 else if (a1.StartsWith("http", StringComparison.OrdinalIgnoreCase)) return new HttpConfig(a1);
             }
             catch (InvalidFormatProtocolException) { }

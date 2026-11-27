@@ -21,6 +21,10 @@ namespace NChecker.models.configs
                     {
                         throw new BrokenProtocolException();
                     }
+                    if (Method.Equals("chacha20-poly1305", StringComparison.OrdinalIgnoreCase))
+                    {
+                        throw new BrokenProtocolException();
+                    }
                 }
             }
         }

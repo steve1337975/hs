@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [RS] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:52:23
-# servers-count: 12
+# generated-at: 11/27/2026 14:13:59
+# servers-count: 11
 
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@38.180.101.136:443#🇷🇸 Serbia, Belgrade | Anti-RKN
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.62:443?type=grpc&security=reality&fp=firefox&sni=rs2.univesalsrv.com&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&serviceName=media.v1.ObjectService#🇷🇸 Serbia, Belgrade | Anti-RKN
@@ -17,5 +17,4 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.66:443?type=grpc&securit
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.73:443?type=grpc&security=reality&fp=firefox&sni=rs4.univesalsrv.com&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&sid=861ac7d66953e55f&serviceName=media.v1.StreamService#🇷🇸 Serbia, Belgrade | Anti-RKN
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.81:443?type=grpc&security=reality&fp=firefox&sni=rs5.univesalsrv.com&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&sid=4872856d5489c37d&serviceName=gw.v1.ObjectService#🇷🇸 Serbia, Belgrade | Anti-RKN
 https://212.200.119.174:443#🇷🇸 Serbia, Novi Pazar | Anti-RKN
-https://146.70.221.18:9443#🇷🇸 Serbia, Belgrade | Anti-RKN
-https://146.70.221.18:443#🇷🇸 Serbia, Belgrade | Anti-RKN
+socks4://217.16.130.83:4145#🇷🇸 Serbia, Niš | Anti-RKN

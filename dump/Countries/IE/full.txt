@@ -1,32 +1,34 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IE] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:52:23
-# servers-count: 23
+# generated-at: 11/27/2026 14:13:59
+# servers-count: 25
 
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.240.199.66:443#🇮🇪 Ireland, Dublin | Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0FSSkxUbE1KT0ZWSXVR@20.166.121.63:443#🇮🇪 Ireland, Dublin | Anti-RKN
-vless://57a3fb3c-5788-4777-933e-882dd22f5b82@83.141.73.252:443?type=xhttp&security=reality&fp=firefox&sni=bfb3f7x.nl13.h1clayd.click&pbk=hLLpX2tIyVWm1rIVVXa_UsCjSOA_p-vIJZNIuPel6RA&sid=679c0122c53ebd6d&path=%2fbde5f4554bd4#🇮🇪 Ireland | Anti-RKN
 vless://0444647e-6388-4c4b-9847-1fcd5bc101ea@83.141.86.180:443?type=tcp&security=reality&fp=firefox&sni=az-de-01-ut34t1ug.farmerly.cc&pbk=LPxxKvSEfGrfShtdNl4e9fDrjdwVfwceocYPfCHJix8&sid=040175d0947db95a&flow=xtls-rprx-vision#🇮🇪 Ireland | Anti-RKN
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@83.141.73.90:443?security=reality&fp=firefox&sni=e293c7t.us6.h1clayd.click&pbk=cEapNjAtrnPz_dCSziCJVvXJf2Mq_FtY5UabpQFmI0w&sid=449f801b009f33f4&flow=xtls-rprx-vision#🇮🇪 Ireland | Anti-RKN
+vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?type=tcp&security=reality&fp=firefox&sni=sladovna.russianpiwo.fun&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&sid=7a7d19880a9ee786&flow=xtls-rprx-vision#🇮🇪 Ireland | Anti-RKN
 vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@83.141.88.195:443?type=xhttp&security=reality&fp=firefox&sni=hannover.gosgenarchive.com&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#🇮🇪 Ireland | Anti-RKN
 vless://ef1da56e-8117-03eb-bcd8-9094ebbdf985@83.141.72.179:24441?security=reality&fp=firefox&sni=events.robloxfans.fun&pbk=_MBpgKn5GvfWigi-22zA1eZVFY4mSf2zn-IWAekh9RE&sid=fd330fed17868185&flow=xtls-rprx-vision#🇮🇪 Ireland | Anti-RKN
 vless://ef1da56e-8117-03eb-bcd8-9094ebbdf985@83.141.72.179:24441?type=tcp&security=reality&fp=firefox&sni=events.robloxfans.fun&pbk=_MBpgKn5GvfWigi-22zA1eZVFY4mSf2zn-IWAekh9RE&sid=fd330fed17868185&flow=xtls-rprx-vision#🇮🇪 Ireland | Anti-RKN
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@83.141.73.90:443?security=reality&fp=firefox&sni=e293c7t.us6.h1clayd.click&pbk=cEapNjAtrnPz_dCSziCJVvXJf2Mq_FtY5UabpQFmI0w&sid=449f801b009f33f4&flow=xtls-rprx-vision#🇮🇪 Ireland | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6ogSXJlbGFuZCwgRHVibGluIHwgQW50aS1SS04iLCJhZGQiOiI1NC4yMjkuMTUxLjk3IiwicG9ydCI6IjU5MjM2IiwiaWQiOiIyMzg3YmZiYy0xMGE2LTRiZDctZGM1NS03Y2JhOTU0Y2U2ZTgiLCJzY3kiOiJhdXRvIiwidHlwZSI6Imh0dHAiLCJob3N0IjoibGV2aWtvLWllNjM2NC5zaG9waW5nZ2dnLmlyIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6ogSXJlbGFuZCwgRHVibGluIHwgQW50aS1SS04iLCJhZGQiOiI1NC4yMjkuMTUxLjk3IiwicG9ydCI6IjU5MjM2IiwiaWQiOiIyMzg3YmZiYy0xMGE2LTRiZDctZGM1NS03Y2JhOTU0Y2U2ZTgiLCJzY3kiOiJhdXRvIiwidHlwZSI6Imh0dHAifQ==
+vless://57a3fb3c-5788-4777-933e-882dd22f5b82@83.141.73.252:443?type=xhttp&security=reality&fp=firefox&sni=bfb3f7x.nl13.h1clayd.click&pbk=hLLpX2tIyVWm1rIVVXa_UsCjSOA_p-vIJZNIuPel6RA&sid=679c0122c53ebd6d&path=%2fbde5f4554bd4#🇮🇪 Ireland | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6ogSXJlbGFuZCwgRHVibGluIHwgQW50aS1SS04iLCJhZGQiOiI1NC4yMjkuMTUxLjk3IiwicG9ydCI6IjU5MjM2IiwiaWQiOiIyMzg3YmZiYy0xMGE2LTRiZDctZGM1NS03Y2JhOTU0Y2U2ZTgiLCJzY3kiOiJhdXRvIiwidHlwZSI6Imh0dHAiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSJ9
 http://108.131.152.118:5050#🇮🇪 Ireland, Dublin | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0FSSkxUbE1KT0ZWSXVR@20.166.121.63:443#🇮🇪 Ireland, Dublin | Anti-RKN
 vless://df97ce68-477f-4484-94c7-79eccab7319d@83.141.93.191:443?security=reality&fp=firefox&sni=nl-bridge.angelsleep9.com&pbk=Sd34_3acJ2AL_awPkJOheldPgiMY0HftkGFjVfXfQjM&sid=4ebea72baa107152&flow=xtls-rprx-vision#🇮🇪 Ireland | Anti-RKN
 vless://37fc45b0-be4d-4920-a0f7-7389e406f5f3@83.141.93.80:443?type=tcp&security=reality&fp=firefox&sni=newerson.online&pbk=TiKF_6UGMtWhgDiAGLsAtyYwyv-s3HxG6F0P9ltyf1U&sid=8888265ef63fba6d&flow=xtls-rprx-vision#🇮🇪 Ireland | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443#🇮🇪 Ireland, Dublin | Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#🇮🇪 Ireland, Dublin | Anti-RKN
 vless://8c0676ea-ac9f-4de5-9c6f-b0de31e38704@83.141.70.167:443?type=tcp&security=reality&fp=firefox&sni=ch.primarymaster.online&pbk=rS6r3PZQHZp31tnOmJAuCme4xJgsak_JsZ5hTPwpuiY&sid=8b8dd8a1c0c468d3&flow=xtls-rprx-vision#🇮🇪 Ireland | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6ogSXJlbGFuZCwgRHVibGluIHwgQW50aS1SS04iLCJhZGQiOiIxODUuMTA4LjEyOC41NyIsInBvcnQiOiIzMDAwMCIsImlkIjoiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwibmV0Ijoid3MiLCJob3N0Ijoid3d3LjE0NjAxMTc2Lnh5eiIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6ogSXJlbGFuZCwgRHVibGluIHwgQW50aS1SS04iLCJhZGQiOiIxODUuMTA4LjEyOC4xMzciLCJwb3J0IjoiMzAwMDAiLCJpZCI6IjVhYWIzOTM2LTE2ZDctNDM3Ny04YzMzLTBkNzdmMmQyOTVlZSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ3d3cuMTQ2MDExNzYueHl6IiwicGF0aCI6Ii9wYXRoLzMwMDAyMjExMzMyOSIsInRscyI6InRscyIsInNuaSI6Ind3dy4xNDYwMTE3Ni54eXoiLCJmcCI6ImZpcmVmb3gifQ==
 https://18.200.158.139:443#🇮🇪 Ireland, Dublin | Anti-RKN
 https://34.249.214.108:443#🇮🇪 Ireland, Dublin | Anti-RKN
 https://34.248.251.170:443#🇮🇪 Ireland, Dublin | Anti-RKN
-https://108.131.152.118:28266#🇮🇪 Ireland, Dublin | Anti-RKN
+https://108.131.152.118:24277#🇮🇪 Ireland, Dublin | Anti-RKN
+https://108.131.152.118:20402#🇮🇪 Ireland, Dublin | Anti-RKN
+https://52.214.92.206:49630#🇮🇪 Ireland, Dublin | Anti-RKN

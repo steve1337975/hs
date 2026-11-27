@@ -1,10 +1,10 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SA] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:52:23
+# generated-at: 11/27/2026 14:13:59
 # servers-count: 5
 
 vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.243:443?type=ws&security=tls&fp=firefox&host=nb.lovecf.ggff.net&sni=nb.lovecf.ggff.net#🇸🇦 Saudi Arabia | Anti-RKN

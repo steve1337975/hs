@@ -1,10 +1,12 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [HN] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409162
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:39:22
-# servers-count: 1
+# generated-at: 11/27/2026 13:52:23
+# servers-count: 3
 
-http://190.61.37.138:999#🇭🇳 Honduras | Anti-RKN
+http://200.115.96.50:999#🇭🇳 Honduras, Tegucigalpa | Anti-RKN
+socks4://181.115.75.102:5678#🇭🇳 Honduras, San Pedro Sula | Anti-RKN
+http://45.190.184.105:8080#🇭🇳 Honduras, San Pedro Sula | Anti-RKN

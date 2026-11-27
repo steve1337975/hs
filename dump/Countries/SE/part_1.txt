@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SE] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409162
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:39:22
-# servers-count: 168
+# generated-at: 11/27/2026 13:52:23
+# servers-count: 173
 
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@62.182.198.85:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://2098ca45-e61c-0021-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&fp=firefox&sni=se-sto1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
@@ -61,6 +61,7 @@ vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?type=ws&path=%
 vless://9f749472-c636-4c5a-af51-7f8feefaac81@51.21.171.162:443?type=tcp&security=reality&fp=firefox&sni=www.samsung.com&pbk=yMYWijK43WMI0voEhf7EEPvZCjo0vtCPoQibqqPlGn4&sid=7c4e91ab&flow=xtls-rprx-vision#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?packetEncoding=xudp&type=ws&host=193.188.21.253&path=%2fvless#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@83.147.254.70:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=lagoon.gerqix.online&sni=lagoon.gerqix.online&path=%2fapi%2fde5%2fstream#🇸🇪 Sweden, Stockholm | Anti-RKN
+socks5://171.25.158.95:1080#🇸🇪 Sweden, Rottne | Anti-RKN
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@83.147.254.70:443?type=ws&security=tls&fp=firefox&host=inlay.merlano.monster&sni=inlay.merlano.monster&path=%2fapi%2fde3%2fstream#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://c88e3f12-ad4a-4960-8a81-eecd2289b128@176.124.207.5:2082?type=tcp#🇸🇪 Sweden, Stockholm | Anti-RKN
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@199.68.198.13:443?type=tcp&security=reality&fp=firefox&sni=example.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#🇸🇪 Sweden, Falkenberg | Anti-RKN
@@ -162,16 +163,20 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU3dlZGVuIHwgQW50aS1SS04iLCJhZGQiOiIxODUu
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU3dlZGVuIHwgQW50aS1SS04iLCJhZGQiOiIxODUuMTQ2LjE3My40OCIsInBvcnQiOiI4MCIsImlkIjoiOGIzZjcwYmQtZDNiNS01MjY3LThmZDktYTM0ZTkzNWVhZWJkIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6IkZyMi52bWVzcy5zaXRlLiIsInBhdGgiOiIvdm1lc3MifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU3dlZGVuIHwgQW50aS1SS04iLCJhZGQiOiIxODUuMTQ2LjE3My41MiIsInBvcnQiOiI4MCIsImlkIjoiZTJiNjgzZmUtNWI5MS01ZjYyLTkwNmEtZTcyMGJhOTZjZjk3Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImZyMi52bWVzcy5zaXRlLiIsInBhdGgiOiIvdm1lc3MifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU3dlZGVuLCBTdG9ja2hvbG0gfCBBbnRpLVJLTiIsImFkZCI6IjE3Mi4yMzIuMTMzLjY5IiwicG9ydCI6IjQ3MjcxIiwiaWQiOiI0NDU3MDZkNS0yNWM2LTRhNDUtOTdkZi04YjI1ZGYxZDI1ZWEiLCJzY3kiOiJhdXRvIn0=
-socks4://188.150.229.60:5678#🇸🇪 Sweden, Malmö | Anti-RKN
 https://77.221.136.60:8443#🇸🇪 Sweden, Stockholm | Anti-RKN
 https://31.77.158.162:443#🇸🇪 Sweden, Stockholm | Anti-RKN
 https://46.246.39.246:443#🇸🇪 Sweden, Stockholm | Anti-RKN
 https://85.232.185.5:443#🇸🇪 Sweden | Anti-RKN
 https://74.241.130.174:443#🇸🇪 Sweden | Anti-RKN
 http://185.146.173.20:80#🇸🇪 Sweden | Anti-RKN
-http://172.232.155.226:8118#🇸🇪 Sweden, Stockholm | Anti-RKN
 socks5://176.126.70.111:16379#🇸🇪 Sweden, Stockholm | Anti-RKN
 socks5://13.63.42.31:5000#🇸🇪 Sweden, Stockholm | Anti-RKN
 socks5://62.60.186.226:1080#🇸🇪 Sweden, Stockholm | Anti-RKN
 socks5://89.169.34.80:1080#🇸🇪 Sweden, Stockholm | Anti-RKN
 socks5://80.78.25.87:9050#🇸🇪 Sweden | Anti-RKN
+http://193.181.35.140:8118#🇸🇪 Sweden, Stockholm | Anti-RKN
+http://193.181.35.217:8118#🇸🇪 Sweden, Stockholm | Anti-RKN
+http://193.181.35.85:8118#🇸🇪 Sweden, Stockholm | Anti-RKN
+http://171.25.158.95:1080#🇸🇪 Sweden, Rottne | Anti-RKN
+socks4://217.64.149.146:8118#🇸🇪 Sweden | Anti-RKN
+socks5://217.64.149.146:8118#🇸🇪 Sweden | Anti-RKN

@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409162
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:39:22
-# servers-count: 178
+# generated-at: 11/27/2026 13:52:23
+# servers-count: 181
 
 vless://61c9aca3-c23b-4410-a85d-85fda46a76cc@13.143.164.89:443?type=xhttp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=DfJ7Fj1CTooj72nYSOJqov0qoqsU5hhy6G9kEyIwGzc&sid=42d559cdd69e8d57&path=%2fapi%2fv1%2fsync%2f#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://db4b5d79-a741-41c8-9769-c1ba3d7ac374@185.79.139.163:7443?type=xhttp&security=tls&fp=firefox&host=mama120.baklajann.ru&sni=mama120.baklajann.ru#🇫🇮 Finland, Helsinki | Anti-RKN
@@ -15,19 +15,17 @@ vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.86.230:6443?type=grpc&securi
 hysteria2://030e421e-9317-4cb8-8fbe-a07a565ad3db@2.27.210.119:443?sni=4f070970.con.metricdraft.tech#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@2.27.203.162:443?type=xhttp&security=reality&fp=firefox&sni=frankfurt.gosgenarchive.com&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://7af8ad56-33ce-4f3d-ad15-ef32a71d67f7@87.121.89.165:443?type=tcp&security=reality&fp=firefox&sni=hosting.sywl5.club&pbk=eHdHpA-hKq3aXoVTW_ysflcYKmNbuCSExN167jKtnAY&sid=fa6ca0ce38e58033&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
+vless://b0fd9db4-24b8-45d0-88e1-c709c97646e6@144.31.75.168:443?type=tcp&security=reality&fp=firefox&sni=www.fortum.com&pbk=_OxeyvQDpHcak4ou_pmWb5GmhWcG1j7A8LOIqYXghxg&sid=2177a83232995047#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://b1490307-d693-4392-8f32-a3f7cc139202@45.144.53.94:443?type=ws&security=tls&fp=firefox&sni=canaryform.ratethatrestaurant.org#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://26843758-24de-4f76-b5d0-624038e353c4@196.196.204.137:443?type=tcp&security=reality&fp=firefox&sni=71b840t.de7.h1clayd.click&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4#🇫🇮 Finland, Helsinki | Anti-RKN
-vless://b0fd9db4-24b8-45d0-88e1-c709c97646e6@144.31.75.168:443?type=tcp&security=reality&fp=firefox&sni=www.fortum.com&pbk=_OxeyvQDpHcak4ou_pmWb5GmhWcG1j7A8LOIqYXghxg&sid=2177a83232995047#🇫🇮 Finland, Helsinki | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@45.144.53.94:443?sni=canaryform.ratethatrestaurant.org#🇫🇮 Finland, Helsinki | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.90.228:443?sni=localreserve.ratethatrestaurant.org#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@85.192.61.189:443?type=xhttp&security=reality&fp=firefox&sni=losangeles.gosgenarchive.com&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@164.215.97.18:443?type=ws&security=tls&fp=firefox&host=inlay.merlano.monster&sni=inlay.merlano.monster#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@2.26.228.58:443?type=xhttp&security=reality&fp=firefox&sni=dusseldorf.gosgenarchive.com&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://57fe142e-1522-47ae-af55-bd8daf6273df@46.62.133.142:443?type=ws&security=tls&fp=firefox&host=mail3.besttotaldns.com&sni=mail3.besttotaldns.com#🇫🇮 Finland, Helsinki | Anti-RKN
-vless://ef1da56e-8117-42b4-bcd8-9094ebbdf985@79.137.184.7:443?type=xhttp&security=reality&fp=firefox&sni=hel.softriver.site&pbk=TJjBxMqU12PD9TQ9ZVr-m-LdIxYVokVp5SImQ6Z2iEQ&sid=b8b1d46f23be2a8c&path=%2f9e3ee801bb41b934#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://cdfc923e-8d34-4b44-ac72-ab41ec560ba8@85.192.61.94:2298?type=grpc&security=reality&fp=firefox&sni=vimeo.com&pbk=YVW5HyhXOqVIDLzngOhCHWXdSkVNrRBS029UK3Fl3mM&sid=729bef613f43e925&serviceName=ads.x5.ru#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://e307f400-d65e-4afd-bfe2-9a54deca5678@2.27.122.255:443?type=tcp&security=reality&fp=firefox&sni=sun9-37.userapi.com&pbk=Uig-31Ux76EreEvx8Ntb0BwS1TkUGbu0LcsQsiAH6wg&sid=d52d3ecf49447c2a&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
-http://95.81.92.173:3128#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://d92038b6-b470-4267-9c69-2c649bf3f4a4@196.245.217.58:443?type=tcp&security=reality&fp=firefox&sni=8ba6c3t.nl24.h1clayd.shop&pbk=43bHrvqzL5Sw8lvtDSE3LAlp_0WbixVc7nYcAf17bhg&sid=16b6715de8577aaa#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://95.81.120.27:1080#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@185.232.204.31:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇫🇮 Finland, Helsinki | Anti-RKN
@@ -64,6 +62,7 @@ vless://fd28b7bc-c789-4c08-a7de-b89511d77856@178.17.61.223:443?security=tls&fp=f
 vless://d9939f95-80db-4a51-abfc-94a85bdf7111@151.245.139.71:443?type=tcp&security=reality&fp=firefox&sni=fi.convexia.net&pbk=jydkvpm6P7x3p5Ueco8tMR9b3XrbwRSyr445QpWrjTo&sid=c363a55f52&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://a1ac8a09-98fd-4c11-acc4-3ab272bd220b@213.176.17.50:443?type=ws&security=reality&fp=firefox&sni=hls-svod.itunes.apple.com&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=48720c#🇫🇮 Finland, Helsinki | Anti-RKN
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?obfs=salamander&obfs-password=uw9b2qq5rx&sni=fiproxy1.lockdwn.com&allowInsecure=0#🇫🇮 Finland, Helsinki | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Wmg4RW91aElMWjRKWkNRZGFYczBj@195.96.156.9:14847#🇫🇮 Finland, Helsinki | Anti-RKN
 trojan://Aimer@95.216.143.166:443?security=tls&fp=firefox&sni=ngepy.ambercc.filegear-sg.me#🇫🇮 Finland, Helsinki | Anti-RKN
 trojan://bpb-trojan@45.142.120.4:2096?type=ws&security=tls&fp=firefox&sni=403B3611-99bC-43b7-88D7-26ed5d0825A9-3.PageS.DEV&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2ftroUbg9Q3QgD0TJRfy%3fed%3d2560#🇫🇮 Finland, Helsinki | Anti-RKN
 trojan://humanity@46.62.204.134:443?type=ws&security=tls&fp=firefox&sni=www.pleadcourt.org&host=www.pleadcourt.org&path=%2fassignment#🇫🇮 Finland, Helsinki | Anti-RKN
@@ -97,14 +96,17 @@ vless://7def466a-5810-47cd-b56a-402f28dd03bf@95.216.183.225:8080?type=tcp&securi
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.245:443?type=tcp&security=reality&fp=firefox&sni=enterprisekitten.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.246:443?type=tcp&security=reality&fp=firefox&sni=enterprisekitten.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.249:443?type=tcp&security=reality&fp=firefox&sni=enterprisekitten.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.248:443?type=tcp&security=reality&fp=firefox&sni=enterprisekitten.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?type=tcp&security=reality&fp=firefox&sni=web.eitaa.com&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=90ec9bba2019&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://8f67e374-53d9-43bb-85c9-a459a959cd1b@194.77.71.152:443?type=tcp&security=reality&fp=firefox&sni=1.1.1.1&pbk=e7i5my9c3knQgYrKCJ0pVJEPt8ZDTdbcmCtzK7IQU2Y&sid=74bd7db505e16e3f&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://91fee5d4-ebf5-40b3-80a9-d4927cf093e9@65.109.252.204:443?type=tcp&security=reality&fp=firefox&sni=www.hetzner.com&pbk=eCt1lJtFXHID16IAEA4nw3xFcMejrnauZqIE_Jf5qEw&sid=b1c9c3d3cc3b662b&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@45.144.52.195:443?type=tcp&security=reality&fp=firefox&sni=fl-modx.nodexphere.net&pbk=wpKYWqa_j7WXClXDdSL-llXhjH918G_U7jfpHAMSGWk&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@46.62.146.50:443?type=grpc&security=reality&fp=firefox&sni=www.speedtest.net&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379&serviceName=0VTuTCdLL8WUYSwaz2OnC5y#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.84.2.206:443?type=ws&security=tls&fp=firefox&sni=kp.ylks.xyz&path=%2f%3fproxyip#🇫🇮 Finland, Helsinki | Anti-RKN
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?type=tcp&security=reality&fp=firefox&sni=www.wikihow.com&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?type=grpc&security=reality&fp=firefox&sni=hel1.hitori.cloud&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&sid=e9d19fd1ca5ca23c#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://af65ec7a-1de2-4ef4-afc1-733ddde252a0@65.109.244.49:443?type=tcp&security=reality&fp=firefox&sni=www.hetzner.com&pbk=eCt1lJtFXHID16IAEA4nw3xFcMejrnauZqIE_Jf5qEw&sid=b1c9c3d3cc3b662b&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
+vless://af65ec7a-1de2-4ef4-afc1-733ddde252a0@65.109.252.204:443?type=tcp&security=reality&fp=firefox&sni=www.hetzner.com&pbk=eCt1lJtFXHID16IAEA4nw3xFcMejrnauZqIE_Jf5qEw&sid=b1c9c3d3cc3b662b&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://b79d736d-0f10-4169-b626-362059d18204@95.216.27.15:2053?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=aiHdxKOzcFZDILKj3MIPrMsyT0XxMy_O6xoxnz6MIWs&sid=10351b07c712d2a2#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://c580e6f8-96d5-4b81-a958-d309cda653ff@45.144.53.189:4443?type=tcp&security=reality&fp=firefox&sni=sun6-21.userapi.com&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://ced44d8d-1269-4558-adfd-1b456c543e8a@45.144.53.93:443?type=tcp&security=reality&fp=firefox&sni=fi.oncloudvpn.com&pbk=1az_XYGwf1SX5RjaXXov8xBFqpbFlzYegZgFWULF1FY&sid=f106&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
@@ -120,9 +122,8 @@ vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.245:2053?type=ws&securit
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.4:2053?type=ws&security=tls&fp=firefox&host=dl1-fr-cdn.easy-upload.org&sni=dl1-fr-cdn.easy-upload.org#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@2.27.13.15:443?type=tcp&security=reality&fp=firefox&sni=newfn.stardevs.top&pbk=dZr14WsJ6yNqfoalMrTWBsOU74mckVoQO84Ty68TtW4&sid=b03a4d1767157467&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://f2341274-8dd8-4b80-95fd-780641f6f2da@185.88.101.105:443?type=grpc&security=reality&fp=firefox&sni=fl13.svinka.pro&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&serviceName=fl13svinkapro-grpc#🇫🇮 Finland, Helsinki | Anti-RKN
-vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@65.109.182.194:443?type=xhttp&security=tls&fp=firefox&host=APP-FI-2.85858569.XYZ&sni=1Z6i1nhm.85858569.Xyz#🇫🇮 Finland, Helsinki | Anti-RKN
+vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@65.109.209.86:443?type=xhttp&security=tls&fp=firefox&host=APP-FI-2.85858569.XYZ&sni=1Z6i1nhm.85858569.Xyz#🇫🇮 Finland, Helsinki | Anti-RKN
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443?type=tcp&security=tls&fp=firefox&sni=app.chandplus.com#🇫🇮 Finland, Helsinki | Anti-RKN
-vless://id6856346113@194.34.132.39:443?type=tcp&security=reality&fp=firefox&sni=www.vk.com&pbk=yDwHL93MSZMTVyDy0OhZu-NIlgNA9amsi_t1P8Sla0Q&sid=122455&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh64gRmlubGFuZCwgSGVsc2lua2kgfCBBbnRpLVJLTiIsImFkZCI6IjY1LjEwOS4xMzQuMTkxIiwicG9ydCI6IjgwIiwiaWQiOiI5MTY5ODc0Ny05MmIzLTRhMDctYjVkYS0yMjY5NGVkYmVhODIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3JhcGhxbCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh64gRmlubGFuZCwgSGVsc2lua2kgfCBBbnRpLVJLTiIsImFkZCI6IjY1LjIxLjI0MC4xMDgiLCJwb3J0IjoiNDQzIiwiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDcifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh64gRmlubGFuZCwgSGVsc2lua2kgfCBBbnRpLVJLTiIsImFkZCI6IjkxLjEzMi4xOTcuNSIsInBvcnQiOiI0NDMiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwiaG9zdCI6Ind3dy4yOTc5NDE5Mi54eXoiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
@@ -135,20 +136,16 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh64gRmlubGFuZCwgSGVsc2lua2kgfCBBbnRpLVJLTiIs
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh64gRmlubGFuZCwgSGVsc2lua2kgfCBBbnRpLVJLTiIsImFkZCI6IjEzNS4xODEuNDEuMTY5IiwicG9ydCI6IjQ0MyIsImlkIjoiOThiNDE5ZWYtODNhMi00ZDFiLWEyM2QtNTY2YjdmMjQ0NzdiIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Ik5Obm1KSnUuMTMxLlBQLlVhIiwicGF0aCI6Ii9JdTQxNUZwZjVSRVl4V0xwVEdBNUFxeloyTWoiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJOTm5tSkp1LjEzMS5QUC5VYSIsImZwIjoiZmlyZWZveCJ9
 socks5://65.21.252.66:10813#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://65.21.252.66:10807#🇫🇮 Finland, Helsinki | Anti-RKN
-socks5://95.216.8.124:1080#🇫🇮 Finland, Helsinki | Anti-RKN
-socks5://95.216.8.124:1081#🇫🇮 Finland, Helsinki | Anti-RKN
+socks5://65.21.252.66:10805#🇫🇮 Finland, Helsinki | Anti-RKN
 https://35.228.73.198:443#🇫🇮 Finland, Lappeenranta | Anti-RKN
-socks5://95.216.117.50:9050#🇫🇮 Finland, Helsinki | Anti-RKN
-socks4://95.216.117.50:9050#🇫🇮 Finland, Helsinki | Anti-RKN
-http://65.108.159.129:8081#🇫🇮 Finland, Helsinki | Anti-RKN
-http://65.108.159.129:4145#🇫🇮 Finland, Helsinki | Anti-RKN
-http://65.108.159.129:5153#🇫🇮 Finland, Helsinki | Anti-RKN
-http://91.186.221.112:80#🇫🇮 Finland, Helsinki | Anti-RKN
+socks4://46.62.212.153:1080#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://46.62.212.153:1080#🇫🇮 Finland, Helsinki | Anti-RKN
+socks5://95.216.117.50:9050#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://95.217.167.252:11108#🇫🇮 Finland, Helsinki | Anti-RKN
+socks5://85.92.153.132:1080#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://95.217.167.252:11104#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://65.109.196.122:2080#🇫🇮 Finland, Helsinki | Anti-RKN
-socks5://95.81.112.113:1080#🇫🇮 Finland, Helsinki | Anti-RKN
+socks5://95.216.8.124:1083#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://95.217.167.252:11109#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://46.62.246.93:9050#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://37.27.245.106:1080#🇫🇮 Finland, Helsinki | Anti-RKN
@@ -158,30 +155,36 @@ socks5://157.180.24.140:11094#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://157.180.24.140:11118#🇫🇮 Finland, Helsinki | Anti-RKN
 http://65.108.203.35:28080#🇫🇮 Finland, Helsinki | Anti-RKN
 http://185.247.141.86:3128#🇫🇮 Finland, Helsinki | Anti-RKN
-http://77.42.95.221:8889#🇫🇮 Finland, Helsinki | Anti-RKN
-socks5://65.21.252.66:10805#🇫🇮 Finland, Helsinki | Anti-RKN
-socks5://65.21.252.66:10808#🇫🇮 Finland, Helsinki | Anti-RKN
+http://95.216.117.50:9050#🇫🇮 Finland, Helsinki | Anti-RKN
+http://95.81.120.27:1080#🇫🇮 Finland, Helsinki | Anti-RKN
+http://46.62.212.153:1080#🇫🇮 Finland, Helsinki | Anti-RKN
+http://65.109.65.239:28080#🇫🇮 Finland, Helsinki | Anti-RKN
+http://65.109.87.121:28080#🇫🇮 Finland, Helsinki | Anti-RKN
+http://65.108.203.36:18080#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://65.21.252.66:10802#🇫🇮 Finland, Helsinki | Anti-RKN
-http://65.108.203.37:28080#🇫🇮 Finland, Helsinki | Anti-RKN
-socks5://95.216.8.124:1083#🇫🇮 Finland, Helsinki | Anti-RKN
+http://65.109.65.239:18080#🇫🇮 Finland, Helsinki | Anti-RKN
+http://65.108.203.36:28080#🇫🇮 Finland, Helsinki | Anti-RKN
+socks5://65.21.252.66:10808#🇫🇮 Finland, Helsinki | Anti-RKN
+socks5://95.216.8.124:1081#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://95.217.167.252:11101#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://95.217.167.252:11113#🇫🇮 Finland, Helsinki | Anti-RKN
-http://65.21.252.66:10808#🇫🇮 Finland, Helsinki | Anti-RKN
-http://65.21.252.66:10802#🇫🇮 Finland, Helsinki | Anti-RKN
+http://77.42.95.221:8889#🇫🇮 Finland, Helsinki | Anti-RKN
+http://65.21.252.66:10813#🇫🇮 Finland, Helsinki | Anti-RKN
+http://65.21.252.66:10807#🇫🇮 Finland, Helsinki | Anti-RKN
+http://65.21.252.66:10805#🇫🇮 Finland, Helsinki | Anti-RKN
+http://95.217.167.252:11108#🇫🇮 Finland, Helsinki | Anti-RKN
+http://95.217.167.252:11104#🇫🇮 Finland, Helsinki | Anti-RKN
 http://65.109.196.122:2080#🇫🇮 Finland, Helsinki | Anti-RKN
 http://95.216.8.124:1083#🇫🇮 Finland, Helsinki | Anti-RKN
 http://95.217.167.252:11109#🇫🇮 Finland, Helsinki | Anti-RKN
-http://46.62.212.153:1080#🇫🇮 Finland, Helsinki | Anti-RKN
-http://95.216.8.124:1081#🇫🇮 Finland, Helsinki | Anti-RKN
-http://95.217.167.252:11101#🇫🇮 Finland, Helsinki | Anti-RKN
-http://95.217.167.252:11113#🇫🇮 Finland, Helsinki | Anti-RKN
-http://65.21.252.66:10813#🇫🇮 Finland, Helsinki | Anti-RKN
-http://95.216.117.50:9050#🇫🇮 Finland, Helsinki | Anti-RKN
-http://95.81.120.27:1080#🇫🇮 Finland, Helsinki | Anti-RKN
+http://65.21.252.66:10808#🇫🇮 Finland, Helsinki | Anti-RKN
+http://135.181.150.19:9050#🇫🇮 Finland, Helsinki | Anti-RKN
 socks4://185.247.141.86:3128#🇫🇮 Finland, Helsinki | Anti-RKN
 socks4://95.217.167.252:11108#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://185.247.141.86:3128#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://135.181.150.19:9050#🇫🇮 Finland, Helsinki | Anti-RKN
-http://95.217.167.252:11108#🇫🇮 Finland, Helsinki | Anti-RKN
+socks5://95.216.8.124:1080#🇫🇮 Finland, Helsinki | Anti-RKN
+socks5://95.216.8.124:1089#🇫🇮 Finland, Helsinki | Anti-RKN
 socks5://95.216.8.124:1082#🇫🇮 Finland, Helsinki | Anti-RKN
-socks5://95.216.8.124:1090#🇫🇮 Finland, Helsinki | Anti-RKN
+http://65.109.65.238:18080#🇫🇮 Finland, Helsinki | Anti-RKN
+socks5://95.216.8.124:1087#🇫🇮 Finland, Helsinki | Anti-RKN

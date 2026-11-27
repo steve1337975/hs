@@ -1,12 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PT] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409162
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:39:22
-# servers-count: 3
+# generated-at: 11/27/2026 13:52:23
+# servers-count: 2
 
 https://195.22.25.125:443#🇵🇹 Portugal, Lisbon | Anti-RKN
-https://193.137.38.135:443#🇵🇹 Portugal, Vila Nova de Famalicão | Anti-RKN
 https://195.246.238.180:443#🇵🇹 Portugal | Anti-RKN

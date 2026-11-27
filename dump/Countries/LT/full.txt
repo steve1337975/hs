@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [LT] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409162
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827409943
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 13:39:22
-# servers-count: 96
+# generated-at: 11/27/2026 13:52:23
+# servers-count: 93
 
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@185.34.52.147:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇱🇹 Lithuania, Vilnius | Anti-RKN
 vless://f69e272f-e0e5-4e9d-b180-5be63930cde9@84.32.209.54:443?security=reality&fp=firefox&sni=lt.memepn.com&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&flow=xtls-rprx-vision#🇱🇹 Lithuania, Šiauliai | Anti-RKN
@@ -89,7 +89,6 @@ https://89.124.8.87:443#🇱🇹 Lithuania | Anti-RKN
 https://89.124.8.85:443#🇱🇹 Lithuania | Anti-RKN
 https://89.124.8.30:443#🇱🇹 Lithuania | Anti-RKN
 https://89.124.8.89:443#🇱🇹 Lithuania | Anti-RKN
-https://89.124.8.79:443#🇱🇹 Lithuania | Anti-RKN
 https://89.124.8.25:443#🇱🇹 Lithuania | Anti-RKN
 https://89.124.8.36:443#🇱🇹 Lithuania | Anti-RKN
 https://89.124.8.28:443#🇱🇹 Lithuania | Anti-RKN
@@ -99,7 +98,5 @@ https://89.124.8.82:443#🇱🇹 Lithuania | Anti-RKN
 https://89.124.8.76:443#🇱🇹 Lithuania | Anti-RKN
 https://89.124.8.83:443#🇱🇹 Lithuania | Anti-RKN
 https://185.209.138.16:443#🇱🇹 Lithuania | Anti-RKN
-socks4://81.7.112.174:4145#🇱🇹 Lithuania, Elektrėnai | Anti-RKN
-http://81.7.112.174:4145#🇱🇹 Lithuania, Elektrėnai | Anti-RKN
+socks5://185.193.26.120:9050#🇱🇹 Lithuania | Anti-RKN
 http://84.55.46.85:8080#🇱🇹 Lithuania, Kaunas | Anti-RKN
-socks5://81.7.112.174:4145#🇱🇹 Lithuania, Elektrėnai | Anti-RKN

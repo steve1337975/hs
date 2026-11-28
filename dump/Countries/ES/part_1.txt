@@ -1,62 +1,62 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [ES] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
-# servers-count: 91
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 86
 
 vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&sid=0dfc23fe80778c00&flow=xtls-rprx-vision#🇪🇸 Spain, Barcelona | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#🇪🇸 Spain, Madrid | Anti-RKN
-vless://bf14dc50-e9f2-49fd-8642-620446edeafb@83.147.14.62:8443?type=ws&security=tls&fp=firefox&host=v3-duz.pages.dev#🇪🇸 Spain | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@5.188.181.201:9000#🇪🇸 Spain, Madrid | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&fp=firefox&sni=courses.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#🇪🇸 Spain, Madrid | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&fp=firefox&sni=www.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🇪🇸 Spain, Madrid | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&fp=firefox&sni=api.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@5.188.181.201:9020#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#🇪🇸 Spain, Madrid | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&fp=firefox&sni=resources.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#🇪🇸 Spain, Madrid | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&fp=firefox&sni=blog.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#🇪🇸 Spain, Madrid | Anti-RKN
-vless://4e932df2-a06a-4043-861c-87fe8d217aae@65.20.99.198:40118?type=tcp&security=reality&fp=firefox&sni=delivery.mp.microsoft.com&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c39acc8cb9481d24#🇪🇸 Spain, Madrid | Anti-RKN
-vless://06b21aa9-65fe-4896-b0b6-a72182e1ed8a@212.227.235.66:2053?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=vXr6yPHRK6IKYGTf5sKTBAbdQg3OJWeDFemYUFYXlTU&sid=385366c80310403d#🇪🇸 Spain | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#🇪🇸 Spain, Madrid | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.115:443?security=tls&fp=firefox&sni=discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#🇪🇸 Spain, Madrid | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&fp=firefox&sni=learn.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#🇪🇸 Spain, Madrid | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&fp=firefox&sni=cdn.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
-vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@179.255.189.18:443?type=tcp&security=reality&fp=firefox&sni=travel.yandex.ru&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&sid=76834511&flow=xtls-rprx-vision#🇪🇸 Spain, Hoyo de Manzanares | Anti-RKN
+vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&sid=fd8cf7e1173f0edb&flow=xtls-rprx-vision#🇪🇸 Spain | Anti-RKN
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&fp=firefox#🇪🇸 Spain, Madrid | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@108.181.121.170:443#🇪🇸 Spain, Barcelona | Anti-RKN
 vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@185.200.244.37:443?type=xhttp&security=reality&fp=firefox&sni=es1.green-tg.com&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&sid=0bf13fb706784403&path=%2fapi%2fv2%2f7d94497a#🇪🇸 Spain, Madrid | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&fp=firefox&sni=resources.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
 vless://4e932df2-a06a-4043-861c-87fe8d217aae@65.20.99.198:40118?security=reality&fp=firefox&sni=delivery.mp.microsoft.com&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c39acc8cb9481d24#🇪🇸 Spain, Madrid | Anti-RKN
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&fp=firefox#🇪🇸 Spain, Madrid | Anti-RKN
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&fp=firefox&sni=66.163.118.244#🇪🇸 Spain, Madrid | Anti-RKN
 vless://17f3c566-b6c3-42f4-a098-b2f5374339a8@185.210.155.38:443?type=xhttp&security=reality&fp=firefox&sni=cira.ca&pbk=gF44pErBRsCwFGY398I654T5EBhcB6sryObLgcqxTSI&sid=41b779#🇪🇸 Spain | Anti-RKN
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&fp=firefox&sni=66.163.118.62#🇪🇸 Spain, Madrid | Anti-RKN
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@194.76.168.133:443?type=ws&security=tls&fp=firefox&host=nemicro487.gangtype.com&sni=nemicro487.gangtype.com&path=%2frealtime%2fclient%2fconnect#🇪🇸 Spain | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&fp=firefox&sni=www.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&fp=firefox&sni=api.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.115:443?security=tls&fp=firefox&sni=discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&fp=firefox&sni=blog.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&fp=firefox&sni=cdn.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&fp=firefox&sni=66.163.118.40#🇪🇸 Spain, Madrid | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&fp=firefox&sni=learn.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
+vless://4e932df2-a06a-4043-861c-87fe8d217aae@65.20.99.198:40118?type=tcp&security=reality&fp=firefox&sni=delivery.mp.microsoft.com&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c39acc8cb9481d24#🇪🇸 Spain, Madrid | Anti-RKN
+vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@179.255.189.18:443?type=tcp&security=reality&fp=firefox&sni=travel.yandex.ru&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&sid=76834511&flow=xtls-rprx-vision#🇪🇸 Spain, Hoyo de Manzanares | Anti-RKN
 vless://92e8d9dc-8e3b-4f81-a278-d18c6bf1b962@45.86.229.39:443?type=ws&security=tls&fp=firefox&host=app-base-njw3ky.pages.dev&sni=app-base-njw3ky.pages.dev&path=%2fws%3fip%3d45.86.229.39%3a443#🇪🇸 Spain, Madrid | Anti-RKN
 vless://92e8d9dc-8e3b-4f81-a278-d18c6bf1b962@217.154.185.87:443?type=ws&security=tls&fp=firefox&host=app-base-njw3ky.pages.dev&sni=app-base-njw3ky.pages.dev&path=%2fws%3fip%3d217.154.185.87%3a443#🇪🇸 Spain | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&fp=firefox&sni=courses.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@5.188.181.201:9020#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@5.188.181.201:9000#🇪🇸 Spain, Madrid | Anti-RKN
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&sid=0dfc23fe80778c00&flow=xtls-rprx-vision#🇪🇸 Spain, Barcelona | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7ggU3BhaW4sIE1hZHJpZCB8IEFudGktUktOIiwiYWRkIjoiODUuOTAuMjE3LjQyIiwicG9ydCI6IjIyMzI0IiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJzY3kiOiJhdXRvIn0=
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#🇪🇸 Spain, Madrid | Anti-RKN
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.176.9.26:443?security=reality&fp=firefox&sni=es1.gofizz.in&pbk=Qxpi1A9yJXwgZ1ycBrasKBCrX3qkRJ646U28a-99WBE&sid=85750bd7&flow=xtls-rprx-vision#🇪🇸 Spain | Anti-RKN
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@85.90.217.42:443?type=tcp&security=tls&fp=firefox&sni=85.90.217.42#🇪🇸 Spain, Madrid | Anti-RKN
 vless://b73855fb-2ec9-4039-935a-a206dda339f8@46.28.71.196:443?type=tcp&security=reality&fp=firefox&sni=es.darknet.run&pbk=n1x7rFrs_idambGX3Of8UJjFostVRhE1UeTNF5BAWAQ&sid=a1b223d4&flow=xtls-rprx-vision#🇪🇸 Spain, Barcelona | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEVmx0LU9lQVY0UmlMTXdUOWUwVDcybm5GdE1HMlczbw==@85.155.226.213:2089#🇪🇸 Spain, San Sebastián de los Reyes | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdnNqUTBPWjVuR1FYREdmemZXWmY1@212.227.146.33:443#🇪🇸 Spain | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#🇪🇸 Spain, Barcelona | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#🇪🇸 Spain, Madrid | Anti-RKN
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#🇪🇸 Spain, Madrid | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#🇪🇸 Spain, Madrid | Anti-RKN
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.115:443?security=tls&fp=firefox#🇪🇸 Spain, Madrid | Anti-RKN
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&fp=firefox#🇪🇸 Spain, Madrid | Anti-RKN
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&fp=firefox#🇪🇸 Spain, Madrid | Anti-RKN
@@ -85,16 +85,11 @@ https://88.12.29.14:443#🇪🇸 Spain, Madrid | Anti-RKN
 https://94.23.84.132:443#🇪🇸 Spain | Anti-RKN
 http://195.114.209.50:80#🇪🇸 Spain | Anti-RKN
 socks5://31.24.44.115:9050#🇪🇸 Spain | Anti-RKN
-socks5://143.47.59.115:9050#🇪🇸 Spain, Madrid | Anti-RKN
 http://35.43.246.3:32383#🇪🇸 Spain, Zaragoza | Anti-RKN
-http://80.78.128.94:8080#🇪🇸 Spain, Finestrat | Anti-RKN
 http://31.24.44.115:9050#🇪🇸 Spain | Anti-RKN
-http://5.22.217.168:8080#🇪🇸 Spain, Madrid | Anti-RKN
-http://5.22.218.62:3128#🇪🇸 Spain, Madrid | Anti-RKN
-http://5.22.217.168:3128#🇪🇸 Spain, Madrid | Anti-RKN
-http://5.22.219.57:8080#🇪🇸 Spain, Madrid | Anti-RKN
 http://35.43.85.195:53325#🇪🇸 Spain, Zaragoza | Anti-RKN
-http://143.47.59.115:9050#🇪🇸 Spain, Madrid | Anti-RKN
+http://185.130.219.12:4153#🇪🇸 Spain, Javea | Anti-RKN
 socks4://195.114.209.50:80#🇪🇸 Spain | Anti-RKN
 socks4://31.24.44.115:9050#🇪🇸 Spain | Anti-RKN
 socks5://195.114.209.50:80#🇪🇸 Spain | Anti-RKN
+http://5.22.219.245:8443#🇪🇸 Spain, Madrid | Anti-RKN

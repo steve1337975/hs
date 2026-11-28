@@ -1,16 +1,14 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AU] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
-# servers-count: 80
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 81
 
-vless://3c778768-d511-4221-8be3-3eba45640e9e@51.161.204.242:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=l0I4SmPtUDyjp1PAeSxBJ5qr9vubCOl9w3b-eDI4x24&sid=d432fe14bbdc17f6&flow=xtls-rprx-vision#🇦🇺 Australia, Sydney | Anti-RKN
-hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#🇦🇺 Australia, Huntingwood | Anti-RKN
 trojan://humanity@125.7.24.251:443?security=tls&fp=firefox#🇦🇺 Australia, Sydney | Anti-RKN
-http://210.8.69.103:808#🇦🇺 Australia, Wollongong | Anti-RKN
+vless://3c778768-d511-4221-8be3-3eba45640e9e@51.161.204.242:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=l0I4SmPtUDyjp1PAeSxBJ5qr9vubCOl9w3b-eDI4x24&sid=d432fe14bbdc17f6&flow=xtls-rprx-vision#🇦🇺 Australia, Sydney | Anti-RKN
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880#🇦🇺 Australia | Anti-RKN
 http://13.239.253.213:16186#🇦🇺 Australia, Sydney | Anti-RKN
 http://16.51.5.77:51964#🇦🇺 Australia, Melbourne | Anti-RKN
@@ -31,6 +29,7 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.64:443?type=ws&security
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2f%3fed%3d2560#🇦🇺 Australia | Anti-RKN
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.42.228.160:443?type=ws&security=tls&fp=firefox&sni=sdfee4.azurewebsites.net#🇦🇺 Australia, Melbourne | Anti-RKN
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@192.65.217.161:443?type=ws&security=tls&fp=firefox&host=vs1.ylks2024.us.kg&sni=vs1.ylks2024.us.kg#🇦🇺 Australia | Anti-RKN
+vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@162.4.84.239:443?type=tcp&security=tls&fp=firefox&sni=u708330u9530s719.okgfw.top&flow=xtls-rprx-vision#🇦🇺 Australia | Anti-RKN
 vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@162.4.84.239:443?type=grpc&security=tls&fp=firefox&sni=u708330u0378s842.ccgfw.top&serviceName=ssp#🇦🇺 Australia | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMTkuMjUyLjE5MC4xMTUiLCJwb3J0IjoiNDQzIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsImhvc3QiOiJ3d3cuMjMzNzYwNDYueHl6IiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhLCBTeWRuZXkgfCBBbnRpLVJLTiIsImFkZCI6IjEzOS45OS4yMzcuNjIiLCJwb3J0IjoiODAiLCJpZCI6IjM1ZDI1ODk5LWVkMjAtNDZkOS05YzdjLTk5YzBkNDE0ZDVlNCIsIm5ldCI6IndzIiwiaG9zdCI6InN0YXRpYy5hemFkcmFoMjIuY29tIn0=
@@ -85,5 +84,7 @@ https://16.51.5.77:18613#🇦🇺 Australia, Melbourne | Anti-RKN
 https://16.51.53.116:20803#🇦🇺 Australia, Melbourne | Anti-RKN
 http://4.195.16.140:80#🇦🇺 Australia, Sydney | Anti-RKN
 http://139.99.237.62:80#🇦🇺 Australia, Sydney | Anti-RKN
+socks5://159.196.163.64:80#🇦🇺 Australia, Sydney | Anti-RKN
+http://159.196.163.64:80#🇦🇺 Australia, Sydney | Anti-RKN
 socks4://134.199.160.93:8888#🇦🇺 Australia, Sydney | Anti-RKN
 socks5://134.199.160.93:8888#🇦🇺 Australia, Sydney | Anti-RKN

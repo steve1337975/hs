@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CM] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
-# servers-count: 14
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 13
 
 http://102.244.78.61:8081#🇨🇲 Cameroon, Garoua | Anti-RKN
 http://102.244.78.61:8084#🇨🇲 Cameroon, Garoua | Anti-RKN
@@ -15,7 +15,6 @@ http://102.244.78.61:8083#🇨🇲 Cameroon, Garoua | Anti-RKN
 http://102.244.78.61:8089#🇨🇲 Cameroon, Garoua | Anti-RKN
 http://102.244.78.61:8082#🇨🇲 Cameroon, Garoua | Anti-RKN
 http://102.244.78.61:8090#🇨🇲 Cameroon, Garoua | Anti-RKN
-socks4://102.132.17.30:1080#🇨🇲 Cameroon, Douala | Anti-RKN
 http://102.244.78.61:8085#🇨🇲 Cameroon, Garoua | Anti-RKN
 socks4://102.244.78.61:8090#🇨🇲 Cameroon, Garoua | Anti-RKN
 socks4://102.244.78.61:8089#🇨🇲 Cameroon, Garoua | Anti-RKN

@@ -1,23 +1,21 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [TH] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
-# servers-count: 127
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 143
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh60gVGhhaWxhbmQsIFBhayBLcmV0IHwgQW50aS1SS04iLCJhZGQiOiIxMTkuNDYuNTEuNDUiLCJwb3J0IjoiMzc1MTUiLCJpZCI6IjliNzZiYzMxLTE3YTUtNDQ1NC05MzRhLThkNWZiNjAyY2Q3MCIsInNjeSI6ImF1dG8ifQ==
 vless://c0742f77-5495-43bf-b007-88d368774d7c@103.80.48.233:443?security=reality&fp=firefox&sni=tatatai.nxxzxaw.beer&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&flow=xtls-rprx-vision#🇹🇭 Thailand | Anti-RKN
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@191.44.48.239:443?type=tcp&security=reality&fp=firefox&sni=rusbox742.gangtype.com&pbk=KHDZbhvbmPpmm9vdkF8E5nxYrEjSbv1sLK8jeqgt5TQ&sid=6b630a6f473644af&flow=xtls-rprx-vision#🇹🇭 Thailand, Phasi Charoen | Anti-RKN
 socks5://X3s3JteD:mpbK00Pl@192.204.15.135:42000#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://y2stTQnf:wj2sNvDu@45.201.39.74:62000#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://ks8783236c597:-D3s0GRfhYcd9Z4vaBy04ina@87.83.236.160:62000#🇹🇭 Thailand, Bangkok | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh60gVGhhaWxhbmQsIEJhbmdrb2sgfCBBbnRpLVJLTiIsImFkZCI6IjguMjEzLjIxMS4xNjAiLCJwb3J0IjoiMTg1NjUiLCJpZCI6Ijg1M2EyNTFmLWRlODUtNDBjYy04NGE2LWFiODc0OGM3MjU4YyIsInNjeSI6ImF1dG8ifQ==
-http://1.20.178.208:8080#🇹🇭 Thailand, Pattaya | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh60gVGhhaWxhbmQsIEJhbmdrb2sgfCBBbnRpLVJLTiIsImFkZCI6IjQ3Ljg3LjY0LjEzMyIsInBvcnQiOiIxODU2NSIsImlkIjoiODUzYTI1MWYtZGU4NS00MGNjLTg0YTYtYWI4NzQ4YzcyNThjIiwic2N5IjoiYXV0byJ9
-http://180.180.156.74:80#🇹🇭 Thailand, Chachoengsao | Anti-RKN
-http://182.52.136.32:8080#🇹🇭 Thailand, Bangkok | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh60gVGhhaWxhbmQsIFBhayBLcmV0IHwgQW50aS1SS04iLCJhZGQiOiIxMTkuNDYuNTEuNDUiLCJwb3J0IjoiMzc1MTUiLCJpZCI6IjliNzZiYzMxLTE3YTUtNDQ1NC05MzRhLThkNWZiNjAyY2Q3MCIsInNjeSI6ImF1dG8ifQ==
+http://125.27.241.98:8080#🇹🇭 Thailand | Anti-RKN
 socks5://ks878449260d:YlRoWvE0dL_cUqS94wPeKnA4@87.84.49.140:62000#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://userMGEj:KsySvCAP@82.47.154.48:42000#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://ks878449260d:YlRoWvE0dL_cUqS94wPeKnA4@87.84.49.245:62000#🇹🇭 Thailand, Bangkok | Anti-RKN
@@ -26,45 +24,53 @@ http://58.82.167.174:3128#🇹🇭 Thailand, Pak Kret | Anti-RKN
 http://45.136.253.145:3128#🇹🇭 Thailand, Nonthaburi | Anti-RKN
 socks5://route164JIa2CBPxfy:VAwyJQX0iKMJiyCw5UVK9wGH@103.14.164.30:42000#🇹🇭 Thailand | Anti-RKN
 socks5://y2stTQnf:wj2sNvDu@45.201.36.125:62000#🇹🇭 Thailand, Bangkok | Anti-RKN
-socks5://JPjarpW3:ao3W5ZML@168.222.8.4:42000#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://route164JIa2CBPxfy:VAwyJQX0iKMJiyCw5UVK9wGH@103.14.164.202:42000#🇹🇭 Thailand | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh60gVGhhaWxhbmQgfCBBbnRpLVJLTiIsImFkZCI6IjExOS41OS45OC4zOSIsInBvcnQiOiIzMDAwMSIsImlkIjoiNGQyNGZiZGUtY2IwZS00MDI1LTk4ZWMtMjIyOTMzODQ3ZDNkIiwibmV0Ijoid3MiLCJob3N0Ijoid3d3Ljk4NjY2NTk4Lnh5eiIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh60gVGhhaWxhbmQsIEJhbmdrb2sgfCBBbnRpLVJLTiIsImFkZCI6IjQ3LjgxLjM2LjE3MyIsInBvcnQiOiIxODU2NSIsImlkIjoiODUzYTI1MWYtZGU4NS00MGNjLTg0YTYtYWI4NzQ4YzcyNThjIn0=
-socks4://203.172.120.179:1080#🇹🇭 Thailand | Anti-RKN
+socks4://110.77.135.70:4145#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://113.53.29.228:13629#🇹🇭 Thailand, Phuket | Anti-RKN
+socks4://180.180.216.90:5678#🇹🇭 Thailand, Klaeng | Anti-RKN
 socks4://171.4.85.65:5678#🇹🇭 Thailand, Bangkok | Anti-RKN
-socks4://49.0.85.207:1080#🇹🇭 Thailand, Bangkok | Anti-RKN
 https://47.81.15.95:8800#🇹🇭 Thailand, Bangkok | Anti-RKN
-socks4://119.63.95.3:4153#🇹🇭 Thailand, Bang Phli | Anti-RKN
-http://182.52.113.106:443#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://1.179.151.165:31948#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://1.20.101.31:80#🇹🇭 Thailand, Pattaya | Anti-RKN
+http://1.20.101.20:80#🇹🇭 Thailand, Pattaya | Anti-RKN
 http://8.213.222.247:3128#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://1.2.248.41:8080#🇹🇭 Thailand, Bang Khen | Anti-RKN
 http://8.213.222.247:312#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://8.213.215.187:80#🇹🇭 Thailand, Bangkok | Anti-RKN
-http://182.52.113.101:443#🇹🇭 Thailand, Bangkok | Anti-RKN
-http://125.25.167.132:80#🇹🇭 Thailand, Bangkok | Anti-RKN
-http://113.53.29.144:80#🇹🇭 Thailand, Phuket | Anti-RKN
 socks5://8.213.222.247:8118#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://8.213.215.187:194#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://8.213.215.187:106#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://8.213.197.208:100#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://47.87.97.94:1080#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://125.25.167.199:443#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://1.4.141.10:80#🇹🇭 Thailand, Phon Phisai | Anti-RKN
+http://1.20.101.22:80#🇹🇭 Thailand, Pattaya | Anti-RKN
 http://8.213.222.157:8008#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://125.25.167.135:80#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://8.213.222.157:8080#🇹🇭 Thailand, Bangkok | Anti-RKN
-http://113.53.29.159:80#🇹🇭 Thailand, Phuket | Anti-RKN
 http://8.213.197.208:31433#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://8.213.195.191:8081#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://8.213.195.191:4002#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://8.213.197.208:8000#🇹🇭 Thailand, Bangkok | Anti-RKN
-http://182.52.136.44:80#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://125.25.167.124:80#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://101.109.245.200:4153#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://83.118.60.147:8213#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://27.254.99.183:8118#🇹🇭 Thailand | Anti-RKN
 http://8.213.222.157:4002#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://8.213.195.191:9098#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://125.25.167.164:80#🇹🇭 Thailand, Bangkok | Anti-RKN
-http://113.53.29.245:80#🇹🇭 Thailand, Phuket | Anti-RKN
+http://1.20.101.19:443#🇹🇭 Thailand, Pattaya | Anti-RKN
+http://182.52.136.59:80#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://106.0.158.114:8080#🇹🇭 Thailand | Anti-RKN
+http://125.25.167.176:8080#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://8.213.215.187:106#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://8.213.215.187:4002#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://125.25.167.135:8080#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://8.213.222.247:20000#🇹🇭 Thailand, Bangkok | Anti-RKN
-socks4://61.7.147.227:4145#🇹🇭 Thailand, Nakhon Pathom | Anti-RKN
-socks4://159.192.97.129:5678#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://182.52.149.67:8080#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://125.25.82.207:5678#🇹🇭 Thailand, Chiang Mai | Anti-RKN
 socks5://X3s3JteD:mpbK00Pl@192.204.15.192:42000#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://JPjarpW3:ao3W5ZML@168.222.8.119:42000#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://rnt2L4XO:KT5hiU8o@104.234.70.136:42000#🇹🇭 Thailand, Bangkok | Anti-RKN
@@ -78,11 +84,13 @@ socks5://AJ3d9gJw:1pB7HV6u@151.246.109.158:42000#🇹🇭 Thailand, Ban Khok | A
 socks4://1.20.254.32:4153#🇹🇭 Thailand, Nakhon Pathom | Anti-RKN
 socks5://r3ZzP8WW:zdnivBaI@109.66.136.42:62000#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://rnt2L4XO:KT5hiU8o@104.234.70.82:42000#🇹🇭 Thailand, Bangkok | Anti-RKN
-socks4://159.192.121.240:4145#🇹🇭 Thailand, Bangkok | Anti-RKN
-http://182.52.149.67:80#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks4://183.88.240.139:4153#🇹🇭 Thailand | Anti-RKN
+http://110.164.128.124:8080#🇹🇭 Thailand | Anti-RKN
 socks4://113.53.91.26:4153#🇹🇭 Thailand, Chon Buri | Anti-RKN
-socks4://183.89.217.91:4153#🇹🇭 Thailand, Sathon | Anti-RKN
+socks4://1.4.195.114:4145#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://110.238.113.119:8080#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://182.52.136.68:80#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://182.53.202.220:80#🇹🇭 Thailand, Chiang Mai | Anti-RKN
 http://8.213.215.187:6666#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://8.213.222.247:8118#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://8.213.215.187:194#🇹🇭 Thailand, Bangkok | Anti-RKN
@@ -120,6 +128,7 @@ socks5://8.213.195.191:8081#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://8.213.195.191:4002#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://8.213.197.208:8000#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://8.213.222.247:6379#🇹🇭 Thailand, Bangkok | Anti-RKN
+socks5://125.25.167.124:80#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://8.213.197.208:5060#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks5://27.254.99.183:8118#🇹🇭 Thailand | Anti-RKN
 socks5://8.213.222.247:8443#🇹🇭 Thailand, Bangkok | Anti-RKN
@@ -134,3 +143,10 @@ http://8.213.222.247:8443#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://8.213.215.187:18080#🇹🇭 Thailand, Bangkok | Anti-RKN
 http://8.213.222.247:3333#🇹🇭 Thailand, Bangkok | Anti-RKN
 socks4://110.238.113.119:8080#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://1.20.101.18:80#🇹🇭 Thailand, Pattaya | Anti-RKN
+http://125.25.167.164:8080#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://203.159.92.115:3128#🇹🇭 Thailand, Nonthaburi | Anti-RKN
+http://8.213.195.191:9091#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://8.213.195.191:1081#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://118.173.233.203:8080#🇹🇭 Thailand, Bangkok | Anti-RKN
+http://101.51.121.149:8080#🇹🇭 Thailand, Ko Samui | Anti-RKN

@@ -1,13 +1,17 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ⚡ HY2 — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
-# servers-count: 4
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 8
 
 hy2://f4b08bf1-d9bd-4755-aa88-ba922282c608@188.225.31.228:443?sni=timewhite655.thebestqas.am#🇰🇿 Kazakhstan, Almaty | Anti-RKN
 hy2://gf1:gfhysteria2024@185.156.44.99:443?allowInsecure=1#🇷🇴 Romania, Bucharest | Anti-RKN
 hy2://gf1:gfhysteria2024@185.156.44.99:443?sni=google.com&allowInsecure=1#🇷🇴 Romania, Bucharest | Anti-RKN
+hy2://HowdyHysteria2023w0W@51.15.19.206:8443?obfs=salamander&obfs-password=HysteriaHowdy&sni=hysteria.udpgw.com&allowInsecure=1#🇳🇱 The Netherlands, Haarlem | Anti-RKN
 hy2://gf1:gfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru&allowInsecure=1#🇷🇴 Romania, Bucharest | Anti-RKN
+hy2://HowdyHysteria2023w0W@51.15.19.206:8443?obfs=salamander&obfs-password=HysteriaHowdy&sni=hysteria.udpgw.co&allowInsecure=1#🇳🇱 The Netherlands, Haarlem | Anti-RKN
+hy2://gf1:gfhysteria2024@66.94.121.46:443?sni=vk.com&allowInsecure=1#🇺🇸 United States, Seattle | Anti-RKN
+hy2://HowdyHysteria2023w0W@51.15.19.206:8443?obfs=salamander&obfs-password=HysteriaHowdy&sni=vkvd127.mycdn.me&allowInsecure=1#🇳🇱 The Netherlands, Haarlem | Anti-RKN

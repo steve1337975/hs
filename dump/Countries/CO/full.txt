@@ -1,20 +1,40 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CO] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
-# servers-count: 11
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 31
 
 http://131.221.42.249:4040#🇨🇴 Colombia, Yopal | Anti-RKN
-http://181.78.79.139:999#🇨🇴 Colombia, Lorica | Anti-RKN
+http://190.7.138.78:8080#🇨🇴 Colombia, Medellín | Anti-RKN
+http://181.119.84.122:8080#🇨🇴 Colombia, Cali | Anti-RKN
+http://158.247.125.5:9443#🇨🇴 Colombia, Cota | Anti-RKN
+http://45.65.138.48:999#🇨🇴 Colombia, Tibú | Anti-RKN
+http://131.221.43.210:4040#🇨🇴 Colombia, Paz de Ariporo | Anti-RKN
+http://209.14.115.109:9999#🇨🇴 Colombia, Bogotá | Anti-RKN
 http://45.167.125.63:999#🇨🇴 Colombia, Popayán | Anti-RKN
-http://38.191.210.97:999#🇨🇴 Colombia, Saravena | Anti-RKN
-http://181.78.73.117:8080#🇨🇴 Colombia, Ciénaga | Anti-RKN
-http://181.78.20.83:999#🇨🇴 Colombia, Corozal | Anti-RKN
-http://8.243.69.144:999#🇨🇴 Colombia, Medellín | Anti-RKN
-http://200.110.173.101:8080#🇨🇴 Colombia, Cali | Anti-RKN
+http://181.174.231.30:999#🇨🇴 Colombia, Pitalito | Anti-RKN
+http://177.73.155.246:999#🇨🇴 Colombia | Anti-RKN
+socks4://181.204.39.202:53740#🇨🇴 Colombia, Cúcuta | Anti-RKN
+http://38.19.42.177:999#🇨🇴 Colombia, Bogotá | Anti-RKN
+http://131.221.42.49:4040#🇨🇴 Colombia, Yopal | Anti-RKN
+http://186.180.66.138:8080#🇨🇴 Colombia, Cúcuta | Anti-RKN
+http://181.119.84.80:999#🇨🇴 Colombia, Cali | Anti-RKN
+http://181.129.158.131:999#🇨🇴 Colombia, Barranquilla | Anti-RKN
+http://131.221.43.249:8080#🇨🇴 Colombia, Támara | Anti-RKN
+http://181.57.171.254:8095#🇨🇴 Colombia, Bogotá | Anti-RKN
+http://201.219.218.4:8080#🇨🇴 Colombia, Cartagena | Anti-RKN
 http://45.195.104.6:80#🇨🇴 Colombia, Mocoa | Anti-RKN
-socks4://177.253.136.162:5678#🇨🇴 Colombia, Medellín | Anti-RKN
-http://181.78.74.101:999#🇨🇴 Colombia, Santafé de Antioquia | Anti-RKN
+http://190.7.138.78:80#🇨🇴 Colombia, Medellín | Anti-RKN
+http://38.191.204.98:999#🇨🇴 Colombia, Villavicencio | Anti-RKN
+http://38.19.239.90:999#🇨🇴 Colombia, Supía | Anti-RKN
+http://181.119.86.179:999#🇨🇴 Colombia, San Jerónimo | Anti-RKN
+socks4://181.48.243.194:4153#🇨🇴 Colombia, Bogotá | Anti-RKN
+socks4://191.102.82.83:4153#🇨🇴 Colombia, Montecristo | Anti-RKN
+http://181.48.243.194:4153#🇨🇴 Colombia, Bogotá | Anti-RKN
+socks4://158.247.125.5:9443#🇨🇴 Colombia, Cota | Anti-RKN
+socks5://158.247.125.5:9443#🇨🇴 Colombia, Cota | Anti-RKN
+http://38.191.208.42:999#🇨🇴 Colombia, Bucaramanga | Anti-RKN
+http://190.61.44.90:999#🇨🇴 Colombia, Planeta Rica | Anti-RKN

@@ -1,11 +1,13 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [UZ] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
-# servers-count: 2
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 4
 
 http://90.156.160.234:3128#🇺🇿 Uzbekistan, Tashkent | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh78gVXpiZWtpc3RhbiwgVGFzaGtlbnQgfCBBbnRpLVJLTiIsImFkZCI6IjM3LjExMC4yMDkuMjI4IiwicG9ydCI6IjgwIiwiaWQiOiJlY2JhNWIzMy1mNzY4LTRkOGEtYjAwNC1iMjllOGU1YzY3NmYiLCJuZXQiOiJ3cyIsImhvc3QiOiJzYXpnYXIuc2VydmVpcmMuY29tIn0=
+http://195.158.8.123:3128#🇺🇿 Uzbekistan, Tashkent | Anti-RKN
+http://91.213.99.134:3128#🇺🇿 Uzbekistan, Tashkent | Anti-RKN

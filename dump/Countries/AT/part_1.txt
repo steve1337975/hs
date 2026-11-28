@@ -1,24 +1,22 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AT] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
+# generated-at: 11/28/2026 02:32:22
 # servers-count: 43
 
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@94.177.8.10:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇦🇹 Austria, Langenzersdorf | Anti-RKN
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.129.78:443?sni=coastalchart.videostockmarket.org#🇦🇹 Austria, Vienna | Anti-RKN
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.129.91:443?sni=menuagent.videostockmarket.org#🇦🇹 Austria, Vienna | Anti-RKN
 vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@144.31.129.67:443?type=grpc&security=reality&fp=firefox&sni=coinjoin-video-stri.ru&pbk=aIxjIWyXHiV-aidKKODGmQva0yUPJzQ0Jzp4lg_urQY&sid=d9662905&serviceName=nexusGrpc#🇦🇹 Austria, Vienna | Anti-RKN
-vless://b1490307-d693-4392-8f32-a3f7cc139202@144.31.129.78:443?type=ws&security=tls&fp=firefox&sni=coastalchart.videostockmarket.org#🇦🇹 Austria, Vienna | Anti-RKN
-vless://f8048a98-b85a-4d1f-926f-2e1908b8e0da@159.195.141.98:443?type=tcp&security=reality&fp=firefox&sni=5.otherconnectius.com&pbk=zHBghkPsbtlZgPf5q2Ngu1FunKztIMk1wU2bXnlKcTA&sid=48f24adb&flow=xtls-rprx-vision#🇦🇹 Austria, Vienna | Anti-RKN
-vless://b1490307-d693-4392-8f32-a3f7cc139202@144.31.129.87:443?type=ws&security=tls&fp=firefox&sni=batchrefund.videostockmarket.org#🇦🇹 Austria, Vienna | Anti-RKN
 vless://f8048a98-b85a-4d1f-926f-2e1908b8e0da@159.195.141.98:443?security=reality&fp=firefox&sni=5.otherconnectius.com&pbk=zHBghkPsbtlZgPf5q2Ngu1FunKztIMk1wU2bXnlKcTA&sid=48f24adb&flow=xtls-rprx-vision#🇦🇹 Austria, Vienna | Anti-RKN
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.129.87:443?sni=batchrefund.videostockmarket.org#🇦🇹 Austria, Vienna | Anti-RKN
+vless://f8048a98-b85a-4d1f-926f-2e1908b8e0da@159.195.141.100:443?type=tcp&security=reality&fp=firefox&sni=5.otherconnectius.com&pbk=zHBghkPsbtlZgPf5q2Ngu1FunKztIMk1wU2bXnlKcTA&sid=48f24adb&flow=xtls-rprx-vision#🇦🇹 Austria, Vienna | Anti-RKN
+vless://6dfb3b5f-e878-48c9-8f49-b2ab0b2a6d48@50.7.184.28:443?security=tls&fp=firefox&sni=hb.sdvgamma.top&flow=xtls-rprx-vision#🇦🇹 Austria, Langenzersdorf | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#🇦🇹 Austria, Vienna | Anti-RKN
 vless://4fddfe0e-fddc-4032-b4c8-09c6d811fed0@152.53.1.170:443?type=tcp&security=tls&fp=firefox&sni=node-au.neverlock.uk&flow=xtls-rprx-vision#🇦🇹 Austria, Vienna | Anti-RKN
 vless://04cbe9ea-9791-4195-827f-5d4cabbdba10@95.163.153.141:8443?type=xhttp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=bRtDyXYrSK7YP6zKZGTUIVfNlpilQViJ4ih_43oSWnU&sid=c9ea2355ddeab39b#🇦🇹 Austria, Vienna | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7kgQXVzdHJpYSwgVmllbm5hIHwgQW50aS1SS04iLCJhZGQiOiIxNTQuNDcuMTkuMjI1IiwicG9ydCI6IjEyNzAiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsImZwIjoiZmlyZWZveCJ9
+http://159.195.110.240:8080#🇦🇹 Austria, Vienna | Anti-RKN
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@94.177.8.10:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇦🇹 Austria, Langenzersdorf | Anti-RKN
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.156:443?type=ws&security=tls&fp=firefox&sni=icecream.955850.xyz&host=icecream.955850.xyz&path=%2fproxyip%3d212.183.88.156%3a443#🇦🇹 Austria, Vienna | Anti-RKN
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443?security=tls&fp=firefox&sni=icecream.955850.xyz#🇦🇹 Austria, Vienna | Anti-RKN
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.194:443?type=ws&security=tls&fp=firefox&sni=icecream.955850.xyz&host=icecream.955850.xyz&path=%2fproxyip%3d212.183.88.194%3a443#🇦🇹 Austria, Vienna | Anti-RKN
@@ -49,4 +47,6 @@ https://195.192.209.130:443#🇦🇹 Austria, Salzburg | Anti-RKN
 https://195.192.209.130:9443#🇦🇹 Austria, Salzburg | Anti-RKN
 https://195.192.209.130:8443#🇦🇹 Austria, Salzburg | Anti-RKN
 https://178.115.238.253:443#🇦🇹 Austria, Vienna | Anti-RKN
+socks5://194.182.187.78:1080#🇦🇹 Austria, Vienna | Anti-RKN
 socks5://83.215.25.66:9050#🇦🇹 Austria, Zell am See | Anti-RKN
+socks5://78.153.130.53:9050#🇦🇹 Austria, Vienna | Anti-RKN

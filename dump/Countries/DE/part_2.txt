@@ -1,31 +1,12 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [DE] — BLACK #2
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
-# servers-count: 142
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 110
 
-http://89.191.226.198:3128#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks4://176.9.107.170:1083#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks5://49.13.22.249:10808#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks5://47.91.89.3:20#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://88.198.69.51:1087#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks5://195.201.246.53:1101#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks5://195.201.246.53:1080#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks5://116.202.32.250:1084#🇩🇪 Germany, Falkenstein | Anti-RKN
-http://5.75.133.113:10809#🇩🇪 Germany, Nuremberg | Anti-RKN
-http://5.75.133.113:10807#🇩🇪 Germany, Nuremberg | Anti-RKN
-http://91.107.179.68:10809#🇩🇪 Germany, Falkenstein | Anti-RKN
-http://47.245.165.201:1080#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-http://5.75.133.113:10808#🇩🇪 Germany, Nuremberg | Anti-RKN
-http://5.75.133.113:10814#🇩🇪 Germany, Nuremberg | Anti-RKN
-http://88.198.69.51:1083#🇩🇪 Germany, Falkenstein | Anti-RKN
-http://195.201.246.53:1101#🇩🇪 Germany, Falkenstein | Anti-RKN
-http://8.211.49.86:10000#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-http://8.211.49.86:10801#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-http://8.211.49.86:3129#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 http://157.90.113.23:9052#🇩🇪 Germany, Nuremberg | Anti-RKN
 http://89.163.206.215:9050#🇩🇪 Germany, Düsseldorf | Anti-RKN
 http://195.201.246.53:1080#🇩🇪 Germany, Falkenstein | Anti-RKN
@@ -42,7 +23,7 @@ http://8.209.96.245:4153#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 http://8.209.96.245:3128#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 http://8.211.49.86:100#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 http://8.209.96.245:18080#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-http://49.13.22.249:10807#🇩🇪 Germany, Falkenstein | Anti-RKN
+http://193.158.12.141:4153#🇩🇪 Germany, Berlin | Anti-RKN
 http://5.75.133.113:10805#🇩🇪 Germany, Nuremberg | Anti-RKN
 http://8.211.51.115:1900#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://8.209.96.245:4153#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
@@ -51,7 +32,7 @@ socks4://8.209.96.245:3128#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://195.201.246.53:1101#🇩🇪 Germany, Falkenstein | Anti-RKN
 socks4://8.211.51.115:5060#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://128.140.113.110:5153#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks4://57.129.24.167:3128#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks4://165.232.67.22:3128#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://8.211.42.167:1234#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://8.209.96.245:18080#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://116.203.139.209:1080#🇩🇪 Germany, Nuremberg | Anti-RKN
@@ -61,7 +42,6 @@ socks4://128.140.113.110:8081#🇩🇪 Germany, Falkenstein | Anti-RKN
 socks4://8.211.51.115:4145#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://116.202.108.111:3128#🇩🇪 Germany, Falkenstein | Anti-RKN
 socks4://88.198.69.51:1100#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks4://178.18.147.109:9050#🇩🇪 Germany | Anti-RKN
 socks4://8.211.42.167:3129#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://8.211.42.167:8083#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://8.211.49.86:20002#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
@@ -69,7 +49,6 @@ socks4://116.203.139.209:8081#🇩🇪 Germany, Nuremberg | Anti-RKN
 socks4://8.211.42.167:1081#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://161.35.70.249:8080#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://8.211.42.167:8005#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks4://46.232.249.209:40001#🇩🇪 Germany, Nuremberg | Anti-RKN
 socks4://138.201.198.53:80#🇩🇪 Germany, Falkenstein | Anti-RKN
 socks4://8.211.42.167:6379#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks4://103.237.102.191:11111#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
@@ -79,7 +58,6 @@ socks5://80.74.54.148:3128#🇩🇪 Germany, Kevelaer | Anti-RKN
 socks5://8.209.96.245:3128#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks5://8.211.51.115:5060#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks5://128.140.113.110:5153#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks5://57.129.24.167:3128#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks5://5.75.133.113:10805#🇩🇪 Germany, Nuremberg | Anti-RKN
 socks5://8.211.42.167:1234#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks5://8.209.96.245:18080#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
@@ -110,34 +88,24 @@ http://8.211.42.167:1081#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 http://8.211.42.167:8005#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 http://8.211.42.167:6379#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks5://195.201.246.53:1081#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks5://116.202.32.250:1080#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks4://159.195.62.125:9050#🇩🇪 Germany, Nuremberg | Anti-RKN
-socks4://8.211.49.86:87#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks4://8.211.49.86:9028#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks4://8.211.49.86:8085#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks4://8.211.49.86:1081#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://8.211.49.86:9080#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://8.211.49.86:7777#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://8.211.49.86:80#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks5://88.198.69.51:1111#🇩🇪 Germany, Falkenstein | Anti-RKN
+socks5://88.198.69.51:1089#🇩🇪 Germany, Falkenstein | Anti-RKN
+http://47.91.89.3:1081#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 socks5://88.198.69.51:1093#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks4://49.13.150.79:9050#🇩🇪 Germany, Nuremberg | Anti-RKN
-socks5://8.211.49.86:6969#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://8.211.49.86:8081#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://8.211.49.86:1000#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://8.211.49.86:5060#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://47.91.89.3:9080#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://47.91.89.3:4145#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://88.198.69.51:1083#🇩🇪 Germany, Falkenstein | Anti-RKN
-socks5://47.91.89.3:8181#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://47.91.89.3:6379#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://8.209.96.245:41#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://8.209.96.245:80#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://8.209.96.245:1234#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://8.209.96.245:8081#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks5://8.211.42.167:4153#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+socks5://49.13.22.249:10814#🇩🇪 Germany, Falkenstein | Anti-RKN
+http://47.91.89.3:80#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+http://8.211.49.86:80#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+http://8.211.49.86:119#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+http://92.5.8.178:3128#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+http://159.195.77.126:3128#🇩🇪 Germany, Nuremberg | Anti-RKN
+http://159.195.77.126:8080#🇩🇪 Germany, Nuremberg | Anti-RKN
+http://78.31.64.152:3133#🇩🇪 Germany | Anti-RKN
+http://165.227.169.229:3080#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 vless://03786aa4-21a5-4e7c-83d6-873aafc41217@193.233.198.117:443?type=tcp&security=reality&fp=firefox&sni=de-03.neverspy.tech&pbk=zT-G11tZiOO7DFJD23MCeZC3TwaUJr6NMDHW4CLif1Y&sid=5eebb4b74e873b14&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 vless://03786aa4-21a5-4e7c-83d6-873aafc41217@193.233.198.117:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=de-03.neverspy.tech&pbk=zT-G11tZiOO7DFJD23MCeZC3TwaUJr6NMDHW4CLif1Y&sid=5eebb4b74e873b14&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@45.86.158.201:443?security=reality&fp=firefox&sni=e293c7t.us3.h1clayd.click&pbk=cEapNjAtrnPz_dCSziCJVvXJf2Mq_FtY5UabpQFmI0w&sid=449f801b009f33f4&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@45.86.158.181:443?type=tcp&security=reality&fp=firefox&sni=e293c7t.us3.h1clayd.click&pbk=cEapNjAtrnPz_dCSziCJVvXJf2Mq_FtY5UabpQFmI0w&sid=449f801b009f33f4&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+vless://ce1587a8-83ef-4d54-b5d8-ccf406fba147@104.167.24.165:8443?type=tcp&security=reality&fp=firefox&sni=avoro104.maxleshax.icu&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 vless://ce1587a8-83ef-4d54-b5d8-ccf406fba147@185.254.98.23:21443?type=tcp&security=reality&fp=firefox&sni=de10s.maxleshax.icu&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 vless://9c69546a-e435-4037-bc63-f9e5829a8be3@200.96.108.88:443?security=reality&fp=firefox&sni=static.amberlo.pro&pbk=C98lmNMA2tOCRtKoHKIthOpgUQ4iOPHwm60fKo9IChE&sid=6db791ad6c8fda8e&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 vless://66c950e5-babc-4913-9f23-58f55f4077af@5.175.161.102:443?type=tcp&security=reality&fp=firefox&sni=d2.source-open.cc&pbk=V1JlfsqszuDZdB29N1lyNgZuFxIY7vd6a25H_OvwvEI&flow=xtls-rprx-vision#🇩🇪 Germany | Anti-RKN

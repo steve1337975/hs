@@ -1,0 +1,34 @@
+﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: 🛡️ VPN BLACK #22
+# profile-update-interval: 1
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
+# sort-order: ping
+# generated-by: NChecker
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 25
+
+vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@188.72.112.1:443?type=xhttp&security=tls&fp=firefox&host=alder.kryonix.space&sni=alder.kryonix.space&path=%2fapi%2fapi_v2%2fmediaupload_process#🇷🇺 Russia | Anti-RKN
+vless://a5b1d16b-719b-4bd6-9d7b-fe6d84607da9@45.9.190.245:443?packetEncoding=none&type=xhttp&security=tls&fp=firefox&host=fortuna.masynbazar.ru&sni=fortuna.masynbazar.ru#🇳🇱 The Netherlands, Meppel | Anti-RKN
+vless://b1070a4d-ad4a-415d-b31a-8a4f6b93602e@188.72.112.1:443?type=xhttp&security=tls&fp=firefox&host=wl2.g-late.com&sni=wl2.g-late.com&path=%2fapi%2fv4%2f59ebf8#🇷🇺 Russia | Anti-RKN
+vless://379b1f28-8109-43bc-9317-8f1f24cdc85b@188.72.112.1:443?type=xhttp&security=tls&fp=firefox&host=cdn.24multi-fun.ru&sni=cdn.24multi-fun.ru&path=%2fuploadfiles%2f#🇷🇺 Russia | Anti-RKN
+vless://ce1587a8-83ef-4d54-b5d8-ccf406fba147@150.241.72.111:443?type=tcp&security=reality&fp=firefox&sni=at-serv.maxleshax.icu&pbk=HYewmAW6XnrKcccFJCzBa0YsfxZ3WVvbB45im6XGcTA&sid=6472e7f8d4798e74&flow=xtls-rprx-vision#🇺🇸 United States | Anti-RKN
+vless://0874d3b3-f9be-4646-a374-e953e5454e54@87.120.252.67:443?type=tcp&security=reality&fp=firefox&sni=worldoftanks.eu&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&flow=xtls-rprx-vision#🇺🇸 United States, Chicago | Anti-RKN
+vless://ce1587a8-83ef-4d54-b5d8-ccf406fba147@185.254.98.35:443?type=tcp&security=reality&fp=firefox&sni=avoro18534.maxleshax.icu&pbk=jgwkVNjk8ls8KVrtC2yJYXafGvv3F9DmoAYkziOpsFs&sid=b7cb7d6d0dc07a18&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+vless://9c69546a-e435-4037-bc63-f9e5829a8be3@185.141.34.93:443?security=reality&fp=firefox&sni=static.lormit.digital&pbk=k_DjUz2cP6QGuDVwyvTrk3QTuJVntXCPjxJmO-UZchI&sid=9f07e56cfce2b9a3&flow=xtls-rprx-vision#🇳🇱 The Netherlands, Eygelshoven | Anti-RKN
+vless://4a047ad6-e36c-4053-a5d5-1958d39d4089@187.52.45.236:443?type=grpc&security=reality&fp=firefox&sni=povar.tallreed.com&pbk=FjY0N4j06c6zkK2Rrk3fIs3L5W48CwsYaSoiGnts-jI&serviceName=grpc#🇵🇱 Poland, Warsaw | Anti-RKN
+vless://ce1587a8-83ef-4d54-b5d8-ccf406fba147@45.145.40.141:21443?type=tcp&security=reality&fp=firefox&sni=ihc12.maxleshax.icu&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+vless://ce1587a8-83ef-4d54-b5d8-ccf406fba147@45.145.40.184:21443?type=tcp&security=reality&fp=firefox&sni=de14s.maxleshax.icu&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@188.72.112.1:443?type=xhttp&security=tls&fp=firefox&host=rowan.kryonix.space&sni=rowan.kryonix.space&path=%2fapi%2fapi_v2%2fmediaupload_process#🇷🇺 Russia | Anti-RKN
+vless://ce1587a8-83ef-4d54-b5d8-ccf406fba147@45.145.40.106:20443?type=tcp&security=reality&fp=firefox&sni=de1r.maxleshax.icu&pbk=3MlsxvctGIKtOqm7l2s0P2kHCV36aaUb8Gy-jYuILFM&sid=a5bec518a55bb000&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@48.102.174.28:443?type=xhttp&security=reality&fp=firefox&sni=kemerovo.gosgenarchive.com&pbk=bOArFMFEa5U1rVEdvx07TZNZP2ryiE8g8ZZNmLH8OV4#🇵🇱 Poland, Warsaw | Anti-RKN
+vless://7b44c8d1-301b-4936-a234-a4d2b798c3a5@185.86.145.55:22449?type=tcp&security=reality&fp=firefox&sni=eu28.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74#🇷🇺 Russia | Anti-RKN
+vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@177.202.67.30:443?type=xhttp&security=reality&fp=firefox&sni=makhachkala.gosgenarchive.com&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+vless://7d21d2b0-52ab-406c-be0a-d0f9ff5e39ee@104.21.34.22:8080?type=ws&path=%2fvpn-secure-cdn#Anti-RKN
+vless://b63bc3fe-8852-4ead-8d25-8d8d5bae79ae@2.29.62.181:443?type=tcp&security=reality&fp=firefox&sni=api.steampowered.com&pbk=4hAezOnHPiz2LUH0NBpS7KmGVd7-AyOODfHWwyQ50kM&sid=fdea6c48da968d75&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
+vless://5f4e9bd0-4c9a-416b-92c3-ca43174728de@104.20.0.89:2053?type=ws&security=tls&fp=firefox&host=farsnewsir.pages.dev&sni=farsnewsir.pages.dev#Anti-RKN
+vless://bb010934-37b7-4ef8-8816-cfe2140c6e97@170.168.18.112:8443?type=tcp&security=reality&fp=firefox&sni=pl.global-cdn.org&pbk=OZaNuMUdX0tzWjUWPp3YrHRfBDhtzkdYfvO676AMES4&sid=94bb4bb304c3eaf7&flow=xtls-rprx-vision#🇷🇺 Russia | Anti-RKN
+vless://dc8e0f03-beda-4101-84b4-1b6c84f6dbec@95.216.182.174:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=K5KIrQJZH83V1G9MUOYlNy24_4Ntg8U_ngt5p7_EMFc&sid=29b55f87&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | Anti-RKN
+vless://937bc631-4022-41d2-ae15-d8247ba5e32d@104.18.21.69:443?type=ws&security=tls&fp=firefox&host=it-mil.862400.xyz&sni=it-mil.862400.xyz&path=%2fannouncement%3fed%3d2048#Anti-RKN
+vless://937bc631-4022-41d2-ae15-d8247ba5e32d@172.64.229.173:443?type=ws&security=tls&fp=firefox&host=us-lax.862400.xyz&sni=us-lax.862400.xyz&path=%2fannouncement%3fed%3d2048#Anti-RKN
+vless://937bc631-4022-41d2-ae15-d8247ba5e32d@104.18.20.69:443?type=ws&security=tls&fp=firefox&host=it-mil.862400.xyz&sni=it-mil.862400.xyz&path=%2fannouncement%3fed%3d2048#Anti-RKN
+vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@212.193.24.88:443?type=tcp&security=reality&fp=firefox&sni=steam-videos.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇷🇺 Russia, Moscow | Anti-RKN

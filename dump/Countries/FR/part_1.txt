@@ -1,73 +1,57 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FR] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
-# servers-count: 421
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 389
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlLCBQYXJpcyB8IEFudGktUktOIiwiYWRkIjoiMTcyLjk5LjE4OS4yMzkiLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1Iiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjIyIiwiaWQiOiJiNDlhZjhjOS0wY2YxLTQyMTItOGVkOC0zNWI3MGQ5ZjJjZjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMzQxNmNiZTU3YjdjNTI3MzM3MjE4NTlkNGUyM2JlMzkubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@158.220.113.176:80?type=ws#🇫🇷 France, Lauterbourg | Anti-RKN
-vless://a688bbe2-e455-11f1-a2d1-0f56c102b673@51.195.91.135:8443?type=tcp&security=reality&fp=firefox&sni=cloudflare.com&pbk=GbzSIW3yd11r22Twahtyz4CMDxUj_QQe5RKvZukxDUw&sid=992f9f92ddfa5056&flow=xtls-rprx-vision#🇫🇷 France | Anti-RKN
-vless://0f82d566-1273-43c5-a73c-229997b3b4b0@213.199.57.127:2087?type=tcp&security=reality&fp=firefox&sni=blog.api.www.cloudflare.com&pbk=Y8U3PhV0K8jT4PBHq-rhCA4eUtOXa1CNB9waCvZbZSc&sid=42&flow=xtls-rprx-vision#🇫🇷 France, Lauterbourg | Anti-RKN
-vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?type=grpc&security=reality&fp=firefox&sni=www.sony.com&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&sid=2fed44d8c59f7e71&serviceName=grpc_common3#🇫🇷 France | Anti-RKN
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?type=ws&host=akamaized.net#🇫🇷 France | Anti-RKN
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&host=138.124.70.41#🇫🇷 France, Paris | Anti-RKN
-vless://0b7d73f8-0965-4c17-8709-3b86d2eeff86@31.97.199.38:8443?type=tcp&security=reality&fp=firefox&sni=africamediaconnect.fr&pbk=GcraWawjMdjBJLD_HvSZ3BQuHvFnSWjbesCkMeCaITY&sid=5b4a12ef7e1694dd&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
-vless://1697852e-cd5c-472d-b377-0def0f301d98@88.151.197.87:2025?type=ws#🇫🇷 France, Marseille | Anti-RKN
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&security=reality&fp=firefox&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&host=ov-france1.09vpn.com#🇫🇷 France | Anti-RKN
 vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@95.163.152.133:443?type=xhttp&security=reality&fp=firefox&sni=hannover.gosgenarchive.com&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#🇫🇷 France, Paris | Anti-RKN
-vless://41bcd5ea-f90c-4227-ab6f-23de50b0a226@92.223.84.84:443?type=xhttp&security=tls&fp=firefox&host=my-site-9bzpe6v5.gcorecdn.com&sni=gcore.com#🇫🇷 France | Anti-RKN
-vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?type=grpc&security=reality&fp=firefox&sni=www.nvidia.com&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea&serviceName=grpc-common3#🇫🇷 France | Anti-RKN
-vless://7711a8ed-c9f9-45b3-9554-fd1090a6f524@31.97.199.38:8443?type=tcp&security=reality&fp=firefox&sni=africamediaconnect.fr&pbk=GcraWawjMdjBJLD_HvSZ3BQuHvFnSWjbesCkMeCaITY&sid=5b4a12ef7e1694dd&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
-vless://a0751487-f7c2-4b59-8cee-99b80bbbaf33@31.97.199.38:8443?type=tcp&security=reality&fp=firefox&sni=africamediaconnect.fr&pbk=GcraWawjMdjBJLD_HvSZ3BQuHvFnSWjbesCkMeCaITY&sid=5b4a12ef7e1694dd&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
-vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@195.216.169.229:9543?type=tcp&security=reality&fp=firefox&sni=storage.yandexcloud.net&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcdf&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@158.220.113.176:80?type=ws&host=suh.cryptofront.uk#🇫🇷 France, Lauterbourg | Anti-RKN
-vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@194.163.154.147:443?type=ws&security=tls&fp=firefox&host=lagoon.gerqix.online&sni=lagoon.gerqix.online#🇫🇷 France, Lauterbourg | Anti-RKN
-hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com#🇫🇷 France, Paris | Anti-RKN
-vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg&sid=a44ff7d2e80213c2&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
-vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@195.216.169.182:9543?type=tcp&security=reality&fp=firefox&sni=storage.yandexcloud.net&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcdf&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
-vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?packetEncoding=none&type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg&sid=a44ff7d2e80213c2&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
-vless://d4ff3428-d624-4ce6-837a-713b14d3841d@51.77.217.70:2053?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=ekzDelSQeyL_mkDLybS2AbFV4Iw5zA632HfEmAUnSHA&sid=a20cbc598110b179#🇫🇷 France | Anti-RKN
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@89.150.45.156:443?security=reality&fp=firefox&sni=frb.899themes.pro&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&flow=xtls-rprx-vision#🇫🇷 France, Marseille | Anti-RKN
 vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@138.124.92.189:443?type=xhttp&security=reality&fp=firefox&sni=nuremberg.gosgenarchive.com&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#🇫🇷 France, Paris | Anti-RKN
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?type=tcp&security=reality&fp=firefox&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&fp=firefox&sni=passport.yandex.ru&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&flow=xtls-rprx-vision#🇫🇷 France, Lauterbourg | Anti-RKN
+vless://7b456a67-cb5b-415e-9405-0e0d94a2230e@104.156.151.61:2087?security=tls&fp=firefox&sni=4c591011bbba3edc.rahat-bash.ir&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@89.150.45.156:443?type=tcp&security=reality&fp=firefox&sni=frb.899themes.pro&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&flow=xtls-rprx-vision#🇫🇷 France, Marseille | Anti-RKN
 trojan://humanity@207.180.209.128:443?security=tls&fp=firefox#🇫🇷 France, Lauterbourg | Anti-RKN
 trojan://humanity@169.58.44.174:443?security=tls&fp=firefox#🇫🇷 France, Lauterbourg | Anti-RKN
-vless://ba373a70-295f-482d-a471-8bc17b54e23b@89.150.45.156:443#🇫🇷 France, Marseille | Anti-RKN
-vless://a7c34591-cc3c-49fb-a270-6f4ef8e12de3@88.218.196.219:7443#🇫🇷 France, Paris | Anti-RKN
-vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@82.22.2.137:443?type=xhttp&security=reality&fp=firefox&sni=fr2.green-tg.com&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&sid=0bf13fb706784403&path=%2fapi%2fv2%2f7d94497a#🇫🇷 France, Paris | Anti-RKN
+vless://bf14dc50-e9f2-49fd-8642-620446edeafb@13.140.156.31:8443?security=tls&fp=firefox#🇫🇷 France, Lauterbourg | Anti-RKN
+vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?type=grpc&security=reality&fp=firefox&sni=www.sony.com&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&sid=2fed44d8c59f7e71&serviceName=grpc_common3#🇫🇷 France | Anti-RKN
+vless://0f82d566-1273-43c5-a73c-229997b3b4b0@213.199.57.127:2087?type=tcp&security=reality&fp=firefox&sni=blog.api.www.cloudflare.com&pbk=Y8U3PhV0K8jT4PBHq-rhCA4eUtOXa1CNB9waCvZbZSc&sid=42&flow=xtls-rprx-vision#🇫🇷 France, Lauterbourg | Anti-RKN
+vless://11512726-b692-406f-ab49-7b28f44a8294@143.246.211.240:443?type=xhttp&security=reality&fp=firefox&sni=fr.gorobsub.com&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&sid=3242cfd7&path=%2fae1b809ceb77#🇫🇷 France, Paris | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.162.152.22:19999#🇫🇷 France, Paris | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.109.228.110:19999#🇫🇷 France, Paris | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.27:19999#🇫🇷 France, Paris | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.99.189.142:19999#🇫🇷 France, Paris | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.175:19999#🇫🇷 France, Paris | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.22:19999#🇫🇷 France, Paris | Anti-RKN
+vless://11512726-b692-406f-ab49-7b28f44a8294@143.246.211.240:443?type=xhttp&security=reality&fp=firefox&sni=fr.gorobsub.com&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&path=%2fae1b809ceb77#🇫🇷 France, Paris | Anti-RKN
 vless://7e5e965f-8268-4ec2-87a6-4387152e11c3@31.57.108.24:1001?type=tcp&security=reality&fp=firefox&sni=app.stiga.com&pbk=HJyqV1zGKZdejNpPvIy_3C3fB7OcVbynjk76p6tuNwg&sid=e7f0663d899bb67f#🇫🇷 France, Paris | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlLCBMaWxsZSB8IEFudGktUktOIiwiYWRkIjoiNDYuMTA1LjIyMi4xNTUiLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1Iiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlLCBMaWxsZSB8IEFudGktUktOIiwiYWRkIjoiNDYuMTA1LjIyMi4xNTciLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1Iiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOiJmaXJlZm94In0=
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=passport.yandex.ru&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&flow=xtls-rprx-vision#🇫🇷 France, Lauterbourg | Anti-RKN
+vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?type=grpc&security=reality&fp=firefox&sni=www.nvidia.com&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea&serviceName=grpc-common3#🇫🇷 France | Anti-RKN
 vless://c762af05-2e92-4133-bc30-8cf45dd40a28@158.220.113.176:80?packetEncoding=xudp&type=ws&host=suh.cryptofront.uk#🇫🇷 France, Lauterbourg | Anti-RKN
+vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@82.22.2.137:443?type=xhttp&security=reality&fp=firefox&sni=fr2.green-tg.com&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&sid=0bf13fb706784403&path=%2fapi%2fv2%2f7d94497a#🇫🇷 France, Paris | Anti-RKN
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?packetEncoding=none&type=tcp&security=reality&fp=firefox&sni=passport.yandex.ru&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&flow=xtls-rprx-vision#🇫🇷 France, Lauterbourg | Anti-RKN
 vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?type=xhttp&security=reality&fp=firefox&sni=www.amazon.com&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&sid=f57d8f26&path=%2fG3EEoH63#🇫🇷 France, Paris | Anti-RKN
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@95.182.97.242:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇫🇷 France, Paris | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlLCBQYXJpcyB8IEFudGktUktOIiwiYWRkIjoiMjMuMTYyLjE1Mi4xMjciLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1Iiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuODIuNTciLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1Iiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOiJmaXJlZm94In0=
+vless://a688bbe2-e455-11f1-a2d1-0f56c102b673@51.195.91.135:8443?type=tcp&security=reality&fp=firefox&sni=cloudflare.com&pbk=GbzSIW3yd11r22Twahtyz4CMDxUj_QQe5RKvZukxDUw&sid=992f9f92ddfa5056&flow=xtls-rprx-vision#🇫🇷 France | Anti-RKN
 vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@82.22.2.137:443?type=xhttp&security=reality&fp=firefox&sni=fr2.green-tg.com&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&sid=0bf13fb706784403&path=%2fapi%2fv2%2f7d94497a%3fed%23#🇫🇷 France, Paris | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiI5MS4xMzQuMzUuNzIiLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1Iiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjIyIiwiaWQiOiI5MDRmMDU2OS04Njk1LTQ2NmYtOTdjZi0wZGUyZmFjZTFiNDYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjIyIiwiaWQiOiJiNDlhZjhjOS0wY2YxLTQyMTItOGVkOC0zNWI3MGQ5ZjJjZjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMzQxNmNiZTU3YjdjNTI3MzM3MjE4NTlkNGUyM2JlMzkubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
 socks5://144.91.82.219:9050#🇫🇷 France, Lauterbourg | Anti-RKN
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&fp=firefox&sni=passport.yandex.ru&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&flow=xtls-rprx-vision#🇫🇷 France, Lauterbourg | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiI1NC4zNy4xMzEuMTI2IiwicG9ydCI6IjgwIiwiaWQiOiIxZTU1YmVjYS0zYzY5LTRmYTctZmIxZi0xNWMxYjc2NzQzNWYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIn0=
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?packetEncoding=none&type=tcp&security=reality&fp=firefox&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?type=tcp&security=reality&fp=firefox&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
 vless://a289c660-1b12-432b-a06c-c2ae469272b0@62.210.70.194:37783?encryption=mlkem768x25519plus.native.0rtt.I5ge5qOTUhKE8xpufKI84yktvqqG9qkViwYe20uFZUyGwbnK7QMv6Tih0subInSmZTyem1QFG1CDFvGfgMBu3Yw1ryNJfGjMnALAqZawBoukaROcTzxXmFAzuejDalyhxxfNJkeUefW3biOHIzcu_AairYSvJ8l_iHJpKVEKXZWPQWiq-tm_nPJz_oDDhFElaCHKnCslodSen2M6afQQ0HYKc6nKZmZwc1cHG1GKW9xHx6CBfLhFVOhT62tCvbxShul1NJgL-shELnovAtS1aHBFQKDOIiJYC7Ww0awUfsyGIFhnJIhdnqFHnkG7sOcdiWiH-ZkQ11p065zAWEQ14HTOi-aqCAsnWNwdRxwj1_qlArYd3nNF1dXKARRikbMFutC5GyyvSJxk7XwHRGWoK_q6_zK2amtIrsin6tov5kKs3UqywFJMJ2rMtgYZXpvK_TdXumLGUimIq9vFW7idpbMlv9F84NY8UbtrkyB87IQwdKqbtnuOMzxkYik-i9N5vaKcXLSdOGRpMgAKSMt5NbSyllcEh6qUTZoVb_h8ZmYij8csvbGWxodCj1WvOGoRtGGnTSpWMdG3X3ZxXlhNQ6tpIPGTfxkzjPtRjHQDcqm0fgrLjWONnkGxMQRO-Wi50vzNPzW9Vuy5BlZszdGqpjLNRLGw24JTAYKXpxiUkTxUxhO3LRC8kMvGVBgxjImwmwev1IqfPiVIMSwhV0FAMNw27nALh0qyPnNLbFpbTFuTL6V83YypFDl1yahns_AE86ufKnSAaSs_0PwMM_ZDfkhE7nRKCygaD9UjWWygRWq6fZarZahcTAqrZUYPXWxqDsrE7VRYO3ch70AHi6ZXTyKR1YcyM0Kiw3S0kxpjbtWReOJ3lXwry-BjcusDKhRsAxErDIBD6IFuY5ucRTtpfPoNgiq7rSFG8SFNvTe-_wh39Bwjj3JeRnw6kzujiKgxGiAH9GYm6LVvG2ljdWacJjSyoDE6mbFwgRCGdDh4h6eMCPs7hjQmNByx76lb0PYt-BuD9xCfiEFMoKJzTjWUvOy1gbmOrjY5xtkkByo8PCS40YRqXiYQ0Me9U5t_lsdxrvO6f7ajFHBNp_IiQOAstWu9UKC2hiABnVWbHaTFeQSp0tAx9rm5vehC0_a3EAHByGzGFUQ-QWpUO5mvGzZKpPVQrgovg2GsgepxgOMymOgv2CbLNKiwAJJyjDe5d5yXiueH3ZdppJqepXrOGuGOn3e-8RKVu3I-nCp-aMS769Yl5mmS8BYOpxW3HseSzZZMIta4hjsa7hqSgmycflvLV5x-8bM9iBFZ7iOey9oYyEkEbFN-6-Alh2dQfopjE2QNFqW6KatBKHXKHNVoayoc4ZegDKPNAEnAo9wIHkBpDFC-fVoCkGMDcRSeNbF67keruuE0xfMA8ltaklEyRwMcxVQwMhILq6vKlzpJF9OJMGVg5amP_-i4NAsKEfC8Ayp61gByykoWKTWkuLAEAYtXXNIfQ9BPvZca1BITgpC69lapO4SH1UAZ4KRxOTVtbHES_GsjM_lkTv940p3IDkG7jfvxIfY_Q9C3QVbkilRpPvg&type=xhttp&security=reality&fp=firefox&sni=www.yahoo.com&pbk=tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg&sid=21569dd6&path=%2fOCrp5Ajs#🇫🇷 France, Paris | Anti-RKN
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@95.182.97.242:443?type=ws&security=tls&fp=firefox&host=lagoon.gerqix.online&sni=lagoon.gerqix.online&path=%2fapi%2fde5%2fstream#🇫🇷 France, Paris | Anti-RKN
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@81.49.182.202:443?type=ws&security=tls&fp=firefox&host=inlay.merlano.monster&sni=inlay.merlano.monster&path=%2fapi%2fde3%2fstream#🇫🇷 France, Faches-Thumesnil | Anti-RKN
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&host=152.228.162.19&path=%2fvless%2f#🇫🇷 France | Anti-RKN
+vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80?packetEncoding=xudp&type=ws&host=ov-france1.09vpn.com&path=%2fvless%2f#🇫🇷 France | Anti-RKN
+http://195.154.176.34:3128#🇫🇷 France, Paris | Anti-RKN
 http://173.212.234.174:3128#🇫🇷 France, Lauterbourg | Anti-RKN
 vless://a289c660-1b12-432b-a06c-c2ae469272b0@62.210.70.194:37783?encryption=mlkem768x25519plus.native.0rtt.I5ge5qOTUhKE8xpufKI84yktvqqG9qkViwYe20uFZUyGwbnK7QMv6Tih0subInSmZTyem1QFG1CDFvGfgMBu3Yw1ryNJfGjMnALAqZawBoukaROcTzxXmFAzuejDalyhxxfNJkeUefW3biOHIzcu_AairYSvJ8l_iHJpKVEKXZWPQWiq-tm_nPJz_oDDhFElaCHKnCslodSen2M6afQQ0HYKc6nKZmZwc1cHG1GKW9xHx6CBfLhFVOhT62tCvbxShul1NJgL-shELnovAtS1aHBFQKDOIiJYC7Ww0awUfsyGIFhnJIhdnqFHnkG7sOcdiWiH-ZkQ11p065zAWEQ14HTOi-aqCAsnWNwdRxwj1_qlArYd3nNF1dXKARRikbMFutC5GyyvSJxk7XwHRGWoK_q6_zK2amtIrsin6tov5kKs3UqywFJMJ2rMtgYZXpvK_TdXumLGUimIq9vFW7idpbMlv9F84NY8UbtrkyB87IQwdKqbtnuOMzxkYik-i9N5vaKcXLSdOGRpMgAKSMt5NbSyllcEh6qUTZoVb_h8ZmYij8csvbGWxodCj1WvOGoRtGGnTSpWMdG3X3ZxXlhNQ6tpIPGTfxkzjPtRjHQDcqm0fgrLjWONnkGxMQRO-Wi50vzNPzW9Vuy5BlZszdGqpjLNRLGw24JTAYKXpxiUkTxUxhO3LRC8kMvGVBgxjImwmwev1IqfPiVIMSwhV0FAMNw27nALh0qyPnNLbFpbTFuTL6V83YypFDl1yahns_AE86ufKnSAaSs_0PwMM_ZDfkhE7nRKCygaD9UjWWygRWq6fZarZahcTAqrZUYPXWxqDsrE7VRYO3ch70AHi6ZXTyKR1YcyM0Kiw3S0kxpjbtWReOJ3lXwry-BjcusDKhRsAxErDIBD6IFuY5ucRTtpfPoNgiq7rSFG8SFNvTe-_wh39Bwjj3JeRnw6kzujiKgxGiAH9GYm6LVvG2ljdWacJjSyoDE6mbFwgRCGdDh4h6eMCPs7hjQmNByx76lb0PYt-BuD9xCfiEFMoKJzTjWUvOy1gbmOrjY5xtkkByo8PCS40YRqXiYQ0Me9U5t_lsdxrvO6f7ajFHBNp_IiQOAstWu9UKC2hiABnVWbHaTFeQSp0tAx9rm5vehC0_a3EAHByGzGFUQ-QWpUO5mvGzZKpPVQrgovg2GsgepxgOMymOgv2CbLNKiwAJJyjDe5d5yXiueH3ZdppJqepXrOGuGOn3e-8RKVu3I-nCp-aMS769Yl5mmS8BYOpxW3HseSzZZMIta4hjsa7hqSgmycflvLV5x-8bM9iBFZ7iOey9oYyEkEbFN-6-Alh2dQfopjE2QNFqW6KatBKHXKHNVoayoc4ZegDKPNAEnAo9wIHkBpDFC-fVoCkGMDcRSeNbF67keruuE0xfMA8ltaklEyRwMcxVQwMhILq6vKlzpJF9OJMGVg5amP_-i4NAsKEfC8Ayp61gByykoWKTWkuLAEAYtXXNIfQ9BPvZca1BITgpC69lapO4SH1UAZ4KRxOTVtbHES_GsjM_lkTv940p3IDkG7jfvxIfY_Q9C3QVbkilRpPvg&packetEncoding=xudp&type=xhttp&security=reality&fp=firefox&sni=www.yahoo.com&pbk=tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg&sid=21569dd6&path=%2fOCrp5Ajs#🇫🇷 France, Paris | Anti-RKN
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@194.163.154.147:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇫🇷 France, Lauterbourg | Anti-RKN
@@ -87,30 +71,41 @@ vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@84.247.166.22:443?type=ws&security=
 vless://nasnet@162.19.10.99:443?type=tcp&security=tls&fp=firefox&sni=nasnet-162191099-direct.mbghalibaf.com&flow=xtls-rprx-vision#🇫🇷 France | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlLCBMaWxsZSB8IEFudGktUktOIiwiYWRkIjoiNDYuMTA1LjIyMi4xNTMiLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1Iiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOiJmaXJlZm94In0=
 http://91.134.141.4:3128#🇫🇷 France | Anti-RKN
+vless://a688bbe2-e455-11f1-a2d1-0f56c102b673@51.195.91.135:8443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=cloudflare.com&pbk=GbzSIW3yd11r22Twahtyz4CMDxUj_QQe5RKvZukxDUw&sid=992f9f92ddfa5056&flow=xtls-rprx-vision#🇫🇷 France | Anti-RKN
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@62.60.156.24:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇫🇷 France, Paris | Anti-RKN
+vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg&sid=a44ff7d2e80213c2&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
+http://161.97.138.117:3128#🇫🇷 France, Lauterbourg | Anti-RKN
 http://92.205.186.129:1080#🇫🇷 France, Strasbourg | Anti-RKN
+vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@195.216.169.182:9543?type=tcp&security=reality&fp=firefox&sni=storage.yandexcloud.net&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcdf&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@158.220.96.149:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇫🇷 France, Lauterbourg | Anti-RKN
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@31.58.76.56:443?type=ws&security=tls&fp=firefox&host=lagoon.gerqix.online&sni=lagoon.gerqix.online&path=%2fapi%2fde5%2fstream#🇫🇷 France, Paris | Anti-RKN
+vless://d4ff3428-d624-4ce6-837a-713b14d3841d@51.77.217.70:2053?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=ekzDelSQeyL_mkDLybS2AbFV4Iw5zA632HfEmAUnSHA&sid=a20cbc598110b179#🇫🇷 France | Anti-RKN
 http://95.182.98.25:8080#🇫🇷 France, Paris | Anti-RKN
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&security=reality&fp=firefox&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
 vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.62:443?type=ws&security=tls&fp=firefox&host=shazam.wbciran.com&sni=shazam.wbciran.com&path=%2fusiHjIz#🇫🇷 France | Anti-RKN
 vless://81c91c05-179f-4b87-95ca-3306677fb310@62.60.148.146:443?type=ws&security=tls&fp=firefox&host=g-it-2.r3vgawew123fg.pics&sni=g-it-2.r3vgawew123fg.pics#🇫🇷 France, Paris | Anti-RKN
 vless://1697852e-cd5c-472d-b377-0def0f301d98@88.151.197.87:2025?packetEncoding=xudp&type=ws#🇫🇷 France, Marseille | Anti-RKN
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@81.49.182.202:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇫🇷 France, Faches-Thumesnil | Anti-RKN
 socks5://193.218.118.128:1080#🇫🇷 France | Anti-RKN
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&fp=firefox&sni=passport.yandex.ru&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&flow=xtls-rprx-vision-udp443#🇫🇷 France, Lauterbourg | Anti-RKN
+vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@195.216.169.229:9543?type=tcp&security=reality&fp=firefox&sni=storage.yandexcloud.net&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcdf&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlLCBQYXJpcyB8IEFudGktUktOIiwiYWRkIjoiMTcyLjk5LjE4OS4yMzkiLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1Iiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOiJmaXJlZm94In0=
 vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?packetEncoding=xudp&type=ws&host=138.124.70.41&path=%2fvless#🇫🇷 France, Paris | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlLCBMaWxsZSB8IEFudGktUktOIiwiYWRkIjoiNDYuMTA1LjIyMi4xNTYiLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1Iiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjMyIiwiaWQiOiI5MDRmMDU2OS04Njk1LTQ2NmYtOTdjZi0wZGUyZmFjZTFiNDYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
+http://13.140.178.224:3128#🇫🇷 France, Lauterbourg | Anti-RKN
 vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&path=%2fvless#🇫🇷 France, Paris | Anti-RKN
+http://161.97.88.191:3128#🇫🇷 France, Lauterbourg | Anti-RKN
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?packetEncoding=xudp&type=ws&host=akamaized.net&path=%2fvless%2f#🇫🇷 France | Anti-RKN
+http://194.163.183.242:3128#🇫🇷 France, Lauterbourg | Anti-RKN
 socks5://L8wP3kQx:Zn5mR7vA@144.56.22.78:42000#🇫🇷 France, Paris | Anti-RKN
 hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&allowInsecure=1#🇫🇷 France, Paris | Anti-RKN
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@194.163.154.147:443?type=ws&security=tls&fp=firefox&host=inlay.merlano.monster&sni=inlay.merlano.monster&path=%2fapi%2fde3%2fstream#🇫🇷 France, Lauterbourg | Anti-RKN
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80?packetEncoding=xudp&type=ws&path=%2fvless%2f#🇫🇷 France | Anti-RKN
 vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@195.216.169.229:9543?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=storage.yandexcloud.net&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcdf&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
+vless://c762af05-2e92-4133-bc30-8cf45dd40a28@158.220.113.176:80?type=ws&host=suh.cryptofront.uk#🇫🇷 France, Lauterbourg | Anti-RKN
 vless://92e8d9dc-8e3b-4f81-a278-d18c6bf1b962@45.155.103.57:443?type=ws&security=tls&fp=firefox&host=app-base-njw3ky.pages.dev&sni=app-base-njw3ky.pages.dev&path=%2fws%3fip%3d45.155.103.57%3a443#🇫🇷 France, Paris | Anti-RKN
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@194.163.154.147:443?type=ws&security=tls&fp=firefox&host=lagoon.gerqix.online&sni=lagoon.gerqix.online&path=%2fapi%2fde5%2fstream#🇫🇷 France, Lauterbourg | Anti-RKN
+vless://1697852e-cd5c-472d-b377-0def0f301d98@88.151.197.87:2025?type=ws#🇫🇷 France, Marseille | Anti-RKN
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?packetEncoding=xudp&type=ws&host=ov-france1.09vpn.com&path=%2fvless%2f#🇫🇷 France | Anti-RKN
 vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.71:443?type=ws&security=tls&fp=firefox&host=shazam.wbciran.com&sni=shazam.wbciran.com&path=%2fjpyBT7v#🇫🇷 France | Anti-RKN
 vless://427b4540-7d9f-40a0-9854-a2914138f564@104.156.151.61:2087?security=tls&fp=firefox&sni=c60ba4db42b9ad78.coreping.ir&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.59.103.137:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇫🇷 France, Paris | Anti-RKN
@@ -118,12 +113,13 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?type=ws&security
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.181.219:8443?type=ws&security=tls&fp=firefox&host=sni.111000.v6.navy&sni=sni.111000.v6.navy#🇫🇷 France | Anti-RKN
 vless://d9939f95-80db-4a51-abfc-94a85bdf7111@45.144.29.12:443?type=tcp&security=reality&fp=firefox&sni=nl.convexia.net&pbk=jzACYNGXZWHErpM0DTa4LC6Mdz5rSa_mqu2y3rQbtjQ&sid=c363a55f52&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
 vless://d9939f95-80db-4a51-abfc-94a85bdf7111@45.144.29.12:8443?type=tcp&security=reality&fp=firefox&sni=nl.convexia.net&pbk=jydkvpm6P7x3p5Ueco8tMR9b3XrbwRSyr445QpWrjTo&sid=fe20ae13e9ef&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
+hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com#🇫🇷 France, Paris | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.134:443#🇫🇷 France | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.140:443#🇫🇷 France | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGR2b1cwVGRLUnE=@161.97.68.139:443#🇫🇷 France, Lauterbourg | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWlycWswcGFha2N4MTl2@51.83.61.102:8080#🇫🇷 France | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MTlweTBhOGlwZ2xxa2Jl@51.77.144.182:8080#🇫🇷 France | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY=@23.162.152.245:443#🇫🇷 France, Paris | Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#🇫🇷 France | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFNGd5SGtLd0pHeUc=@161.97.66.81:443#🇫🇷 France, Lauterbourg | Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqTmI1SndqR29DZXJxeEFYUjBkSU80@62.210.88.22:443#🇫🇷 France, Paris | Anti-RKN
 ss://YWVzLTEyOC1nY206UkE4R1JBV3ZObGRJeXMrQ21EbHVoRWRTWktTRmswSVE=@62.210.101.100:19328#🇫🇷 France, Paris | Anti-RKN
@@ -147,6 +143,7 @@ trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&fp=fir
 trojan://hCunaKqdEJDBO+3jCrJUSMevXOw9Q_r4Ey@38.60.136.156:443?security=tls&fp=firefox#🇫🇷 France, Marseille | Anti-RKN
 vless://00000000-0000-4000-8000-000000000000@84.247.129.205:4433?type=ws&security=tls&fp=firefox&host=sub.mot.ip-ddns.com&sni=sub.mot.ip-ddns.com#🇫🇷 France, Lauterbourg | Anti-RKN
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.16.110.251:8880?type=ws&host=cf.d3z.net#🇫🇷 France | Anti-RKN
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@155.94.134.49:443?type=tcp&security=tls&fp=firefox&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443#🇫🇷 France, Paris | Anti-RKN
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.107:443?type=ws&security=tls&fp=firefox&host=dse.bgm2024.us.kg&sni=dse.bgm2024.us.kg&path=%2f%3fed%3d2560#🇫🇷 France | Anti-RKN
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.56.176.196:443?type=ws&security=tls&fp=firefox&host=vpn47.cc.cd&sni=vpn47.cc.cd#🇫🇷 France, Paris | Anti-RKN
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.128.176.87:443?type=ws&security=tls&fp=firefox&host=vpn47.cc.cd&sni=vpn47.cc.cd#🇫🇷 France | Anti-RKN
@@ -155,6 +152,7 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@82.64.152.55:20304?type=ws&security
 vless://099cb3fe-39cf-400a-bd3e-0bd12e7012bd@195.216.168.74:8080?encryption=mlkem768x25519plus.native.0rtt._qY-brAcMXtzprRGmtNR-3jlCCnlvdg7Lg-v4pbGFE0&type=tcp#🇫🇷 France, Paris | Anti-RKN
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?type=tcp&security=reality&fp=firefox&sni=analytics.google.com&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&sid=eab26c4a32#🇫🇷 France, Lauterbourg | Anti-RKN
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?type=tcp#🇫🇷 France | Anti-RKN
+vless://19f51967-ca91-4fab-a37b-51c424de801d@51.210.183.82:9443?type=ws&security=tls&fp=firefox&host=fr.connfull.org&path=%2fstream#🇫🇷 France, Roubaix | Anti-RKN
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?type=tcp&security=reality&fp=firefox&sni=parisjetaime.com&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&sid=5be8210215&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
 vless://22730179-0c97-4f09-8cd1-ea1633c35fe0@141.227.131.75:443?type=tcp&security=reality&fp=firefox&sni=www.speedtest.net&pbk=pC3gjEZry8tb6WtRQ-uyBeaJhr4AFkbGVmiCymwAUC8&sid=4f79496def0b3a9c&flow=xtls-rprx-vision#🇫🇷 France | Anti-RKN
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?type=ws&host=t.me%2fv2line&path=%2fvless%2f#🇫🇷 France | Anti-RKN
@@ -164,10 +162,12 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?type=tcp&securit
 vless://40fbeade-2b35-55e2-8e72-39893b5917ea@51.255.165.170:443?type=tcp&security=tls&fp=firefox&sni=tyxyrytyro-51255165170-direct.araghchy.com&flow=xtls-rprx-vision#🇫🇷 France | Anti-RKN
 vless://41454b20-c9f8-4392-85df-fb6c69447c59@151.101.122.133:80?type=xhttp#🇫🇷 France, Paris | Anti-RKN
 vless://416b38f5-b4a2-4014-a169-f1d5dc3470c6@141.227.165.196:443?type=tcp&security=reality&fp=firefox&sni=www.speedtest.net&pbk=44nJcS9VxQunsNXIa1j3kDbhUIX0DmBaexgIfVxPYF8&sid=ef3fe7099cd951c0&flow=xtls-rprx-vision#🇫🇷 France | Anti-RKN
-vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?type=tcp&security=reality&fp=firefox&sni=www.leboncoin.fr&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&sid=c906f73d3ba8211f&flow=xtls-rprx-vision#🇫🇷 France | Anti-RKN
 vless://43488128-319e-f480-64ea-0acdc712e2a8@51.158.62.94:443?type=tcp&security=reality&fp=firefox&sni=www.laposte.fr&pbk=nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU&sid=ad3c6641d540b4e1&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
 vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?type=tcp&security=reality&fp=firefox&sni=www.booking.com&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&sid=b87063a35aaa942e&flow=xtls-rprx-vision#🇫🇷 France | Anti-RKN
+vless://4687a55b-8d8a-4a79-8ec3-65e329948081@91.208.207.142:443?type=ws&security=tls&fp=firefox&host=app-6ed7f574-23b7-420e-a90d-e4610dcf50a8.cleverapps.io&sni=app-6ed7f574-23b7-420e-a90d-e4610dcf50a8.cleverapps.io&path=%2fws%2f4687a55b-8d8a-4a79-8ec3-65e329948081#🇫🇷 France | Anti-RKN
 vless://47e53196-8415-4bda-b7c7-81092cd4f0cb@51.178.223.157:443?type=tcp&security=reality&fp=firefox&sni=google.com&pbk=tUeN7AjjNAH5wDmGuA-IdNXpnEs4ZcNxifItKubZrBs&sid=0e17d5261e01&flow=xtls-rprx-vision#🇫🇷 France | Anti-RKN
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?type=tcp&security=reality&fp=firefox&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&security=reality&fp=firefox&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
 vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@20.19.83.143:2083?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&flow=xtls-rprx-vision#🇫🇷 France, Paris | Anti-RKN
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.0:80?type=ws&host=foffmelo.com&path=%2folem%2fws%3fed%3d2560#🇫🇷 France, Paris | Anti-RKN
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.10:80?type=ws&host=foffmelo.com&path=%2folem%2fws%3fed%3d2560#🇫🇷 France, Paris | Anti-RKN
@@ -251,8 +251,10 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIu
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjMyIiwiaWQiOiI5OTJiMWJjNi02ZTFlLTQ1NWQtOTQwYi1lOTliZDM5ZjcwYTIiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMDYwNmYyNWJiYjY0NmRlM2ZlYWRiOGQyM2MxYzYyMTcubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjE3IiwiaWQiOiI5MDRmMDU2OS04Njk1LTQ2NmYtOTdjZi0wZGUyZmFjZTFiNDYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjE4IiwiaWQiOiI5MDRmMDU2OS04Njk1LTQ2NmYtOTdjZi0wZGUyZmFjZTFiNDYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjIyIiwiaWQiOiI5MDRmMDU2OS04Njk1LTQ2NmYtOTdjZi0wZGUyZmFjZTFiNDYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjQ4IiwiaWQiOiI5MDRmMDU2OS04Njk1LTQ2NmYtOTdjZi0wZGUyZmFjZTFiNDYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlLCBQYXJpcyB8IEFudGktUktOIiwiYWRkIjoiNDUuODAuMjE1LjgiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsInNjeSI6ImF1dG8ifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiI1MS42OC4zNC43OCIsInBvcnQiOiIyMDE1NSIsImlkIjoiNTM2NWNiMTItODNlMi00ZTEyLTgwOTgtYzk2NzNlZDdmNTQwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9icC12bWVzcyJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiI1NC4zNy4xMzEuMTI2IiwicG9ydCI6IjgwIiwiaWQiOiIwNTlmZGEzZS01Y2E5LTRmYmQtZGQ4OS0wMWNjNmQ0YmI1ZGQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiI1Ny4xMjguMTY0LjIxIiwicG9ydCI6IjgwIiwiaWQiOiIxMDAyOWMwMy01ZDJmLTQxODUtYWFiMi1jYmY5MWVlZjczNjEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiaHR0cHMuaHR0cC53d3cubmV0LmNvbS5yYW1zZXl2Mi5pci4iLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlE9PSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlLCBQYXJpcyB8IEFudGktUktOIiwiYWRkIjoiMTY3LjEwNC4yMTYuMTg2IiwicG9ydCI6IjEwODAiLCJpZCI6IjA3Mzc3YzMyLTZlNDAtNDBkYy1hYWFkLTNiM2ZiZjIyYjliYiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJzc2gud2ViZGFkZS5jb20ifQ==
@@ -265,15 +267,10 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIu
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjE3IiwiaWQiOiI4MmU2Mjk1Yy05ZGI3LTQ2MDEtYWIxNS0wNTRhNWU2MTI5ZjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMGUzYjdiMmIyYWRhZjViNzkyOWRkZDMxYTg0ODk1MjEubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjMyIiwiaWQiOiI2NjA1ZmQ4OC1mNDFjLTRjMmEtOTBlZS02Nzc3YWMwYTMyYTIiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMDUyOTc3Y2QzMmQxNDE2NzhhNzM5ZjEzOTYzZDU3YWMubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjI2IiwiaWQiOiJkN2U5ZjNjMy01N2M2LTQ1N2UtYjEwZi1kZjI3OTA3ZWYwODEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMThhNTk4ZmNhYjM5MDk3MzQwOTZiZWI5ZmU3YmM1YjQubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjI2IiwiaWQiOiIwZjJhOGRmNy02MTE5LTQ5NmQtYWVmOC00NWZmODM3Y2Y5ZWMiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMjM2YmU0MmZjNWQyMTA5MTdhMWVjZjg5MDMyOGUxMDQubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjI2IiwiaWQiOiJiMjFjY2JmNy1hZmU2LTRjMjUtOGNhZS0wYTFkOWQ4OWI0YTQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiNWFiNzc0MmRiMDc1MDg3MTMwZjU5OGFlZGIxZTQ2NzQubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjE3IiwiaWQiOiJjYTY4Y2Y1Ni03YzNjLTQxMjctODE2ZS03NDQyZGU5MTc2YjciLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiN2RkYzdlZjdjN2YxOThjNWU3ZGJlZDk2MzQxNTdjYTcubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjE3IiwiaWQiOiI3NWQ4MTk0ZC1jZDA3LTQ2OTAtYmI4Yy00ZmRiNTA5ZWI4Y2EiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiYjFhMmUwYTM2ZjI3NDBlNzIwYzNlNzIyMzE4ZWE3ODgubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjQ0IiwiaWQiOiI3NWQ4MTk0ZC1jZDA3LTQ2OTAtYmI4Yy00ZmRiNTA5ZWI4Y2EiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiYjFhMmUwYTM2ZjI3NDBlNzIwYzNlNzIyMzE4ZWE3ODgubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjI2IiwiaWQiOiI0YTliYmYxNy01Njg0LTQ1MmMtOWI4NC1iYTM3NDNhNWI4MTkiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZjJhMWZkOGNjOTMxOTE5ZjFhZGE0NGNkZmE4MzEwZTkubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjIyIiwiaWQiOiI4ZWQ1MmM0ZC0xZmUxLTRjMDgtYjQ2Zi1jYThlYjI3MjljYjkiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZjQwNmUzMjE0M2JjMDIzYTg4MTlhNjMzNTczM2Y4NTEubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjE3IiwiaWQiOiJiMzdhY2NiZC1lNTQ3LTQwOWItOWI5OS1iMmI3ZTM4ODg3ODAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMDEzNTExZjZhNzU3MDA2N2YyZGNmZDgzNTllMjg4NWIubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjMyIiwiaWQiOiI1MjJiZjgzMi1jYjk0LTQ1ODgtYmI0ZS1hNTc4ZDFmNzI2MDMiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiYmMzNWRkOGY5YmI0NzhmZGYyNzg1NjgxNWE2ZDFkYzgubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjMyIiwiaWQiOiI2MmUwODc4Yy1mZjhjLTRhNjctYjE4Zi04OTg4NmUyNDc1MGMiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiNzA2YTBhMmZiMmY3NzI5YWNmOWExMDMwNjBhN2FiYzMubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNDEuMTEuMjAzLjE5NCIsInBvcnQiOiI4NDQzIiwiaWQiOiJlODhiODVjNi05M2I0LTQ3ZjYtYjNmYi0yYzU1ZGNiMTI4OWYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2R5YWp2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsYXgyLmliZ2Z3LnRvcCIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMjI2Ljg0IiwicG9ydCI6IjgwIiwiaWQiOiJhNDAyNWY1YS0zYmViLTQzNWQtODk1ZC1mODkyMDljM2IyZGUiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMTYyLjE5LjIyNi44NCIsInBhdGgiOiIvSkFHT0FOU1NILyJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlLCBMeW9uIHwgQW50aS1SS04iLCJhZGQiOiIxOTMuMTYwLjEzMC4yNDUiLCJwb3J0IjoiNDQzIiwiaWQiOiI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiYmV5b25kZHN6LmNmZCIsInBhdGgiOiIvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoiYmV5b25kZHN6LmNmZCIsImZwIjoiZmlyZWZveCJ9
@@ -287,10 +284,10 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlLCBQYXJpcyB8IEFudGktUktOIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjIyIiwiaWQiOiJiMDI1NTJlMS01MjRjLTRkNGUtYWM4YS1jZWJhOGUzMWNiOGUiLCJuZXQiOiJ3cyIsImhvc3QiOiI4NDg3OWNhYjY1OGQ0OWQ5YTk4NWFhODVjOWYxYTM2Mi5tb2Jnc2xiLnRiY2FjaGUuY29tIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjQ0IiwiaWQiOiJiMDI1NTJlMS01MjRjLTRkNGUtYWM4YS1jZWJhOGUzMWNiOGUiLCJuZXQiOiJ3cyIsImhvc3QiOiI4NDg3OWNhYjY1OGQ0OWQ5YTk4NWFhODVjOWYxYTM2Mi5tb2Jnc2xiLnRiY2FjaGUuY29tIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjQ4IiwiaWQiOiJiMDI1NTJlMS01MjRjLTRkNGUtYWM4YS1jZWJhOGUzMWNiOGUiLCJuZXQiOiJ3cyIsImhvc3QiOiI4NDg3OWNhYjY1OGQ0OWQ5YTk4NWFhODVjOWYxYTM2Mi5tb2Jnc2xiLnRiY2FjaGUuY29tIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjIyIiwiaWQiOiJiNjU1ZmEwOS00MGI4LTQzMTctYTcxMy04N2E3OTNkZGU5ZDAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiODgzMTQ3ZGMxMmRiNThlMDk0ZTNmMTNlMjAyZmUyMGMubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjMyIiwiaWQiOiJkNTJiNzJiMC1hNTA5LTQ5MGEtYWRhZS0yM2RhMjM0OGQyOWMiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiODJkMTZmM2ExMmFkMWQwODcxZTAyNzA1MTBiZjJlZjYubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjQxIiwiaWQiOiI5MDRmMDU2OS04Njk1LTQ2NmYtOTdjZi0wZGUyZmFjZTFiNDYiLCJuZXQiOiJ3cyIsImhvc3QiOiJmOTMwOWNjODg2MzdjMjZmNTUyYTFhNjRmYjMxMWNhZS5tb2Jnc2xiLnRiY2FjaGUuY29tIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsInBvcnQiOiI4MCIsImlkIjoiNDc5NTI2Y2QtNTAxMS00M2NmLWE3ODgtNTA0ZGE5NWUwN2MyIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmZvcnRyZXNzaG9zdC5pci4ifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIHwgQW50aS1SS04iLCJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsInBvcnQiOiI4MCIsImlkIjoiNDc5NTI2Y2QtNTAxMS00M2NmLWE3ODgtNTA0ZGE5NWUwN2MyIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlLCBQYXJpcyB8IEFudGktUktOIiwiYWRkIjoiMTM5LjY0LjE2Ny44OCIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ2c3BlZWRmYXN0Lm9yZyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InZzcGVlZGZhc3Qub3JnIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlLCBQYXJpcyB8IEFudGktUktOIiwiYWRkIjoiMTM5LjY0LjE2Ny44OCIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ2c3BlZWRmYXN0Lm9yZyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 https://178.237.108.214:443#🇫🇷 France | Anti-RKN
 https://195.200.166.126:443#🇫🇷 France, Paris | Anti-RKN
@@ -324,107 +321,78 @@ https://92.243.21.68:443#🇫🇷 France | Anti-RKN
 https://199.247.9.224:443#🇫🇷 France, Aubervilliers | Anti-RKN
 https://141.94.16.250:443#🇫🇷 France | Anti-RKN
 https://45.13.104.49:443#🇫🇷 France, Paris | Anti-RKN
-https://13.38.105.224:443#🇫🇷 France, Paris | Anti-RKN
-https://13.38.72.164:443#🇫🇷 France, Paris | Anti-RKN
-https://15.237.182.197:443#🇫🇷 France, Paris | Anti-RKN
-https://15.237.143.28:443#🇫🇷 France, Paris | Anti-RKN
-https://15.237.189.142:443#🇫🇷 France, Paris | Anti-RKN
-https://15.237.249.75:443#🇫🇷 France, Paris | Anti-RKN
-https://15.237.143.48:443#🇫🇷 France, Paris | Anti-RKN
-https://15.237.190.69:443#🇫🇷 France, Paris | Anti-RKN
-https://15.224.219.203:443#🇫🇷 France, Paris | Anti-RKN
-https://13.39.158.152:443#🇫🇷 France, Paris | Anti-RKN
-https://35.180.226.222:443#🇫🇷 France, Paris | Anti-RKN
-https://35.181.6.238:443#🇫🇷 France, Paris | Anti-RKN
-https://51.44.82.101:443#🇫🇷 France, Paris | Anti-RKN
-https://15.224.224.175:443#🇫🇷 France, Paris | Anti-RKN
-https://15.224.226.138:443#🇫🇷 France, Paris | Anti-RKN
-https://35.180.88.203:443#🇫🇷 France, Paris | Anti-RKN
-https://35.180.75.124:443#🇫🇷 France, Paris | Anti-RKN
-https://35.180.193.71:443#🇫🇷 France, Paris | Anti-RKN
-https://51.44.165.6:443#🇫🇷 France, Paris | Anti-RKN
-https://15.237.215.124:443#🇫🇷 France, Paris | Anti-RKN
-https://15.237.183.177:443#🇫🇷 France, Paris | Anti-RKN
 https://15.237.211.226:443#🇫🇷 France, Paris | Anti-RKN
-https://15.237.177.31:443#🇫🇷 France, Paris | Anti-RKN
 https://82.64.46.151:8030#🇫🇷 France | Anti-RKN
-https://35.180.4.216:443#🇫🇷 France, Paris | Anti-RKN
-https://15.188.23.183:443#🇫🇷 France, Paris | Anti-RKN
-https://15.224.19.59:443#🇫🇷 France, Paris | Anti-RKN
-https://15.224.222.94:443#🇫🇷 France, Paris | Anti-RKN
-https://35.181.167.227:443#🇫🇷 France, Paris | Anti-RKN
-https://35.181.60.238:443#🇫🇷 France, Paris | Anti-RKN
-https://15.188.143.165:443#🇫🇷 France, Paris | Anti-RKN
-https://15.188.84.253:443#🇫🇷 France, Paris | Anti-RKN
-https://51.44.182.37:443#🇫🇷 France, Paris | Anti-RKN
-https://51.44.163.254:443#🇫🇷 France, Paris | Anti-RKN
-https://15.236.95.10:443#🇫🇷 France, Paris | Anti-RKN
-https://15.236.144.91:443#🇫🇷 France, Paris | Anti-RKN
-https://51.44.12.30:443#🇫🇷 France, Paris | Anti-RKN
 https://51.15.185.53:443#🇫🇷 France, Paris | Anti-RKN
-http://173.212.207.102:1214#🇫🇷 France, Lauterbourg | Anti-RKN
 http://40.89.145.14:80#🇫🇷 France, Paris | Anti-RKN
 socks4://95.178.108.189:5678#🇫🇷 France, Clamart | Anti-RKN
 http://163.172.167.48:80#🇫🇷 France, Paris | Anti-RKN
+http://188.165.199.207:80#🇫🇷 France | Anti-RKN
 socks5://147.45.42.90:9050#🇫🇷 France, Paris | Anti-RKN
 socks4://147.45.42.90:9050#🇫🇷 France, Paris | Anti-RKN
 socks5://38.242.158.117:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 socks4://38.242.158.117:9050#🇫🇷 France, Lauterbourg | Anti-RKN
-http://31.220.78.244:80#🇫🇷 France, Lauterbourg | Anti-RKN
+http://51.75.206.209:80#🇫🇷 France | Anti-RKN
 socks4://144.91.82.219:9050#🇫🇷 France, Lauterbourg | Anti-RKN
-http://51.38.129.42:3169#🇫🇷 France | Anti-RKN
-socks5://82.21.200.56:1080#🇫🇷 France, Vélizy-Villacoublay | Anti-RKN
-socks5://144.91.82.211:9050#🇫🇷 France, Lauterbourg | Anti-RKN
+socks5://109.199.96.116:9050#🇫🇷 France, Lauterbourg | Anti-RKN
+socks5://161.97.153.238:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 socks5://176.142.245.127:9050#🇫🇷 France, Montpellier | Anti-RKN
+socks5://82.21.200.222:1080#🇫🇷 France, Vélizy-Villacoublay | Anti-RKN
 socks5://144.91.83.56:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 socks5://82.65.237.58:9050#🇫🇷 France | Anti-RKN
 socks5://38.242.156.163:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 socks5://185.171.202.170:9150#🇫🇷 France, Paris | Anti-RKN
 socks5://158.220.101.43:1080#🇫🇷 France, Lauterbourg | Anti-RKN
 socks5://161.97.107.63:9050#🇫🇷 France, Lauterbourg | Anti-RKN
-socks5://194.163.174.78:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 socks5://144.91.83.39:9050#🇫🇷 France, Lauterbourg | Anti-RKN
-socks5://161.97.106.223:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 socks5://92.204.54.29:9100#🇫🇷 France, Strasbourg | Anti-RKN
 socks5://161.97.104.161:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 socks5://79.143.176.216:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 socks5://109.199.107.68:1080#🇫🇷 France, Lauterbourg | Anti-RKN
 socks5://163.172.80.153:1080#🇫🇷 France, Paris | Anti-RKN
-socks5://51.195.102.121:10084#🇫🇷 France | Anti-RKN
-socks5://51.195.102.120:10084#🇫🇷 France | Anti-RKN
 socks5://152.228.134.176:443#🇫🇷 France | Anti-RKN
 socks5://51.159.149.245:80#🇫🇷 France, Paris | Anti-RKN
 http://37.187.109.70:10111#🇫🇷 France | Anti-RKN
 http://51.38.120.110:10010#🇫🇷 France | Anti-RKN
+http://51.195.34.91:10012#🇫🇷 France | Anti-RKN
 http://173.249.50.95:3128#🇫🇷 France, Lauterbourg | Anti-RKN
+http://37.59.138.176:8080#🇫🇷 France | Anti-RKN
 http://82.210.56.251:80#🇫🇷 France | Anti-RKN
 http://144.91.82.219:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 http://185.218.125.70:80#🇫🇷 France, Lauterbourg | Anti-RKN
+http://157.173.120.204:3128#🇫🇷 France, Lauterbourg | Anti-RKN
 http://46.35.9.110:80#🇫🇷 France | Anti-RKN
 http://152.228.217.116:80#🇫🇷 France | Anti-RKN
 http://109.199.119.160:80#🇫🇷 France, Lauterbourg | Anti-RKN
-http://38.242.158.117:9050#🇫🇷 France, Lauterbourg | Anti-RKN
-http://161.97.106.223:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 http://176.191.124.3:80#🇫🇷 France, Grenoble | Anti-RKN
 http://84.46.249.66:3128#🇫🇷 France, Lauterbourg | Anti-RKN
 http://15.236.135.81:80#🇫🇷 France, Paris | Anti-RKN
 http://51.68.124.241:80#🇫🇷 France | Anti-RKN
+http://51.210.247.160:3128#🇫🇷 France | Anti-RKN
+http://51.195.17.233:10003#🇫🇷 France | Anti-RKN
+http://51.38.120.110:10000#🇫🇷 France | Anti-RKN
 socks4://144.91.83.56:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 http://193.218.118.128:1080#🇫🇷 France | Anti-RKN
-http://82.21.200.56:1080#🇫🇷 France, Vélizy-Villacoublay | Anti-RKN
-http://144.91.82.211:9050#🇫🇷 France, Lauterbourg | Anti-RKN
+http://109.199.96.116:9050#🇫🇷 France, Lauterbourg | Anti-RKN
+http://161.97.153.238:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 http://176.142.245.127:9050#🇫🇷 France, Montpellier | Anti-RKN
 http://144.91.83.56:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 http://82.65.237.58:9050#🇫🇷 France | Anti-RKN
 http://38.242.156.163:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 http://185.171.202.170:9150#🇫🇷 France, Paris | Anti-RKN
 socks4://173.249.50.95:3128#🇫🇷 France, Lauterbourg | Anti-RKN
-socks4://163.172.167.48:80#🇫🇷 France, Paris | Anti-RKN
+socks4://188.165.199.207:80#🇫🇷 France | Anti-RKN
+socks4://157.173.120.204:3128#🇫🇷 France, Lauterbourg | Anti-RKN
+socks4://37.187.109.70:10111#🇫🇷 France | Anti-RKN
 socks4://109.199.119.160:80#🇫🇷 France, Lauterbourg | Anti-RKN
-socks4://173.212.207.102:1214#🇫🇷 France, Lauterbourg | Anti-RKN
-socks4://161.97.106.223:9050#🇫🇷 France, Lauterbourg | Anti-RKN
 socks4://38.242.156.163:9050#🇫🇷 France, Lauterbourg | Anti-RKN
+socks4://84.46.249.66:3128#🇫🇷 France, Lauterbourg | Anti-RKN
 socks5://173.249.50.95:3128#🇫🇷 France, Lauterbourg | Anti-RKN
-socks5://163.172.167.48:80#🇫🇷 France, Paris | Anti-RKN
+socks5://188.165.199.207:80#🇫🇷 France | Anti-RKN
+socks5://37.187.109.70:10111#🇫🇷 France | Anti-RKN
 socks5://109.199.119.160:80#🇫🇷 France, Lauterbourg | Anti-RKN
-socks5://173.212.207.102:1214#🇫🇷 France, Lauterbourg | Anti-RKN
+socks5://84.46.249.66:3128#🇫🇷 France, Lauterbourg | Anti-RKN
+socks4://161.97.104.161:9050#🇫🇷 France, Lauterbourg | Anti-RKN
+http://51.195.34.91:10003#🇫🇷 France | Anti-RKN
+http://84.247.171.137:3128#🇫🇷 France, Lauterbourg | Anti-RKN
+http://169.58.175.78:3128#🇫🇷 France, Lauterbourg | Anti-RKN

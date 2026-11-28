@@ -1,12 +1,19 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PE] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
-# servers-count: 3
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 10
 
-socks4://200.106.124.169:1080#🇵🇪 Peru, Tacna | Anti-RKN
+http://38.210.106.24:999#🇵🇪 Peru, Lima | Anti-RKN
+http://209.61.77.188:999#🇵🇪 Peru, Lima | Anti-RKN
 http://200.48.64.107:999#🇵🇪 Peru, El Pedregal | Anti-RKN
+http://200.107.142.38:3128#🇵🇪 Peru | Anti-RKN
+http://200.39.152.193:999#🇵🇪 Peru, Chachapoyas | Anti-RKN
+http://38.158.83.241:999#🇵🇪 Peru, Arequipa | Anti-RKN
+http://38.183.183.114:999#🇵🇪 Peru, Huaura | Anti-RKN
 http://138.186.76.57:999#🇵🇪 Peru, Villa El Salvador | Anti-RKN
+http://190.235.208.51:8081#🇵🇪 Peru, Lima | Anti-RKN
+http://161.132.68.242:3128#🇵🇪 Peru | Anti-RKN

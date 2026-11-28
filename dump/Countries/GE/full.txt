@@ -1,12 +1,15 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [GE] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
-# servers-count: 3
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 6
 
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@206.53.48.103:443?type=grpc&security=reality&fp=firefox&sni=heronfield.xyz&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇬🇪 Georgia, Tbilisi | Anti-RKN
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@94.43.238.112:2083?security=tls&fp=firefox#🇬🇪 Georgia, Tbilisi | Anti-RKN
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@94.43.238.112:2053?security=tls&fp=firefox#🇬🇪 Georgia, Tbilisi | Anti-RKN
 vless://f8cb3c89-32af-4255-bebc-d90aad175069@206.53.48.69:443?type=grpc&security=reality&fp=firefox&sni=gea.kosmosapp.net&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇬🇪 Georgia, Tbilisi | Anti-RKN
+socks4://85.117.32.166:4153#🇬🇪 Georgia | Anti-RKN
 https://195.54.178.210:443#🇬🇪 Georgia, Tbilisi | Anti-RKN
-http://45.143.108.115:8080#🇬🇪 Georgia, Zestaponi | Anti-RKN

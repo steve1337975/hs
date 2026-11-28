@@ -1,49 +1,36 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SG] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
-# servers-count: 385
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 384
 
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?type=ws&security=tls&fp=firefox&host=free-server.techsonic.dev&sni=free-server.techsonic.dev&path=%2f%252Ffree-server.techsonic.dev#🇸🇬 Singapore, Singapore | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBTaW5nYXBvcmUgfCBBbnRpLVJLTiIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInNjeSI6ImF1dG8iLCJwYXRoIjoiLzRiYzAyN2E0NDUzMiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBTaW5nYXBvcmUgfCBBbnRpLVJLTiIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInNjeSI6ImF1dG8ifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBTaW5nYXBvcmUgfCBBbnRpLVJLTiIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInNjeSI6ImF1dG8ifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBTaW5nYXBvcmUgfCBBbnRpLVJLTiIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInNjeSI6ImF1dG8iLCJob3N0Ijoid3cxMS5sZXZpa29namdmZGQuaXIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBTaW5nYXBvcmUgfCBBbnRpLVJLTiIsImFkZCI6IjE5NS4xMzMuMTM1LjIzOCIsInBvcnQiOiIxMDA4NiIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwic2N5IjoiYXV0byJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlIHwgQW50aS1SS04iLCJhZGQiOiI4LjIyMi4xNzIuMTQ2IiwicG9ydCI6IjU0MzI3IiwiaWQiOiI4YTNkMDNiYy05YjM1LTQzYjQtZDkwMS1jODUzMWYyYmJjNmQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhZ2VzIn0=
 vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=gateway.icloud.com&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&sid=b2efed6d157e7bb0&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&sid=07a66150eac3db28#🇸🇬 Singapore, Singapore | Anti-RKN
+vless://e3f0c894-0f76-4683-a751-6a93da8fd14d@206.206.78.36:443?security=reality&fp=firefox&sni=www.cloudflare.com&pbk=UOLfRKeEoVxkp-APTF2OlvFkKSoiR2mWzUuhSWxcVmQ&sid=133a3f10a1581047&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.74:19999#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#🇸🇬 Singapore | Anti-RKN
-vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@47.129.252.67:43113?type=tcp&security=reality&fp=firefox&sni=v1-dy.ixigua.com&pbk=EK3prcfF8VKm3CoTXWQguRj67LxGbkPIpKmEUKsMKGs&sid=ff2c978a0b&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
+vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@52.77.253.90:43113?type=tcp&security=reality&fp=firefox&sni=v1-dy.ixigua.com&pbk=EK3prcfF8VKm3CoTXWQguRj67LxGbkPIpKmEUKsMKGs&sid=ff2c978a0b&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://f4ca59b2-767d-3425-8dfc-95a96a0e6802@140.245.113.33:443?type=tcp&security=reality&fp=firefox&sni=learn.microsoft.com&pbk=tF9nKF6amexok5wKbieQ2QRKQI5_ZTFE6MUj1hUBBkY&sid=c940a3b6d60b8611&flow=xtls-rprx-vision#🇸🇬 Singapore, Loyang | Anti-RKN
 vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21003?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&sid=f3602a3a1cf928b7#🇸🇬 Singapore, Singapore | Anti-RKN
-vless://4159303d-25f1-45ff-98f9-7875dd291fbc@18.140.116.202:443?type=tcp&security=reality&fp=firefox&sni=sg-hyp-api.hoyoverse.com&pbk=vUhHTgZiXSho6Nv84w_JZW7Mo7XjJr0TsOBf19Dpols&sid=d493b199be265162&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
-vless://076799f8-d922-4bf1-805d-e758e6eb925f@172.104.55.246:443?type=tcp&security=tls&fp=firefox&sni=free.server.darknetlk.com#🇸🇬 Singapore, Singapore | Anti-RKN
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?type=ws&security=tls&fp=firefox&sni=free-server.techsonic.dev#🇸🇬 Singapore, Singapore | Anti-RKN
-vless://b69cf773-da16-486e-afce-a45b94f998b3@43.134.187.97:8443?type=ws&security=tls&fp=firefox&host=senflarelink-node-2ott2x.pages.dev#🇸🇬 Singapore, Singapore | Anti-RKN
-vless://b69cf773-da16-486e-afce-a45b94f998b3@43.159.41.66:8443?type=ws&security=tls&fp=firefox&host=senflarelink-node-il65vh.pages.dev#🇸🇬 Singapore, Singapore | Anti-RKN
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?type=ws&security=tls&fp=firefox&host=free-server.techsonic.dev&sni=free-server.techsonic.dev#🇸🇬 Singapore, Singapore | Anti-RKN
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@27.50.48.8:443?type=ws&security=tls&fp=firefox&host=vless2-8vx.pages.dev#🇸🇬 Singapore | Anti-RKN
-vless://49b91402-f8e3-4390-9d7b-b7eddc2684a4@47.84.226.221:443?type=tcp&security=reality&fp=firefox&sni=www.samsung.com&pbk=gVQsvRtzd77zlvKW4Gk0dAOJNPRa7cfN1-jVe_AJ8Bo&sid=e1c483f9d4437d42&flow=xtls-rprx-vision#🇸🇬 Singapore | Anti-RKN
-vless://076799f8-d922-4bf1-805d-e758e6eb925f@172.104.55.246:443?type=tcp&security=tls&fp=firefox#🇸🇬 Singapore, Singapore | Anti-RKN
-vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?type=tcp&security=reality&fp=firefox&sni=gateway.icloud.com&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&sid=b2efed6d157e7bb0&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
-vless://2d5d096a-3820-4ea0-939a-3af19270c82b@43.174.246.25:443?encryption=mlkem768x25519plus.native.0rtt.n1yarvqlfhghkjqk_jwjqchjz8t6hyp0_9ywmyw47n4&type=httpupgrade&security=tls&fp=firefox&host=d2h.irandoc.info&sni=base.hrbgc.com&path=%2fup#🇸🇬 Singapore | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBTaW5nYXBvcmUgfCBBbnRpLVJLTiIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInNjeSI6ImF1dG8ifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBTaW5nYXBvcmUgfCBBbnRpLVJLTiIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInNjeSI6ImF1dG8ifQ==
 vless://2098ca45-e61c-4a92-ad7d-8badb6b154f4@167.150.100.106:443?security=reality&fp=firefox&sni=sg-sin1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbUZrTg==@146.19.196.142:8388#🇸🇬 Singapore, Singapore | Anti-RKN
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@27.50.48.13:443?type=ws&security=tls&fp=firefox&host=vless2-8vx.pages.dev#🇸🇬 Singapore | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999#🇸🇬 Singapore, Singapore | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.47:19999#🇸🇬 Singapore, Singapore | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBTaW5nYXBvcmUgfCBBbnRpLVJLTiIsImFkZCI6IjE0OS44OC4xMDcuNTEiLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1Iiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOiJmaXJlZm94In0=
+vless://076799f8-d922-4bf1-805d-e758e6eb925f@172.104.55.246:443?type=tcp&security=tls&fp=firefox&sni=free.server.darknetlk.com#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://bbc20d3e-0391-48f1-ad72-90a6802f728e@139.180.215.25:443?type=ws&security=reality&fp=firefox&sni=itunes.apple.com&pbk=ybu5pFdSV23WsnMNhbpa8TwV6TJd6NLZ6HX-ggww61A&sid=83f673ba&path=%2fws#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:14430?packetEncoding=xudp&type=ws&host=178.94.25.73&path=%2fvless#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21001?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&sid=a51c3ccb2320024a#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@129.221.163.34:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇸🇬 Singapore, Loyang | Anti-RKN
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬 Singapore, Singapore | Anti-RKN
+vless://633abdfb-ccea-4e59-a062-fc8698512467@142.91.103.108:443?type=tcp&security=tls&fp=firefox&sni=zoom.us#🇸🇬 Singapore | Anti-RKN
 http://43.156.236.238:80#🇸🇬 Singapore, Singapore | Anti-RKN
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@140.245.63.155:24999?security=tls&fp=firefox#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://7f0270f9-1abc-4c4f-960d-0a23e32f1eb8@139.162.20.241:443?packetEncoding=xudp&type=ws&security=reality&fp=firefox&sni=itunes.apple.com&pbk=fG1u2AZj5pgSNWO3MBmkoY6K61xBwnuYX3_z1fSeR0o&sid=640c807d&path=%2fws#🇸🇬 Singapore, Singapore | Anti-RKN
 http://104.248.151.93:9090#🇸🇬 Singapore, Singapore | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlIHwgQW50aS1SS04iLCJhZGQiOiI4LjIyMi4xNzIuMTQ2IiwicG9ydCI6IjU0MzI3IiwiaWQiOiI4YTNkMDNiYy05YjM1LTQzYjQtZDkwMS1jODUzMWYyYmJjNmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGFnZXMifQ==
@@ -60,23 +47,28 @@ http://128.199.254.13:9090#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#🇸🇬 Singapore | Anti-RKN
 vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?packetEncoding=xudp&type=tcp#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://f4ca59b2-767d-3425-8dfc-95a96a0e6802@140.245.113.33:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=learn.microsoft.com&pbk=tF9nKF6amexok5wKbieQ2QRKQI5_ZTFE6MUj1hUBBkY&sid=c940a3b6d60b8611&flow=xtls-rprx-vision#🇸🇬 Singapore, Loyang | Anti-RKN
-vless://51d16b84-aa13-4150-9763-b2f517b4d776@23.111.14.130:17490?type=tcp&security=tls&fp=firefox&sni=www.microsoft.com#🇸🇬 Singapore | Anti-RKN
 vless://569b5df8-ffab-4e9f-b999-21479d7a62a6@142.91.101.39:627?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=9qohadlkywguh.hlf9x1796lkopyju2kplt9c9smz1vyuv0u8azzk.workers.dev&sni=9qohadlkywguh.hlf9x1796lkopyju2kplt9c9smz1vyuv0u8azzk.workers.dev&path=%2f%40Marisa_kristi#🇸🇬 Singapore | Anti-RKN
 http://159.223.41.216:9090#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.156.62.218:443?type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21004?security=reality&fp=firefox&sni=www.cloudflare.com&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&sid=4e0418d648f86141#🇸🇬 Singapore, Singapore | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBTaW5nYXBvcmUgfCBBbnRpLVJLTiIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSJ9
+vless://59413788-5d3f-4860-8fbb-d411b82cb4eb@23.111.14.130:443?type=tcp&security=tls&fp=firefox&sni=t.me#🇸🇬 Singapore | Anti-RKN
 socks5://8888:8888@47.236.168.243:1080#🇸🇬 Singapore | Anti-RKN
+trojan://sshs8_6481354771@86.38.247.109:2087?security=tls&fp=firefox&sni=ul-singapore1.09vpn.com#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=video.yandex.ru&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
+vless://076799f8-d922-4bf1-805d-e758e6eb925f@172.104.55.246:443?type=tcp&security=tls&fp=firefox#🇸🇬 Singapore, Singapore | Anti-RKN
 http://167.172.76.176:9090#🇸🇬 Singapore, Singapore | Anti-RKN
 http://43.153.195.69:80#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://a28d0884-193d-4591-aa64-8638ba1481ce@172.104.48.194:443?type=ws&security=reality&fp=firefox&sni=itunes.apple.com&pbk=u_4r8NRmRsN5Ndbt0koyC73DLC7mCcK4wAA0YiIR4ko&sid=b0af872e&path=%2fws#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://2b30d0df-6ebe-4aed-9bad-b7c554e35e1d@139.180.221.53:443?type=ws&security=reality&fp=firefox&sni=itunes.apple.com&pbk=plfXwkb-ewI6iibJBTRmPnf8eqPId1BfdArMIm3_mB4&sid=2f6f6f87&path=%2fws#🇸🇬 Singapore, Singapore | Anti-RKN
-vless://c1788162-2ad9-48f4-b7a1-717c58938dba@43.174.247.25:443?encryption=mlkem768x25519plus.native.0rtt.N1YARVQLfhGHkJqK_JWjqchjZ8t6HyP0_9YWmYw47n4&type=httpupgrade&security=tls&fp=firefox&host=d2h.irandoc.info&sni=www.binodes.com&path=%2fup#🇸🇬 Singapore | Anti-RKN
+vless://e3f0c894-0f76-4683-a751-6a93da8fd14d@206.206.78.36:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=UOLfRKeEoVxkp-APTF2OlvFkKSoiR2mWzUuhSWxcVmQ&sid=133a3f10a1581047&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
+vless://c1788162-2ad9-48f4-b7a1-717c58938dba@43.174.246.25:443?encryption=mlkem768x25519plus.native.0rtt.N1YARVQLfhGHkJqK_JWjqchjZ8t6HyP0_9YWmYw47n4&type=httpupgrade&security=tls&fp=firefox&host=d2h.irandoc.info&sni=www.binodes.com&path=%2fup#🇸🇬 Singapore | Anti-RKN
 vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21004?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&sid=4e0418d648f86141#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://49b91402-f8e3-4390-9d7b-b7eddc2684a4@47.84.226.221:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=www.samsung.com&pbk=gVQsvRtzd77zlvKW4Gk0dAOJNPRa7cfN1-jVe_AJ8Bo&sid=e1c483f9d4437d42&flow=xtls-rprx-vision#🇸🇬 Singapore | Anti-RKN
+vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?type=tcp&security=reality&fp=firefox&sni=gateway.icloud.com&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&sid=b2efed6d157e7bb0&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
 http://43.156.237.221:80#🇸🇬 Singapore, Singapore | Anti-RKN
 http://167.99.74.174:9090#🇸🇬 Singapore, Singapore | Anti-RKN
+vless://59413788-5d3f-4860-8fbb-d411b82cb4eb@23.111.14.130:443?type=tcp&security=tls&fp=firefox&sni=m.zoom.us#🇸🇬 Singapore | Anti-RKN
 http://47.129.130.0:26308#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://bcdb425f-80bc-4ec8-92a5-8edf53639c01@207.148.124.12:8443?packetEncoding=none&type=tcp&security=tls&fp=firefox&sni=www.bing.com#🇸🇬 Singapore, Singapore | Anti-RKN
 http://146.190.80.158:9090#🇸🇬 Singapore, Singapore | Anti-RKN
@@ -100,7 +92,7 @@ http://43.159.54.178:80#🇸🇬 Singapore, Singapore | Anti-RKN
 http://13.215.184.250:36382#🇸🇬 Singapore, Singapore | Anti-RKN
 http://68.183.226.190:9090#🇸🇬 Singapore, Singapore | Anti-RKN
 http://152.42.170.187:9090#🇸🇬 Singapore, Singapore | Anti-RKN
-vless://633abdfb-ccea-4e59-a062-fc8698512467@142.91.103.108:443?type=tcp&security=tls&fp=firefox&sni=www.googleapis.cn#🇸🇬 Singapore | Anti-RKN
+vless://59413788-5d3f-4860-8fbb-d411b82cb4eb@23.111.14.130:443?type=tcp&security=tls&fp=firefox&sni=aka.ms#🇸🇬 Singapore | Anti-RKN
 vless://7f0270f9-1abc-4c4f-960d-0a23e32f1eb8@139.162.20.241:443?type=ws&security=reality&fp=firefox&sni=itunes.apple.com&pbk=fG1u2AZj5pgSNWO3MBmkoY6K61xBwnuYX3_z1fSeR0o&sid=640c807d&path=%2fws#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21002?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&sid=d9a6b52e98121db2#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://92d67828-4c56-4795-af5a-f387651380dc@140.245.120.16:443?type=ws&security=tls&fp=firefox&host=trackydev.site&sni=trackydev.site#🇸🇬 Singapore, Loyang | Anti-RKN
@@ -211,14 +203,15 @@ vless://2864749a-b45d-52c3-0f36-e64224f5480f@139.59.230.18:443?type=tcp&security
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@157.230.254.149:443?type=tcp&security=reality&fp=firefox&sni=www.ocbc.com&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://2864749a-b45d-52c3-0f36-e64224f5480f@159.89.198.1:443?type=tcp&security=reality&fp=firefox&sni=unpkg.com&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.2:443?type=ws&security=tls&fp=firefox&host=carlotta.shorekeeper.cloudns.org&sni=carlotta.shorekeeper.cloudns.org&path=%2fproxyip%3dzani.yaemiko.ggff.net#🇸🇬 Singapore | Anti-RKN
-vless://317c8bd5-2e89-4bfb-9513-a37b8e29427f@43.174.246.27:443?type=ws&security=tls&fp=firefox&host=mail.mmadcoffee.info&sni=sni.mmadcoffee.info&path=%2f19426%2fmmad#🇸🇬 Singapore | Anti-RKN
+vless://317c8bd5-2e89-4bfb-9513-a37b8e29427f@43.174.247.27:443?type=ws&security=tls&fp=firefox&host=mail.mmadcoffee.info&sni=sni.mmadcoffee.info&path=%2f19426%2fmmad#🇸🇬 Singapore | Anti-RKN
 vless://32cf52f4-b8d2-4ed5-a37c-0d0a8e743309@206.206.76.75:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=gSHylaTvEzWj19Bk-zLHXKYUINGWVmo_ybCiD2CRinE&sid=a775360a48ef5cfb&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://401374e6-df77-41fb-f638-dad8184f175b@27.50.48.192:443?type=grpc&security=tls&fp=firefox&sni=vp28.hiddendom.shop#🇸🇬 Singapore | Anti-RKN
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@206.238.236.46:8880?type=ws&host=digitalscientificresearchgroup.ir&path=%2fTM%254...#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.236.61:443?type=ws&security=tls&fp=firefox&sni=xj.ylks.xyz&path=%2fblue#🇸🇬 Singapore, Singapore | Anti-RKN
+vless://49b91402-f8e3-4390-9d7b-b7eddc2684a4@47.84.226.221:443?type=tcp&security=reality&fp=firefox&sni=www.samsung.com&pbk=gVQsvRtzd77zlvKW4Gk0dAOJNPRa7cfN1-jVe_AJ8Bo&sid=e1c483f9d4437d42&flow=xtls-rprx-vision#🇸🇬 Singapore | Anti-RKN
 vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?type=tcp&security=reality&fp=firefox&sni=www.tesla.com&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&sid=38d72071&flow=xtls-rprx-vision#🇸🇬 Singapore, Loyang | Anti-RKN
 vless://5a11a29f-59c6-41eb-81d5-855d43822ad0@5.199.166.210:443?type=tcp&security=reality&fp=firefox&sni=www.google.com&pbk=VUiT7LrDSuUoPwDTrvpw6U7PeHUNfnFxPqH985EgRFc&sid=0b827cef&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@18.141.3.249:32134?type=tcp&security=reality&fp=firefox&sni=buylite.music.apple.com&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@18.142.105.220:32134?type=tcp&security=reality&fp=firefox&sni=buylite.music.apple.com&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://62357561-a129-4b9e-9614-ce2578020866@206.238.237.212:443?type=ws&host=edg.comorg.us.kg#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.187.36.104:443?type=ws&security=tls&fp=firefox&host=werrr.azurewebsites.net&sni=werrr.azurewebsites.net#🇸🇬 Singapore, Singapore | Anti-RKN
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@206.238.236.101:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=vb.zhuk.us.kg&sni=vb.zhuk.us.kg&path=%2fProxyIP%3dProxyIP.US.fxxk.dedyn.io#🇸🇬 Singapore, Singapore | Anti-RKN
@@ -333,17 +326,21 @@ socks5://47.237.92.86:4916#🇸🇬 Singapore | Anti-RKN
 socks5://47.237.92.86:10#🇸🇬 Singapore | Anti-RKN
 socks5://43.160.245.155:8080#🇸🇬 Singapore, Singapore | Anti-RKN
 socks5://47.237.92.86:9080#🇸🇬 Singapore | Anti-RKN
+http://47.236.86.147:443#🇸🇬 Singapore | Anti-RKN
 http://47.84.193.119:8080#🇸🇬 Singapore | Anti-RKN
+socks5://8.222.249.220:10809#🇸🇬 Singapore | Anti-RKN
 socks5://128.199.202.122:1080#🇸🇬 Singapore, Singapore | Anti-RKN
 socks5://43.156.118.60:9050#🇸🇬 Singapore, Singapore | Anti-RKN
 socks5://47.237.2.245:6379#🇸🇬 Singapore | Anti-RKN
 socks5://8.219.229.53:59394#🇸🇬 Singapore | Anti-RKN
 socks5://8.219.229.53:176#🇸🇬 Singapore | Anti-RKN
-socks5://167.71.204.247:9050#🇸🇬 Singapore, Singapore | Anti-RKN
 socks5://129.150.47.213:9050#🇸🇬 Singapore, Loyang | Anti-RKN
 socks5://8.219.94.23:7890#🇸🇬 Singapore, Singapore | Anti-RKN
+socks5://8.222.249.220:1080#🇸🇬 Singapore | Anti-RKN
+socks5://45.38.210.105:9050#🇸🇬 Singapore, Singapore | Anti-RKN
 socks5://47.237.203.213:1080#🇸🇬 Singapore | Anti-RKN
 socks5://47.245.99.1:1080#🇸🇬 Singapore | Anti-RKN
+socks5://8.219.69.210:443#🇸🇬 Singapore, Singapore | Anti-RKN
 socks5://34.124.190.108:8080#🇸🇬 Singapore, Singapore | Anti-RKN
 socks5://140.245.36.86:1080#🇸🇬 Singapore, Singapore | Anti-RKN
 socks5://8.222.170.146:1111#🇸🇬 Singapore | Anti-RKN
@@ -353,8 +350,10 @@ socks5://152.69.211.50:40001#🇸🇬 Singapore, Loyang | Anti-RKN
 socks5://47.237.0.133:1088#🇸🇬 Singapore | Anti-RKN
 socks5://47.236.246.201:1100#🇸🇬 Singapore | Anti-RKN
 http://47.237.107.41:808#🇸🇬 Singapore | Anti-RKN
+http://185.250.38.211:3128#🇸🇬 Singapore, Singapore | Anti-RKN
 http://47.237.113.119:1000#🇸🇬 Singapore | Anti-RKN
 http://47.237.113.119:8443#🇸🇬 Singapore | Anti-RKN
+http://47.245.117.43:80#🇸🇬 Singapore | Anti-RKN
 http://47.84.65.214:3128#🇸🇬 Singapore | Anti-RKN
 http://47.84.84.1:3128#🇸🇬 Singapore | Anti-RKN
 http://165.154.236.214:80#🇸🇬 Singapore | Anti-RKN
@@ -363,16 +362,15 @@ http://47.237.113.119:8118#🇸🇬 Singapore | Anti-RKN
 http://43.160.245.155:8080#🇸🇬 Singapore, Singapore | Anti-RKN
 http://8.219.229.53:1026#🇸🇬 Singapore | Anti-RKN
 http://128.199.202.122:8080#🇸🇬 Singapore, Singapore | Anti-RKN
-http://138.2.64.185:8118#🇸🇬 Singapore, Loyang | Anti-RKN
 http://8.219.94.23:7890#🇸🇬 Singapore, Singapore | Anti-RKN
+http://62.146.235.24:8080#🇸🇬 Singapore, Singapore | Anti-RKN
 socks4://43.160.245.155:8080#🇸🇬 Singapore, Singapore | Anti-RKN
 socks4://8.219.229.53:8999#🇸🇬 Singapore | Anti-RKN
 socks4://8.219.229.53:118#🇸🇬 Singapore | Anti-RKN
+http://152.42.192.59:3128#🇸🇬 Singapore, Singapore | Anti-RKN
 socks5://47.237.92.86:10250#🇸🇬 Singapore | Anti-RKN
 socks5://47.237.92.86:104#🇸🇬 Singapore | Anti-RKN
-http://43.160.246.46:3128#🇸🇬 Singapore, Singapore | Anti-RKN
 socks5://usereb7d:c0a34a@66.80.2.252:62000#🇸🇬 Singapore, Singapore | Anti-RKN
-http://121.50.218.196:8080#🇸🇬 Singapore, Singapore | Anti-RKN
 http://128.199.202.122:1080#🇸🇬 Singapore, Singapore | Anti-RKN
 http://8.219.122.8:9999#🇸🇬 Singapore, Singapore | Anti-RKN
 http://43.156.118.60:9050#🇸🇬 Singapore, Singapore | Anti-RKN
@@ -385,10 +383,11 @@ socks5://47.84.65.214:3128#🇸🇬 Singapore | Anti-RKN
 socks5://47.237.113.119:8118#🇸🇬 Singapore | Anti-RKN
 socks5://8.219.229.53:1026#🇸🇬 Singapore | Anti-RKN
 socks5://128.199.202.122:8080#🇸🇬 Singapore, Singapore | Anti-RKN
-http://139.59.103.183:80#🇸🇬 Singapore, Singapore | Anti-RKN
-socks4://8.219.229.53:111#🇸🇬 Singapore | Anti-RKN
-socks5://8.219.229.53:9080#🇸🇬 Singapore | Anti-RKN
-socks5://8.219.229.53:6379#🇸🇬 Singapore | Anti-RKN
-socks5://8.219.229.53:8443#🇸🇬 Singapore | Anti-RKN
-socks5://8.219.229.53:8081#🇸🇬 Singapore | Anti-RKN
-socks5://8.219.229.53:5060#🇸🇬 Singapore | Anti-RKN
+http://47.237.113.119:14#🇸🇬 Singapore | Anti-RKN
+http://47.237.113.119:9000#🇸🇬 Singapore | Anti-RKN
+http://47.237.113.119:16044#🇸🇬 Singapore | Anti-RKN
+http://15.235.156.238:3128#🇸🇬 Singapore | Anti-RKN
+http://8.219.229.53:2000#🇸🇬 Singapore | Anti-RKN
+http://8.219.229.53:8081#🇸🇬 Singapore | Anti-RKN
+http://178.128.223.15:3128#🇸🇬 Singapore, Singapore | Anti-RKN
+vless://4159303d-25f1-45ff-98f9-7875dd291fbc@18.140.116.202:443?type=tcp&security=reality&fp=firefox&sni=sg-hyp-api.hoyoverse.com&pbk=vUhHTgZiXSho6Nv84w_JZW7Mo7XjJr0TsOBf19Dpols&sid=d493b199be265162&flow=xtls-rprx-vision#🇸🇬 Singapore, Singapore | Anti-RKN

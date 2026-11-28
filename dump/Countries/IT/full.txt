@@ -1,19 +1,14 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IT] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827432068
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 20:01:08
-# servers-count: 72
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 77
 
-ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@91.201.65.122:9053#🇮🇹 Italy, Palermo | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@91.201.65.122:9059#🇮🇹 Italy, Palermo | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@91.201.65.122:9039#🇮🇹 Italy, Palermo | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6VHlOa0dtcDloczZlR3BESw==@91.201.65.122:9092#🇮🇹 Italy, Palermo | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6UGVIU0htNVNxRWpCdUVYRQ==@91.201.65.122:9065#🇮🇹 Italy, Palermo | Anti-RKN
-vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&sid=cd6065902eea7a02&flow=xtls-rprx-vision#🇮🇹 Italy, Milan | Anti-RKN
-vless://b19de1da-6841-4266-8250-fd91a0010ba7@31.76.113.94:8443?type=grpc&security=reality&fp=firefox&sni=ya.ru&pbk=V-BZWAlTakICVLt6AyVFmFyipXV0mKaUQHsZkiBDJEY&sid=a1b2c3d4e5f6a7b8&serviceName=k7f3qx9api#🇮🇹 Italy, Milan | Anti-RKN
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@194.180.207.155:443?type=grpc&security=reality&fp=firefox&sni=duskbrook.xyz&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇮🇹 Italy, Milan | Anti-RKN
+vless://29f178f7-f96f-46ba-8fc0-bbcd690ba788@82.118.16.189:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=zmo2VkZkfjh2kWjaRghXUs39ImQo87LmPhjvzbX3yB4&sid=1e9a49dd374c1191&flow=xtls-rprx-vision#🇮🇹 Italy, Milan | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#🇮🇹 Italy, Milan | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#🇮🇹 Italy, Milan | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#🇮🇹 Italy, Milan | Anti-RKN
@@ -23,12 +18,16 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#🇮🇹 Italy, Milan | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#🇮🇹 Italy, Milan | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#🇮🇹 Italy, Milan | Anti-RKN
+vless://29f178f7-f96f-46ba-8fc0-bbcd690ba788@82.118.16.189:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=zmo2VkZkfjh2kWjaRghXUs39ImQo87LmPhjvzbX3yB4&sid=1e9a49dd374c1191&flow=xtls-rprx-vision#🇮🇹 Italy, Milan | Anti-RKN
+vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&sid=cd6065902eea7a02&flow=xtls-rprx-vision#🇮🇹 Italy, Milan | Anti-RKN
 http://146.247.66.143:8080#🇮🇹 Italy, Borso del Grappa | Anti-RKN
 vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&sid=cd6065902eea7a02&flow=xtls-rprx-vision#🇮🇹 Italy, Milan | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7kgSXRhbHksIE1pbGFuIHwgQW50aS1SS04iLCJhZGQiOiI2Ni4xNjMuMTE5LjEyNiIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJwYWhvYmFjLm9yZyIsInBhdGgiOiIvbGlua3Z3cyJ9
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@185.213.20.133:443?type=tcp&security=reality&fp=firefox&sni=example.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#🇮🇹 Italy | Anti-RKN
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@212.2.35.249:443?type=tcp&security=reality&fp=firefox&sni=example.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#🇮🇹 Italy, Venice | Anti-RKN
 vless://e2bfac1b-5f89-49a2-80af-965af6e59e7b@217.12.219.118:443?type=tcp&security=reality&fp=firefox&sni=it-cdn.xhttp.dev&pbk=RHft3k9A1v9U-vt4m5NxZ7CR1tEZDx-IAXdpybHa4gE&sid=4640a2f00a8b7e07&flow=xtls-rprx-vision#🇮🇹 Italy, Milan | Anti-RKN
 hysteria2://ca60984f-b1f0-4073-bd33-4c75168f749a@45.137.201.211:443?sni=wwe.fantoff.online#🇮🇹 Italy, Milan | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZTRjM2lzb3Z3OHBqbmc0@57.131.21.102:8080#🇮🇹 Italy | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#🇮🇹 Italy | Anti-RKN
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#🇮🇹 Italy, Milan | Anti-RKN
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.27.21:8388#🇮🇹 Italy | Anti-RKN
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#🇮🇹 Italy | Anti-RKN
@@ -73,9 +72,15 @@ http://84.8.248.36:8686#🇮🇹 Italy, Rivoli | Anti-RKN
 socks5://80.211.131.230:9050#🇮🇹 Italy, Arezzo | Anti-RKN
 socks5://77.81.230.90:9050#🇮🇹 Italy, Arezzo | Anti-RKN
 socks5://188.215.44.164:1080#🇮🇹 Italy, Reggio Emilia | Anti-RKN
+http://2.237.63.228:80#🇮🇹 Italy, Agrigento | Anti-RKN
+http://93.42.151.100:8080#🇮🇹 Italy, Casalecchio di Reno | Anti-RKN
+http://89.40.143.28:7788#🇮🇹 Italy | Anti-RKN
+http://80.211.24.177:3128#🇮🇹 Italy, Arezzo | Anti-RKN
 socks4://46.21.186.252:1080#🇮🇹 Italy, Zanica | Anti-RKN
 http://85.235.150.219:3128#🇮🇹 Italy, Arezzo | Anti-RKN
 http://80.211.131.230:9050#🇮🇹 Italy, Arezzo | Anti-RKN
 socks4://77.242.177.57:3128#🇮🇹 Italy, Biella | Anti-RKN
+socks4://89.40.143.28:7788#🇮🇹 Italy | Anti-RKN
+socks4://80.211.24.177:3128#🇮🇹 Italy, Arezzo | Anti-RKN
 socks5://77.242.177.57:3128#🇮🇹 Italy, Biella | Anti-RKN
-http://5.88.145.106:8080#🇮🇹 Italy, Rome | Anti-RKN
+socks5://80.211.24.177:3128#🇮🇹 Italy, Arezzo | Anti-RKN

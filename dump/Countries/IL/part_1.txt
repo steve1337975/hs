@@ -1,29 +1,25 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IL] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
-# servers-count: 20
+# generated-at: 11/28/2026 10:42:14
+# servers-count: 16
 
-http://51.17.99.116:9087#🇮🇱 Israel, Tel Aviv | Anti-RKN
-http://51.85.44.149:17583#🇮🇱 Israel, Tel Aviv | Anti-RKN
-http://51.85.44.149:12026#🇮🇱 Israel, Tel Aviv | Anti-RKN
-https://62.90.77.30:443#🇮🇱 Israel, Jerusalem | Anti-RKN
-http://51.17.99.135:10801#🇮🇱 Israel, Tel Aviv | Anti-RKN
-trojan://DhRGKU0ex3QxEyLa5JUZcpvtQJvE6A_V@79.182.55.57:443?security=tls&sni=n02.mouse44.site&allowInsecure=0&fp=firefox#🇮🇱 Israel | Anti-RKN
 vless://26843758-24de-4f76-b5d0-624038e353c4@79.182.59.24:443?type=tcp&security=reality&fp=firefox&sni=71b840t.de7.h1clayd.click&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4#🇮🇱 Israel | Anti-RKN
 vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&sid=a3a578ab&flow=xtls-rprx-vision#🇮🇱 Israel, Ashdod | Anti-RKN
 vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@82.27.77.237:25191?type=xhttp&security=reality&fp=firefox&sni=a8687er.se2.h1clayd.click&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&sid=55328e423218ee9b&path=%2fastral-edge-h1#🇮🇱 Israel, Jerusalem | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.55.27:443?type=xhttp&security=reality&fp=firefox&sni=80cb66x.nl13.h1clayd.click&pbk=jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0&sid=f72d4a2c7cbbacb1&path=%2fd610f026b146#🇮🇱 Israel | Anti-RKN
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.55.27:443?packetEncoding=xudp&type=xhttp&security=reality&fp=firefox&sni=80cb66x.nl13.h1clayd.click&pbk=jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0&sid=f72d4a2c7cbbacb1&path=%2fd610f026b146#🇮🇱 Israel | Anti-RKN
+http://51.17.99.116:9087#🇮🇱 Israel, Tel Aviv | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.55.27:443?type=grpc&security=reality&fp=firefox&sni=961ec0g.nl13.h1clayd.click&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&sid=6d289ff0f47c0aac&serviceName=7d5abcd7d8a1#🇮🇱 Israel | Anti-RKN
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.55.27:443?packetEncoding=none&type=xhttp&security=reality&fp=firefox&sni=80cb66x.nl13.h1clayd.click&pbk=jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0&sid=f72d4a2c7cbbacb1&path=%2fd610f026b146#🇮🇱 Israel | Anti-RKN
+http://51.85.44.149:17583#🇮🇱 Israel, Tel Aviv | Anti-RKN
 vless://5fc82aea-2a53-4e45-a822-d1779beb7121@79.180.93.134:32328?type=tcp&security=reality&fp=firefox&sni=amp.shazam.com&pbk=zZI7ClN4bmwLS1XqXJDoFxLUf9Zvl8IxL5QmvavF_BY&sid=bb3633c8&flow=xtls-rprx-vision#🇮🇱 Israel | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.55.27:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=f0d7aft.nl13.h1clayd.click&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2#🇮🇱 Israel | Anti-RKN
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.55.27:443?packetEncoding=none&type=grpc&security=reality&fp=firefox&sni=961ec0g.nl13.h1clayd.click&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&sid=6d289ff0f47c0aac&serviceName=7d5abcd7d8a1#🇮🇱 Israel | Anti-RKN
+http://51.85.44.149:12026#🇮🇱 Israel, Tel Aviv | Anti-RKN
 vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?type=tcp&security=reality&fp=firefox&sni=yahoo.com&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&sid=08bf0000#🇮🇱 Israel | Anti-RKN
 vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.166.143:443?type=tcp&security=reality&fp=firefox&sni=store.steampowered.com&pbk=tboI265nKvT77HoZPyA6bgZNuLap_Jy-XvAx2-4Rcwk&sid=0c1553316a645758&flow=xtls-rprx-vision#🇮🇱 Israel, Tel Aviv | Anti-RKN
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?type=xhttp&security=reality&fp=firefox&sni=res.cdn.office.net&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo#🇮🇱 Israel, Jerusalem | Anti-RKN
 vless://dd9b5b35-c3bb-4e26-8b26-daedffcb3921@45.140.204.119:443?type=tcp&security=reality&fp=firefox&sni=yahoo.com&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&sid=67fb#🇮🇱 Israel | Anti-RKN
+https://62.90.77.30:443#🇮🇱 Israel, Jerusalem | Anti-RKN
+http://51.17.99.135:10801#🇮🇱 Israel, Tel Aviv | Anti-RKN

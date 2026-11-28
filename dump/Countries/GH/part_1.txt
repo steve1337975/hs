@@ -1,13 +1,13 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [GH] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
+# generated-at: 11/28/2026 10:42:14
 # servers-count: 4
 
+socks5://test123:test123@169.255.56.148:1080#🇬🇭 Ghana, Accra | Anti-RKN
 https://164.160.240.37:443#🇬🇭 Ghana | Anti-RKN
 http://41.74.91.244:80#🇬🇭 Ghana | Anti-RKN
 http://156.38.112.11:80#🇬🇭 Ghana, Accra | Anti-RKN
-socks5://test123:test123@169.255.56.148:1080#🇬🇭 Ghana, Accra | Anti-RKN

@@ -1,77 +1,12 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ⚡ HTTPS — BLACK #2
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
-# servers-count: 91
+# generated-at: 11/28/2026 10:42:14
+# servers-count: 24
 
-https://40.192.70.191:20112#🇮🇳 India, Hyderabad | Anti-RKN
-https://102.217.69.75:10443#🇪🇬 Egypt | Anti-RKN
-https://47.243.181.85:42533#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-https://45.91.210.78:1443#🇳🇱 The Netherlands | Anti-RKN
-https://147.157.130.1:443#🇯🇵 Japan | Anti-RKN
-https://45.142.141.5:8443#🇷🇴 Romania | Anti-RKN
-https://51.158.243.91:443#🇳🇱 The Netherlands, Haarlem | Anti-RKN
-https://63.180.250.201:443#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-https://149.50.215.193:9443#🇮🇹 Italy, Milan | Anti-RKN
-https://88.198.122.50:8443#🇩🇪 Germany, Falkenstein | Anti-RKN
-https://31.77.174.111:443#🇺🇸 United States | Anti-RKN
-https://154.44.10.16:9443#🇺🇸 United States, Los Angeles | Anti-RKN
-https://144.126.241.24:443#🇸🇬 Singapore, Singapore | Anti-RKN
-https://206.81.29.40:443#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-https://198.44.138.35:443#🇺🇸 United States, Atlanta | Anti-RKN
-https://38.28.185.194:443#🇺🇸 United States, San Jose | Anti-RKN
-https://38.28.185.202:443#🇺🇸 United States, San Jose | Anti-RKN
-https://38.28.185.221:443#🇺🇸 United States, San Jose | Anti-RKN
-https://38.28.185.220:443#🇺🇸 United States, San Jose | Anti-RKN
-https://185.254.199.113:443#🇳🇱 The Netherlands, Haarlem | Anti-RKN
-https://191.101.179.131:2443#🇦🇪 United Arab Emirates | Anti-RKN
-https://54.169.230.224:443#🇸🇬 Singapore, Singapore | Anti-RKN
-https://82.147.71.46:443#🇷🇺 Russia, Novosibirsk | Anti-RKN
-https://88.210.11.158:9443#🇳🇱 The Netherlands | Anti-RKN
-https://47.243.181.85:42528#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
-https://18.143.90.166:443#🇸🇬 Singapore, Singapore | Anti-RKN
-https://191.101.179.131:4443#🇦🇪 United Arab Emirates | Anti-RKN
-https://154.26.139.24:443#🇸🇬 Singapore, Singapore | Anti-RKN
-https://3.113.38.132:443#🇯🇵 Japan, Tokyo | Anti-RKN
-https://129.146.163.237:8443#🇺🇸 United States, Phoenix | Anti-RKN
-https://31.77.157.210:443#🇳🇱 The Netherlands, Amsterdam | Anti-RKN
-https://185.219.159.110:443#🇱🇻 Latvia | Anti-RKN
-https://185.219.159.107:443#🇱🇻 Latvia | Anti-RKN
-https://185.219.159.133:443#🇱🇻 Latvia | Anti-RKN
-https://185.219.159.109:443#🇱🇻 Latvia | Anti-RKN
-https://23.236.67.191:9000#🇺🇸 United States | Anti-RKN
-https://185.219.159.102:443#🇱🇻 Latvia | Anti-RKN
-https://166.141.204.129:9443#🇺🇸 United States, Jacksonville | Anti-RKN
-https://3.97.6.83:443#🇨🇦 Canada, Montreal | Anti-RKN
-https://74.241.130.174:443#🇸🇪 Sweden | Anti-RKN
-https://188.214.107.108:9443#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-https://179.253.247.191:8443#🇺🇸 United States, Los Angeles | Anti-RKN
-https://45.91.210.78:443#🇳🇱 The Netherlands | Anti-RKN
-https://5.255.120.238:443#🇳🇱 The Netherlands, Dronten | Anti-RKN
-https://161.248.65.133:443#🇮🇳 India | Anti-RKN
-https://140.238.207.23:443#🇦🇺 Australia, Huntingwood | Anti-RKN
-https://154.26.137.225:443#🇸🇬 Singapore, Singapore | Anti-RKN
-https://161.248.64.25:443#🇮🇳 India | Anti-RKN
-https://38.76.194.9:4433#🇺🇸 United States | Anti-RKN
-https://47.254.229.162:443#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-https://138.66.66.229:443#🇮🇹 Italy | Anti-RKN
-https://138.108.28.48:443#🇺🇸 United States | Anti-RKN
-https://138.66.66.136:443#🇮🇹 Italy | Anti-RKN
-https://82.137.178.74:443#🇷🇺 Russia | Anti-RKN
-https://138.66.65.52:443#🇮🇹 Italy | Anti-RKN
-https://15.237.211.226:443#🇫🇷 France, Paris | Anti-RKN
-https://82.64.46.151:8017#🇫🇷 France | Anti-RKN
-https://82.64.46.151:8013#🇫🇷 France | Anti-RKN
-https://134.0.214.206:443#🇴🇲 Oman, Muscat | Anti-RKN
-https://185.73.126.250:443#🇷🇺 Russia, Moscow | Anti-RKN
-https://91.107.190.252:2053#🇩🇪 Germany, Falkenstein | Anti-RKN
-https://195.231.110.164:8448#🇮🇹 Italy, Rimini | Anti-RKN
-https://81.27.101.176:443#🇵🇱 Poland, Warsaw | Anti-RKN
-https://100.21.71.191:443#🇺🇸 United States, Boardman | Anti-RKN
-https://45.33.55.200:443#🇺🇸 United States, Fremont | Anti-RKN
 https://64.31.39.248:443#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 https://86.48.25.241:443#🇺🇸 United States, Carlstadt | Anti-RKN
 https://35.78.47.215:443#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -79,7 +14,6 @@ https://13.208.246.143:11087#🇯🇵 Japan, Osaka | Anti-RKN
 https://51.15.185.53:443#🇫🇷 France, Paris | Anti-RKN
 https://78.12.246.160:15479#🇲🇽 Mexico, Querétaro City | Anti-RKN
 https://51.15.24.45:443#🇳🇱 The Netherlands, Haarlem | Anti-RKN
-https://18.157.159.247:8088#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 https://18.222.231.188:9999#🇺🇸 United States, Columbus | Anti-RKN
 https://3.75.226.35:443#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 https://18.159.104.180:443#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
@@ -93,8 +27,7 @@ https://13.239.253.213:26746#🇦🇺 Australia, Sydney | Anti-RKN
 https://108.137.124.195:31401#🇮🇩 Indonesia, Jakarta | Anti-RKN
 https://18.231.126.121:54311#🇧🇷 Brazil, São Paulo | Anti-RKN
 https://18.175.170.244:6795#🇬🇧 United Kingdom, City of London | Anti-RKN
+https://203.174.15.138:8080#🇮🇩 Indonesia | Anti-RKN
+https://103.156.17.83:8080#🇮🇩 Indonesia | Anti-RKN
 https://52.56.143.248:3128#🇬🇧 United Kingdom, City of London | Anti-RKN
-https://103.172.70.153:8080#🇮🇩 Indonesia, Surakarta | Anti-RKN
-https://139.59.59.122:8118#🇮🇳 India, Bengaluru | Anti-RKN
 https://103.130.61.61:8081#🇮🇩 Indonesia, West Bandung Regency | Anti-RKN
-https://45.228.233.78:999#🇬🇹 Guatemala, Guatemala City | Anti-RKN

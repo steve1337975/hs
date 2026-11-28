@@ -1,16 +1,18 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IQ] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
-# servers-count: 7
+# generated-at: 11/28/2026 10:42:14
+# servers-count: 9
 
-http://109.224.2.58:8080#🇮🇶 Iraq | Anti-RKN
-http://185.135.69.34:80#🇮🇶 Iraq, Al Mansour | Anti-RKN
 vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@178.17.52.31:2087?type=xhttp&security=reality&fp=firefox&sni=maps.blog-forme.ru&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23&path=%2fv2%2fsync%2f6e9367#🇮🇶 Iraq | Anti-RKN
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@178.17.48.50:8443?type=ws&security=tls&fp=firefox&host=v1n4.11676767.xyz&sni=v1n4.11676767.xyz&path=%2fpdf%2fout.html#🇮🇶 Iraq | Anti-RKN
 vless://6da2c981-8c77-4340-bda3-93399b7aea26@178.17.52.236:2083?type=xhttp&security=reality&fp=firefox&sni=maps.blog-forme.ru&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23&path=%2fv2%2fsync%2f6e9367#🇮🇶 Iraq | Anti-RKN
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@178.17.57.45:443?type=tcp&security=reality&fp=firefox&sni=www.bing.com&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&flow=xtls-rprx-vision#🇮🇶 Iraq | Anti-RKN
 vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@193.56.135.233:9543?type=tcp&security=reality&fp=firefox&sni=storage.yandexcloud.net&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcde&flow=xtls-rprx-vision#🇮🇶 Iraq, Erbil | Anti-RKN
+socks4://185.95.186.165:48293#🇮🇶 Iraq | Anti-RKN
+http://185.135.69.34:80#🇮🇶 Iraq, Al Mansour | Anti-RKN
+http://109.224.22.35:51372#🇮🇶 Iraq | Anti-RKN
+socks4://109.224.12.170:52015#🇮🇶 Iraq | Anti-RKN

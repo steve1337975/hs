@@ -1,14 +1,15 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [MT] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
-# servers-count: 5
+# generated-at: 11/28/2026 10:42:14
+# servers-count: 6
 
+trojan://NISHIKUITAN111@193.227.99.226:443?security=tls&fp=firefox#🇲🇹 Malta | Anti-RKN
+trojan://NISHIKUITAN111@193.227.99.60:443?type=ws&security=tls&sni=za.ylks.xyz&host=za.ylks.xyz&path=%2f%2f&fp=firefox#🇲🇹 Malta | Anti-RKN
 trojan://slch2024@193.227.99.195:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇲🇹 Malta | Anti-RKN
 trojan://slch2024@193.227.99.87:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇲🇹 Malta | Anti-RKN
-trojan://NISHIKUITAN111@193.227.99.60:443?type=ws&security=tls&sni=za.ylks.xyz&host=za.ylks.xyz&path=%2f%2f&fp=firefox#🇲🇹 Malta | Anti-RKN
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@193.227.99.234:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2fChannel+id%3a+%40ShadowProxy66%3fed%3d2560#🇲🇹 Malta | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh7kgTWFsdGEgfCBBbnRpLVJLTiIsImFkZCI6IjE5My4yMjcuOTkuMTYwIiwicG9ydCI6Ijg0NDMiLCJpZCI6IjgyNDFkZGM4LWI1YzUtNDc3OC05NjM1LTMzMTcwMGM2ZmY0OCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJqay55bGthLnVzLmtnIiwidGxzIjoidGxzIiwic25pIjoiamsueWxrYS51cy5rZyIsImZwIjoiZmlyZWZveCJ9

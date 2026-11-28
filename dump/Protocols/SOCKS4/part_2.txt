@@ -1,57 +1,33 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ⚡ SOCKS4 — BLACK #2
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
-# servers-count: 48
+# generated-at: 11/28/2026 10:42:14
+# servers-count: 24
 
-socks4://47.251.74.38:3128#🇺🇸 United States | Anti-RKN
-socks4://170.244.0.179:4145#🇧🇷 Brazil, Bom Jesus do Itabapoana | Anti-RKN
-socks4://8.211.51.115:4145#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks4://109.169.5.92:1080#🇬🇧 United Kingdom | Anti-RKN
-socks4://39.102.214.199:7777#🇨🇳 China, Beijing | Anti-RKN
-socks4://81.168.83.246:1080#🇬🇧 United Kingdom | Anti-RKN
-socks4://8.211.195.139:312#🇬🇧 United Kingdom, London | Anti-RKN
-socks4://8.209.96.245:3128#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks4://8.211.51.115:9098#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
-socks4://52.195.147.51:34052#🇯🇵 Japan, Tokyo | Anti-RKN
-socks4://149.129.226.9:8443#🇮🇩 Indonesia, Jakarta | Anti-RKN
-socks4://98.94.14.234:8181#🇺🇸 United States, Ashburn | Anti-RKN
-socks4://103.146.170.65:5678#🇮🇳 India | Anti-RKN
-socks4://209.38.35.154:443#🇳🇱 The Netherlands, Amsterdam | Anti-RKN
-socks4://8.221.139.222:8085#🇯🇵 Japan, Tokyo | Anti-RKN
-socks4://47.84.65.214:3128#🇸🇬 Singapore | Anti-RKN
-socks4://83.143.29.225:1080#🇧🇼 Botswana | Anti-RKN
-socks4://101.255.166.134:80#🇮🇩 Indonesia, Bekasi | Anti-RKN
-socks4://110.238.113.119:8080#🇹🇭 Thailand, Bangkok | Anti-RKN
-socks4://167.99.3.26:7151#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://113.161.251.9:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://171.250.217.32:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://167.99.3.26:6087#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://167.99.3.26:9021#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://116.100.223.69:1080#🇻🇳 Vietnam | Anti-RKN
-socks4://167.99.3.26:7745#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://200.0.227.220:4153#🇦🇷 Argentina, Buenos Aires | Anti-RKN
 socks4://171.248.222.178:1080#🇻🇳 Vietnam | Anti-RKN
-socks4://116.104.52.59:1068#🇻🇳 Vietnam | Anti-RKN
-socks4://213.171.26.67:8008#🇷🇺 Russia | Anti-RKN
-socks4://167.99.3.26:5114#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://31.170.18.129:4153#🇱🇻 Latvia, Saldus | Anti-RKN
-socks4://161.97.153.238:9050#🇫🇷 France, Lauterbourg | Anti-RKN
-socks4://103.146.137.61:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
-socks4://167.99.3.26:5667#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://161.97.104.161:9050#🇫🇷 France, Lauterbourg | Anti-RKN
-socks4://219.93.248.80:4153#🇲🇾 Malaysia, Ipoh | Anti-RKN
-socks4://47.254.36.213:5000#🇺🇸 United States | Anti-RKN
-socks4://47.254.36.213:9999#🇺🇸 United States | Anti-RKN
-socks4://58.187.97.254:1117#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://27.75.156.182:1080#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://167.99.3.26:6951#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://167.99.3.26:6666#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://109.245.110.145:4145#🇷🇸 Serbia, Belgrade | Anti-RKN
+socks4://167.99.3.26:6172#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://158.101.152.7:7890#🇯🇵 Japan, Inzai | Anti-RKN
+socks4://185.135.81.149:9060#🇷🇺 Russia | Anti-RKN
+socks4://167.99.3.26:6914#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://103.173.171.178:4153#🇮🇳 India, Kalaburagi | Anti-RKN
+socks4://8.219.94.23:7890#🇸🇬 Singapore, Singapore | Anti-RKN
+socks4://167.99.3.26:5887#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://161.97.106.223:9050#🇫🇷 France, Lauterbourg | Anti-RKN
+socks4://103.146.137.249:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
+socks4://185.242.107.224:9999#🇱🇻 Latvia, Riga | Anti-RKN
+socks4://82.19.0.114:9150#🇬🇧 United Kingdom, Hinckley | Anti-RKN
+socks4://58.187.97.254:1077#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://167.99.3.26:6519#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://103.146.137.69:1081#🇵🇰 Pakistan, Karachi | Anti-RKN
 socks4://64.83.0.132:1080#🇺🇸 United States, Los Angeles | Anti-RKN
-socks4://171.253.93.127:1117#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
-socks4://8.219.229.53:13#🇸🇬 Singapore | Anti-RKN
-socks4://161.97.107.63:9050#🇫🇷 France, Lauterbourg | Anti-RKN
-socks4://8.219.229.53:4081#🇸🇬 Singapore | Anti-RKN
-socks4://144.24.72.155:20202#🇰🇷 South Korea, Chuncheon | Anti-RKN
-socks4://167.99.3.26:8222#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://178.253.38.101:10808#🇷🇺 Russia, Moscow | Anti-RKN
+socks4://171.253.90.204:1086#🇻🇳 Vietnam, Ho Chi Minh City | Anti-RKN
+socks4://167.99.3.26:5297#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://27.69.71.254:1033#🇻🇳 Vietnam, Nha Trang | Anti-RKN
+socks4://8.212.151.166:3128#🇵🇭 Philippines, Manila | Anti-RKN

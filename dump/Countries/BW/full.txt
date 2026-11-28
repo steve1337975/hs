@@ -1,14 +1,14 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BW] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 02:32:22
+# generated-at: 11/28/2026 10:31:24
 # servers-count: 5
 
+socks4://129.205.244.158:1080#🇧🇼 Botswana, Gaborone | Anti-RKN
 https://168.167.220.27:443#🇧🇼 Botswana, Gaborone | Anti-RKN
 https://168.167.220.28:443#🇧🇼 Botswana, Gaborone | Anti-RKN
 https://129.205.246.123:443#🇧🇼 Botswana, Gaborone | Anti-RKN
-socks4://129.205.244.158:1080#🇧🇼 Botswana, Gaborone | Anti-RKN
-http://129.205.244.158:1080#🇧🇼 Botswana, Gaborone | Anti-RKN
+socks4://83.143.29.225:1080#🇧🇼 Botswana | Anti-RKN

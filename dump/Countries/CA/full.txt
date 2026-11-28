@@ -1,72 +1,125 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CA] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 02:32:22
-# servers-count: 158
+# generated-at: 11/28/2026 10:31:24
+# servers-count: 178
 
-vless://61c9aca3-c23b-4410-a85d-85fda46a76cc@185.218.17.172:443?type=tcp&security=reality&fp=firefox&sni=canwec.kramiliantha.sbs&pbk=oTsYnjjxzyoBI2rJn0TjihgaOcNMPa9bNwHhp4RdDkg&sid=be7d0c9dda4dd4e6&flow=xtls-rprx-vision#🇨🇦 Canada, Vancouver | Anti-RKN
-vless://c0742f77-5495-43bf-b007-88d368774d7c@31.59.156.57:443?type=tcp&security=reality&fp=firefox&sni=canadizian.harcho.shop&pbk=8J-SvgA_FEZG-T-dX5sV2zqnQm4-J6aT1LK6Kk-7pho&sid=b3da8e3ebc600de3&flow=xtls-rprx-vision#🇨🇦 Canada | Anti-RKN
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#🇨🇦 Canada | Anti-RKN
-vless://d3895603-3164-4003-b85c-70f171ab30b5@184.107.179.150:8443?security=reality&fp=firefox&sni=www.kpn.com&pbk=FZvOenkKu_0DspnZA7Nc7xgWhR0_Z0MvqhntPqPchV4&sid=40a4615253b8f75d&flow=xtls-rprx-vision#🇨🇦 Canada | Anti-RKN
-vless://ba373a70-295f-482d-a471-8bc17b54e23b@79.141.166.81:443?type=grpc&security=reality&fp=firefox&sni=hazelforge.xyz&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇨🇦 Canada, Toronto | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBUb3JvbnRvIHwgQW50aS1SS04iLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwic2N5IjoiYXV0byJ9
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
-vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&sid=f98843107912e782&flow=xtls-rprx-vision#🇨🇦 Canada, Toronto | Anti-RKN
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Canada | Anti-RKN
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#🇨🇦 Canada | Anti-RKN
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦 Canada | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&fp=firefox&sni=connectingpeoplewithgreatjobs.com#🇨🇦 Canada, Toronto | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&fp=firefox&sni=courses.connectingpeoplewithgreatjobs.com#🇨🇦 Canada, Toronto | Anti-RKN
 http://35.183.29.62:24659#🇨🇦 Canada, Montreal | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBUb3JvbnRvIHwgQW50aS1SS04iLCJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInNjeSI6ImF1dG8ifQ==
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&fp=firefox&sni=learn.connectingpeoplewithgreatjobs.com#🇨🇦 Canada, Toronto | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBUb3JvbnRvIHwgQW50aS1SS04iLCJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSJ9
 http://23.132.28.60:3128#🇨🇦 Canada, Montreal | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&fp=firefox&sni=blog.connectingpeoplewithgreatjobs.com#🇨🇦 Canada, Toronto | Anti-RKN
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#🇨🇦 Canada | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&fp=firefox&sni=api.connectingpeoplewithgreatjobs.com#🇨🇦 Canada, Toronto | Anti-RKN
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@148.113.196.75:8443?type=ws&security=tls&fp=firefox&sni=ov-canada1.09vpn.com&path=%2fvless%2f#🇨🇦 Canada | Anti-RKN
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?packetEncoding=xudp&type=tcp&security=tls&fp=firefox&sni=kuruish.org#🇨🇦 Canada, Montreal | Anti-RKN
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Canada, Vancouver | Anti-RKN
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#🇨🇦 Canada, Toronto | Anti-RKN
-vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&sid=f98843107912e782&flow=xtls-rprx-vision#🇨🇦 Canada, Toronto | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBUb3JvbnRvIHwgQW50aS1SS04iLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIn0=
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&fp=firefox&sni=www.connectingpeoplewithgreatjobs.com#🇨🇦 Canada, Toronto | Anti-RKN
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@184.107.106.77:8388#🇨🇦 Canada | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?security=tls&fp=firefox&sni=resources.connectingpeoplewithgreatjobs.com#🇨🇦 Canada, Toronto | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBWYW5jb3V2ZXIgfCBBbnRpLVJLTiIsImFkZCI6IjE1OC41MS4xMjMuNzUiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsImhvc3QiOiJraGFzYXYub3JnIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#🇨🇦 Canada | Anti-RKN
-vless://53cef1c5-c3db-4ba2-908f-f62351ee1c52@89.40.31.54:443?type=tcp&security=reality&fp=firefox&sni=vesnagate.site&pbk=fZZx3tJHWY0booB9erIuAbJ7lohhGx9s9q3CxsyaaRE&sid=a085b7e1f7cbd2&flow=xtls-rprx-vision#🇨🇦 Canada, Beauharnois | Anti-RKN
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?type=tcp&security=tls&fp=firefox&sni=kuruish.org#🇨🇦 Canada, Montreal | Anti-RKN
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#🇨🇦 Canada | Anti-RKN
+http://23.132.28.60:3129#🇨🇦 Canada, Montreal | Anti-RKN
 http://70.38.101.182:40000#🇨🇦 Canada | Anti-RKN
 socks5://159.203.61.169:1080#🇨🇦 Canada, Toronto | Anti-RKN
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#🇨🇦 Canada | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&fp=firefox&sni=cdn.connectingpeoplewithgreatjobs.com#🇨🇦 Canada, Toronto | Anti-RKN
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@78.111.91.80:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇨🇦 Canada, Toronto | Anti-RKN
 socks5://70.38.101.182:40000#🇨🇦 Canada | Anti-RKN
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@45.148.103.13:443?type=tcp&security=reality&fp=firefox&sni=ca.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#🇨🇦 Canada, Toronto | Anti-RKN
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@147.182.156.112:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇨🇦 Canada, Toronto | Anti-RKN
-vless://eb0bc4e6-1e55-443e-9a69-1902c256f04b@23.227.38.74:2053?type=ws&security=tls&fp=firefox&host=kAmRAN03-A130Yz-3.KAMRAn-03.WoRkers.deV&sni=kAmRAN03-A130Yz-3.KAMRAn-03.WoRkers.deV&path=%2f%3fed%3d2560#🇨🇦 Canada, Ottawa | Anti-RKN
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0=@51.222.107.43:2083#🇨🇦 Canada | Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@15.235.121.109:8080#🇨🇦 Canada | Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZHRrc3hoeWRqYmprZzB3@198.100.154.175:8080#🇨🇦 Canada | Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@54.39.96.233:8080#🇨🇦 Canada, Beauharnois | Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443#🇨🇦 Canada, Montreal | Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080#🇨🇦 Canada | Anti-RKN
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#🇨🇦 Canada | Anti-RKN
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@192.99.151.230:8388#🇨🇦 Canada | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?type=ws&security=tls&fp=firefox&sni=bPB-V.pageS.dEV&host=Bpb-v.PAges.deV#🇨🇦 Canada, Ottawa | Anti-RKN
-trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls&fp=firefox#🇨🇦 Canada, Montreal | Anti-RKN
+https://129.97.50.72:443#🇨🇦 Canada, Waterloo | Anti-RKN
+https://66.70.143.16:443#🇨🇦 Canada | Anti-RKN
+https://192.95.37.111:443#🇨🇦 Canada, Montreal | Anti-RKN
+https://159.203.22.247:443#🇨🇦 Canada, Toronto | Anti-RKN
+https://15.235.104.62:443#🇨🇦 Canada | Anti-RKN
+https://198.100.153.39:443#🇨🇦 Canada | Anti-RKN
+https://15.235.104.61:443#🇨🇦 Canada | Anti-RKN
+https://66.70.170.84:443#🇨🇦 Canada | Anti-RKN
+https://51.161.54.150:443#🇨🇦 Canada | Anti-RKN
+https://95.173.219.14:443#🇨🇦 Canada, Vancouver | Anti-RKN
+https://95.173.219.14:9443#🇨🇦 Canada, Vancouver | Anti-RKN
+https://198.44.157.19:9443#🇨🇦 Canada, Toronto | Anti-RKN
+https://149.57.28.9:443#🇨🇦 Canada, Toronto | Anti-RKN
+https://4.172.245.121:443#🇨🇦 Canada, Toronto | Anti-RKN
+https://208.72.4.50:443#🇨🇦 Canada | Anti-RKN
+https://208.66.248.70:443#🇨🇦 Canada, Richmond | Anti-RKN
+https://15.156.139.160:443#🇨🇦 Canada, Montreal | Anti-RKN
+https://155.138.145.11:443#🇨🇦 Canada, Toronto | Anti-RKN
+https://109.204.35.65:9443#🇨🇦 Canada, Calgary | Anti-RKN
+https://3.97.6.83:443#🇨🇦 Canada, Montreal | Anti-RKN
+http://23.227.38.192:80#🇨🇦 Canada, Ottawa | Anti-RKN
+http://23.227.38.158:80#🇨🇦 Canada, Ottawa | Anti-RKN
+http://23.227.38.242:80#🇨🇦 Canada, Ottawa | Anti-RKN
+http://23.227.39.115:80#🇨🇦 Canada, Ottawa | Anti-RKN
+http://23.227.39.254:80#🇨🇦 Canada, Ottawa | Anti-RKN
+http://23.227.60.245:80#🇨🇦 Canada | Anti-RKN
+http://23.227.39.241:80#🇨🇦 Canada, Ottawa | Anti-RKN
+http://23.227.39.186:80#🇨🇦 Canada, Ottawa | Anti-RKN
+http://40.177.65.8:80#🇨🇦 Canada, Calgary | Anti-RKN
+socks5://151.145.63.243:1080#🇨🇦 Canada, Montreal | Anti-RKN
+socks5://164.152.122.199:19100#🇨🇦 Canada | Anti-RKN
+socks5://24.201.38.52:9050#🇨🇦 Canada, Saint-Eustache | Anti-RKN
+socks5://68.233.127.229:1080#🇨🇦 Canada, Montreal | Anti-RKN
+http://184.70.113.34:3128#🇨🇦 Canada, Calgary | Anti-RKN
+http://3.96.141.200:20385#🇨🇦 Canada, Montreal | Anti-RKN
+http://159.203.13.121:80#🇨🇦 Canada, Toronto | Anti-RKN
+http://159.203.61.169:3128#🇨🇦 Canada, Toronto | Anti-RKN
+http://23.132.28.60:3133#🇨🇦 Canada, Montreal | Anti-RKN
+http://149.56.110.191:8118#🇨🇦 Canada, Montreal | Anti-RKN
+socks4://70.38.101.182:40000#🇨🇦 Canada | Anti-RKN
+http://159.203.61.169:1080#🇨🇦 Canada, Toronto | Anti-RKN
+http://24.201.38.52:9050#🇨🇦 Canada, Saint-Eustache | Anti-RKN
+socks4://56.112.92.32:40066#🇨🇦 Canada, Calgary | Anti-RKN
+socks4://159.203.61.169:3128#🇨🇦 Canada, Toronto | Anti-RKN
+socks5://56.112.92.32:40066#🇨🇦 Canada, Calgary | Anti-RKN
+socks5://159.203.61.169:3128#🇨🇦 Canada, Toronto | Anti-RKN
+http://56.112.92.32:40066#🇨🇦 Canada, Calgary | Anti-RKN
+trojan://ttfang@74.49.214.216:2096?type=ws&security=tls&sni=ttfang.fange.me&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇨🇦 Canada | Anti-RKN
+trojan://ttfang@74.49.215.216:2096?type=ws&security=tls&sni=ttfang.fange.me&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇨🇦 Canada | Anti-RKN
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls&fp=firefox#🇨🇦 Canada | Anti-RKN
-trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?type=ws&security=tls&fp=firefox&sni=syndication-statutes-wanted-logo.trycloudflare.com&host=syndication-statutes-wanted-logo.trycloudflare.com&path=%2fargox-tr#🇨🇦 Canada, Ottawa | Anti-RKN
 trojan://bpb-trojan@23.227.60.8:443?security=tls&fp=firefox#🇨🇦 Canada | Anti-RKN
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@184.107.106.77:8388#🇨🇦 Canada | Anti-RKN
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@192.99.151.230:8388#🇨🇦 Canada | Anti-RKN
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Canada, Vancouver | Anti-RKN
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#🇨🇦 Canada | Anti-RKN
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#🇨🇦 Canada | Anti-RKN
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Canada | Anti-RKN
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#🇨🇦 Canada | Anti-RKN
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦 Canada | Anti-RKN
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#🇨🇦 Canada | Anti-RKN
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#🇨🇦 Canada | Anti-RKN
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#🇨🇦 Canada | Anti-RKN
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#🇨🇦 Canada | Anti-RKN
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com&allowInsecure=0&headerType=none&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&sni=courses.connectingpeoplewithgreatjobs.com&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&sni=learn.connectingpeoplewithgreatjobs.com&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com&headerType=none&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&sni=api.connectingpeoplewithgreatjobs.com&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&sni=www.connectingpeoplewithgreatjobs.com&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?security=tls&sni=resources.connectingpeoplewithgreatjobs.com&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&sni=cdn.connectingpeoplewithgreatjobs.com&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?security=tls&sni=resources.connectingpeoplewithgreatjobs.com&allowInsecure=0&headerType=none&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&sni=courses.connectingpeoplewithgreatjobs.com&allowInsecure=1&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com&allowInsecure=0&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&sni=cdn.connectingpeoplewithgreatjobs.com&allowInsecure=0&headerType=none&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&sni=www.connectingpeoplewithgreatjobs.com&allowInsecure=0&headerType=none&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443#🇨🇦 Canada, Montreal | Anti-RKN
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.197:443?type=tcp&security=tls&fp=firefox&sni=kuruish.org#🇨🇦 Canada, Montreal | Anti-RKN
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.197:443?type=tcp&security=tls&fp=firefox#🇨🇦 Canada, Montreal | Anti-RKN
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.197:443?packetEncoding=xudp&type=tcp&security=tls&fp=firefox&sni=kuruish.org#🇨🇦 Canada, Montreal | Anti-RKN
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@79.141.166.81:443?type=grpc&security=reality&fp=firefox&sni=hazelforge.xyz&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇨🇦 Canada, Toronto | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBUb3JvbnRvIHwgQW50aS1SS04iLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwic2N5IjoiYXV0byJ9
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.171:443?type=ws&security=tls&fp=firefox&host=eeeccc.ttttlefjljl.xyz&sni=eeeccc.ttttlefjljl.xyz#🇨🇦 Canada, Ottawa | Anti-RKN
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.48:443?type=ws&security=tls&fp=firefox&host=uub01.gg9901.uk&sni=uub01.gg9901.uk#🇨🇦 Canada, Ottawa | Anti-RKN
+vless://d3895603-3164-4003-b85c-70f171ab30b5@184.107.179.150:8443?security=reality&fp=firefox&sni=www.kpn.com&pbk=FZvOenkKu_0DspnZA7Nc7xgWhR0_Z0MvqhntPqPchV4&sid=40a4615253b8f75d&flow=xtls-rprx-vision#🇨🇦 Canada | Anti-RKN
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@45.148.103.13:443?type=tcp&security=reality&fp=firefox&sni=ca.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#🇨🇦 Canada, Toronto | Anti-RKN
+vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&sid=f98843107912e782&flow=xtls-rprx-vision#🇨🇦 Canada, Toronto | Anti-RKN
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.76:443?type=ws&security=tls&fp=firefox&host=eeeccc.ttttlefjljl.xyz&sni=eeeccc.ttttlefjljl.xyz&path=%2fimages#🇨🇦 Canada, Ottawa | Anti-RKN
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.48:443?type=ws&security=tls&fp=firefox&host=uub01.gg9901.uk&sni=uub01.gg9901.uk&path=%2fimages#🇨🇦 Canada, Ottawa | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBUb3JvbnRvIHwgQW50aS1SS04iLCJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInNjeSI6ImF1dG8ifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBUb3JvbnRvIHwgQW50aS1SS04iLCJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSJ9
+vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&sid=f98843107912e782&flow=xtls-rprx-vision#🇨🇦 Canada, Toronto | Anti-RKN
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@148.113.196.75:8443?type=ws&security=tls&fp=firefox&sni=ov-canada1.09vpn.com&path=%2fvless%2f#🇨🇦 Canada | Anti-RKN
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?packetEncoding=xudp&type=tcp&security=tls&fp=firefox&sni=kuruish.org#🇨🇦 Canada, Montreal | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBUb3JvbnRvIHwgQW50aS1SS04iLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIn0=
+vless://53cef1c5-c3db-4ba2-908f-f62351ee1c52@89.40.31.54:443?type=tcp&security=reality&fp=firefox&sni=vesnagate.site&pbk=fZZx3tJHWY0booB9erIuAbJ7lohhGx9s9q3CxsyaaRE&sid=a085b7e1f7cbd2&flow=xtls-rprx-vision#🇨🇦 Canada, Beauharnois | Anti-RKN
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?type=tcp&security=tls&fp=firefox&sni=kuruish.org#🇨🇦 Canada, Montreal | Anti-RKN
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@78.111.91.80:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇨🇦 Canada, Toronto | Anti-RKN
+trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.61:443?security=tls&sni=44-ml-1.ccc4vortex.top&allowInsecure=1&fp=firefox#🇨🇦 Canada, Ottawa | Anti-RKN
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?type=ws&security=tls&sni=bPB-V.pageS.dEV&host=Bpb-v.PAges.deV&fp=firefox#🇨🇦 Canada, Ottawa | Anti-RKN
+trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls&fp=firefox#🇨🇦 Canada, Montreal | Anti-RKN
+trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?type=ws&security=tls&sni=syndication-statutes-wanted-logo.trycloudflare.com&host=syndication-statutes-wanted-logo.trycloudflare.com&path=%2fargox-tr&fp=firefox#🇨🇦 Canada, Ottawa | Anti-RKN
 vless://081b4532-255d-4481-9484-b75ceab21b0d@140.248.159.164:80?type=ws&host=faqatchai.global.ssl.fastly.net&path=%2fcontainers%2ffi#🇨🇦 Canada, Toronto | Anti-RKN
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@148.113.196.75:8443?type=ws&security=tls&fp=firefox&path=%2fvless%2f#🇨🇦 Canada | Anti-RKN
 vless://0c04dd79-71ad-475e-9a22-8fe625afccbb@23.227.39.185:8080?type=ws&host=seyyed.webdade.ip-ddns.com&path=%2f%40MOSIV2-%40MOSIV2-%40MOSIV2-...#🇨🇦 Canada, Ottawa | Anti-RKN
@@ -76,14 +129,16 @@ vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@86.107.168.253:443?type=tcp&securit
 vless://3b3b3674-015b-4ccb-8cd0-f3f8c2320435@23.227.39.179:2053?type=ws&security=tls&fp=firefox&host=n2vpn.projectis.ir&sni=n2vpn.projectis.ir&path=%2f%40n2vpn#🇨🇦 Canada, Ottawa | Anti-RKN
 vless://3ca1b668-7e2e-42d3-8202-3a9ed99071f8@185.141.216.124:8443?type=tcp&security=reality&fp=firefox&sni=ign.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇨🇦 Canada, Montreal | Anti-RKN
 vless://465fc43c-9872-40f9-bb94-ebee934e40b4@23.227.38.135:443?type=ws&security=tls&fp=firefox&host=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&sni=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev#🇨🇦 Canada, Ottawa | Anti-RKN
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.171:443?type=ws&security=tls&fp=firefox&host=eeeccc.ttttlefjljl.xyz&sni=eeeccc.ttttlefjljl.xyz&path=%2fimages#🇨🇦 Canada, Ottawa | Anti-RKN
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.221:443?type=ws&security=tls&fp=firefox&host=eeeccc.ttttlefjljl.xyz&sni=eeeccc.ttttlefjljl.xyz&path=%2fimages#🇨🇦 Canada, Ottawa | Anti-RKN
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@23.227.38.32:443?type=ws&security=tls&fp=firefox&host=rAyAn-uS-1.MeDiCaLhIsToRy.iR&sni=rAyAn-uS-1.MeDiCaLhIsToRy.iR&path=%2f%40Rayan_Config#🇨🇦 Canada, Ottawa | Anti-RKN
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.152.122:80?type=ws&host=en.mfa.gov.ir&path=%2f%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3fED#🇨🇦 Canada, Vancouver | Anti-RKN
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.152.40:443?type=ws&security=tls&fp=firefox&host=Sanjeshp.Ir&sni=Sanjeshp.Ir&path=%2fH%3fed%3d2560fp%3drandomized#🇨🇦 Canada, Vancouver | Anti-RKN
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.152.61:80?type=ws&host=en.mfa.gov.ir&path=%2f%40AZARBAYJAB1%40AZARBAYJAB1%25...#🇨🇦 Canada, Vancouver | Anti-RKN
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.202:2053?type=ws&security=tls&fp=firefox&host=Bpb-v.pAgeS.DEV&sni=BPb-V.Pages.DEv&path=%2f8EZOONoHtne638Vw%2fMTI5LjE1OS4yNDEuMTcy#🇨🇦 Canada, Ottawa | Anti-RKN
 vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@23.227.39.154:2053?type=ws&security=tls&fp=firefox&host=cosi.bvzizx.com&sni=8b562c77-fc99-4d25-9100-d8c0849cc9ff.bvzizx.com&path=%2fwss37193#🇨🇦 Canada, Ottawa | Anti-RKN
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@79.141.166.81:443?type=grpc&security=reality&fp=firefox&sni=hazelforge.xyz&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09#🇨🇦 Canada, Toronto | Anti-RKN
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@23.227.60.231:443?type=ws&security=tls&fp=firefox&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev#🇨🇦 Canada | Anti-RKN
-vless://d3895603-3164-4003-b85c-70f171ab30b5@184.107.179.150:8443?type=tcp&security=reality&fp=firefox&sni=www.kpn.com&pbk=FZvOenkKu_0DspnZA7Nc7xgWhR0_Z0MvqhntPqPchV4&sid=40a4615253b8f75d&flow=xtls-rprx-vision#🇨🇦 Canada | Anti-RKN
 vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sid=83f8317a948bb769#🇨🇦 Canada | Anti-RKN
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=tcp#🇨🇦 Canada | Anti-RKN
 vless://f8cb3c89-32af-4255-bebc-d90aad175069@79.141.166.66:443?type=grpc&security=reality&fp=firefox&sni=caa.kosmosapp.net&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇨🇦 Canada, Toronto | Anti-RKN
@@ -112,6 +167,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhIHwgQW50aS1SS04iLCJhZGQiOiI1MS43
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOC4zMyIsInBvcnQiOiI4MCIsImlkIjoiNDM5N2QwNjYtZjc1My00MzAwLWU3ZWQtNDQ3OTdkZGZjZDI0IiwibmV0Ijoid3MiLCJob3N0IjoibGlub2RlLmNsb3VkZmxhcmUucXVlc3QiLCJwYXRoIjoiL2FyaWVzIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOC4zMyIsInBvcnQiOiI4MCIsImlkIjoiMzZiZDk5NjktYmI5Ni00YmRkLWE2ZGYtOTYwYmJkOGU0NDM5IiwibmV0Ijoid3MiLCJob3N0IjoidGd1ay5jbG91ZGZsYXJlLnF1ZXN0In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOC4zMyIsInBvcnQiOiI4MCIsImlkIjoiMzUzYmJmNWYtYTI2NC00NzMxLWU3MzUtOTg0ZTYxMWMyZTAxIiwibmV0Ijoid3MiLCJob3N0IjoidGd1cy5jbG91ZGZsYXJlLnF1ZXN0In0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOC4zMyIsInBvcnQiOiI4MCIsImlkIjoiMzUzYmJmNWYtYTI2NC00NzMxLWU3MzUtOTg0ZTYxMWMyZTAxIiwibmV0Ijoid3MiLCJob3N0IjoidGd1cy5jbG91ZGZsYXJlLnF1ZXN0IiwicGF0aCI6Ii9hcmllcyJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBWYW5jb3V2ZXIgfCBBbnRpLVJLTiIsImFkZCI6IjE1OC41MS4xMjMuNDIiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsInNjeSI6ImF1dG8ifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBNb250cmVhbCB8IEFudGktUktOIiwiYWRkIjoiNjYuMTYzLjExMy4xNzYiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsInNjeSI6ImF1dG8ifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBNb250cmVhbCB8IEFudGktUktOIiwiYWRkIjoiMTQ5LjU2LjEyOS4xMyIsInBvcnQiOiIyMDUzIiwiaWQiOiIzYWVhNjg3ZC1jNmMwLTQ2MDktODcxOS1lZDhhNTYxNGZjNDciLCJzY3kiOiJhdXRvIiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
@@ -124,44 +180,8 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFk
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOC44IiwicG9ydCI6IjIwODYiLCJpZCI6ImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJpcDUtMTAuZnJlZWdyYWRlbHkueHl6IiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOS4xNzIiLCJwb3J0IjoiODg4MCIsImlkIjoiNzBkZjdjMWUtMTJjOC0zMjVmLWExMmEtMzRhYTQ2OTQ5ZTYwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9kYWJhaSZUZWxlZ3JhbfCfh6jwn4ezIEBXYW5nQ2FpMiAvP2VkPTI1NjAifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOC4xMyIsInBvcnQiOiIyMDUyIiwiaWQiOiJkNmI2ZDk4Mi1kNTJmLTQ2NWEtYjk4OC04NTY3MGIyM2Y2NGEiLCJuZXQiOiJ3cyIsImhvc3QiOiJjZG4yLmZyZWVncmFkZWx5Lnh5eiJ9
-https://129.97.50.72:443#🇨🇦 Canada, Waterloo | Anti-RKN
-https://66.70.143.16:443#🇨🇦 Canada | Anti-RKN
-https://192.95.37.111:443#🇨🇦 Canada, Montreal | Anti-RKN
-https://159.203.22.247:443#🇨🇦 Canada, Toronto | Anti-RKN
-https://15.235.104.62:443#🇨🇦 Canada | Anti-RKN
-https://198.100.153.39:443#🇨🇦 Canada | Anti-RKN
-https://15.235.104.61:443#🇨🇦 Canada | Anti-RKN
-https://66.70.170.84:443#🇨🇦 Canada | Anti-RKN
-https://51.161.54.150:443#🇨🇦 Canada | Anti-RKN
-https://4.172.245.121:443#🇨🇦 Canada, Toronto | Anti-RKN
-https://208.72.4.50:443#🇨🇦 Canada | Anti-RKN
-https://208.66.248.70:443#🇨🇦 Canada, Richmond | Anti-RKN
-https://15.156.139.160:443#🇨🇦 Canada, Montreal | Anti-RKN
-https://155.138.145.11:443#🇨🇦 Canada, Toronto | Anti-RKN
-https://3.96.141.200:34635#🇨🇦 Canada, Montreal | Anti-RKN
-https://3.97.6.83:443#🇨🇦 Canada, Montreal | Anti-RKN
-https://16.52.81.236:9699#🇨🇦 Canada, Montreal | Anti-RKN
-https://16.174.124.173:33333#🇨🇦 Canada, Calgary | Anti-RKN
-https://3.96.141.200:9443#🇨🇦 Canada, Montreal | Anti-RKN
-http://23.227.38.192:80#🇨🇦 Canada, Ottawa | Anti-RKN
-http://23.227.38.158:80#🇨🇦 Canada, Ottawa | Anti-RKN
-http://23.227.38.242:80#🇨🇦 Canada, Ottawa | Anti-RKN
-http://23.227.39.115:80#🇨🇦 Canada, Ottawa | Anti-RKN
-http://23.227.39.254:80#🇨🇦 Canada, Ottawa | Anti-RKN
-http://23.227.60.245:80#🇨🇦 Canada | Anti-RKN
-http://23.227.39.241:80#🇨🇦 Canada, Ottawa | Anti-RKN
-http://23.227.39.186:80#🇨🇦 Canada, Ottawa | Anti-RKN
-http://40.177.65.8:80#🇨🇦 Canada, Calgary | Anti-RKN
-socks4://70.38.101.182:40000#🇨🇦 Canada | Anti-RKN
-http://96.1.101.113:80#🇨🇦 Canada, Calgary | Anti-RKN
-socks5://24.201.38.52:9050#🇨🇦 Canada, Saint-Eustache | Anti-RKN
-http://159.203.61.169:3128#🇨🇦 Canada, Toronto | Anti-RKN
-http://34.47.50.163:443#🇨🇦 Canada, Montreal | Anti-RKN
-http://159.203.13.121:80#🇨🇦 Canada, Toronto | Anti-RKN
-http://23.132.28.60:3133#🇨🇦 Canada, Montreal | Anti-RKN
-http://3.96.141.200:11320#🇨🇦 Canada, Montreal | Anti-RKN
-http://3.96.141.200:41750#🇨🇦 Canada, Montreal | Anti-RKN
-http://159.203.61.169:1080#🇨🇦 Canada, Toronto | Anti-RKN
-http://24.201.38.52:9050#🇨🇦 Canada, Saint-Eustache | Anti-RKN
-socks4://159.203.61.169:3128#🇨🇦 Canada, Toronto | Anti-RKN
-socks5://159.203.61.169:3128#🇨🇦 Canada, Toronto | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBUb3JvbnRvIHwgQW50aS1SS04iLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwic2N5IjoiYXV0byIsInBhdGgiOiIvZXlKcWRXNXJJam9pTlVaVldtZFBOV05wVFc1TE9DSXNJbkJ5YjNSdlkyOXNJam9pZG13aUxDSnRiMlJsSWpvaWNISmxabWw0SWl3aWNHRnVaV3hKVUhNaU9sc2lXekkyTURJNlptTTFPVHBpTURvMk5EbzZYU0pkZlEifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@15.235.121.109:8080#🇨🇦 Canada | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZHRrc3hoeWRqYmprZzB3@198.100.154.175:8080#🇨🇦 Canada | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@54.39.96.233:8080#🇨🇦 Canada, Beauharnois | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080#🇨🇦 Canada | Anti-RKN

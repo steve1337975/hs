@@ -1,44 +1,47 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [MX] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 02:32:22
-# servers-count: 35
+# generated-at: 11/28/2026 10:31:24
+# servers-count: 38
 
+http://38.7.17.83:999#🇲🇽 Mexico, Lázaro Cárdenas | Anti-RKN
+http://206.135.47.109:999#🇲🇽 Mexico, Puebla City | Anti-RKN
+http://45.188.125.235:999#🇲🇽 Mexico, Centro | Anti-RKN
+http://38.19.106.44:999#🇲🇽 Mexico, Progreso de Obregón | Anti-RKN
+http://38.194.253.115:999#🇲🇽 Mexico, Apaseo el Alto | Anti-RKN
+http://45.188.125.34:999#🇲🇽 Mexico, Centro | Anti-RKN
+http://206.135.58.226:999#🇲🇽 Mexico, Atotonilco el Grande | Anti-RKN
+http://89.45.209.141:8080#🇲🇽 Mexico, Vista Hermosa de Negrete | Anti-RKN
+http://38.123.74.98:999#🇲🇽 Mexico, Tecomán | Anti-RKN
+socks4://45.230.174.21:4153#🇲🇽 Mexico, Culiacán | Anti-RKN
+https://78.12.246.160:15479#🇲🇽 Mexico, Querétaro City | Anti-RKN
+socks5://103.88.234.239:40002#🇲🇽 Mexico, Mexico City | Anti-RKN
+socks5://103.88.234.239:40005#🇲🇽 Mexico, Mexico City | Anti-RKN
+socks5://103.88.234.239:40016#🇲🇽 Mexico, Mexico City | Anti-RKN
+http://187.249.89.39:999#🇲🇽 Mexico, Soledad de Graciano Sánchez | Anti-RKN
+http://38.226.48.45:999#🇲🇽 Mexico, Cárdenas | Anti-RKN
+http://148.224.14.222:999#🇲🇽 Mexico, Uruapan | Anti-RKN
+http://168.196.3.0:999#🇲🇽 Mexico, Valladolid | Anti-RKN
+socks4://78.12.246.160:36789#🇲🇽 Mexico, Querétaro City | Anti-RKN
+socks5://78.12.246.160:36789#🇲🇽 Mexico, Querétaro City | Anti-RKN
+http://78.12.246.160:36789#🇲🇽 Mexico, Querétaro City | Anti-RKN
+trojan://humanity@131.196.254.151:443?type=ws&security=tls&sni=www.pleadcourt.org&host=www.pleadcourt.org&path=%2fassignment&allowInsecure=0&fp=firefox#🇲🇽 Mexico, Mérida | Anti-RKN
 socks5://DJy1T0dt:sZnD8GTz@144.225.47.106:42000#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://Tek2x6av:DJy1T0dt@144.225.47.161:42000#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://rVkkraqT:2j7CCZQb@94.194.164.203:62000#🇲🇽 Mexico, Mexico City | Anti-RKN
-http://201.150.116.3:999#🇲🇽 Mexico, Tetepango | Anti-RKN
 socks5://Tek2x6av:DJy1T0dt@144.225.47.8:42000#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://QyVdo5ks:lcFa8dTH@94.194.165.96:62000#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://UBXich0K:VvUAFi2E@72.57.228.87:62000#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://UBXich0K:VvUAFi2E@72.57.228.30:62000#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://DJy1T0dt:sZnD8GTz@144.225.47.68:42000#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://DJy1T0dt:sZnD8GTz@144.225.47.158:42000#🇲🇽 Mexico, Mexico City | Anti-RKN
-http://189.51.168.164:999#🇲🇽 Mexico, Hunucmá | Anti-RKN
-http://206.135.58.226:999#🇲🇽 Mexico, Atotonilco el Grande | Anti-RKN
-hysteria2://1fb67fa2-19c1-4dc8-9761-3f09d63e3a4a@216.238.78.221:443?sni=cdn.bobrui.ca#🇲🇽 Mexico, Querétaro City | Anti-RKN
+socks5://userLRgK:KsPAxZGn@94.194.166.52:42000#🇲🇽 Mexico, Mexico City | Anti-RKN
 trojan://NX7LOtiM.=RdQTq..yxi-dm6OcQrkgE5rg@149.104.87.141:443?security=tls&fp=firefox#🇲🇽 Mexico, Mexico City | Anti-RKN
-trojan://humanity@131.196.254.151:443?type=ws&security=tls&fp=firefox&sni=www.pleadcourt.org&host=www.pleadcourt.org&path=%2fassignment#🇲🇽 Mexico, Mérida | Anti-RKN
+hysteria2://1fb67fa2-19c1-4dc8-9761-3f09d63e3a4a@216.238.78.221:443?sni=cdn.bobrui.ca#🇲🇽 Mexico, Querétaro City | Anti-RKN
 vless://3c1a9237-ade9-4cbe-bc8a-31ba454676c8@140.248.181.21:443?type=ws&security=tls&fp=firefox&host=rohammmmmvistav2.i...&sni=zmaoz.faculty.ucdavis.edu#🇲🇽 Mexico, Mexico City | Anti-RKN
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?type=ws&security=tls&fp=firefox&host=hamshahriesfahan.com&sni=speedtest.net&path=%2fvip1#🇲🇽 Mexico, Mexico City | Anti-RKN
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.176.74:80?type=ws&host=en.mfa.gov.ir&path=%2f%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3fed%3d2560#🇲🇽 Mexico | Anti-RKN
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.183.178:80?type=ws&host=aliii.ir&path=%2fkptMTT8pTmxLWsoJ%3fed%3d2560#🇲🇽 Mexico, Mexico City | Anti-RKN
-https://78.12.246.160:1080#🇲🇽 Mexico, Querétaro City | Anti-RKN
-https://78.14.19.3:21834#🇲🇽 Mexico, Querétaro City | Anti-RKN
-http://204.199.201.133:999#🇲🇽 Mexico, Pachuca | Anti-RKN
-http://45.174.168.1:999#🇲🇽 Mexico, Tulancingo | Anti-RKN
-socks5://103.88.234.239:40002#🇲🇽 Mexico, Mexico City | Anti-RKN
-socks5://103.88.234.239:40005#🇲🇽 Mexico, Mexico City | Anti-RKN
-socks5://103.88.234.239:40016#🇲🇽 Mexico, Mexico City | Anti-RKN
-http://89.213.106.98:999#🇲🇽 Mexico, San Luis de la Paz | Anti-RKN
-http://187.249.37.227:2024#🇲🇽 Mexico, Reynosa | Anti-RKN
-http://201.139.180.42:999#🇲🇽 Mexico, Puebla City | Anti-RKN
-http://138.122.184.167:999#🇲🇽 Mexico, Mérida | Anti-RKN
-http://201.165.164.22:999#🇲🇽 Mexico | Anti-RKN
-http://45.168.239.59:999#🇲🇽 Mexico, Cárdenas | Anti-RKN
-socks4://189.203.181.34:1080#🇲🇽 Mexico | Anti-RKN
-socks5://userLRgK:KsPAxZGn@94.194.166.52:42000#🇲🇽 Mexico, Mexico City | Anti-RKN
-http://45.230.174.21:4153#🇲🇽 Mexico, Culiacán | Anti-RKN

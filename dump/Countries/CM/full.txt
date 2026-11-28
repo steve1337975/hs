@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CM] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 02:32:22
-# servers-count: 13
+# generated-at: 11/28/2026 10:31:24
+# servers-count: 16
 
 http://102.244.78.61:8081#🇨🇲 Cameroon, Garoua | Anti-RKN
 http://102.244.78.61:8084#🇨🇲 Cameroon, Garoua | Anti-RKN
@@ -15,8 +15,11 @@ http://102.244.78.61:8083#🇨🇲 Cameroon, Garoua | Anti-RKN
 http://102.244.78.61:8089#🇨🇲 Cameroon, Garoua | Anti-RKN
 http://102.244.78.61:8082#🇨🇲 Cameroon, Garoua | Anti-RKN
 http://102.244.78.61:8090#🇨🇲 Cameroon, Garoua | Anti-RKN
+http://102.244.78.61:8087#🇨🇲 Cameroon, Garoua | Anti-RKN
 http://102.244.78.61:8085#🇨🇲 Cameroon, Garoua | Anti-RKN
+socks4://41.216.232.213:4153#🇨🇲 Cameroon | Anti-RKN
+http://41.216.232.213:4153#🇨🇲 Cameroon | Anti-RKN
 socks4://102.244.78.61:8090#🇨🇲 Cameroon, Garoua | Anti-RKN
-socks4://102.244.78.61:8089#🇨🇲 Cameroon, Garoua | Anti-RKN
+socks4://102.244.78.61:8086#🇨🇲 Cameroon, Garoua | Anti-RKN
 socks5://102.244.78.61:8090#🇨🇲 Cameroon, Garoua | Anti-RKN
-socks5://102.244.78.61:8089#🇨🇲 Cameroon, Garoua | Anti-RKN
+socks5://102.244.78.61:8086#🇨🇲 Cameroon, Garoua | Anti-RKN

@@ -1,19 +1,25 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [DK] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 02:32:22
-# servers-count: 10
+# generated-at: 11/28/2026 10:31:24
+# servers-count: 16
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.148.30.11:443?packetEncoding=none&type=ws&security=tls&fp=firefox&host=cdn8848.776676.xyz&sni=cdn8848.776676.xyz&path=%2fseason%2fclassify%3fed%3d2560#🇩🇰 Denmark, Asperup | Anti-RKN
-vless://9a597d68-6688-4046-bf24-a5a541e115e0@135.136.33.134:8443?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&sid=f8d0271b4b5f9efc&flow=xtls-rprx-vision#🇩🇰 Denmark, Copenhagen | Anti-RKN
-trojan://72a9357f-8841-4229-ad79-c3fdee0aae51@193.180.211.52:443?type=ws&security=tls&fp=firefox&sni=joss.dus.biz.id&host=joss.dus.biz.id&path=%2fFree-VPN-CF-Geo-Project%2f193.180.211.52%3d443#🇩🇰 Denmark, Nørre Åby | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh7AgRGVubWFyaywgQ29wZW5oYWdlbiB8IEFudGktUktOIiwiYWRkIjoiMTkzLjI5LjEwNy4yMzciLCJwb3J0IjoiMzAwMDAiLCJpZCI6IjJlOTY3ZGQ1LThkMjQtNDA5OS1hOTAxLTQxMmRjYjQwMjRmZCIsIm5ldCI6IndzIiwiaG9zdCI6Ind3dy42NzE3MDIyNy54eXoiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh7AgRGVubWFyaywgTsO4cnJlIMOFYnkgfCBBbnRpLVJLTiIsImFkZCI6IjE5My4xODAuMjExLjE1NSIsInBvcnQiOiI0NDMiLCJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsImZwIjoiZmlyZWZveCJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh7AgRGVubWFyaywgTsO4cnJlIMOFYnkgfCBBbnRpLVJLTiIsImFkZCI6IjE5My4xODEuMjEyLjgxIiwicG9ydCI6IjQ0MyIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
+https://185.245.84.50:9443#🇩🇰 Denmark, Copenhagen | Anti-RKN
 https://87.238.253.66:443#🇩🇰 Denmark | Anti-RKN
+https://185.245.84.50:443#🇩🇰 Denmark, Copenhagen | Anti-RKN
+https://196.196.98.50:9443#🇩🇰 Denmark, Copenhagen | Anti-RKN
 http://194.150.110.134:80#🇩🇰 Denmark | Anti-RKN
 socks4://194.150.110.134:80#🇩🇰 Denmark | Anti-RKN
 socks5://194.150.110.134:80#🇩🇰 Denmark | Anti-RKN
+vless://24916ad0-847d-4522-9e17-f4347dee57fd@193.181.212.80:443?type=ws&security=tls&fp=firefox&host=kv.074167.xyz&sni=kv.074167.xyz#🇩🇰 Denmark, Nørre Åby | Anti-RKN
+vless://81f705b5-9039-4adf-8671-783095bba0e8@91.210.59.54:443?type=tcp&security=reality&fp=firefox&sni=dk3.sky-vault.top&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&sid=ae64c9b46bff174a&flow=xtls-rprx-vision#🇩🇰 Denmark, Albertslund | Anti-RKN
+vless://9a597d68-6688-4046-bf24-a5a541e115e0@135.136.33.134:8443?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&sid=f8d0271b4b5f9efc&flow=xtls-rprx-vision#🇩🇰 Denmark, Copenhagen | Anti-RKN
+vless://35dc3ea6-2cdf-4f6e-95ea-ce786ac2947a@193.180.211.245:8443?type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=pbLP4dV9Nx4aHWf35QFadbjOCdP_klwS9fvKSszlr3Q&sid=926b123d&flow=xtls-rprx-vision#🇩🇰 Denmark, Nørre Åby | Anti-RKN
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.148.30.11:443?packetEncoding=none&type=ws&security=tls&fp=firefox&host=cdn8848.776676.xyz&sni=cdn8848.776676.xyz&path=%2fseason%2fclassify%3fed%3d2560#🇩🇰 Denmark, Asperup | Anti-RKN
+trojan://72a9357f-8841-4229-ad79-c3fdee0aae51@193.180.211.52:443?type=ws&security=tls&sni=joss.dus.biz.id&path=%2fFree-VPN-CF-Geo-Project%2f193.180.211.52%3d443&fp=firefox#🇩🇰 Denmark, Nørre Åby | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh7AgRGVubWFyaywgQ29wZW5oYWdlbiB8IEFudGktUktOIiwiYWRkIjoiMTkzLjI5LjEwNy4yMzciLCJwb3J0IjoiMzAwMDAiLCJpZCI6IjJlOTY3ZGQ1LThkMjQtNDA5OS1hOTAxLTQxMmRjYjQwMjRmZCIsIm5ldCI6IndzIiwiaG9zdCI6Ind3dy42NzE3MDIyNy54eXoiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh7AgRGVubWFyaywgTsO4cnJlIMOFYnkgfCBBbnRpLVJLTiIsImFkZCI6IjE5My4xODAuMjExLjE1NSIsInBvcnQiOiI0NDMiLCJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsImZwIjoiZmlyZWZveCJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh7AgRGVubWFyaywgTsO4cnJlIMOFYnkgfCBBbnRpLVJLTiIsImFkZCI6IjE5My4xODEuMjEyLjgxIiwicG9ydCI6IjQ0MyIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=

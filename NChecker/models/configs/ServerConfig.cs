@@ -51,7 +51,9 @@ namespace NChecker.models.configs
                     if (slashIndex != -1) Url = Url.Remove(commaIndex, slashIndex - commaIndex);
                 }
             }
-            if (Url.StartsWith("trojan", StringComparison.OrdinalIgnoreCase))
+
+
+            if (Url.StartsWith("hy", StringComparison.OrdinalIgnoreCase) || Url.StartsWith("trojan", StringComparison.OrdinalIgnoreCase))
             {
                 Url = Url.Replace(";", "=&");
             }
@@ -71,10 +73,6 @@ namespace NChecker.models.configs
                     UUID = Encoding.UTF8.GetString(Convert.FromBase64String(UUID));
                 }
                 catch (FormatException exc) { throw new InvalidFormatProtocolException(exc.Message); }
-            }
-            if (UUID.Contains("telegram", StringComparison.OrdinalIgnoreCase) || UUID.Contains("://", StringComparison.OrdinalIgnoreCase) || UUID.Contains("www", StringComparison.OrdinalIgnoreCase))
-            {
-                throw new BrokenProtocolException();
             }
             Name = "Anti-RKN";
         }

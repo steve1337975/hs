@@ -22,7 +22,7 @@ namespace NChecker.models
             catch (BlockedTransportException) { }
             catch (Exception exc)
             {
-                //Console.WriteLine(exc.Message);
+                //Console.WriteLine(exc.ToString());
             }
             return null;
         }

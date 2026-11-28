@@ -1,27 +1,35 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CO] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
-# servers-count: 18
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 26
 
-http://179.1.182.20:999#🇨🇴 Colombia, Neiva | Anti-RKN
-http://38.211.76.201:999#🇨🇴 Colombia, Florencia | Anti-RKN
-http://45.167.126.128:999#🇨🇴 Colombia, Popayán | Anti-RKN
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.104.107.41:8090#🇨🇴 Colombia, Bogotá | Anti-RKN
+http://45.167.124.30:999#🇨🇴 Colombia, Popayán | Anti-RKN
+http://38.19.42.183:999#🇨🇴 Colombia, Bogotá | Anti-RKN
+http://38.19.43.188:999#🇨🇴 Colombia, Bogotá | Anti-RKN
+http://181.205.124.34:999#🇨🇴 Colombia, Medellín | Anti-RKN
 http://158.247.125.5:9443#🇨🇴 Colombia, Cota | Anti-RKN
-http://177.93.33.55:999#🇨🇴 Colombia, Bogotá | Anti-RKN
-http://64.204.90.177:999#🇨🇴 Colombia, El Tarra | Anti-RKN
-http://179.1.134.73:3128#🇨🇴 Colombia, Ocaña | Anti-RKN
-socks4://181.236.221.138:4145#🇨🇴 Colombia, Piedecuesta | Anti-RKN
-socks4://186.190.228.83:4153#🇨🇴 Colombia, Bogotá | Anti-RKN
-http://131.100.51.145:999#🇨🇴 Colombia, Florencia | Anti-RKN
+http://45.65.137.218:999#🇨🇴 Colombia, Tibú | Anti-RKN
+socks4://181.236.221.138:4145#🇨🇴 Colombia | Anti-RKN
+socks4://45.177.54.120:1080#🇨🇴 Colombia, Granada | Anti-RKN
+http://190.26.255.30:999#🇨🇴 Colombia, Bogotá | Anti-RKN
+http://181.78.1.229:999#🇨🇴 Colombia, Bogotá | Anti-RKN
 http://186.148.182.106:999#🇨🇴 Colombia, Bogotá | Anti-RKN
+http://181.225.75.99:4040#🇨🇴 Colombia, Bogotá | Anti-RKN
+http://181.57.171.254:8095#🇨🇴 Colombia, Bogotá | Anti-RKN
+http://190.60.39.230:999#🇨🇴 Colombia, San Alberto | Anti-RKN
 http://186.1.182.194:4153#🇨🇴 Colombia, Santa Marta | Anti-RKN
 http://45.195.104.6:80#🇨🇴 Colombia, Mocoa | Anti-RKN
-http://181.78.10.110:999#🇨🇴 Colombia, Pamplona | Anti-RKN
-http://131.221.43.211:4040#🇨🇴 Colombia, Paz de Ariporo | Anti-RKN
+http://209.14.112.97:999#🇨🇴 Colombia, Bogotá | Anti-RKN
+socks4://181.143.37.11:32767#🇨🇴 Colombia, Medellín | Anti-RKN
+socks4://181.143.59.140:4153#🇨🇴 Colombia, Medellín | Anti-RKN
+http://8.243.69.144:999#🇨🇴 Colombia, Medellín | Anti-RKN
+http://190.60.61.42:8080#🇨🇴 Colombia, Barranquilla | Anti-RKN
+http://201.184.130.6:1080#🇨🇴 Colombia, Medellín | Anti-RKN
 socks4://158.247.125.5:9443#🇨🇴 Colombia, Cota | Anti-RKN
-http://131.100.49.129:999#🇨🇴 Colombia, Florencia | Anti-RKN
-http://138.117.85.221:999#🇨🇴 Colombia, Garzón | Anti-RKN
+socks5://158.247.125.5:9443#🇨🇴 Colombia, Cota | Anti-RKN
+http://38.191.208.42:999#🇨🇴 Colombia, Bucaramanga | Anti-RKN

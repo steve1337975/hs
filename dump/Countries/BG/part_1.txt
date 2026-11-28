@@ -1,28 +1,12 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BG] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
-# servers-count: 46
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 44
 
-socks4://94.72.158.129:4153#🇧🇬 Bulgaria | Anti-RKN
-socks4://78.128.124.108:5678#🇧🇬 Bulgaria, Devin | Anti-RKN
-socks4://212.50.19.150:4153#🇧🇬 Bulgaria, Sofia | Anti-RKN
-https://185.94.192.210:443#🇧🇬 Bulgaria, Sofia | Anti-RKN
-https://185.94.192.210:9443#🇧🇬 Bulgaria, Sofia | Anti-RKN
-https://80.72.66.116:443#🇧🇬 Bulgaria | Anti-RKN
-http://213.169.33.10:8001#🇧🇬 Bulgaria | Anti-RKN
-socks4://46.10.198.10:4153#🇧🇬 Bulgaria, Sofia | Anti-RKN
-socks5://5.188.206.94:995#🇧🇬 Bulgaria | Anti-RKN
-socks4://93.183.175.6:5678#🇧🇬 Bulgaria, Svilengrad | Anti-RKN
-socks5://94.72.158.129:4153#🇧🇬 Bulgaria | Anti-RKN
-http://213.169.33.3:8001#🇧🇬 Bulgaria | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6UFJCZjRCUzJIdkpxdFd4WQ==@213.183.63.60:9049#🇧🇬 Bulgaria, Sofia | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@213.183.63.60:9064#🇧🇬 Bulgaria, Sofia | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@213.183.63.60:9054#🇧🇬 Bulgaria, Sofia | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6MktVYUUyYThOV1R2dUNaMw==@213.183.63.60:9066#🇧🇬 Bulgaria, Sofia | Anti-RKN
 vless://ba373a70-295f-482d-a471-8bc17b54e23b@131.123.38.29:443?type=grpc&security=reality&fp=firefox&sni=cindermoss.xyz&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇧🇬 Bulgaria, Sofia | Anti-RKN
 vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@87.120.92.186:2087?type=xhttp&security=reality&fp=firefox&sni=maps.blog-forme.ru&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23&path=%2fv2%2fsync%2f6e9367#🇧🇬 Bulgaria | Anti-RKN
 vless://9a9f167d-b461-466f-be50-f0ffd598a6f8@87.121.112.39:443?type=xhttp&security=reality&fp=firefox&sni=newbulg.live&pbk=6d-S4tqmMUwh_O58kZAfLwbKB9e4FB2O_JbhjjhZ9zc&sid=dbe40666c7960aa0&path=%2fe8f75cb41d80%2f02ec0e47#🇧🇬 Bulgaria | Anti-RKN
@@ -31,8 +15,12 @@ vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?type=tcp&securit
 hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@87.121.112.83:443?sni=bulghys.live#🇧🇬 Bulgaria | Anti-RKN
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?type=ws&security=tls&fp=firefox&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#🇧🇬 Bulgaria | Anti-RKN
 vless://d596f92b-a7ce-47d2-8392-a274d9f57bec@87.120.92.68:443?type=tcp&security=reality&fp=firefox&sni=cloudiva.abrdns.com&pbk=XLAE_KCFdlZkGcFndCnzEqsNHX1FByaGihkyEyrmDlo&sid=c1440935cc28&flow=xtls-rprx-vision#🇧🇬 Bulgaria | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6UFJCZjRCUzJIdkpxdFd4WQ==@213.183.63.60:9049#🇧🇬 Bulgaria, Sofia | Anti-RKN
 vless://33e8bd3a-26f0-4e57-bc27-e5552a81c880@131.123.41.223:443?type=tcp&security=reality&fp=firefox&sni=bulgaria.stream-live.ru&pbk=dsyxDiVtAFRjKOqLdqof2SuygewTO-EWTd34Jk1YYVo&sid=e9433de76a53573b&flow=xtls-rprx-vision#🇧🇬 Bulgaria, Sofia | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@213.183.63.60:9064#🇧🇬 Bulgaria, Sofia | Anti-RKN
 vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=gateway.icloud.com&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832&flow=xtls-rprx-vision#🇧🇬 Bulgaria, Sofia | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@213.183.63.60:9054#🇧🇬 Bulgaria, Sofia | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6MktVYUUyYThOV1R2dUNaMw==@213.183.63.60:9066#🇧🇬 Bulgaria, Sofia | Anti-RKN
 vless://18d817c9-0dfc-4fa9-8214-2df503f0b6eb@194.110.87.8:443?type=tcp&security=reality&fp=firefox&sni=www.lovelive-anime.jp&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&sid=f0eb800bd980b00b&flow=xtls-rprx-vision#🇧🇬 Bulgaria | Anti-RKN
 vless://1ca12389-0d86-4197-a79a-49d24539ce05@131.123.40.184:1030?type=tcp&security=reality&fp=firefox&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🇧🇬 Bulgaria, Sofia | Anti-RKN
 vless://1ca12389-0d86-4197-a79a-49d24539ce05@131.123.40.184:1040?type=tcp&security=reality&fp=firefox&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🇧🇬 Bulgaria, Sofia | Anti-RKN
@@ -47,9 +35,19 @@ vless://56795a1d-0ffd-464f-86fb-c5eddd3ecce0@131.123.42.80:1260?type=tcp&securit
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@147.78.140.159:2096?type=ws&security=tls&fp=firefox&host=ScGiYaSk.rOcKsToNeY.InFo&sni=ScGiYaSk.rOcKsToNeY.InFo#🇧🇬 Bulgaria | Anti-RKN
 vless://8f2940bc-a353-4efc-a9a0-22184cd4f1ac@131.123.39.114:5455?type=tcp&security=reality&fp=firefox&sni=play.googleapis.com&pbk=nOBPd5aR2G7qpuUbUE2QuLSWGcZu2hzaomJDlMqgi3g&sid=f06cda7e62da184a#🇧🇬 Bulgaria | Anti-RKN
 vless://8f2940bc-a353-4efc-a9a0-22184cd4f1ac@131.123.37.116:1330?type=tcp&security=reality&fp=firefox&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🇧🇬 Bulgaria, Sofia | Anti-RKN
-vless://bee52362-4183-42c5-b065-d3a3f344d00c@131.123.41.85:1340?type=tcp&security=reality&fp=firefox&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🇧🇬 Bulgaria, Sofia | Anti-RKN
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@147.78.140.242:2053?type=ws&security=tls&fp=firefox&host=dl1-fr-cdn.easy-upload.org&sni=dl1-fr-cdn.easy-upload.org#🇧🇬 Bulgaria | Anti-RKN
 vless://fb0f7523-be20-4a7c-ad71-9eccd93f960d@146.75.0.88:80?type=ws&host=login.meloammn.com&path=%2fmelo%2fws%3fed%3d2048#🇧🇬 Bulgaria, Sofia | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh6wgQnVsZ2FyaWEgfCBBbnRpLVJLTiIsImFkZCI6IjE0Ny43OC4xNDAuMjMxIiwicG9ydCI6IjQ0MyIsImlkIjoiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Imxsb3ctZGlzay00YjdiLmJpZ2FwYXg0ODEud29ya2Vycy5kZXYiLCJwYXRoIjoiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6Imxsb3ctZGlzay00YjdiLmJpZ2FwYXg0ODEud29ya2Vycy5kZXYiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh6wgQnVsZ2FyaWEgfCBBbnRpLVJLTiIsImFkZCI6IjE0Ny43OC4xNDAuMzAiLCJwb3J0IjoiNDQzIiwiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiNDg2OC1wb2V0cnktNDg2OC5uYXBvcmE3MDAzLndvcmtlcnMuZGV2IiwicGF0aCI6Ii9vYmRpaS5jZmQvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoiNDg2OC1wb2V0cnktNDg2OC5uYXBvcmE3MDAzLndvcmtlcnMuZGV2IiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh6wgQnVsZ2FyaWEgfCBBbnRpLVJLTiIsImFkZCI6IjE0Ny43OC4xNDAuNjgiLCJwb3J0IjoiNDQzIiwiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiNmM0Ny1idXR0ZXJmbHktNmM0Ny55ZXhvamkzNzQ5LndvcmtlcnMuZGV2IiwicGF0aCI6Ii9hZnJobXMxNnYuYmVzdHhyYXkuYnV6ei9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI2YzQ3LWJ1dHRlcmZseS02YzQ3LnlleG9qaTM3NDkud29ya2Vycy5kZXYiLCJmcCI6ImZpcmVmb3gifQ==
+socks4://94.72.158.129:4153#🇧🇬 Bulgaria | Anti-RKN
+https://185.94.192.210:443#🇧🇬 Bulgaria, Sofia | Anti-RKN
+https://185.94.192.210:9443#🇧🇬 Bulgaria, Sofia | Anti-RKN
+https://80.72.66.116:443#🇧🇬 Bulgaria | Anti-RKN
+http://213.169.33.12:8001#🇧🇬 Bulgaria | Anti-RKN
+socks5://194.182.178.90:1080#🇧🇬 Bulgaria, Sofia | Anti-RKN
+socks5://5.188.206.94:995#🇧🇬 Bulgaria | Anti-RKN
+http://5.104.174.199:23500#🇧🇬 Bulgaria, Dobrich | Anti-RKN
+socks4://213.149.156.87:5678#🇧🇬 Bulgaria, Razlog | Anti-RKN
+http://194.182.178.90:1080#🇧🇬 Bulgaria, Sofia | Anti-RKN
+socks4://194.182.178.90:1080#🇧🇬 Bulgaria, Sofia | Anti-RKN

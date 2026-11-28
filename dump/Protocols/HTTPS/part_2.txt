@@ -1,13 +1,12 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ⚡ HTTPS — BLACK #2
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
+# generated-at: 11/28/2026 10:48:03
 # servers-count: 91
 
-https://40.192.70.191:20112#🇮🇳 India, Hyderabad | Anti-RKN
 https://102.217.69.75:10443#🇪🇬 Egypt | Anti-RKN
 https://47.243.181.85:42533#🇭🇰 Hong Kong, Hong Kong | Anti-RKN
 https://45.91.210.78:1443#🇳🇱 The Netherlands | Anti-RKN
@@ -50,6 +49,8 @@ https://74.241.130.174:443#🇸🇪 Sweden | Anti-RKN
 https://188.214.107.108:9443#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 https://179.253.247.191:8443#🇺🇸 United States, Los Angeles | Anti-RKN
 https://45.91.210.78:443#🇳🇱 The Netherlands | Anti-RKN
+https://113.23.216.129:9088#🇲🇾 Malaysia, Johor Bahru | Anti-RKN
+https://113.23.216.128:9088#🇲🇾 Malaysia, Johor Bahru | Anti-RKN
 https://5.255.120.238:443#🇳🇱 The Netherlands, Dronten | Anti-RKN
 https://161.248.65.133:443#🇮🇳 India | Anti-RKN
 https://140.238.207.23:443#🇦🇺 Australia, Huntingwood | Anti-RKN
@@ -66,6 +67,7 @@ https://15.237.211.226:443#🇫🇷 France, Paris | Anti-RKN
 https://82.64.46.151:8017#🇫🇷 France | Anti-RKN
 https://82.64.46.151:8013#🇫🇷 France | Anti-RKN
 https://134.0.214.206:443#🇴🇲 Oman, Muscat | Anti-RKN
+https://77.90.188.177:443#🇵🇱 Poland, Warsaw | Anti-RKN
 https://185.73.126.250:443#🇷🇺 Russia, Moscow | Anti-RKN
 https://91.107.190.252:2053#🇩🇪 Germany, Falkenstein | Anti-RKN
 https://195.231.110.164:8448#🇮🇹 Italy, Rimini | Anti-RKN
@@ -93,8 +95,6 @@ https://13.239.253.213:26746#🇦🇺 Australia, Sydney | Anti-RKN
 https://108.137.124.195:31401#🇮🇩 Indonesia, Jakarta | Anti-RKN
 https://18.231.126.121:54311#🇧🇷 Brazil, São Paulo | Anti-RKN
 https://18.175.170.244:6795#🇬🇧 United Kingdom, City of London | Anti-RKN
+https://103.156.17.83:8080#🇮🇩 Indonesia | Anti-RKN
 https://52.56.143.248:3128#🇬🇧 United Kingdom, City of London | Anti-RKN
-https://103.172.70.153:8080#🇮🇩 Indonesia, Surakarta | Anti-RKN
-https://139.59.59.122:8118#🇮🇳 India, Bengaluru | Anti-RKN
-https://103.130.61.61:8081#🇮🇩 Indonesia, West Bandung Regency | Anti-RKN
-https://45.228.233.78:999#🇬🇹 Guatemala, Guatemala City | Anti-RKN
+https://138.2.64.185:8118#🇸🇬 Singapore, Loyang | Anti-RKN

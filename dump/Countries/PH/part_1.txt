@@ -1,25 +1,35 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PH] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
-# servers-count: 55
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 83
 
-http://203.177.217.222:8082#🇵🇭 Philippines, Aroroy | Anti-RKN
-http://180.191.141.170:5050#🇵🇭 Philippines, Quezon City | Anti-RKN
-http://8.220.189.51:8118#🇵🇭 Philippines, Manila | Anti-RKN
-http://160.187.221.206:5900#🇵🇭 Philippines, Magpet | Anti-RKN
+http://49.151.179.5:8082#🇵🇭 Philippines, Clark Freeport Zone | Anti-RKN
+http://210.213.119.28:3128#🇵🇭 Philippines | Anti-RKN
+http://103.125.148.146:3128#🇵🇭 Philippines | Anti-RKN
+http://49.146.233.166:8081#🇵🇭 Philippines, Cebu City | Anti-RKN
+http://124.106.116.34:1337#🇵🇭 Philippines, Peñaranda | Anti-RKN
+http://119.93.207.214:8082#🇵🇭 Philippines, San Fernando City | Anti-RKN
+http://49.151.188.197:3128#🇵🇭 Philippines, Clark Freeport Zone | Anti-RKN
+http://122.3.87.41:8080#🇵🇭 Philippines, Tarlac City | Anti-RKN
+http://180.191.232.182:3128#🇵🇭 Philippines, Davao City | Anti-RKN
+http://58.69.182.53:8085#🇵🇭 Philippines, Quezon City | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HtfCfh60gUGhpbGlwcGluZXMgfCBBbnRpLVJLTiIsImFkZCI6IjEyMC4yOC4xMC40NiIsInBvcnQiOiI4MCIsImlkIjoiZWNiYTViMzMtZjc2OC00ZDhhLWIwMDQtYjI5ZThlNWM2NzZmIiwibmV0Ijoid3MiLCJob3N0Ijoic2F6Z2FyLnNlcnZlaXJjLmNvbSJ9
 https://8.212.178.252:8000#🇵🇭 Philippines, Manila | Anti-RKN
 http://112.198.22.122:80#🇵🇭 Philippines, Paco | Anti-RKN
+http://112.211.72.133:9999#🇵🇭 Philippines, Makati City | Anti-RKN
 socks4://8.220.141.8:8889#🇵🇭 Philippines, Manila | Anti-RKN
 socks4://8.220.141.8:8888#🇵🇭 Philippines, Manila | Anti-RKN
-http://119.93.64.216:8082#🇵🇭 Philippines, Cebu City | Anti-RKN
 socks5://8.220.141.8:50#🇵🇭 Philippines, Manila | Anti-RKN
-http://58.69.124.137:8080#🇵🇭 Philippines, Makati City | Anti-RKN
-socks5://103.239.201.50:58765#🇵🇭 Philippines | Anti-RKN
 socks5://8.212.168.170:4145#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://103.239.201.49:58765#🇵🇭 Philippines | Anti-RKN
+http://202.6.206.2:8082#🇵🇭 Philippines, Surigao City | Anti-RKN
+http://124.6.164.229:8085#🇵🇭 Philippines, Lahug | Anti-RKN
+http://180.191.120.247:5050#🇵🇭 Philippines, Cagayan de Oro | Anti-RKN
+http://49.151.183.37:8082#🇵🇭 Philippines, Clark Freeport Zone | Anti-RKN
 http://8.212.165.164:8080#🇵🇭 Philippines, Manila | Anti-RKN
 http://8.220.136.174:3120#🇵🇭 Philippines, Manila | Anti-RKN
 http://8.212.151.166:9999#🇵🇭 Philippines, Manila | Anti-RKN
@@ -28,9 +38,8 @@ http://8.220.136.174:8443#🇵🇭 Philippines, Manila | Anti-RKN
 http://8.212.165.164:8020#🇵🇭 Philippines, Manila | Anti-RKN
 socks5://8.212.151.166:8018#🇵🇭 Philippines, Manila | Anti-RKN
 http://8.212.168.170:4431#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://180.191.22.50:4153#🇵🇭 Philippines, Cabanatuan City | Anti-RKN
-socks4://202.57.46.138:4145#🇵🇭 Philippines, Pasay | Anti-RKN
 socks4://119.93.123.229:4145#🇵🇭 Philippines, Angeles City | Anti-RKN
+http://136.239.193.140:8080#🇵🇭 Philippines, Iloilo City | Anti-RKN
 socks4://8.212.151.166:20000#🇵🇭 Philippines, Manila | Anti-RKN
 socks4://8.212.151.166:9050#🇵🇭 Philippines, Manila | Anti-RKN
 socks4://8.212.151.166:199#🇵🇭 Philippines, Manila | Anti-RKN
@@ -45,12 +54,9 @@ http://8.212.168.170:2080#🇵🇭 Philippines, Manila | Anti-RKN
 http://8.220.141.8:50#🇵🇭 Philippines, Manila | Anti-RKN
 http://8.212.168.170:4145#🇵🇭 Philippines, Manila | Anti-RKN
 socks4://8.212.165.164:5008#🇵🇭 Philippines, Manila | Anti-RKN
-socks4://124.217.1.178:1080#🇵🇭 Philippines, Cebu City | Anti-RKN
-socks4://112.198.22.122:80#🇵🇭 Philippines, Paco | Anti-RKN
 socks4://8.212.151.166:8080#🇵🇭 Philippines, Manila | Anti-RKN
 socks4://8.220.136.174:1081#🇵🇭 Philippines, Manila | Anti-RKN
 socks5://8.212.165.164:5008#🇵🇭 Philippines, Manila | Anti-RKN
-socks5://112.198.22.122:80#🇵🇭 Philippines, Paco | Anti-RKN
 socks5://8.212.151.166:8080#🇵🇭 Philippines, Manila | Anti-RKN
 socks5://8.220.136.174:1081#🇵🇭 Philippines, Manila | Anti-RKN
 http://8.212.165.164:5008#🇵🇭 Philippines, Manila | Anti-RKN
@@ -58,7 +64,29 @@ http://8.212.168.170:8443#🇵🇭 Philippines, Manila | Anti-RKN
 http://8.212.151.166:8080#🇵🇭 Philippines, Manila | Anti-RKN
 http://8.212.165.164:2080#🇵🇭 Philippines, Manila | Anti-RKN
 http://8.220.136.174:1081#🇵🇭 Philippines, Manila | Anti-RKN
-http://8.212.151.166:4145#🇵🇭 Philippines, Manila | Anti-RKN
-http://8.212.151.166:8008#🇵🇭 Philippines, Manila | Anti-RKN
-http://8.212.151.166:8081#🇵🇭 Philippines, Manila | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HtfCfh60gUGhpbGlwcGluZXMsIEJ1bGFjYW4gfCBBbnRpLVJLTiIsImFkZCI6IjEyMC4yOC4xMC40NiIsInBvcnQiOiI4MCIsImlkIjoiZWNiYTViMzMtZjc2OC00ZDhhLWIwMDQtYjI5ZThlNWM2NzZmIiwibmV0Ijoid3MiLCJob3N0Ijoic2F6Z2FyLnNlcnZlaXJjLmNvbSJ9
+socks4://202.57.46.138:4145#🇵🇭 Philippines, Pasay | Anti-RKN
+socks4://8.212.168.170:2067#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.212.168.170:8082#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.212.168.170:443#🇵🇭 Philippines, Manila | Anti-RKN
+socks4://8.212.168.170:20#🇵🇭 Philippines, Manila | Anti-RKN
+socks4://8.212.168.170:808#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.212.168.170:1080#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.212.168.170:35561#🇵🇭 Philippines, Manila | Anti-RKN
+socks4://8.212.168.170:8443#🇵🇭 Philippines, Manila | Anti-RKN
+socks4://8.212.168.170:8123#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.212.168.170:2067#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.212.168.170:1111#🇵🇭 Philippines, Manila | Anti-RKN
+socks4://8.212.168.170:999#🇵🇭 Philippines, Manila | Anti-RKN
+socks4://8.212.168.170:3389#🇵🇭 Philippines, Manila | Anti-RKN
+http://180.191.229.193:5050#🇵🇭 Philippines, Talisay City | Anti-RKN
+http://8.220.136.174:6379#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.220.136.174:30001#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.220.136.174:5800#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.220.136.174:3128#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.220.136.174:8086#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.212.165.164:10000#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.212.165.164:999#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.212.165.164:5060#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.212.165.164:51235#🇵🇭 Philippines, Manila | Anti-RKN
+socks5://8.212.165.164:9999#🇵🇭 Philippines, Manila | Anti-RKN
+http://112.203.200.123:8082#🇵🇭 Philippines, Quezon City | Anti-RKN

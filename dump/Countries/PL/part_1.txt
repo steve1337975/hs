@@ -1,58 +1,12 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PL] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
-# servers-count: 148
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 138
 
-socks5://57.128.249.250:9052#🇵🇱 Poland, Warsaw | Anti-RKN
-socks4://31.42.2.113:5678#🇵🇱 Poland, Częstochowa | Anti-RKN
-socks4://57.128.249.250:9052#🇵🇱 Poland, Warsaw | Anti-RKN
-socks4://89.186.8.107:1080#🇵🇱 Poland, Lublin | Anti-RKN
-https://151.115.78.51:443#🇵🇱 Poland, Warsaw | Anti-RKN
-https://94.246.130.82:443#🇵🇱 Poland, Jaworzno | Anti-RKN
-https://79.188.239.47:8443#🇵🇱 Poland, Wroclaw | Anti-RKN
-https://79.133.217.233:443#🇵🇱 Poland | Anti-RKN
-https://94.246.130.82:5443#🇵🇱 Poland, Jaworzno | Anti-RKN
-https://213.241.124.228:443#🇵🇱 Poland, Byczyna | Anti-RKN
-https://79.188.239.46:8443#🇵🇱 Poland, Wroclaw | Anti-RKN
-https://79.133.217.236:443#🇵🇱 Poland | Anti-RKN
-https://185.96.121.243:9443#🇵🇱 Poland, Nowy Targ | Anti-RKN
-https://80.72.39.35:443#🇵🇱 Poland | Anti-RKN
-https://83.13.36.250:443#🇵🇱 Poland, Kiełczów | Anti-RKN
-https://193.25.2.239:443#🇵🇱 Poland, Krakow | Anti-RKN
-https://153.19.91.76:1143#🇵🇱 Poland, Gdynia | Anti-RKN
-https://31.186.85.171:7890#🇵🇱 Poland, Warsaw | Anti-RKN
-https://81.27.101.176:443#🇵🇱 Poland, Warsaw | Anti-RKN
-socks5://45.144.49.64:5443#🇵🇱 Poland, Warsaw | Anti-RKN
-socks5://88.218.206.170:5432#🇵🇱 Poland | Anti-RKN
-socks5://83.219.248.46:20420#🇵🇱 Poland, Warsaw | Anti-RKN
-socks5://88.218.206.170:22#🇵🇱 Poland | Anti-RKN
-http://45.144.49.64:5443#🇵🇱 Poland, Warsaw | Anti-RKN
-http://89.186.8.107:1080#🇵🇱 Poland, Lublin | Anti-RKN
-http://185.32.4.102:4153#🇵🇱 Poland | Anti-RKN
-http://83.168.74.163:8080#🇵🇱 Poland, Wroclaw | Anti-RKN
-http://57.128.249.250:9052#🇵🇱 Poland, Warsaw | Anti-RKN
-socks4://45.144.49.64:5443#🇵🇱 Poland, Warsaw | Anti-RKN
-socks4://46.151.118.108:5678#🇵🇱 Poland, Lipsko | Anti-RKN
-socks4://91.211.100.35:44744#🇵🇱 Poland, Warsaw | Anti-RKN
-socks4://185.32.4.126:4153#🇵🇱 Poland | Anti-RKN
-socks4://37.131.164.102:59341#🇵🇱 Poland | Anti-RKN
-socks4://91.150.189.122:1080#🇵🇱 Poland, Rzeszów | Anti-RKN
-socks4://31.42.6.125:5678#🇵🇱 Poland, Częstochowa | Anti-RKN
-http://185.32.4.126:4153#🇵🇱 Poland | Anti-RKN
-http://91.211.100.35:44744#🇵🇱 Poland, Warsaw | Anti-RKN
-socks4://83.168.74.163:8080#🇵🇱 Poland, Wroclaw | Anti-RKN
-socks5://83.168.74.163:8080#🇵🇱 Poland, Wroclaw | Anti-RKN
-http://46.151.118.108:5678#🇵🇱 Poland, Lipsko | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6TjdqM3BkVFlrS21zeThDUg==@217.30.10.44:9095#🇵🇱 Poland, Warsaw | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6UzJ6RHl5UGNtWk4yaDhFQw==@217.30.10.44:9076#🇵🇱 Poland, Warsaw | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6dGtoSFZ4eGZNMlFFckJXZQ==@217.30.10.44:9062#🇵🇱 Poland, Warsaw | Anti-RKN
-trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?type=ws&security=tls&sni=ra-p1.victorycloud.ru&host=ra-p1.victorycloud.ru&path=%2f2fc2ec03a65d451dffa4592d68c43a29%3fTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&fp=firefox#🇵🇱 Poland, Warsaw | Anti-RKN
-trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?type=ws&security=tls&sni=ra-p1.victorycloud.ru&host=ra-p1.victorycloud.ru&path=%2f2fc2ec03a65d451dffa4592d68c43a29&fp=firefox#🇵🇱 Poland, Warsaw | Anti-RKN
-trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.75.215:443?security=tls&fp=firefox#🇵🇱 Poland, Warsaw | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.1.76:443?sni=solidhealth.nemoi-self.co.uk#🇵🇱 Poland, Warsaw | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.5.151:443?sni=kiosklist.comparecarprices.org#🇵🇱 Poland, Warsaw | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.3.148:443?sni=headerruntime.bezl-self.co.uk#🇵🇱 Poland, Warsaw | Anti-RKN
@@ -68,21 +22,21 @@ vless://b1490307-d693-4392-8f32-a3f7cc139202@144.31.1.109:443?type=ws&security=t
 vless://b1490307-d693-4392-8f32-a3f7cc139202@144.31.5.151:443?type=ws&security=tls&fp=firefox&sni=kiosklist.comparecarprices.org#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://b58564f3-bcc4-4af9-8a47-7ad8039cba93@77.83.246.186:8443?type=xhttp&security=reality&fp=firefox&sni=www.wp.pl&pbk=YAxh7v14w1gRRXzZvTc-T3ESfrWLVOWgsCtEmKOL4x0&sid=764410aa&path=%2fapi%2fv6%2fmedia%2fcd1303c9%2f#🇵🇱 Poland | Anti-RKN
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@201.58.178.197:443?type=tcp&security=reality&fp=firefox&sni=lesson4.schoolpizorbz.xyz&pbk=EUuZAVtneL8O7MgjETmHvOyInaxqJu2RD6hiFQdDPwk&sid=0df067145606c0b0&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
-hysteria2://6ac6d17d-040c-4fab-940e-8f5d72c3fed6@135.126.21.107:443?sni=de2-balance.rezproffx.ru#🇵🇱 Poland | Anti-RKN
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.174.147:443?security=reality&fp=firefox&sni=lesson15.schoolpizorbz.xyz&pbk=Wpmzv6fsZD7Lgbxtad3Of-XEl6T2qnjq_GDLCh6eOAg&sid=4e1a1a1c3d18869e&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@177.202.76.30:443?security=reality&fp=firefox&sni=lesson14.schoolpizorbz.xyz&pbk=G465rpA3czwxSTrjkcl0KK6HohO5G8do2MxjcRbULSA&sid=d52f9a703c9bf2d9&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@201.58.178.207:443?security=reality&fp=firefox&sni=lesson2.schoolpizorbz.xyz&pbk=S8sWDQftwzUiNredawkRmbDxar70w2uX3y1EJISvQBo&sid=fd417540c0fab072&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://e2b2b2bb-1f26-45ab-9a7d-ca6bbcdcd4d2@194.35.226.113:443?type=tcp&security=tls&fp=firefox&sni=1mh6g3oj98.stream-book.com#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@201.58.178.236:443?security=reality&fp=firefox&sni=lesson1.schoolpizorbz.xyz&pbk=AdOl7XVxVk4Yb_tBxjrG-FP5elV_V2MeI_6WVC4H41s&sid=d14566fcec627162&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
+vless://5a9af404-4b34-4f21-a6b3-5cf506579722@45.194.66.30:443?security=reality&fp=firefox&sni=go-obsh-auto-drun.keno.su&pbk=-r5xcA3iTzAf63kkb0VIILrLHH1VUq550pFZ-M74Jlc&sid=de&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://5c34ead9-5d88-470c-a028-e877e03cbaa3@31.59.190.14:443?type=tcp&security=tls&fp=firefox&sni=31.59.190.14&flow=xtls-rprx-vision#🇵🇱 Poland | Anti-RKN
 vless://b1490307-d693-4392-8f32-a3f7cc139202@144.31.3.148:443?type=ws&security=tls&fp=firefox&sni=headerruntime.bezl-self.co.uk#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@31.59.190.148:443?type=xhttp&security=reality&fp=firefox&sni=tyumen.gosgenarchive.com&pbk=bOArFMFEa5U1rVEdvx07TZNZP2ryiE8g8ZZNmLH8OV4#🇵🇱 Poland | Anti-RKN
+vless://5a9af404-4b34-4f21-a6b3-5cf506579722@45.194.66.30:443?type=tcp&security=reality&fp=firefox&sni=go-obsh-auto-drun.keno.su&pbk=-r5xcA3iTzAf63kkb0VIILrLHH1VUq550pFZ-M74Jlc&sid=de&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@177.202.76.30:443?type=tcp&security=reality&fp=firefox&sni=lesson14.schoolpizorbz.xyz&pbk=G465rpA3czwxSTrjkcl0KK6HohO5G8do2MxjcRbULSA&sid=d52f9a703c9bf2d9&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@201.58.180.66:443?type=tcp&security=reality&fp=firefox&sni=lesson3.schoolpizorbz.xyz&pbk=U67AbvM_nYpujvh-oLUAr1uBWOCiAMc_gQ6kcI7Lw1M&sid=fda0df7561508080&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
-vless://976f82d9-0e6b-40ed-9c09-cafd06c4bc98@135.126.21.141:47443#🇵🇱 Poland | Anti-RKN
 vless://9ec5a6c1-5f9e-45ec-94f0-07fa5969745c@153.52.155.235:443#🇵🇱 Poland | Anti-RKN
+vless://5a9af404-4b34-4f21-a6b3-5cf506579722@45.194.66.30:443#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://ee77291e-68c9-4eb8-8da0-53fe8350077d@144.31.4.177:443#🇵🇱 Poland, Warsaw | Anti-RKN
-vless://9f97497b-d882-4187-b33f-16d2b3e3789c@135.126.12.14:8443?type=tcp&security=reality&fp=firefox&sni=it.nvidia.com&pbk=G_fY9pA9N6QmXPUMVPjnxzAqvpyvVRqbPZwOaC7iin0&sid=aace430d&flow=xtls-rprx-vision#🇵🇱 Poland | Anti-RKN
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@94.183.157.137:443?type=tcp&security=reality&fp=firefox&sni=example.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@177.3.252.114:443?security=reality&fp=firefox&sni=poland.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://52e854c3-f891-4eb5-943a-fe385f59e8fb@80.47.13.56:443?type=grpc&security=reality&fp=firefox&sni=ps1.jetservaki.fit&pbk=qYmjDdoe-W9e55-Rs6u_G4HCHMk31G_qj0t1Q4_BcUg&sid=884b938083b628d2&serviceName=grpc#🇵🇱 Poland | Anti-RKN
@@ -95,6 +49,7 @@ vless://191cd0ee-7267-4ff5-a064-4fdaa24b2cbf@48.102.174.125:443?type=tcp&securit
 vless://f3a227cb-8a8b-4ccb-b613-9143c4a1346c@201.58.139.144:443?type=tcp&security=reality&fp=firefox&sni=pl1.benzinvpn.com&pbk=--AZDQ95rDNR9IM_C8t65nq4eaCmHp9AS0p5xUszhQY&sid=f3287cbceb2ddbcb&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&sid=fa3ea655619a3e78&flow=xtls-rprx-vision#🇵🇱 Poland, Gdansk | Anti-RKN
 vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&sid=150a627d15154cf2&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
+vless://9ec5a6c1-5f9e-45ec-94f0-07fa5969745c@153.52.155.235:443?type=tcp&security=reality&fp=firefox&sni=mirror.pixelhosting.nl&pbk=hafTz4tDrS5Dxzr6qQ10LIpKGF7b_8gTlysz10ObLk4&sid=4c543db4a2a7b913&flow=xtls-rprx-vision#🇵🇱 Poland | Anti-RKN
 vless://bf263367-bb63-4663-b4a1-34946107a72e@45.144.49.116:8443?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=5qvcOTHr_izGbsRz-j2xC3BMMdugFMsl7MnANjzwZ0I&sid=b2a1c97a38&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://ff13a272-dd8f-4f4c-89e0-6bfdf25c10a7@191.217.211.82:2083?type=xhttp&security=reality&fp=firefox&sni=pl1.song69.fun&pbk=QCFLGq4pXBNEQiCNVy5HN6IFTswY7qRmwuNetLZRZVg&path=%2fapi%2fmedia%2fv1#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@148.253.212.135:443?type=ws&security=tls&fp=firefox&host=parchment.merlano.monster&sni=parchment.merlano.monster&path=%2fapi%2fde7%2fstream#🇵🇱 Poland, Warsaw | Anti-RKN
@@ -103,18 +58,27 @@ vless://b7049a06-1e51-4e2d-854a-7f81b0d0b35f@217.60.25.207:443?type=tcp&security
 vless://082ff568-e0f1-42af-ad7c-2c46adde1273@201.58.139.246:443?type=tcp&security=reality&fp=firefox&sni=4c980ft.fi15.h1clayd.click&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&sid=597e1c279d224774&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@45.142.212.191:443?type=tcp&security=reality&fp=firefox&sni=travel.yandex.ru&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&sid=24c4&flow=xtls-rprx-vision#🇵🇱 Poland, Żyrardów | Anti-RKN
 vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?packetEncoding=none&type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&sid=150a627d15154cf2&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
+trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?type=ws&security=tls&sni=ra-p1.victorycloud.ru&host=ra-p1.victorycloud.ru&path=%2f2fc2ec03a65d451dffa4592d68c43a29%3fTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&fp=firefox#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://c046d6a3-14c7-4297-9675-f8d101aa1979@2.56.172.199:443?type=tcp&security=reality&fp=firefox&sni=dl-cdn.alpinelinux.org&pbk=wfp4jyEksrozyS739zqIsNXySoqeEVtaQlVmeNeLp28#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://873767a0-9b4a-470c-85f8-7449cd7a561c@144.31.171.37:443?type=tcp&security=reality&fp=firefox&sni=hellverser.mult-fandom.ru&pbk=Z-v1tBIQpFBfedRUOeHovEVL6Y22KmrBrDWY23cgtAI&sid=4bd5aa582ceabfdd&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://bebc775c-0de1-451c-80cb-64ee06fd5447@194.87.60.4:443?type=tcp&security=reality&fp=firefox&sni=pl-80754f07cc.sishka.network&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&sid=3ad720a1ef5e02a2&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://623e66a7-25ee-4624-a63c-9513d620a287@2.26.5.208:9443?type=tcp&security=reality&fp=firefox&sni=po2.hys.braidx.tech&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&sid=408c85938839e89f&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://e0643422-1e6e-4182-993e-de9b4c78e736@80.47.7.216:443?type=tcp&security=reality&fp=firefox&sni=fedtuna.ai&pbk=0KDql59THS-DXg30wMR0QGgFB6rXARDhr8WoWyfVA2M&sid=6f0091ebe3029ebb&flow=xtls-rprx-vision#🇵🇱 Poland | Anti-RKN
 vless://391a32c6-084c-4d61-8e8d-472678021dac@202.78.163.188:6443?type=grpc&security=reality&fp=firefox&sni=adaptivesupport.amd.com&pbk=incJdGcSQObiuBxmGneu0LFLO4MnjEnx5MX6e1q98k8&sid=ffd956560a594225&serviceName=%2fapi%2fv1%2fupdate#🇵🇱 Poland, Warsaw | Anti-RKN
+trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?type=ws&security=tls&sni=ra-p1.victorycloud.ru&host=ra-p1.victorycloud.ru&path=%2f2fc2ec03a65d451dffa4592d68c43a29&fp=firefox#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://7af8ad56-33ce-4f3d-ad15-ef32a71d67f7@212.127.91.79:443?type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&pbk=lCCvbwGOEkx6IuK3eFd4RtmBi6UInWoMyt0QtfsOjwk&sid=99fe1ec015fde70c&flow=xtls-rprx-vision#🇵🇱 Poland | Anti-RKN
-vless://3267ad95-f505-4f08-a852-6febd5af09ff@135.126.12.48:443?type=tcp&security=reality&fp=firefox&sni=cvetidamam.growmart.site&pbk=LW0B4oSrkCd3atsq6Lr3M2dDReW8dVtodLsau4qlxWM&sid=05a874ff16cfe500&flow=xtls-rprx-vision#🇵🇱 Poland | Anti-RKN
+socks5://57.128.249.250:9052#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://3b386319-a65a-4260-9702-561301b938bd@45.194.66.245:443?type=grpc&security=reality&fp=firefox&sni=dl.google.com&pbk=iGt12PmtbQOInMmfnbeZ2dFkANeDKiXT5H7YizIRMm0&serviceName=grpc#🇵🇱 Poland, Warsaw | Anti-RKN
+http://185.238.236.226:58080#🇵🇱 Poland, Kończyce | Anti-RKN
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443#🇵🇱 Poland, Warsaw | Anti-RKN
 hysteria2://cdfb74db-f288-4271-960d-6d31c4ef75cc@177.202.68.243:8443?obfs=salamander&obfs-password=x9KvL2mP4nC72H3w&sni=tomsk.gosgenarchive.com#🇵🇱 Poland, Warsaw | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#🇵🇱 Poland, Warsaw | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6TjdqM3BkVFlrS21zeThDUg==@217.30.10.44:9095#🇵🇱 Poland, Warsaw | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6UzJ6RHl5UGNtWk4yaDhFQw==@217.30.10.44:9076#🇵🇱 Poland, Warsaw | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6dGtoSFZ4eGZNMlFFckJXZQ==@217.30.10.44:9062#🇵🇱 Poland, Warsaw | Anti-RKN
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz&fp=firefox#🇵🇱 Poland, Warsaw | Anti-RKN
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz&fp=firefox#🇵🇱 Poland, Warsaw | Anti-RKN
+trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.75.215:443?security=tls&fp=firefox#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.169.126.66:443?type=ws&security=tls&fp=firefox&host=vpn47.cc.cd&sni=vpn47.cc.cd#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@84.17.55.151:8443?type=tcp&security=tls&fp=firefox&sni=pl1.fromblancwithlove.com#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://1919f8a0-629a-433f-b1ec-28f424a4a2d6@144.31.3.250:443?type=tcp&security=reality&fp=firefox&sni=www.yandex.ru&pbk=z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
@@ -133,10 +97,12 @@ vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?type=grpc&security
 vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?type=tcp&security=reality&fp=firefox&sni=google.com&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.36:443?type=tcp&security=tls&fp=firefox&sni=plcdn13.suio.me#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@144.31.0.101:443?type=tcp&security=reality&fp=firefox&sni=gmtrtb.wey-land.net&pbk=1eEtiZY5qDDosntp-9_xFnOIvOBzHy4d3-eA7v11qx0&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
+vless://9e4ef335-b06c-4d3f-934d-cfba5d8e3f38@177.202.71.55:2056?type=tcp&security=reality&fp=firefox&sni=aws-dr.udemy.com&pbk=6_I8zzMhaLX-Jc1Ve_ldSUE_9ZbrjF2Uk2UaASB6VUI&sid=81&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://9e894e86-cdae-4894-b39a-246a59c89448@144.31.0.194:6443?type=tcp&security=reality&fp=firefox&sni=debug.resolvertest.doh.umbrella.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
+vless://9ec5a6c1-5f9e-45ec-94f0-07fa5969745c@153.52.155.235:443?security=reality&fp=firefox&sni=mirror.pixelhosting.nl&pbk=hafTz4tDrS5Dxzr6qQ10LIpKGF7b_8gTlysz10ObLk4&sid=4c543db4a2a7b913&flow=xtls-rprx-vision#🇵🇱 Poland | Anti-RKN
 vless://a086c8e2-7a2f-4265-9518-6d7529106b80@144.31.0.153:443?type=tcp&security=reality&fp=firefox&sni=pool.recrent-sell.com&pbk=V5RcrDt9UjqudnN7aRlOfgV-Ue9ZDwW6TprFyntzkCI&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.47:443?type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#🇵🇱 Poland | Anti-RKN
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#🇵🇱 Poland, Wroclaw | Anti-RKN
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#🇵🇱 Poland | Anti-RKN
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.222:443?type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#🇵🇱 Poland | Anti-RKN
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@2.59.253.251:443?type=tcp&security=reality&fp=firefox&sni=nvidia.com&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
 vless://b95dd8e5-2758-408f-be99-9362eecee609@191.44.113.251:443?type=tcp&security=reality&fp=firefox&sni=yahoo.com&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&sid=5ea7e22e889dabc5&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
@@ -152,6 +118,30 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HtfCfh7EgUG9sYW5kLCBQb3puYW4gfCBBbnRpLVJLTiIsImFk
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HtfCfh7EgUG9sYW5kLCBXYXJzYXcgfCBBbnRpLVJLTiIsImFkZCI6IjgyLjIyLjQwLjE5IiwicG9ydCI6IjQ1NDAyIiwiaWQiOiIxMTNhZTYxYi1kNmRhLTRkMDgtOTIyMS00ODU5NWNiODQzNmMiLCJzY3kiOiJhdXRvIiwidHlwZSI6Imh0dHAiLCJob3N0IjoicGxheS5nb29nbGUuY29tIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HtfCfh7EgUG9sYW5kLCBXYXJzYXcgfCBBbnRpLVJLTiIsImFkZCI6IjgyLjIyLjQwLjE5IiwicG9ydCI6IjYxOTc3IiwiaWQiOiIxMTNhZTYxYi1kNmRhLTRkMDgtOTIyMS00ODU5NWNiODQzNmMiLCJzY3kiOiJhdXRvIiwidHlwZSI6Imh0dHAiLCJob3N0IjoicGxheS5nb29nbGUuY29tIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HtfCfh7EgUG9sYW5kLCBXYXJzYXcgfCBBbnRpLVJLTiIsImFkZCI6IjU3LjEyOC4yMTYuMTI1IiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImthbXBvbmcub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJrYW1wb25nLm9yZyIsImZwIjoiZmlyZWZveCJ9
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@201.58.178.207:443?type=tcp&security=reality&fp=firefox&sni=lesson2.schoolpizorbz.xyz&pbk=S8sWDQftwzUiNredawkRmbDxar70w2uX3y1EJISvQBo&sid=fd417540c0fab072&flow=xtls-rprx-vision#🇵🇱 Poland, Warsaw | Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#🇵🇱 Poland, Warsaw | Anti-RKN
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443#🇵🇱 Poland, Warsaw | Anti-RKN
+socks4://57.128.249.250:9052#🇵🇱 Poland, Warsaw | Anti-RKN
+socks4://89.186.8.107:1080#🇵🇱 Poland, Lublin | Anti-RKN
+https://151.115.78.51:443#🇵🇱 Poland, Warsaw | Anti-RKN
+https://94.246.130.82:443#🇵🇱 Poland, Jaworzno | Anti-RKN
+https://79.188.239.47:8443#🇵🇱 Poland, Wroclaw | Anti-RKN
+https://79.133.217.233:443#🇵🇱 Poland | Anti-RKN
+https://94.246.130.82:5443#🇵🇱 Poland, Jaworzno | Anti-RKN
+https://213.241.124.228:443#🇵🇱 Poland, Byczyna | Anti-RKN
+https://79.188.239.46:8443#🇵🇱 Poland, Wroclaw | Anti-RKN
+https://79.133.217.236:443#🇵🇱 Poland | Anti-RKN
+https://185.96.121.243:9443#🇵🇱 Poland, Nowy Targ | Anti-RKN
+https://80.72.39.35:443#🇵🇱 Poland | Anti-RKN
+https://83.13.36.250:443#🇵🇱 Poland, Kiełczów | Anti-RKN
+https://193.25.2.239:443#🇵🇱 Poland, Krakow | Anti-RKN
+https://153.19.91.76:1143#🇵🇱 Poland, Gdynia | Anti-RKN
+https://31.186.85.171:7890#🇵🇱 Poland, Warsaw | Anti-RKN
+https://77.90.188.177:443#🇵🇱 Poland, Warsaw | Anti-RKN
+https://81.27.101.176:443#🇵🇱 Poland, Warsaw | Anti-RKN
+socks5://83.219.248.46:20420#🇵🇱 Poland, Warsaw | Anti-RKN
+socks5://88.218.206.170:22#🇵🇱 Poland | Anti-RKN
+http://185.32.4.102:4153#🇵🇱 Poland | Anti-RKN
+http://83.168.74.163:8080#🇵🇱 Poland, Wroclaw | Anti-RKN
+http://57.128.249.250:9052#🇵🇱 Poland, Warsaw | Anti-RKN
+http://201.4.69.240:8080#🇵🇱 Poland | Anti-RKN
+socks4://31.42.6.125:5678#🇵🇱 Poland, Częstochowa | Anti-RKN
+socks4://83.168.74.163:8080#🇵🇱 Poland, Wroclaw | Anti-RKN
+socks5://83.168.74.163:8080#🇵🇱 Poland, Wroclaw | Anti-RKN

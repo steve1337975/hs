@@ -1,55 +1,15 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [LV] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
-# servers-count: 85
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 86
 
-https://89.111.30.89:443#🇱🇻 Latvia, Riga | Anti-RKN
-https://89.111.30.182:443#🇱🇻 Latvia, Riga | Anti-RKN
-https://89.111.31.249:443#🇱🇻 Latvia, Riga | Anti-RKN
-https://185.219.157.125:443#🇱🇻 Latvia | Anti-RKN
-https://185.219.157.127:443#🇱🇻 Latvia | Anti-RKN
-https://89.111.28.79:443#🇱🇻 Latvia, Riga | Anti-RKN
-https://89.111.27.219:443#🇱🇻 Latvia, Riga | Anti-RKN
-https://89.111.28.78:443#🇱🇻 Latvia, Riga | Anti-RKN
-https://89.111.27.220:443#🇱🇻 Latvia, Riga | Anti-RKN
-https://89.111.27.218:443#🇱🇻 Latvia, Riga | Anti-RKN
-https://88.135.143.159:443#🇱🇻 Latvia, Riga | Anti-RKN
-https://185.219.159.16:443#🇱🇻 Latvia | Anti-RKN
-https://185.219.159.15:443#🇱🇻 Latvia | Anti-RKN
-https://89.111.31.247:443#🇱🇻 Latvia, Riga | Anti-RKN
-https://89.111.28.74:443#🇱🇻 Latvia, Riga | Anti-RKN
-https://89.111.28.75:443#🇱🇻 Latvia, Riga | Anti-RKN
-https://185.219.159.110:443#🇱🇻 Latvia | Anti-RKN
-https://185.219.159.107:443#🇱🇻 Latvia | Anti-RKN
-https://185.219.159.133:443#🇱🇻 Latvia | Anti-RKN
-https://185.219.159.109:443#🇱🇻 Latvia | Anti-RKN
-https://185.219.159.102:443#🇱🇻 Latvia | Anti-RKN
-socks5://195.13.182.212:8080#🇱🇻 Latvia, Riga | Anti-RKN
-socks5://195.13.182.211:443#🇱🇻 Latvia, Riga | Anti-RKN
-socks5://195.13.182.212:443#🇱🇻 Latvia, Riga | Anti-RKN
-socks5://185.242.107.224:9999#🇱🇻 Latvia, Riga | Anti-RKN
-socks5://212.3.206.215:10800#🇱🇻 Latvia, Riga | Anti-RKN
-socks5://31.56.117.71:443#🇱🇻 Latvia, Riga | Anti-RKN
-socks5://46.32.187.70:10808#🇱🇻 Latvia, Riga | Anti-RKN
-socks5://188.215.31.189:10808#🇱🇻 Latvia, Riga | Anti-RKN
-http://212.3.206.215:10800#🇱🇻 Latvia, Riga | Anti-RKN
-socks4://195.13.182.211:443#🇱🇻 Latvia, Riga | Anti-RKN
-socks4://31.170.18.1:4153#🇱🇻 Latvia, Saldus | Anti-RKN
-http://195.13.182.211:443#🇱🇻 Latvia, Riga | Anti-RKN
-http://31.170.17.141:4153#🇱🇻 Latvia, Saldus | Anti-RKN
-socks4://31.170.18.129:4153#🇱🇻 Latvia, Saldus | Anti-RKN
-trojan://humanity@185.22.172.249:443?type=ws&security=tls&sni=www.pleadcourt.org&host=www.pleadcourt.org&path=%2fassignment&allowInsecure=0&fp=firefox#🇱🇻 Latvia, Riga | Anti-RKN
-trojan://humanity@46.8.228.165:443?type=ws&security=tls&sni=www.pleadcourt.org&host=www.pleadcourt.org&path=%2fassignment&allowInsecure=0&fp=firefox#🇱🇻 Latvia, Riga | Anti-RKN
-trojan://humanity@85.31.102.163:443?type=ws&security=tls&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2fassignment&fp=firefox#🇱🇻 Latvia | Anti-RKN
-vless://id8127942053@185.145.245.187:443?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=BSLYXa-gOix_3BBelaROYqH4u_kAiyfcN5-VE9qkmHE&sid=a61d6960f49e&flow=xtls-rprx-vision#🇱🇻 Latvia, Riga | Anti-RKN
-ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@185.135.86.175:9033#🇱🇻 Latvia, Riga | Anti-RKN
-vless://ba373a70-295f-482d-a471-8bc17b54e23b@195.123.211.174:443?type=grpc&security=reality&fp=firefox&sni=ironwillow.xyz&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇱🇻 Latvia, Riga | Anti-RKN
 vless://4e73a85c-21fb-4caf-97aa-af9f835d439c@31.56.179.171:12443?type=tcp&security=reality&fp=firefox&sni=www.paypal.com&pbk=cUwqkFCbgDAFXgtiaRbd_WlHmH_LteMJyZuRxVjmtWo&sid=bf84eeba#🇱🇻 Latvia, Riga | Anti-RKN
 vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&sid=5c256336e3b673fa&flow=xtls-rprx-vision#🇱🇻 Latvia, Riga | Anti-RKN
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@85.159.228.223:443?type=tcp&security=reality&fp=firefox&sni=example.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU#🇱🇻 Latvia, Riga | Anti-RKN
 vless://e2bfac1b-5f89-49a2-80af-965af6e59e7b@195.123.211.135:443?type=tcp&security=reality&fp=firefox&sni=lv-cdn.xhttp.dev&pbk=RHft3k9A1v9U-vt4m5NxZ7CR1tEZDx-IAXdpybHa4gE&sid=4640a2f00a8b7e07&flow=xtls-rprx-vision#🇱🇻 Latvia, Riga | Anti-RKN
 vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?type=tcp&security=reality&fp=firefox&sni=m.vk.com&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&sid=67ece882d65d0f1a#🇱🇻 Latvia, Riga | Anti-RKN
 vless://9a597d68-6688-4046-bf24-a5a541e115e0@195.123.209.159:8443?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&sid=f8d0271b4b5f9efc&flow=xtls-rprx-vision#🇱🇻 Latvia, Riga | Anti-RKN
@@ -79,6 +39,11 @@ vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@188.253.20.190:443?type=ws&security
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@188.253.20.190:443?type=ws&security=tls&fp=firefox&host=inlay.merlano.monster&sni=inlay.merlano.monster&path=%2fapi%2fde3%2fstream#🇱🇻 Latvia, Riga | Anti-RKN
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@77.73.71.200:443?type=ws&security=tls&fp=firefox&host=parchment.merlano.monster&sni=parchment.merlano.monster&path=%2fapi%2fde7%2fstream#🇱🇻 Latvia, Riga | Anti-RKN
 vless://4e73a85c-21fb-4caf-97aa-af9f835d439c@31.56.179.171:8880?type=tcp&security=reality&fp=firefox&sni=www.speedtest.net&pbk=wRQ8HyClUOReuiB84oE2r-jPYkiiiJALU3ks2gCvsG0&sid=180f4c72#🇱🇻 Latvia, Riga | Anti-RKN
+ss://YWVzLTEyOC1nY206RUUyVldlS29oSXdUeDZIR09vMVgycDFqak5BVWZSV1M=@109.248.148.141:11471#🇱🇻 Latvia, Riga | Anti-RKN
+ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@185.135.86.175:9033#🇱🇻 Latvia, Riga | Anti-RKN
+trojan://humanity@185.22.172.249:443?type=ws&security=tls&sni=www.pleadcourt.org&host=www.pleadcourt.org&path=%2fassignment&allowInsecure=0&fp=firefox#🇱🇻 Latvia, Riga | Anti-RKN
+trojan://humanity@46.8.228.165:443?type=ws&security=tls&sni=www.pleadcourt.org&host=www.pleadcourt.org&path=%2fassignment&allowInsecure=0&fp=firefox#🇱🇻 Latvia, Riga | Anti-RKN
+trojan://humanity@85.31.102.163:443?type=ws&security=tls&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2fassignment&fp=firefox#🇱🇻 Latvia | Anti-RKN
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@195.135.254.75:443?type=ws&security=tls&fp=firefox&host=happy.mianfeicf.lol&sni=happy.mianfeicf.lol&path=%2f%3fed%3d2560#🇱🇻 Latvia, Riga | Anti-RKN
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@77.73.71.103:443?type=ws&security=tls&fp=firefox&host=happy.mianfeicf.lol&sni=happy.mianfeicf.lol#🇱🇻 Latvia, Riga | Anti-RKN
 vless://4e73a85c-21fb-4caf-97aa-af9f835d439c@31.56.179.171:8888?type=tcp&security=reality&fp=firefox&sni=www.amd.com&pbk=rmlmwP6tNn5lLikyi_aFYzglzL_yXrik3-W-XyBpE0Q&sid=48850a2e#🇱🇻 Latvia, Riga | Anti-RKN
@@ -89,6 +54,42 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.38.139.9:443?type=ws&security=tl
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.38.170.198:443?type=ws&security=tls&fp=firefox&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&path=%2f%3fed%3d2560#🇱🇻 Latvia, Riga | Anti-RKN
 vless://70f1696c-8b82-4614-9c1e-8ec21201684d@185.220.223.78:443?type=tcp&security=reality&fp=firefox&sni=lv.meltun.org&pbk=wEJIqlLqor9Z_LMHvcsXh5FSoKMz3NbbcORwPDBgbhw&sid=5a8e1a04f3d92b67&flow=xtls-rprx-vision#🇱🇻 Latvia | Anti-RKN
 vless://72522396-5408-4767-b134-70ca09cdfe36@193.163.203.6:16012?type=grpc&security=reality&fp=firefox&sni=ronaldo.foxprox.uk&pbk=RS7fg9l3ALKws4NQv9jCl6l7uIG3Rq_PpXNnNCVUnSY&sid=f0f1&serviceName=vless#🇱🇻 Latvia | Anti-RKN
+vless://id8127942053@185.145.245.187:443?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=BSLYXa-gOix_3BBelaROYqH4u_kAiyfcN5-VE9qkmHE&sid=a61d6960f49e&flow=xtls-rprx-vision#🇱🇻 Latvia, Riga | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsfCfh7sgTGF0dmlhLCBSaWdhIHwgQW50aS1SS04iLCJhZGQiOiI5NS4xODIuMTE1LjE3OCIsInBvcnQiOiI0NDMiLCJpZCI6ImRiNzUzMzM0LTVmZDEtNDcyYi1iM2UwLTQ1OGJjMjE4OWM1OCIsInNjeSI6ImF1dG8ifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsfCfh7sgTGF0dmlhLCBSaWdhIHwgQW50aS1SS04iLCJhZGQiOiI4NS4xNTkuMjI4LjIzMiIsInBvcnQiOiI0NDMiLCJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsImZwIjoiZmlyZWZveCJ9
-ss://YWVzLTEyOC1nY206RUUyVldlS29oSXdUeDZIR09vMVgycDFqak5BVWZSV1M=@109.248.148.141:11471#🇱🇻 Latvia, Riga | Anti-RKN
+https://89.111.30.89:443#🇱🇻 Latvia, Riga | Anti-RKN
+https://89.111.30.182:443#🇱🇻 Latvia, Riga | Anti-RKN
+https://89.111.31.249:443#🇱🇻 Latvia, Riga | Anti-RKN
+https://185.219.157.125:443#🇱🇻 Latvia | Anti-RKN
+https://185.219.157.127:443#🇱🇻 Latvia | Anti-RKN
+https://89.111.28.79:443#🇱🇻 Latvia, Riga | Anti-RKN
+https://89.111.27.219:443#🇱🇻 Latvia, Riga | Anti-RKN
+https://89.111.28.78:443#🇱🇻 Latvia, Riga | Anti-RKN
+https://89.111.27.220:443#🇱🇻 Latvia, Riga | Anti-RKN
+https://89.111.27.218:443#🇱🇻 Latvia, Riga | Anti-RKN
+https://88.135.143.159:443#🇱🇻 Latvia, Riga | Anti-RKN
+https://185.219.159.16:443#🇱🇻 Latvia | Anti-RKN
+https://185.219.159.15:443#🇱🇻 Latvia | Anti-RKN
+https://89.111.31.247:443#🇱🇻 Latvia, Riga | Anti-RKN
+https://89.111.28.74:443#🇱🇻 Latvia, Riga | Anti-RKN
+https://89.111.28.75:443#🇱🇻 Latvia, Riga | Anti-RKN
+https://185.219.159.110:443#🇱🇻 Latvia | Anti-RKN
+https://185.219.159.107:443#🇱🇻 Latvia | Anti-RKN
+https://185.219.159.133:443#🇱🇻 Latvia | Anti-RKN
+https://185.219.159.109:443#🇱🇻 Latvia | Anti-RKN
+https://185.219.159.102:443#🇱🇻 Latvia | Anti-RKN
+socks5://195.135.255.98:1080#🇱🇻 Latvia, Riga | Anti-RKN
+socks5://195.13.182.211:8080#🇱🇻 Latvia | Anti-RKN
+socks5://195.13.182.211:443#🇱🇻 Latvia | Anti-RKN
+socks5://185.242.107.224:9999#🇱🇻 Latvia, Riga | Anti-RKN
+socks5://212.3.206.215:10800#🇱🇻 Latvia, Riga | Anti-RKN
+socks5://31.56.117.71:443#🇱🇻 Latvia, Riga | Anti-RKN
+socks5://46.32.187.70:10808#🇱🇻 Latvia, Riga | Anti-RKN
+socks5://188.215.31.189:10808#🇱🇻 Latvia, Riga | Anti-RKN
+http://212.3.206.215:10800#🇱🇻 Latvia, Riga | Anti-RKN
+socks4://195.13.182.211:443#🇱🇻 Latvia | Anti-RKN
+socks4://31.170.18.129:4153#🇱🇻 Latvia, Saldus | Anti-RKN
+http://195.135.255.98:1080#🇱🇻 Latvia, Riga | Anti-RKN
+http://195.13.182.211:8080#🇱🇻 Latvia | Anti-RKN
+http://195.13.182.211:443#🇱🇻 Latvia | Anti-RKN
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@31.56.227.253:443?type=ws&security=tls&fp=firefox&host=cf-1rm.pages.dev&sni=cf-1rm.pages.dev&path=%2ffp%3dchrome#🇱🇻 Latvia, Riga | Anti-RKN

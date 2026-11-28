@@ -1,42 +1,32 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AU] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
+# generated-at: 11/28/2026 10:48:03
 # servers-count: 81
 
-http://13.239.253.213:16186#🇦🇺 Australia, Sydney | Anti-RKN
-http://16.51.5.77:51964#🇦🇺 Australia, Melbourne | Anti-RKN
-http://134.199.160.93:8888#🇦🇺 Australia, Sydney | Anti-RKN
-https://4.198.140.211:443#🇦🇺 Australia, Melbourne | Anti-RKN
-https://150.230.14.159:443#🇦🇺 Australia, Huntingwood | Anti-RKN
-https://51.161.152.170:443#🇦🇺 Australia, Sydney | Anti-RKN
-https://203.31.65.32:443#🇦🇺 Australia, Melbourne | Anti-RKN
-https://140.238.205.29:443#🇦🇺 Australia, Huntingwood | Anti-RKN
-https://140.238.207.23:443#🇦🇺 Australia, Huntingwood | Anti-RKN
-https://13.239.253.213:26746#🇦🇺 Australia, Sydney | Anti-RKN
-http://4.195.16.140:80#🇦🇺 Australia, Sydney | Anti-RKN
-http://139.99.237.62:80#🇦🇺 Australia, Sydney | Anti-RKN
-socks5://168.138.9.147:1080#🇦🇺 Australia, Melbourne | Anti-RKN
-socks5://159.196.163.64:80#🇦🇺 Australia, Sydney | Anti-RKN
-http://159.196.163.64:80#🇦🇺 Australia, Sydney | Anti-RKN
-trojan://ttfang@103.169.142.216:2096?type=ws&security=tls&sni=ttfang.fange.me&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇦🇺 Australia | Anti-RKN
 trojan://humanity@125.7.24.251:443?type=ws&security=tls&sni=www.cordweave.com&host=www.cordweave.com&path=%2fassignment&fp=firefox#🇦🇺 Australia, Sydney | Anti-RKN
-trojan://slch2024@192.65.217.195:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇦🇺 Australia | Anti-RKN
-trojan://slch2024@192.65.217.87:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇦🇺 Australia | Anti-RKN
-trojan://NISHIKUITAN111@103.169.142.224:443?type=ws&security=tls&sni=zb.ylks.xyz&host=zb.ylks.xyz&path=%2f&fp=firefox#🇦🇺 Australia | Anti-RKN
 vless://3c778768-d511-4221-8be3-3eba45640e9e@51.161.204.242:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=l0I4SmPtUDyjp1PAeSxBJ5qr9vubCOl9w3b-eDI4x24&sid=d432fe14bbdc17f6&flow=xtls-rprx-vision#🇦🇺 Australia, Sydney | Anti-RKN
 vless://8be20011-59b1-4118-91ed-83e8e6b662cd@202.166.187.132:443?type=ws&security=tls&fp=firefox&host=f.yoptybla.ru&sni=f.yoptybla.ru#🇦🇺 Australia | Anti-RKN
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880#🇦🇺 Australia | Anti-RKN
+http://13.239.253.213:16186#🇦🇺 Australia, Sydney | Anti-RKN
+http://16.51.5.77:51964#🇦🇺 Australia, Melbourne | Anti-RKN
+http://134.199.160.93:8888#🇦🇺 Australia, Sydney | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.75.119.38:990#🇦🇺 Australia, Sydney | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#🇦🇺 Australia, Sydney | Anti-RKN
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@103.224.212.216:80?security=tls&fp=firefox#🇦🇺 Australia | Anti-RKN
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.4.84.241:443?security=tls&fp=firefox#🇦🇺 Australia | Anti-RKN
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@103.224.212.210:443?type=ws&security=tls&sni=c2mk.ciscocdn1.live&host=c2mk.ciscocdn1.live&path=%2frDCYQta83d0oPABKBhcIX&fp=firefox#🇦🇺 Australia | Anti-RKN
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@103.224.212.210:443?type=ws&security=tls&sni=c2mt.ciscocdn1.live&host=c2mt.ciscocdn1.live&path=%2frDCYQta83d0oPABKBhcIX&fp=firefox#🇦🇺 Australia | Anti-RKN
 trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@103.224.212.210:443?type=ws&security=tls&sni=c3mc.ciscocdn1.live&host=c3mc.ciscocdn1.live&path=%2fywQ9KSLI4ZBm9wOAXUaN&fp=firefox#🇦🇺 Australia | Anti-RKN
 trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@103.224.212.211:443?security=tls&fp=firefox#🇦🇺 Australia | Anti-RKN
+trojan://NISHIKUITAN111@103.169.142.224:443?type=ws&security=tls&sni=zb.ylks.xyz&host=zb.ylks.xyz&path=%2f&fp=firefox#🇦🇺 Australia | Anti-RKN
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@103.224.212.216:80?security=tls&fp=firefox#🇦🇺 Australia | Anti-RKN
+trojan://slch2024@192.65.217.195:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇦🇺 Australia | Anti-RKN
+trojan://slch2024@192.65.217.87:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇦🇺 Australia | Anti-RKN
+trojan://ttfang@103.169.142.216:2096?type=ws&security=tls&sni=ttfang.fange.me&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇦🇺 Australia | Anti-RKN
 vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?type=ws&security=tls&fp=firefox&host=support.zoom.us.cyylr.eu.cc&sni=support.zoom.us.cyylr.eu.cc&path=%2fid-pusat#🇦🇺 Australia, Melbourne | Anti-RKN
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.64:443?type=ws&security=tls&fp=firefox&sni=xind.ylks.link&path=%2fblue#🇦🇺 Australia | Anti-RKN
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2f%3fed%3d2560#🇦🇺 Australia | Anti-RKN
@@ -45,7 +35,9 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@192.65.217.161:443?type=ws&security
 vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@162.4.84.239:443?type=tcp&security=tls&fp=firefox&sni=u708330u9530s719.okgfw.top&flow=xtls-rprx-vision#🇦🇺 Australia | Anti-RKN
 vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@162.4.84.239:443?type=grpc&security=tls&fp=firefox&sni=u708330u0378s842.ccgfw.top&serviceName=ssp#🇦🇺 Australia | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMTkuMjUyLjE5MC4xMTUiLCJwb3J0IjoiNDQzIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsImhvc3QiOiJ3d3cuMjMzNzYwNDYueHl6IiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJuZXQiOiJ3cyIsImhvc3QiOiIxNC43MmltZy54eXoiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJuZXQiOiJ3cyIsImhvc3QiOiIyMC43MmltZy54eXoiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJuZXQiOiJ3cyIsImhvc3QiOiIyMS43MmltZy54eXoiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJuZXQiOiJ3cyIsImhvc3QiOiIyMi43MmltZy54eXoiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJuZXQiOiJ3cyIsImhvc3QiOiIyNS43MmltZy54eXoiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJuZXQiOiJ3cyIsImhvc3QiOiIyNi43MmltZy54eXoiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
@@ -71,14 +63,11 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIx
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJkZS0yLnNoYXJlY2VudHJlLm9ubGluZSIsInBhdGgiOiIvc2hpcmtlciIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJqcC1vcmFjbGUtcy5zaGFyZWNlbnRyZS5vbmxpbmUiLCJwYXRoIjoiL3NoaXJrZXIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJqcC1vcmFjbGUtcy5zaGFyZWNlbnRyZS5vbmxpbmUiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJubC5zaGFyZWNlbnRyZS5vbmxpbmUiLCJwYXRoIjoiL3NoaXJrZXIiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJvcGMtanAuc2hhcmVjZW50cmUub25saW5lIiwicGF0aCI6Ii9zaGlya2VyIiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTAiLCJwb3J0IjoiNDQzIiwiaWQiOiJjNWEyZDdiOC1iZjg0LTRmOTctODU3Ny1iOWI4N2YyYmFhZjciLCJuZXQiOiJ3cyIsImhvc3QiOiJvcGxnMS5jZmNkbjIueHl6IiwicGF0aCI6Ii9BVUlLTjhBVSIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiI5ZmJiNjEyMi00NmU3LTQxM2ItYjI5ZC03NDllZWY0NDZjOGQiLCJuZXQiOiJ3cyIsImhvc3QiOiJvei5tb29uZnJlZS50b3AiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTMiLCJwb3J0IjoiNDQzIiwiaWQiOiI0ZmEzNWVhNC02NjhlLTRkN2ItOWJiYy1iODM2ODEwNjA2MTciLCJuZXQiOiJ3cyIsImhvc3QiOiJybGhyd3RxdXNkLnNpdGUiLCJwYXRoIjoiL2t3aG12d3MiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxNjIuNC44NC4yNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCJuZXQiOiJ3cyIsImhvc3QiOiJ1cy1kcDIuc2hhcmVjZW50cmUub25saW5lIiwicGF0aCI6Ii9zaGlya2VyIiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMTAuNzJpbWcueHl6IiwidGxzIjoidGxzIiwic25pIjoiMTAuNzJpbWcueHl6IiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMTQuNzJpbWcueHl6IiwidGxzIjoidGxzIiwic25pIjoiMTQuNzJpbWcueHl6IiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMjEuNzJpbWcueHl6IiwidGxzIjoidGxzIiwic25pIjoiMjEuNzJpbWcueHl6IiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMzAuNzJpbWcueHl6IiwidGxzIjoidGxzIiwic25pIjoiMzAuNzJpbWcueHl6IiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiNC43MmltZy54eXoiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI0LjcyaW1nLnh5eiIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiNDMuNzJpbWcueHl6IiwidGxzIjoidGxzIiwic25pIjoiNDMuNzJpbWcueHl6IiwiZnAiOiJmaXJlZm94In0=
@@ -86,5 +75,16 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIx
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiNDYuNzJpbWcueHl6IiwidGxzIjoidGxzIiwic25pIjoiNDYuNzJpbWcueHl6IiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjIxMi4yMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiNTMuNzJpbWcueHl6IiwidGxzIjoidGxzIiwic25pIjoiNTMuNzJpbWcueHl6IiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQXVzdHJhbGlhLCBIdW50aW5nd29vZCB8IEFudGktUktOIiwiYWRkIjoiMTU5LjEzLjM0LjIyIiwicG9ydCI6IjEwMDAxIiwiaWQiOiJhZWM4ZTVlMy1iYjgxLTRiMjItODgwMi0wYjg4YzU0OTk3YjMiLCJzY3kiOiJhdXRvIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#🇦🇺 Australia, Sydney | Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.75.119.38:990#🇦🇺 Australia, Sydney | Anti-RKN
+https://4.198.140.211:443#🇦🇺 Australia, Melbourne | Anti-RKN
+https://150.230.14.159:443#🇦🇺 Australia, Huntingwood | Anti-RKN
+https://51.161.152.170:443#🇦🇺 Australia, Sydney | Anti-RKN
+https://203.31.65.32:443#🇦🇺 Australia, Melbourne | Anti-RKN
+https://140.238.205.29:443#🇦🇺 Australia, Huntingwood | Anti-RKN
+https://140.238.207.23:443#🇦🇺 Australia, Huntingwood | Anti-RKN
+https://13.239.253.213:26746#🇦🇺 Australia, Sydney | Anti-RKN
+http://4.195.16.140:80#🇦🇺 Australia, Sydney | Anti-RKN
+http://139.99.237.62:80#🇦🇺 Australia, Sydney | Anti-RKN
+http://114.111.151.41:80#🇦🇺 Australia | Anti-RKN
+socks5://103.248.47.230:1080#🇦🇺 Australia, Sydney | Anti-RKN
+socks5://159.196.163.64:80#🇦🇺 Australia, Sydney | Anti-RKN
+http://159.196.163.64:80#🇦🇺 Australia, Sydney | Anti-RKN

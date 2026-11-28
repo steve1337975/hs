@@ -1,24 +1,21 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AR] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
-# servers-count: 15
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 12
 
-http://181.209.78.75:999#🇦🇷 Argentina | Anti-RKN
-http://138.117.13.129:999#🇦🇷 Argentina, 28 de Noviembre | Anti-RKN
-http://190.123.83.137:999#🇦🇷 Argentina, Río Cuarto | Anti-RKN
-socks4://190.220.1.173:35376#🇦🇷 Argentina | Anti-RKN
+http://168.228.140.1:999#🇦🇷 Argentina, Caleta Olivia | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#🇦🇷 Argentina, Buenos Aires | Anti-RKN
 https://170.210.44.231:443#🇦🇷 Argentina | Anti-RKN
+socks4://190.225.152.38:1080#🇦🇷 Argentina, Villa Carlos Paz | Anti-RKN
 socks5://190.229.64.252:443#🇦🇷 Argentina, Las Talitas | Anti-RKN
-http://181.209.125.189:999#🇦🇷 Argentina | Anti-RKN
 http://138.118.51.137:8080#🇦🇷 Argentina, La Plata | Anti-RKN
-http://198.12.37.6:8080#🇦🇷 Argentina | Anti-RKN
+http://181.209.108.218:999#🇦🇷 Argentina, Victoria | Anti-RKN
 socks4://198.50.21.40:4145#🇦🇷 Argentina, Villa Carlos Paz | Anti-RKN
-socks4://190.18.170.230:5678#🇦🇷 Argentina, Córdoba | Anti-RKN
-http://181.191.223.181:999#🇦🇷 Argentina, Lomas de Zamora | Anti-RKN
+http://45.65.227.97:999#🇦🇷 Argentina, Buenos Aires | Anti-RKN
 http://200.0.227.220:4153#🇦🇷 Argentina, Buenos Aires | Anti-RKN
 socks4://190.122.91.130:999#🇦🇷 Argentina | Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#🇦🇷 Argentina, Buenos Aires | Anti-RKN
+http://190.122.91.130:999#🇦🇷 Argentina | Anti-RKN

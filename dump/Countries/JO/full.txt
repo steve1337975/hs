@@ -1,15 +1,15 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [JO] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
+# generated-at: 11/28/2026 10:48:03
 # servers-count: 7
 
-trojan://ttfang@62.72.166.216:2096?type=ws&security=tls&sni=ttfang.fange.me&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇯🇴 Jordan | Anti-RKN
 trojan://NISHIKUITAN111@62.72.166.140:443?type=ws&security=tls&sni=zb.ylks.xyz&host=zb.ylks.xyz&path=%2f&fp=firefox#🇯🇴 Jordan | Anti-RKN
 trojan://NISHIKUITAN111@62.72.166.57:443?type=ws&security=tls&sni=za.ylks.xyz&host=za.ylks.xyz&path=%2f&fp=firefox#🇯🇴 Jordan | Anti-RKN
+trojan://ttfang@62.72.166.216:2096?type=ws&security=tls&sni=ttfang.fange.me&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇯🇴 Jordan | Anti-RKN
 vless://401374e6-df77-41fb-f638-dad8184f175b@62.72.166.15:443?type=grpc&security=tls&fp=firefox&sni=pqh36v4.hiddendom.shop#🇯🇴 Jordan | Anti-RKN
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2f%3fed%3d2560#🇯🇴 Jordan | Anti-RKN
 vless://775213ac-3976-439a-8977-3277c0e4735d@62.72.166.67:2096?type=ws&security=tls&fp=firefox&host=fq521.6789.cloudns.be&sni=fq521.6789.cloudns.be&path=%2ftwitter%e8%8b%8f%e5%b0%8f%e6%9f%a0security%3dtls#🇯🇴 Jordan | Anti-RKN

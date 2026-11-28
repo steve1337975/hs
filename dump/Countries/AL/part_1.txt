@@ -1,22 +1,20 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AL] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
-# servers-count: 13
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 11
 
-http://79.106.108.156:8079#🇦🇱 Albania, Tepelenë | Anti-RKN
-http://185.89.156.2:44224#🇦🇱 Albania, Berat | Anti-RKN
-https://134.0.63.185:443#🇦🇱 Albania, Tirana | Anti-RKN
-https://91.92.250.33:443#🇦🇱 Albania | Anti-RKN
-socks4://37.26.86.206:4145#🇦🇱 Albania, Elbasan | Anti-RKN
-socks4://185.190.90.2:4145#🇦🇱 Albania | Anti-RKN
-trojan://humanity@185.75.243.102:443?type=ws&security=tls&sni=www.ignitelimit.com&host=www.ignitelimit.com&path=%2fassignment&fp=firefox#🇦🇱 Albania, Tirana | Anti-RKN
 vless://9a597d68-6688-4046-bf24-a5a541e115e0@31.171.152.222:8443?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&sid=f8d0271b4b5f9efc&flow=xtls-rprx-vision#🇦🇱 Albania, Tirana | Anti-RKN
 vless://df97ce68-477f-4484-94c7-79eccab7319d@167.17.184.239:443?type=tcp&security=reality&fp=firefox&sni=alb1.angelsleep9.com&pbk=tXhsg663V1Ia_YWMtQMWQRaZouyONXknQ16OLMAdFXs&sid=28ffd89d510a739b&flow=xtls-rprx-vision#🇦🇱 Albania, Tirana | Anti-RKN
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@193.108.112.245:443?security=reality&fp=firefox&sni=alban.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&flow=xtls-rprx-vision#🇦🇱 Albania, Tirana | Anti-RKN
+trojan://humanity@185.75.243.102:443?type=ws&security=tls&sni=www.ignitelimit.com&host=www.ignitelimit.com&path=%2fassignment&fp=firefox#🇦🇱 Albania, Tirana | Anti-RKN
 vless://20486037-c2ae-4c07-a459-f58ca83cf08a@185.186.77.197:10005?type=tcp&security=reality&fp=firefox&sni=play.googleapis.com&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4#🇦🇱 Albania | Anti-RKN
 vless://40ecece1-edd9-4543-99c7-529ee594135d@78.159.131.51:443?type=tcp&security=reality&fp=firefox&sni=www.samsung.com&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&sid=e249378d#🇦🇱 Albania | Anti-RKN
 vless://f2309653-bfe7-43ff-83fc-784b06210bfa@78.159.131.23:443?type=tcp&security=reality&fp=firefox&sni=al.cdn.stun.su&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=9f6a51680da312f6&flow=xtls-rprx-vision#🇦🇱 Albania | Anti-RKN
+https://134.0.63.185:443#🇦🇱 Albania | Anti-RKN
+https://91.92.250.33:443#🇦🇱 Albania | Anti-RKN
+socks4://37.26.86.206:4145#🇦🇱 Albania, Elbasan | Anti-RKN
+socks4://185.190.90.2:4145#🇦🇱 Albania | Anti-RKN

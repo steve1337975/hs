@@ -1,20 +1,22 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [EG] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
-# servers-count: 11
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 13
 
-http://41.33.245.139:1976#🇪🇬 Egypt, Cairo | Anti-RKN
 http://197.164.101.13:1976#🇪🇬 Egypt, Cairo | Anti-RKN
-http://197.164.101.10:1981#🇪🇬 Egypt, Cairo | Anti-RKN
+http://197.164.101.10:1976#🇪🇬 Egypt, Cairo | Anti-RKN
 http://213.131.85.28:1976#🇪🇬 Egypt | Anti-RKN
+http://45.245.208.180:8080#🇪🇬 Egypt, Cairo | Anti-RKN
 http://197.164.101.13:1981#🇪🇬 Egypt, Cairo | Anti-RKN
-http://41.128.77.76:1981#🇪🇬 Egypt, Cairo | Anti-RKN
-http://197.164.101.14:1981#🇪🇬 Egypt, Cairo | Anti-RKN
+http://197.164.101.14:1976#🇪🇬 Egypt, Cairo | Anti-RKN
 https://102.217.69.75:10443#🇪🇬 Egypt | Anti-RKN
+http://41.128.90.50:1976#🇪🇬 Egypt, Cairo | Anti-RKN
 http://81.10.102.153:8080#🇪🇬 Egypt, Cairo | Anti-RKN
-http://41.33.60.42:8081#🇪🇬 Egypt, Cairo | Anti-RKN
+http://213.131.85.28:1981#🇪🇬 Egypt | Anti-RKN
 http://41.196.16.231:1976#🇪🇬 Egypt, Cairo | Anti-RKN
+socks4://197.164.101.14:1976#🇪🇬 Egypt, Cairo | Anti-RKN
+socks5://197.164.101.14:1976#🇪🇬 Egypt, Cairo | Anti-RKN

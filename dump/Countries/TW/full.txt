@@ -1,25 +1,12 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [TW] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:31:24
+# generated-at: 11/28/2026 10:48:03
 # servers-count: 63
 
-socks4://211.22.151.163:60909#🇹🇼 Taiwan, Taichung | Anti-RKN
-https://107.167.191.95:8443#🇹🇼 Taiwan, Taipei | Anti-RKN
-http://34.81.160.132:80#🇹🇼 Taiwan, Taipei | Anti-RKN
-socks5://223.165.10.15:1080#🇹🇼 Taiwan | Anti-RKN
-socks5://223.165.10.17:1080#🇹🇼 Taiwan | Anti-RKN
-socks5://223.165.10.13:1080#🇹🇼 Taiwan | Anti-RKN
-http://59.124.62.9:3128#🇹🇼 Taiwan, Zhongli District | Anti-RKN
-http://122.116.125.115:8888#🇹🇼 Taiwan, Taipei | Anti-RKN
-http://164.52.11.194:18080#🇹🇼 Taiwan | Anti-RKN
-socks4://220.132.41.160:1088#🇹🇼 Taiwan, Taichung | Anti-RKN
-http://211.22.151.163:60909#🇹🇼 Taiwan, Taichung | Anti-RKN
-socks4://122.116.125.115:8888#🇹🇼 Taiwan, Taipei | Anti-RKN
-socks5://122.116.125.115:8888#🇹🇼 Taiwan, Taipei | Anti-RKN
 vless://b59bcb5b-5150-4c6b-9227-681886197014@85.237.207.221:443?type=tcp&security=reality&fp=firefox&sni=dl.google.com&pbk=lJz7AGWUC-ZTEIJaU5y1GRrROWJ9J_VzQRyrYPmOygs&sid=fd2fa5e06670120b&flow=xtls-rprx-vision#🇹🇼 Taiwan, Taipei | Anti-RKN
 vless://33561cd0-cb02-4634-8db7-0a45ebcd577d@125.230.79.123:30101?security=reality&fp=firefox&sni=itunes.apple.com&pbk=egnl0iFXY3IZYfvHwoNd72sCaULkoFRoL78wQiFwcDU&sid=176d4445&flow=xtls-rprx-vision#🇹🇼 Taiwan, Dacun | Anti-RKN
 vless://609f503d-0eae-47cc-b6c8-8b2835e7fb7d@125.230.79.123:30103?security=reality&fp=firefox&sni=itunes.apple.com&pbk=8M0-R5F627Hnwb-hiS0VMSm-q3NPmriztJSU9FfvTB4&sid=435e2af5&flow=xtls-rprx-vision#🇹🇼 Taiwan, Dacun | Anti-RKN
@@ -27,6 +14,7 @@ vless://9665ba9d-5d17-47ff-a730-267e0112dc22@125.230.79.123:30101?security=reali
 vless://8913e987-44ef-4f99-a3ba-a0ce775a0e64@125.230.79.123:30202?security=reality&fp=firefox&sni=itunes.apple.com&pbk=9ahErgB4NKffqiZe3HHRx7Wb5br086fhnI75YuCdN0U&sid=10fa499e&flow=xtls-rprx-vision#🇹🇼 Taiwan, Dacun | Anti-RKN
 vless://8913e987-44ef-4f99-a3ba-a0ce775a0e64@125.230.79.123:30103?security=reality&fp=firefox&sni=itunes.apple.com&pbk=8M0-R5F627Hnwb-hiS0VMSm-q3NPmriztJSU9FfvTB4&sid=435e2af5&flow=xtls-rprx-vision#🇹🇼 Taiwan, Dacun | Anti-RKN
 vless://609f503d-0eae-47cc-b6c8-8b2835e7fb7d@125.230.79.123:30701?security=reality&fp=firefox&sni=itunes.apple.com&pbk=cgGav3P_PeaM4grdSECGj4Tt9IsCmSqhGo_EJ0_KdWY&sid=e62db878&flow=xtls-rprx-vision#🇹🇼 Taiwan, Dacun | Anti-RKN
+vless://d3277a12-396d-4726-acdb-248add69b1d4@36.235.53.201:443?type=tcp&security=reality&fp=firefox&sni=www.fastly.com&pbk=9MSKYWgSJJvRFEM86YdBxLMZfUhrz-xyUA99Fl22ACk&sid=b495f40f&flow=xtls-rprx-vision#🇹🇼 Taiwan, Taichung | Anti-RKN
 vless://d22254bb-3c00-419a-94e3-487c0ccaefd0@125.230.79.123:30202?security=reality&fp=firefox&sni=itunes.apple.com&pbk=9ahErgB4NKffqiZe3HHRx7Wb5br086fhnI75YuCdN0U&sid=10fa499e&flow=xtls-rprx-vision#🇹🇼 Taiwan, Dacun | Anti-RKN
 vless://33561cd0-cb02-4634-8db7-0a45ebcd577d@125.230.79.123:30701?security=reality&fp=firefox&sni=itunes.apple.com&pbk=cgGav3P_PeaM4grdSECGj4Tt9IsCmSqhGo_EJ0_KdWY&sid=e62db878&flow=xtls-rprx-vision#🇹🇼 Taiwan, Dacun | Anti-RKN
 vless://d22254bb-3c00-419a-94e3-487c0ccaefd0@125.230.79.123:30703?security=reality&fp=firefox&sni=itunes.apple.com&pbk=Fpcp8ed_KjL5rnn0gstMa0AQPL8GcYMtArb--r1AhnI&sid=845532fa&flow=xtls-rprx-vision#🇹🇼 Taiwan, Dacun | Anti-RKN
@@ -58,15 +46,27 @@ vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?type=ws&security=
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.23:443?packetEncoding=none&type=ws&security=tls&fp=firefox&host=ty986gfazs.cainiaohub.xyz&sni=ty986gfazs.cainiaohub.xyz&path=%2f81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan, Chang-hua | Anti-RKN
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?packetEncoding=none&type=ws&security=tls&fp=firefox&host=ty986gfazs.cainiaohub.xyz&sni=ty986gfazs.cainiaohub.xyz&path=%2f81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan, Taichung | Anti-RKN
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.23:443?type=ws&security=tls&fp=firefox&sni=ty986gfazs.cainiaohub.xyz&path=%2f81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan, Chang-hua | Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#🇹🇼 Taiwan, Taipei | Anti-RKN
 trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@61.223.120.25:443?security=tls&sni=t2w2t2w2.bpca2026.top&allowInsecure=1&fp=firefox#🇹🇼 Taiwan, Changhua | Anti-RKN
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.229:3462?security=tls&fp=firefox#🇹🇼 Taiwan, New Taipei City | Anti-RKN
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.229:8443?security=tls&fp=firefox#🇹🇼 Taiwan, New Taipei City | Anti-RKN
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@220.128.135.193:8443?security=tls&fp=firefox#🇹🇼 Taiwan, Taipei | Anti-RKN
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@220.128.135.193:3462?security=tls&fp=firefox#🇹🇼 Taiwan, Taipei | Anti-RKN
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@220.128.128.151:8443?security=tls&fp=firefox#🇹🇼 Taiwan, Taipei | Anti-RKN
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.229:8443?security=tls&fp=firefox#🇹🇼 Taiwan, New Taipei City | Anti-RKN
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.80.31:8443?security=tls&fp=firefox#🇹🇼 Taiwan, New Taipei City | Anti-RKN
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.80.130:8443?security=tls&fp=firefox#🇹🇼 Taiwan, New Taipei City | Anti-RKN
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@220.128.135.193:8443?security=tls&fp=firefox#🇹🇼 Taiwan, Taipei | Anti-RKN
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.22:443?type=ws&security=tls&fp=firefox&host=tse1.mm.bing.net&sni=tse1.mm.bing.net&path=%2f81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan, Chang-hua | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBUYWlwZWkgfCBBbnRpLVJLTiIsImFkZCI6IjEwMy4xNjAuMTgwLjI2IiwicG9ydCI6IjIyMjIyIiwiaWQiOiJhNTIwNmE1NS1kNWJkLTQxYjktOTJhNS1iZDI3YTkwMzU1ZmYiLCJzY3kiOiJhdXRvIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBDaGFuZ2h1YSB8IEFudGktUktOIiwiYWRkIjoiMTIyLjExOC4xNDcuOTMiLCJwb3J0IjoiNDQzIiwiaWQiOiIyNTBjMDE1ZC1iYWIwLTRlZDMtYjYzOC1iNGVkYTQ4ZjU4NDAiLCJuZXQiOiJ3cyIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBDaGFuZ2h1YSB8IEFudGktUktOIiwiYWRkIjoiMTIyLjExOC4xNDcuOTMiLCJwb3J0IjoiNDQzIiwiaWQiOiIyNTBjMDE1ZC1iYWIwLTRlZDMtYjYzOC1iNGVkYTQ4ZjU4NDAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiOTY0MTY4NC5zZGY2NWg0LnRvcCIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#🇹🇼 Taiwan, Taipei | Anti-RKN
+https://107.167.191.95:8443#🇹🇼 Taiwan, Taipei | Anti-RKN
+socks5://223.165.10.15:1080#🇹🇼 Taiwan | Anti-RKN
+socks5://223.165.10.17:1080#🇹🇼 Taiwan | Anti-RKN
+socks5://223.165.10.13:1080#🇹🇼 Taiwan | Anti-RKN
+http://122.116.125.115:8888#🇹🇼 Taiwan, Taipei | Anti-RKN
+http://164.52.11.194:18080#🇹🇼 Taiwan | Anti-RKN
+http://182.155.254.159:80#🇹🇼 Taiwan | Anti-RKN
+socks4://122.116.125.115:8888#🇹🇼 Taiwan, Taipei | Anti-RKN
+socks5://122.116.125.115:8888#🇹🇼 Taiwan, Taipei | Anti-RKN
+trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@61.224.126.124:443?type=ws&security=tls&sni=zephyr-tw2.bpca2026.top&host=zephyr-tw2.bpca2026.top&path=%2fimages&fp=firefox#🇹🇼 Taiwan, Yuanlin | Anti-RKN
+trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@61.224.114.108:443?type=ws&security=tls&sni=zhilegelian2.bpca2026.top&host=zhilegelian2.bpca2026.top&path=%2fimages&fp=firefox#🇹🇼 Taiwan, Yuanlin | Anti-RKN
+trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@61.223.120.25:443?type=ws&security=tls&sni=t2w2t2w2.bpca2026.top&host=t2w2t2w2.bpca2026.top&path=%2fimages&fp=firefox#🇹🇼 Taiwan, Changhua | Anti-RKN

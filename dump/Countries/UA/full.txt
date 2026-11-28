@@ -1,37 +1,32 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [UA] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 02:32:22
-# servers-count: 28
+# generated-at: 11/28/2026 10:31:24
+# servers-count: 23
 
-vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.23:443?security=reality&fp=firefox&sni=digitalwaypoint.website&pbk=x_X15Vl6mHKSDHI0ku9FOyUA9a6djCnGNhfsW6BEXXA&sid=f8916298f6f031dd&flow=xtls-rprx-vision#🇺🇦 Ukraine | Anti-RKN
+http://195.226.213.251:8888#🇺🇦 Ukraine, Fontanka | Anti-RKN
+http://45.149.24.61:8080#🇺🇦 Ukraine | Anti-RKN
+socks5://194.44.255.112:8090#🇺🇦 Ukraine, Lviv | Anti-RKN
+socks4://37.52.13.164:5678#🇺🇦 Ukraine | Anti-RKN
+socks4://195.138.65.34:5678#🇺🇦 Ukraine, Odesa | Anti-RKN
+https://149.102.240.129:9443#🇺🇦 Ukraine, Kyiv | Anti-RKN
+https://149.102.240.142:9443#🇺🇦 Ukraine, Kyiv | Anti-RKN
+http://31.43.63.70:4145#🇺🇦 Ukraine | Anti-RKN
+socks4://81.162.249.129:4153#🇺🇦 Ukraine, Kyiv | Anti-RKN
+socks4://31.43.33.55:4153#🇺🇦 Ukraine | Anti-RKN
+http://195.138.65.34:5678#🇺🇦 Ukraine, Odesa | Anti-RKN
+socks4://62.122.207.173:8080#🇺🇦 Ukraine, Ivano-Frankivsk | Anti-RKN
+trojan://ttfang@46.202.30.216:2096?type=ws&security=tls&sni=ttfang.fange.me&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇺🇦 Ukraine | Anti-RKN
+vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.35:443?type=tcp&security=reality&fp=firefox&sni=astralnote.space&pbk=RcPNBbJIiuFtYkgKJ3PhlBvAYxe9GD2DU_1F8iTzlSY&sid=b88c99d593511774&flow=xtls-rprx-vision#🇺🇦 Ukraine | Anti-RKN
+vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.26:443?type=tcp&security=reality&fp=firefox&sni=cloudlesspoint.website&pbk=VWjlYzRCAbWEw4zwKCAPd_psKkgvFWj0ADsYT8PL3lc&sid=e978a815a971f589&flow=xtls-rprx-vision#🇺🇦 Ukraine | Anti-RKN
 vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.196.162.110:443?type=tcp&security=reality&fp=firefox&sni=digitalrepository.online&pbk=bKTzJLYj74IilLkZPG0GO_WPkZdAllAFnetWRDqj5h8&sid=8cf78b3eca7747f1&flow=xtls-rprx-vision#🇺🇦 Ukraine | Anti-RKN
+vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.23:443?type=tcp&security=reality&fp=firefox&sni=digitalwaypoint.website&pbk=x_X15Vl6mHKSDHI0ku9FOyUA9a6djCnGNhfsW6BEXXA&sid=f8916298f6f031dd&flow=xtls-rprx-vision#🇺🇦 Ukraine | Anti-RKN
+vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.23:443?security=reality&fp=firefox&sni=digitalwaypoint.website&pbk=x_X15Vl6mHKSDHI0ku9FOyUA9a6djCnGNhfsW6BEXXA&sid=f8916298f6f031dd&flow=xtls-rprx-vision#🇺🇦 Ukraine | Anti-RKN
 vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.35:443?security=reality&fp=firefox&sni=astralnote.space&pbk=RcPNBbJIiuFtYkgKJ3PhlBvAYxe9GD2DU_1F8iTzlSY&sid=b88c99d593511774&flow=xtls-rprx-vision#🇺🇦 Ukraine | Anti-RKN
 vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.26:443?security=reality&fp=firefox&sni=cloudlesspoint.website&pbk=VWjlYzRCAbWEw4zwKCAPd_psKkgvFWj0ADsYT8PL3lc&sid=e978a815a971f589&flow=xtls-rprx-vision#🇺🇦 Ukraine | Anti-RKN
-vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.26:443?type=tcp&security=reality&fp=firefox&sni=cloudlesspoint.website&pbk=VWjlYzRCAbWEw4zwKCAPd_psKkgvFWj0ADsYT8PL3lc&sid=e978a815a971f589&flow=xtls-rprx-vision#🇺🇦 Ukraine | Anti-RKN
-vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.35:443?type=tcp&security=reality&fp=firefox&sni=astralnote.space&pbk=RcPNBbJIiuFtYkgKJ3PhlBvAYxe9GD2DU_1F8iTzlSY&sid=b88c99d593511774&flow=xtls-rprx-vision#🇺🇦 Ukraine | Anti-RKN
-vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.23:443?type=tcp&security=reality&fp=firefox&sni=digitalwaypoint.website&pbk=x_X15Vl6mHKSDHI0ku9FOyUA9a6djCnGNhfsW6BEXXA&sid=f8916298f6f031dd&flow=xtls-rprx-vision#🇺🇦 Ukraine | Anti-RKN
-vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.26:443#🇺🇦 Ukraine | Anti-RKN
-vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.35:443#🇺🇦 Ukraine | Anti-RKN
-vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.23:443#🇺🇦 Ukraine | Anti-RKN
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#🇺🇦 Ukraine | Anti-RKN
-http://146.158.30.103:8080#🇺🇦 Ukraine, Dnipro | Anti-RKN
-http://188.191.18.66:15212#🇺🇦 Ukraine | Anti-RKN
-http://176.105.212.219:8080#🇺🇦 Ukraine, Poltava | Anti-RKN
 vless://9a597d68-6688-4046-bf24-a5a541e115e0@194.54.80.37:8443?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&sid=f8d0271b4b5f9efc&flow=xtls-rprx-vision#🇺🇦 Ukraine | Anti-RKN
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@194.150.220.179:443?type=tcp&security=reality&fp=firefox&sni=nl4.japancase.site&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&sid=9f05c35b73b47d53&flow=xtls-rprx-vision#🇺🇦 Ukraine | Anti-RKN
-socks4://46.98.193.59:5678#🇺🇦 Ukraine, Kamyanske | Anti-RKN
-socks4://81.162.249.129:4153#🇺🇦 Ukraine, Kyiv | Anti-RKN
-socks4://195.138.65.34:5678#🇺🇦 Ukraine, Odesa | Anti-RKN
-socks5://178.92.72.205:1080#🇺🇦 Ukraine | Anti-RKN
-socks5://46.35.247.23:1080#🇺🇦 Ukraine, Sevastopol | Anti-RKN
-http://93.171.218.52:8080#🇺🇦 Ukraine, Kerch | Anti-RKN
-http://193.105.62.11:58973#🇺🇦 Ukraine | Anti-RKN
-socks4://31.43.63.70:4145#🇺🇦 Ukraine | Anti-RKN
-http://37.52.13.164:5678#🇺🇦 Ukraine | Anti-RKN
-http://46.98.193.59:5678#🇺🇦 Ukraine, Kamyanske | Anti-RKN
-http://195.138.65.34:5678#🇺🇦 Ukraine, Odesa | Anti-RKN
-http://178.92.72.205:1080#🇺🇦 Ukraine | Anti-RKN
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@173.242.63.235:8443?type=ws&security=tls&fp=firefox&host=vp4.1145678.xyz&sni=vp4.1145678.xyz&path=%2fwenku%2fcomics#🇺🇦 Ukraine | Anti-RKN
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#🇺🇦 Ukraine | Anti-RKN

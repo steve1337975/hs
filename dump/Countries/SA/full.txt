@@ -1,16 +1,18 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SA] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 02:32:22
-# servers-count: 7
+# generated-at: 11/28/2026 10:31:24
+# servers-count: 9
 
+https://150.230.51.152:443#🇸🇦 Saudi Arabia | Anti-RKN
+http://130.110.103.245:3128#🇸🇦 Saudi Arabia | Anti-RKN
+http://8.213.37.17:8888#🇸🇦 Saudi Arabia, Riyadh | Anti-RKN
+trojan://ttfang@91.209.253.216:2096?type=ws&security=tls&sni=ttfang.fange.me&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇸🇦 Saudi Arabia | Anti-RKN
 vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?type=grpc&security=reality&fp=firefox&sni=www.ebay.com&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e#🇸🇦 Saudi Arabia | Anti-RKN
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@149.104.94.165:80?type=ws&host=platform102.golnamakcert.top&path=%2fplatform102#🇸🇦 Saudi Arabia, Jeddah | Anti-RKN
 vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.243:443?type=ws&security=tls&fp=firefox&host=nb.lovecf.ggff.net&sni=nb.lovecf.ggff.net#🇸🇦 Saudi Arabia | Anti-RKN
 vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.250:443?type=ws&security=tls&fp=firefox&host=nb.lovecf.ggff.net&sni=nb.lovecf.ggff.net#🇸🇦 Saudi Arabia | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6YgU2F1ZGkgQXJhYmlhLCBSaXlhZGggfCBBbnRpLVJLTiIsImFkZCI6IjE1NC4yMDUuMTM0LjI0IiwicG9ydCI6IjEwMDAwIiwiaWQiOiIwOTY3OTYxZS05NTlhLTExZWYtODc1Zi01MjU0MDFhZWI0OTIiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZwbmphbnRpdCJ9
-https://150.230.51.152:443#🇸🇦 Saudi Arabia | Anti-RKN
-http://130.110.103.245:3128#🇸🇦 Saudi Arabia | Anti-RKN
-http://89.108.0.172:3128#🇸🇦 Saudi Arabia | Anti-RKN

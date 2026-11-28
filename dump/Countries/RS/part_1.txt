@@ -1,23 +1,18 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [RS] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 02:32:22
-# servers-count: 14
+# generated-at: 11/28/2026 10:31:24
+# servers-count: 9
 
+https://212.200.119.174:443#🇷🇸 Serbia, Novi Pazar | Anti-RKN
+vless://c1f4f185-5786-40c9-893f-2f100b7165f2@150.40.126.187:443?type=tcp&security=reality&fp=firefox&sni=eu38.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74#🇷🇸 Serbia, Belgrade | Anti-RKN
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@38.180.101.136:443#🇷🇸 Serbia, Belgrade | Anti-RKN
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.62:443?type=grpc&security=reality&fp=firefox&sni=rs2.univesalsrv.com&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&serviceName=media.v1.ObjectService#🇷🇸 Serbia, Belgrade | Anti-RKN
-vless://c1f4f185-5786-40c9-893f-2f100b7165f2@150.40.126.187:443?type=tcp&security=reality&fp=firefox&sni=eu38.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74#🇷🇸 Serbia, Belgrade | Anti-RKN
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@38.180.101.235:5443?security=tls&fp=firefox&sni=rs.nebulaguard.org#🇷🇸 Serbia, Belgrade | Anti-RKN
 vless://081cd1d2-4a06-440b-b68a-1472a6aa69f1@88.80.145.95:8443?type=tcp&security=reality&fp=firefox&sni=apple.com&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&sid=9ce04f63&flow=xtls-rprx-vision#🇷🇸 Serbia, Belgrade | Anti-RKN
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?type=grpc&security=reality&fp=firefox&sni=rs5.univesalsrv.com&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&sid=4872856d5489c37d&serviceName=gw.v1.ObjectService#🇷🇸 Serbia, Belgrade | Anti-RKN
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.66:443?type=grpc&security=reality&fp=firefox&sni=rs3.univesalsrv.com&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&sid=35d05b666e2c6cdf&serviceName=edge.v2.FeedService#🇷🇸 Serbia, Belgrade | Anti-RKN
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.73:443?type=grpc&security=reality&fp=firefox&sni=rs4.univesalsrv.com&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&sid=861ac7d66953e55f&serviceName=media.v1.StreamService#🇷🇸 Serbia, Belgrade | Anti-RKN
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.81:443?type=grpc&security=reality&fp=firefox&sni=rs5.univesalsrv.com&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&sid=4872856d5489c37d&serviceName=gw.v1.ObjectService#🇷🇸 Serbia, Belgrade | Anti-RKN
-https://212.200.119.174:443#🇷🇸 Serbia, Novi Pazar | Anti-RKN
-socks4://185.190.154.121:4145#🇷🇸 Serbia, Belgrade | Anti-RKN
-socks4://95.140.118.34:1080#🇷🇸 Serbia, Belgrade | Anti-RKN
-socks4://217.16.130.83:4145#🇷🇸 Serbia, Niš | Anti-RKN
-http://185.190.154.121:4145#🇷🇸 Serbia, Belgrade | Anti-RKN
-http://95.140.118.34:1080#🇷🇸 Serbia, Belgrade | Anti-RKN

@@ -1,42 +1,20 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CH] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484284
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 02:32:22
-# servers-count: 232
+# generated-at: 11/28/2026 10:31:24
+# servers-count: 190
 
-vless://76c75192-37fb-408d-94e9-3e4b570fdb36@194.87.242.23:443?type=tcp&security=reality&fp=firefox&sni=stream.selectus.ru&pbk=ub1PHBkdqrCahRc4rgavIBm9EvIDWrZi0ff_OvEv8FU&sid=b0f839d2a5c7e146&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
-vless://b792e0ce-39c4-4d50-b83f-9080139bf3e0@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.najefe48575.workers.dev#🇨🇭 Switzerland | Anti-RKN
-vless://ba373a70-295f-482d-a471-8bc17b54e23b@45.90.59.93:443?type=grpc&security=reality&fp=firefox&sni=coldmeadow.xyz&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇨🇭 Switzerland, Geneva | Anti-RKN
-vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@138.124.60.58:443?type=xhttp&security=reality&fp=firefox&sni=chicago.gosgenarchive.com&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#🇨🇭 Switzerland | Anti-RKN
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@194.124.251.110:443?sni=dutycedar.lucheeebezlimitnoekino.stream#🇨🇭 Switzerland, Zug | Anti-RKN
-vless://b1490307-d693-4392-8f32-a3f7cc139202@138.124.36.101:443?type=ws&security=tls&fp=firefox&sni=hauloffset.dramatorg.net#🇨🇭 Switzerland | Anti-RKN
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@138.124.36.101:443?sni=hauloffset.dramatorg.net#🇨🇭 Switzerland | Anti-RKN
-vless://aaf55232-7fc7-4176-bd3f-8202526c8371@45.131.184.169:8443?type=tcp&security=reality&fp=firefox&sni=de8.devtalks.pro&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&sid=7da3ba09a037e956&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&fp=firefox&sni=www.cloudflare.com&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&sid=19253fae84102271&flow=xtls-rprx-vision#🇨🇭 Switzerland, Geneva | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://50414e45-4c5f-5a45-5553-442eb64cf8be@194.154.29.245:443?security=tls&fp=firefox#🇨🇭 Switzerland, Hünenberg | Anti-RKN
-vless://97daeafa-0744-38a0-9441-74d6cdb63e80@138.124.37.196:443?type=tcp&security=reality&fp=firefox&sni=lg.hel.play2go.cloud&pbk=r7gK1xDtZl5wDL59Teyw--KXacW1EjOT2mm0MdwY7gM&sid=39b7084197ed8260&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#🇨🇭 Switzerland, Zurich | Anti-RKN
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#🇨🇭 Switzerland, Zurich | Anti-RKN
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?type=grpc&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&serviceName=138-124-86-230-sslip-io#🇨🇭 Switzerland | Anti-RKN
-http://147.161.246.34:11676#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11516#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11530#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11802#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10588#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11578#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10678#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11746#🇨🇭 Switzerland, Zurich | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&fp=firefox&sni=learn.yourultimateprofessionalcareerhub.com#🇨🇭 Switzerland, Zurich | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&fp=firefox&sni=courses.yourultimateprofessionalcareerhub.com#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10269#🇨🇭 Switzerland, Zurich | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&fp=firefox&sni=ekb.eg#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11715#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:12044#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10514#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12528#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12331#🇨🇭 Switzerland, Zurich | Anti-RKN
@@ -46,24 +24,13 @@ http://147.161.246.34:11735#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:80#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10047#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11955#🇨🇭 Switzerland, Zurich | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gU3dpdHplcmxhbmQsIFLDvG1sYW5nIHwgQW50aS1SS04iLCJhZGQiOiIxNzkuNDMuMTQwLjI0IiwicG9ydCI6IjQyODMxIiwiaWQiOiJhOTI1YTk4Yy1hZDdhLTQwYzYtOWZkZi0xMzBhMWRlNjk0MTYiLCJob3N0IjoiZG93bi1jZG4uZGluZ3RhbGsuY29tIiwicGF0aCI6Ii8zeCJ9
-http://147.161.246.34:10854#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:12458#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11841#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11727#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://79dabc26-e535-419f-a034-a6fe4438d41f@200.234.112.37:443?type=tcp&security=reality&fp=firefox&sni=play.google.com&pbk=nylVdFaZ2E3hh8j8Hfyui1TIrKMkdSThvrX_V_sEXAY&sid=fcf9ec34a0421c5d&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
 http://147.161.246.34:10821#🇨🇭 Switzerland, Zurich | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?security=tls&fp=firefox&sni=cdn.yourultimateprofessionalcareerhub.com#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://ce8faf30-b1d6-4a53-95a0-8520dc609db3@85.208.69.43:33055?type=xhttp&security=reality&fp=firefox&sni=yandex.ru&pbk=1rvxGeCvBMccFM2LKGJ4SqezdkMxS4ZZagHR1MGdCgo&sid=77#🇨🇭 Switzerland, Rümlang | Anti-RKN
 http://147.161.246.34:10679#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://185.191.239.248:3128#🇨🇭 Switzerland | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gU3dpdHplcmxhbmQsIFp1cmljaCB8IEFudGktUktOIiwiYWRkIjoiMTg2LjE5MC4yMTUuNCIsInBvcnQiOiIxMjcwIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJzY3kiOiJhdXRvIiwidGxzIjoidGxzIiwic25pIjoieG1maGxweS5jb20iLCJmcCI6ImZpcmVmb3gifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gU3dpdHplcmxhbmQsIFLDvG1sYW5nIHwgQW50aS1SS04iLCJhZGQiOiIxNzkuNDMuMTQwLjI0IiwicG9ydCI6IjQyODMxIiwiaWQiOiJhOTI1YTk4Yy1hZDdhLTQwYzYtOWZkZi0xMzBhMWRlNjk0MTYiLCJzY3kiOiJhdXRvIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLzN4In0=
 http://147.161.246.34:12662#🇨🇭 Switzerland, Zurich | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls&fp=firefox&sni=resources.yourultimateprofessionalcareerhub.com#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10521#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11948#🇨🇭 Switzerland, Zurich | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&fp=firefox&sni=208.69.78.29#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12047#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12544#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11533#🇨🇭 Switzerland, Zurich | Anti-RKN
@@ -75,27 +42,20 @@ http://147.161.246.34:12564#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12121#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12010#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12020#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:12312#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12048#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@80.68.159.43:443?type=ws&security=tls&fp=firefox&host=lagoon.gerqix.online&sni=lagoon.gerqix.online&path=%2fapi%2fde5%2fstream#🇨🇭 Switzerland, Geneva | Anti-RKN
 http://147.161.246.34:10111#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@179.237.99.57:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇨🇭 Switzerland | Anti-RKN
+http://213.3.34.39:443#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11155#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11258#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12051#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10802#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12136#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10754#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@179.43.156.121:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇨🇭 Switzerland, Rümlang | Anti-RKN
 http://147.161.246.34:12568#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10086#🇨🇭 Switzerland, Zurich | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gU3dpdHplcmxhbmQsIFLDvG1sYW5nIHwgQW50aS1SS04iLCJhZGQiOiIxNzkuNDMuMTQwLjI0IiwicG9ydCI6IjQyODMxIiwiaWQiOiJhOTI1YTk4Yy1hZDdhLTQwYzYtOWZkZi0xMzBhMWRlNjk0MTYiLCJzY3kiOiJhdXRvIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiZG93bi1jZG4uZGluZ3RhbGsuY29tIiwicGF0aCI6Ii8zeCJ9
 http://147.161.246.34:12140#🇨🇭 Switzerland, Zurich | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&fp=firefox&sni=www.yourultimateprofessionalcareerhub.com#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11112#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12180#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@80.68.159.43:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇨🇭 Switzerland, Geneva | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&fp=firefox&sni=yourultimateprofessionalcareerhub.com#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10682#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11705#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11588#🇨🇭 Switzerland, Zurich | Anti-RKN
@@ -105,20 +65,15 @@ http://147.161.246.34:10084#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11169#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12853#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11847#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:12556#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10455#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12035#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10293#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://3bbc98cb-46b1-4441-9d55-02a100000020@87.120.222.199:443?type=ws&security=tls&fp=firefox&host=cf-smart-354.pnihastam7021.workers.dev&sni=cf-smart-354.pnihastam7021.workers.dev&path=%2fsync#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11092#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12130#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11183#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10088#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12148#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12611#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11592#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@179.237.99.57:443?type=ws&security=tls&fp=firefox&host=inlay.merlano.monster&sni=inlay.merlano.monster&path=%2fapi%2fde3%2fstream#🇨🇭 Switzerland | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&fp=firefox&sni=api.yourultimateprofessionalcareerhub.com#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10636#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:18080#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12548#🇨🇭 Switzerland, Zurich | Anti-RKN
@@ -126,10 +81,7 @@ http://147.161.246.34:12401#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12494#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10217#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12608#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@179.237.99.57:443?type=ws&security=tls&fp=firefox&host=lagoon.gerqix.online&sni=lagoon.gerqix.online&path=%2fapi%2fde5%2fstream#🇨🇭 Switzerland | Anti-RKN
-vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?packetEncoding=xudp&type=grpc&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&serviceName=138-124-86-230-sslip-io#🇨🇭 Switzerland | Anti-RKN
 http://147.161.246.34:10926#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:33333#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11153#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11581#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11171#🇨🇭 Switzerland, Zurich | Anti-RKN
@@ -137,51 +89,91 @@ http://147.161.246.34:10000#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11551#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12525#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12673#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@84.234.31.84:443?type=ws&security=tls&fp=firefox&host=lagoon.gerqix.online&sni=lagoon.gerqix.online&path=%2fapi%2fde5%2fstream#🇨🇭 Switzerland | Anti-RKN
 http://147.161.246.34:10011#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10001#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10868#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12866#🇨🇭 Switzerland, Zurich | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12765#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11201#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11712#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10889#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12881#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11597#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:11206#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10799#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@84.234.31.84:443?type=ws&security=tls&fp=firefox&host=inlay.merlano.monster&sni=inlay.merlano.monster&path=%2fapi%2fde3%2fstream#🇨🇭 Switzerland | Anti-RKN
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@80.68.159.43:443?type=ws&security=tls&fp=firefox&host=parchment.merlano.monster&sni=parchment.merlano.monster&path=%2fapi%2fde7%2fstream#🇨🇭 Switzerland, Geneva | Anti-RKN
 http://147.161.246.34:10685#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:8800#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:12767#🇨🇭 Switzerland, Zurich | Anti-RKN
 http://147.161.246.34:10230#🇨🇭 Switzerland, Zurich | Anti-RKN
+https://37.120.213.194:9443#🇨🇭 Switzerland, Zurich | Anti-RKN
+https://212.243.240.120:443#🇨🇭 Switzerland, Lucerne | Anti-RKN
+https://217.192.241.88:443#🇨🇭 Switzerland, Gelfingen | Anti-RKN
+socks5://179.237.106.243:443#🇨🇭 Switzerland | Anti-RKN
+socks4://165.225.66.42:11589#🇨🇭 Switzerland, Zurich | Anti-RKN
+socks4://185.191.239.248:3128#🇨🇭 Switzerland | Anti-RKN
+socks5://165.225.66.42:11589#🇨🇭 Switzerland, Zurich | Anti-RKN
+socks5://185.191.239.248:3128#🇨🇭 Switzerland | Anti-RKN
+http://165.225.66.42:11589#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=firefox#🇨🇭 Switzerland | Anti-RKN
+trojan://humanity@185.18.250.252:443?type=ws&security=tls&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2fassignment&allowInsecure=1&fp=firefox#🇨🇭 Switzerland | Anti-RKN
+trojan://slch2024@185.18.250.195:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇨🇭 Switzerland | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&sni=www.yourultimateprofessionalcareerhub.com&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&sni=www.yourultimateprofessionalcareerhub.com&allowInsecure=0&headerType=none&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&sni=learn.yourultimateprofessionalcareerhub.com&allowInsecure=0&headerType=none&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com&headerType=none&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&sni=ekb.eg&allowInsecure=1&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?security=tls&sni=cdn.yourultimateprofessionalcareerhub.com&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls&sni=resources.yourultimateprofessionalcareerhub.com&allowInsecure=0&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&sni=208.69.78.29&allowInsecure=1&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&sni=yourultimateprofessionalcareerhub.com&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&sni=learn.yourultimateprofessionalcareerhub.com&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&sni=ekb.eg&allowInsecure=1&headerType=none&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&sni=api.yourultimateprofessionalcareerhub.com&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&sni=yourultimateprofessionalcareerhub.com&headerType=none&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&allowInsecure=1&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&sni=www.yourultimateprofessionalcareerhub.com&allowInsecure=0&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com&allowInsecure=0&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
+vless://1058c340-5e14-45ff-bd10-ebd64a225be2@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.nojisoj4574.workers.dev#🇨🇭 Switzerland | Anti-RKN
+vless://b792e0ce-39c4-4d50-b83f-9080139bf3e0@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.najefe48575.workers.dev&sni=worker3.najefe48575.workers.dev&path=%2fZSwEHuFy9lC7zgDp#🇨🇭 Switzerland | Anti-RKN
+vless://b792e0ce-39c4-4d50-b83f-9080139bf3e0@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.najefe48575.workers.dev#🇨🇭 Switzerland | Anti-RKN
+vless://1058c340-5e14-45ff-bd10-ebd64a225be2@185.18.250.2:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=worker3.nojisoj4574.workers.dev&sni=worker3.nojisoj4574.workers.dev#🇨🇭 Switzerland | Anti-RKN
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@45.90.59.93:443?type=grpc&security=reality&fp=firefox&sni=coldmeadow.xyz&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇨🇭 Switzerland, Geneva | Anti-RKN
+vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?type=grpc&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&serviceName=138-124-86-230-sslip-io#🇨🇭 Switzerland | Anti-RKN
+vless://3de54b98-fdfe-4a8d-ae72-f2458dd5e5f4@138.124.60.58:443?type=xhttp&security=reality&fp=firefox&sni=chicago.gosgenarchive.com&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#🇨🇭 Switzerland | Anti-RKN
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&fp=firefox&sni=www.cloudflare.com&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&sid=19253fae84102271&flow=xtls-rprx-vision#🇨🇭 Switzerland, Geneva | Anti-RKN
+vless://76c75192-37fb-408d-94e9-3e4b570fdb36@194.87.242.23:443?type=tcp&security=reality&fp=firefox&sni=stream.selectus.ru&pbk=ub1PHBkdqrCahRc4rgavIBm9EvIDWrZi0ff_OvEv8FU&sid=b0f839d2a5c7e146&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@194.124.251.110:443?sni=dutycedar.lucheeebezlimitnoekino.stream#🇨🇭 Switzerland, Zug | Anti-RKN
+vless://b1490307-d693-4392-8f32-a3f7cc139202@138.124.36.101:443?type=ws&security=tls&fp=firefox&sni=hauloffset.dramatorg.net#🇨🇭 Switzerland | Anti-RKN
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@138.124.36.101:443?sni=hauloffset.dramatorg.net#🇨🇭 Switzerland | Anti-RKN
+vless://ce8faf30-b1d6-4a53-95a0-8520dc609db3@85.208.69.43:33055?type=xhttp&security=reality&fp=firefox&sni=yandex.ru&pbk=1rvxGeCvBMccFM2LKGJ4SqezdkMxS4ZZagHR1MGdCgo&sid=77#🇨🇭 Switzerland, Rümlang | Anti-RKN
 vless://e2bfac1b-5f89-49a2-80af-965af6e59e7b@193.238.155.21:443?type=tcp&security=reality&fp=firefox&sni=ch-cdn.xhttp.dev&pbk=RHft3k9A1v9U-vt4m5NxZ7CR1tEZDx-IAXdpybHa4gE&sid=4640a2f00a8b7e07&flow=xtls-rprx-vision#🇨🇭 Switzerland, Geneva | Anti-RKN
 vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?type=tcp&security=reality&fp=firefox&sni=codestral.mistral.ai&pbk=-93ZD_5l99Hu0HDdHsPWrjV07UCNQiQ2PRAGqIC4Xgg&sid=5b3ef653ee33b49a&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
 hysteria2://2d399e38-245c-4f07-abf2-cfce7397ba9c@31.76.106.92:8443?sni=va.stream-room.com#🇨🇭 Switzerland | Anti-RKN
 vless://97daeafa-0744-38a0-9441-74d6cdb63e80@138.124.37.196:443?security=reality&fp=firefox&sni=lg.hel.play2go.cloud&pbk=r7gK1xDtZl5wDL59Teyw--KXacW1EjOT2mm0MdwY7gM&sid=39b7084197ed8260&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
 vless://2d399e38-245c-4f07-abf2-cfce7397ba9c@31.76.106.95:8443?type=tcp&security=reality&fp=firefox&sni=www.ardmediathek.de&pbk=4IFrK2mEJSNBJEqyiWLvPgXGNjV8vK49SxPI0RmheWg&sid=df130cd835587313&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
 vless://c07a5829-7555-48ac-a08a-0799332b32e1@185.18.250.2:443?type=ws&security=tls&fp=firefox&sni=worker3.kexaxik407.workers.dev&path=%2f6q9UJmS2CckAEFb1%3fed%3d2560#🇨🇭 Switzerland | Anti-RKN
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@45.90.59.18:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇨🇭 Switzerland, Geneva | Anti-RKN
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@83.228.240.71:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇨🇭 Switzerland | Anti-RKN
-vless://1058c340-5e14-45ff-bd10-ebd64a225be2@185.18.250.2:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=worker3.nojisoj4574.workers.dev&sni=worker3.nojisoj4574.workers.dev#🇨🇭 Switzerland | Anti-RKN
-vless://167d7768-2f0a-4f9d-86e0-81514362c189@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.biwir20896.workers.dev#🇨🇭 Switzerland | Anti-RKN
-vless://5c9e3f77-5bde-4732-af3c-6a5d3ecee37a@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.wewotes286.workers.dev#🇨🇭 Switzerland | Anti-RKN
-vless://10997f19-2951-4a9b-a26f-611a6bd72d02@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.sicoro1729.workers.dev&sni=worker3.sicoro1729.workers.dev#🇨🇭 Switzerland | Anti-RKN
-vless://3daa3f9c-9d4b-42bb-8eac-10688e6a1b46@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.kawad96201.workers.dev&sni=worker3.kawad96201.workers.dev&path=%2fNu2VsE5wrioADb0C#🇨🇭 Switzerland | Anti-RKN
-vless://531f2275-df96-46a1-be70-e654f0ed402f@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.hemip3575.workers.dev#🇨🇭 Switzerland | Anti-RKN
-vless://b792e0ce-39c4-4d50-b83f-9080139bf3e0@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.najefe48575.workers.dev&sni=worker3.najefe48575.workers.dev&path=%2fZSwEHuFy9lC7zgDp#🇨🇭 Switzerland | Anti-RKN
-vless://e324f793-580c-43b7-9d23-58119efbcc9d@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.cexop17836.workers.dev#🇨🇭 Switzerland | Anti-RKN
-vless://76c75192-37fb-408d-94e9-3e4b570fdb36@194.87.242.23:443?security=reality&fp=firefox&sni=stream.selectus.ru&pbk=ub1PHBkdqrCahRc4rgavIBm9EvIDWrZi0ff_OvEv8FU&sid=b0f839d2a5c7e146&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
 vless://b73855fb-2ec9-4039-935a-a206dda339f8@82.38.135.117:443?type=tcp&security=reality&fp=firefox&sni=ch.darknet.run&pbk=jzgW1D-CRXDacFXk0Y3kV0h667Cf59buIZvLWty5NkM&sid=a9b223d4&flow=xtls-rprx-vision#🇨🇭 Switzerland, Zurich | Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuY0lrdWJtb0RHc2w=@208.69.78.133:443#🇨🇭 Switzerland, Zurich | Anti-RKN
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.189:19999#🇨🇭 Switzerland, Zurich | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&fp=firefox#🇨🇭 Switzerland, Zurich | Anti-RKN
-trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?security=tls&fp=firefox&sni=joss.gpj1.web.id#🇨🇭 Switzerland, Hünenberg | Anti-RKN
-trojan://humanity@185.18.250.245:443?security=tls&fp=firefox&sni=www.calmlunch.com#🇨🇭 Switzerland | Anti-RKN
-trojan://humanity@185.18.250.252:443?type=ws&security=tls&fp=firefox&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2fassignment#🇨🇭 Switzerland | Anti-RKN
+vless://97daeafa-0744-38a0-9441-74d6cdb63e80@138.124.37.196:443?type=tcp&security=reality&fp=firefox&sni=lg.hel.play2go.cloud&pbk=r7gK1xDtZl5wDL59Teyw--KXacW1EjOT2mm0MdwY7gM&sid=39b7084197ed8260&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gU3dpdHplcmxhbmQsIFLDvG1sYW5nIHwgQW50aS1SS04iLCJhZGQiOiIxNzkuNDMuMTQwLjI0IiwicG9ydCI6IjQyODMxIiwiaWQiOiJhOTI1YTk4Yy1hZDdhLTQwYzYtOWZkZi0xMzBhMWRlNjk0MTYiLCJob3N0IjoiZG93bi1jZG4uZGluZ3RhbGsuY29tIiwicGF0aCI6Ii8zeCJ9
+vless://79dabc26-e535-419f-a034-a6fe4438d41f@200.234.112.37:443?type=tcp&security=reality&fp=firefox&sni=play.google.com&pbk=nylVdFaZ2E3hh8j8Hfyui1TIrKMkdSThvrX_V_sEXAY&sid=fcf9ec34a0421c5d&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gU3dpdHplcmxhbmQsIFp1cmljaCB8IEFudGktUktOIiwiYWRkIjoiMTg2LjE5MC4yMTUuNCIsInBvcnQiOiIxMjcwIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJzY3kiOiJhdXRvIiwidGxzIjoidGxzIiwic25pIjoieG1maGxweS5jb20iLCJmcCI6ImZpcmVmb3gifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gU3dpdHplcmxhbmQsIFLDvG1sYW5nIHwgQW50aS1SS04iLCJhZGQiOiIxNzkuNDMuMTQwLjI0IiwicG9ydCI6IjQyODMxIiwiaWQiOiJhOTI1YTk4Yy1hZDdhLTQwYzYtOWZkZi0xMzBhMWRlNjk0MTYiLCJzY3kiOiJhdXRvIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLzN4In0=
+vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@80.68.159.43:443?type=ws&security=tls&fp=firefox&host=lagoon.gerqix.online&sni=lagoon.gerqix.online&path=%2fapi%2fde5%2fstream#🇨🇭 Switzerland, Geneva | Anti-RKN
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@179.237.99.57:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇨🇭 Switzerland | Anti-RKN
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@179.43.156.121:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇨🇭 Switzerland, Rümlang | Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gU3dpdHplcmxhbmQsIFLDvG1sYW5nIHwgQW50aS1SS04iLCJhZGQiOiIxNzkuNDMuMTQwLjI0IiwicG9ydCI6IjQyODMxIiwiaWQiOiJhOTI1YTk4Yy1hZDdhLTQwYzYtOWZkZi0xMzBhMWRlNjk0MTYiLCJzY3kiOiJhdXRvIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiZG93bi1jZG4uZGluZ3RhbGsuY29tIiwicGF0aCI6Ii8zeCJ9
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@80.68.159.43:443?type=ws&security=tls&fp=firefox&host=accessfooter.cleanfoodshop.org&sni=accessfooter.cleanfoodshop.org&path=%2fmedia%2fws%2f#🇨🇭 Switzerland, Geneva | Anti-RKN
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@83.228.240.71:443?type=ws&security=tls&fp=firefox&host=nl.lucheeebezlimitnoekino.stream&sni=nl.lucheeebezlimitnoekino.stream&path=%2fmedia%2fws%2f#🇨🇭 Switzerland | Anti-RKN
+vless://3bbc98cb-46b1-4441-9d55-02a100000020@87.120.222.199:443?type=ws&security=tls&fp=firefox&host=cf-smart-354.pnihastam7021.workers.dev&sni=cf-smart-354.pnihastam7021.workers.dev&path=%2fsync#🇨🇭 Switzerland, Zurich | Anti-RKN
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@179.237.99.57:443?type=ws&security=tls&fp=firefox&host=inlay.merlano.monster&sni=inlay.merlano.monster&path=%2fapi%2fde3%2fstream#🇨🇭 Switzerland | Anti-RKN
+vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@179.237.99.57:443?type=ws&security=tls&fp=firefox&host=lagoon.gerqix.online&sni=lagoon.gerqix.online&path=%2fapi%2fde5%2fstream#🇨🇭 Switzerland | Anti-RKN
+vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?packetEncoding=xudp&type=grpc&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&serviceName=138-124-86-230-sslip-io#🇨🇭 Switzerland | Anti-RKN
+vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@84.234.31.84:443?type=ws&security=tls&fp=firefox&host=lagoon.gerqix.online&sni=lagoon.gerqix.online&path=%2fapi%2fde5%2fstream#🇨🇭 Switzerland | Anti-RKN
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@84.234.31.84:443?type=ws&security=tls&fp=firefox&host=inlay.merlano.monster&sni=inlay.merlano.monster&path=%2fapi%2fde3%2fstream#🇨🇭 Switzerland | Anti-RKN
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@80.68.159.43:443?type=ws&security=tls&fp=firefox&host=parchment.merlano.monster&sni=parchment.merlano.monster&path=%2fapi%2fde7%2fstream#🇨🇭 Switzerland, Geneva | Anti-RKN
+trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?type=ws&security=tls&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2fTelegram%40V2ray_Alpha%2f%3fed%3d2560&fp=firefox#🇨🇭 Switzerland | Anti-RKN
+trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?security=tls&sni=joss.gpj1.web.id&fp=firefox#🇨🇭 Switzerland, Hünenberg | Anti-RKN
+vless://167d7768-2f0a-4f9d-86e0-81514362c189@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.biwir20896.workers.dev&sni=worker3.biwir20896.workers.dev&path=%2fLF5LdoZelHLG07nl#🇨🇭 Switzerland | Anti-RKN
 vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?type=ws&security=tls&fp=firefox&host=69565ce3109804e7813f98ee.mmdbay.blog&sni=69565ce3109804e7813f98ee.mmdbay.blog&path=%2fgraphql#🇨🇭 Switzerland | Anti-RKN
 vless://476caa1d-7c04-48ab-8de5-2c1af0d13a66@138.124.244.248:443?type=tcp&security=reality&fp=firefox&sni=yahoo.com&pbk=PYX0lu3m0L_h28eW4186s63gRFHXoTc3K9wKeFewDUQ&sid=e9a8#🇨🇭 Switzerland | Anti-RKN
 vless://4b50270b-5caf-4c34-b3da-17b4525604a6@83.228.207.179:443?type=ws&security=tls&fp=firefox&host=cryptoventura.online&sni=cryptoventura.online&path=%2fapi%2fde3%2flive#🇨🇭 Switzerland | Anti-RKN
@@ -190,52 +182,18 @@ vless://4d77a5d2-51ed-4494-b38a-87f340591db6@141.255.162.164:443?type=tcp&securi
 vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@74.161.152.237:2083?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&flow=xtls-rprx-vision#🇨🇭 Switzerland, Zurich | Anti-RKN
 vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?type=tcp&security=reality&fp=firefox&sni=admin.mistral.ai&pbk=-rXSc4xMnB2OEs-Z628O2u3OPdMDL1h5mQvSZf5Nt1Q&sid=4d3affb557796d1c&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
 vless://81684c3f-2b47-4ba1-a327-870b0aab8f1c@185.18.250.48:2087?encryption=mlkem768x25519plus.native.0rtt.sqSgXr7QG1hLNkFvy0Z2TNmYcvncg3s3SMOTdcqn-SI&type=ws&security=tls&fp=firefox&host=D1.loGoSeti.iR&sni=D1.loGoSeti.iR&path=%2f%40vilyshco%2fed%3d1024#🇨🇭 Switzerland | Anti-RKN
-vless://860b5c7f-7a71-41b3-8e6e-2660d0e6375d@131.123.34.193:1350?type=tcp&security=reality&fp=firefox&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🇨🇭 Switzerland, Zurich | Anti-RKN
 vless://89564b16-7ced-465d-a8f3-61389547e96e@176.65.144.221:443?type=xhttp&security=reality&fp=firefox&sni=sw.cloudvienta.com&pbk=KcFNW-Yq9YucHEGiEe2ZEnIbxEuCmyO3S6yTglZR7ws&sid=7ea8737c31629437&path=%2fvless-xhttp#🇨🇭 Switzerland | Anti-RKN
+vless://90157e25-cee1-4217-921e-91f300bc1a24@46.19.138.212:443?type=tcp&security=reality&fp=firefox&sni=perevodchiki.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
+vless://bee52362-4183-42c5-b065-d3a3f344d00c@131.123.34.193:1350?type=tcp&security=reality&fp=firefox&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#🇨🇭 Switzerland, Zurich | Anti-RKN
+vless://cc346133-c8ab-40f8-a57e-e951ee3a5e42@138.124.6.217:443?type=tcp&security=reality&fp=firefox&sni=ud.gametoria.ru&pbk=gmViaLsgMpBZJ81FDww1jIRmnHYNOLJKlyS1UdEpvHg&sid=06b651f009f2f610&flow=xtls-rprx-vision#🇨🇭 Switzerland | Anti-RKN
 vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?type=tcp#🇨🇭 Switzerland, Lausanne | Anti-RKN
 vless://ee0a6b97-4dc1-4a38-8b16-95a42c917158@37.143.131.52:443?type=tcp&security=reality&fp=firefox&sni=ch-zrh1.connect.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&flow=xtls-rprx-vision#🇨🇭 Switzerland, Zurich | Anti-RKN
 vless://f8cb3c89-32af-4255-bebc-d90aad175069@45.90.59.24:443?type=grpc&security=reality&fp=firefox&sni=cha.kosmosapp.net&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇨🇭 Switzerland, Geneva | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gU3dpdHplcmxhbmQgfCBBbnRpLVJLTiIsImFkZCI6IjE4NS4xOC4yNTAuNzAiLCJwb3J0IjoiNDQzIiwiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzNTEwNjgiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gU3dpdHplcmxhbmQsIFp1cmljaCB8IEFudGktUktOIiwiYWRkIjoiMTg2LjE5MC4yMTUuNzUiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMTg2LjE5MC4yMTUuNzUiLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6IjE4Ni4xOTAuMjE1Ljc1IiwiZnAiOiJmaXJlZm94In0=
-https://212.243.240.120:443#🇨🇭 Switzerland, Lucerne | Anti-RKN
-https://45.131.254.246:443#🇨🇭 Switzerland, Richterswil | Anti-RKN
-https://149.88.27.46:9443#🇨🇭 Switzerland, Zurich | Anti-RKN
-https://217.192.241.88:443#🇨🇭 Switzerland, Gelfingen | Anti-RKN
-socks5://179.237.106.243:443#🇨🇭 Switzerland | Anti-RKN
-http://147.161.246.34:10902#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10943#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10922#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://185.85.111.18:80#🇨🇭 Switzerland, Tann | Anti-RKN
-http://147.161.246.34:11758#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:11940#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:12088#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:12507#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10963#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10938#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10923#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:11097#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10914#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:12125#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10925#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:11997#🇨🇭 Switzerland, Zurich | Anti-RKN
-socks4://147.161.246.34:12507#🇨🇭 Switzerland, Zurich | Anti-RKN
-socks5://147.161.246.34:12507#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:12870#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10924#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10937#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10961#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10948#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10931#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10928#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:12497#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10810#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10901#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10946#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:12085#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:11913#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:11139#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:10936#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://147.161.246.34:12002#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://34.65.99.32:3128#🇨🇭 Switzerland, Zurich | Anti-RKN
-http://74.242.169.16:3128#🇨🇭 Switzerland, Zurich | Anti-RKN
-vless://531f2275-df96-46a1-be70-e654f0ed402f@185.18.250.2:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=worker3.hemip3575.workers.dev&sni=worker3.hemip3575.workers.dev#🇨🇭 Switzerland | Anti-RKN
+vless://e324f793-580c-43b7-9d23-58119efbcc9d@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.cexop17836.workers.dev#🇨🇭 Switzerland | Anti-RKN
+vless://531f2275-df96-46a1-be70-e654f0ed402f@185.18.250.2:443?type=ws&security=tls&fp=firefox&host=worker3.hemip3575.workers.dev#🇨🇭 Switzerland | Anti-RKN
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#🇨🇭 Switzerland, Zurich | Anti-RKN
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#🇨🇭 Switzerland, Zurich | Anti-RKN
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#🇨🇭 Switzerland, Zurich | Anti-RKN
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.189:19999#🇨🇭 Switzerland, Zurich | Anti-RKN

@@ -1,10 +1,10 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: 🌍 GEO [PG] — BLACK
+# profile-title: 🌍 GEO [NE] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
+# generated-at: 11/28/2026 10:48:03
 # servers-count: 1
 
-http://103.110.31.155:8080#🇵🇬 Papua New Guinea | Anti-RKN
+socks4://129.222.104.125:1080#🇳🇪 Niger, Niamey | Anti-RKN

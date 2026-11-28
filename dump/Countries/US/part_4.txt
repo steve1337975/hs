@@ -1,10 +1,10 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [US] — BLACK #4
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
+# generated-at: 11/28/2026 10:48:03
 # servers-count: 750
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgTmV3IFlvcmsgfCBBbnRpLVJLTiIsImFkZCI6IjE0My4yNDYuMTM4Ljk1IiwicG9ydCI6IjM1OTEzIiwiaWQiOiI5YmU5NjA4MS03MWE2LTQ2MzktYTk3Mi1kYTg0ZmMyYzNlMjciLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoidHIubWlraGNvbm5lY3Rpb24uaXIifQ==
@@ -31,13 +31,11 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTUzLjUyLjI1NS45NyIsInBvcnQiOiI0NDMiLCJpZCI6ImNhNTI3ZmZmLTMwOWQtNDIxOS1iNDdhLWMyYjdjOGEwYTkzYiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJqZmRnc3dyc2ZkZXItcHJvZHVjdGlvbi51cC5yYWlsd2F5LmFwcCIsInBhdGgiOiIvYXBpL3ZxQWtQeSIsInRscyI6InRscyIsInNuaSI6ImpmZGdzd3JzZmRlci1wcm9kdWN0aW9uLnVwLnJhaWx3YXkuYXBwIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTUzLjUyLjI1NS4xMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI0YzI2MjI4Yy1hOGY0LTQzOWEtYjIwMi0zM2QyYmFiZTNlNTciLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoia2ZsZGRlcndlZmNmLXByb2R1Y3Rpb24udXAucmFpbHdheS5hcHAiLCJwYXRoIjoiL2FwaS9aZWZMY3IiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJrZmxkZGVyd2VmY2YtcHJvZHVjdGlvbi51cC5yYWlsd2F5LmFwcCIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTUzLjUyLjI1NS4xMDIiLCJwb3J0IjoiNDQzIiwiaWQiOiI5MzAyMjA0My1lNGUxLTRkZWItYTRiYy0wNDBjYzdiYjIwNGQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibGlub3VpdGVoZ3QtcHJvZHVjdGlvbi51cC5yYWlsd2F5LmFwcCIsInBhdGgiOiIvYXBpL1R5aVlQYyIsInRscyI6InRscyIsInNuaSI6Imxpbm91aXRlaGd0LXByb2R1Y3Rpb24udXAucmFpbHdheS5hcHAiLCJmcCI6ImZpcmVmb3gifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgUGhvZW5peCB8IEFudGktUktOIiwiYWRkIjoiMTk5LjIzMi4xNTQuMTMzIiwicG9ydCI6IjgwIiwiaWQiOiI1Njc1MDUwYS1hNWIwLTQ3NDgtYmU0Ni1jNDU2N2U1ZDRkMjQiLCJzY3kiOiJhdXRvIiwiaG9zdCI6InRlbC5pZC52cG5vbjR1LmNvbSJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgTG9zIEFuZ2VsZXMgfCBBbnRpLVJLTiIsImFkZCI6IjE1MS4xMDEuNzQuMTMzIiwicG9ydCI6IjgwIiwiaWQiOiI1Njc1MDUwYS1hNWIwLTQ3NDgtYmU0Ni1jNDU2N2U1ZDRkMjQiLCJzY3kiOiJhdXRvIiwiaG9zdCI6InRlbC5pZC52cG5vbjR1LmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTUzLjUyLjI1NS4xMDQiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMWEwOWEyYS04Yjk0LTRkN2YtYmRlZS0zYmVlMjRmMzBjMWMiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibTk4N3loLXByb2R1Y3Rpb24udXAucmFpbHdheS5hcHAiLCJwYXRoIjoiL2FwaS9QeEdDbWIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJtOTg3eWgtcHJvZHVjdGlvbi51cC5yYWlsd2F5LmFwcCIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTUzLjUyLjI1NS4xMjIiLCJwb3J0IjoiNDQzIiwiaWQiOiJhMTRlNGRhMi1kODc2LTQ1OTUtYTQ0Mi1hMWNhMjc1ODg4ZmEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibWFzZGZ5NnktcHJvZHVjdGlvbi51cC5yYWlsd2F5LmFwcCIsInBhdGgiOiIvY2RuL2QyMDZiMWI2LWVhZTYtNDEyMC04ODFmLTNmOWY4NjNiM2Q4ZS9tP2VkPTI1NjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJtYXNkZnk2eS1wcm9kdWN0aW9uLnVwLnJhaWx3YXkuYXBwIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTUzLjUyLjI1NS4xNyIsInBvcnQiOiI0NDMiLCJpZCI6IjExYjhiNjhmLWE2MTItNDc0Yy1iNDcwLTAzZjUwNDI2NzJhYyIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJtZHNmcnRoZGZya2wtcHJvZHVjdGlvbi51cC5yYWlsd2F5LmFwcCIsInBhdGgiOiIvYXBpL1RRcjlzYyIsInRscyI6InRscyIsInNuaSI6Im1kc2ZydGhkZnJrbC1wcm9kdWN0aW9uLnVwLnJhaWx3YXkuYXBwIiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTYyLjE1OS4xMzMuMzYiLCJwb3J0IjoiNDQzIiwiaWQiOiI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLCJuZXQiOiJ3cyIsImhvc3QiOiJzZXJ2ZXIxMC45OTY2MzM4Lnh5eiIsInBhdGgiOiIvcnRoaXVnb3lyZXRkc3VpZ2ciLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZXJ2ZXIxMC45OTY2MzM4Lnh5eiIsImZwIjoiZmlyZWZveCJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTYyLjE1OS4xMzAuMzYiLCJwb3J0IjoiNDQzIiwiaWQiOiI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJwYXRoIjoiL3J0aGl1Z295cmV0ZHN1aWdnIiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTYyLjE1OS4xMzMuMzYiLCJwb3J0IjoiNDQzIiwiaWQiOiI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJwYXRoIjoiL3J0aGl1Z295cmV0ZHN1aWdnP2VkPTI1NjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZXJ2ZXIxMC45OTY2MzM4Lnh5eiIsImZwIjoiZmlyZWZveCJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTYyLjE1OS4xMzAuMzYiLCJwb3J0IjoiNDQzIiwiaWQiOiI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLCJuZXQiOiJ3cyIsImhvc3QiOiJzZXJ2ZXIxMC45OTY2MzM4Lnh5eiIsInBhdGgiOiIvcnRoaXVnb3lyZXRkc3VpZ2ciLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZXJ2ZXIxMC45OTY2MzM4Lnh5eiIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTUzLjUyLjI1NS4xNCIsInBvcnQiOiI0NDMiLCJpZCI6IjIxNjVhMTVjLTUzZjItNGI3MC1iYjYzLWQxODhjOGM3MWYyZCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJta2lveTc4OWotcHJvZHVjdGlvbi51cC5yYWlsd2F5LmFwcCIsInBhdGgiOiIvYXBpL2FWTTVxaiIsInRscyI6InRscyIsInNuaSI6Im1raW95Nzg5ai1wcm9kdWN0aW9uLnVwLnJhaWx3YXkuYXBwIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTUzLjUyLjI1NS43MyIsInBvcnQiOiI0NDMiLCJpZCI6ImQxNjJjNmE4LWJhMmEtNDExMi1iZjIxLWI2NGY5Y2YxNTMxMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJtbG5veWRyZXR0d2UtcHJvZHVjdGlvbi51cC5yYWlsd2F5LmFwcCIsInBhdGgiOiIvYXBpL3J1NnhncCIsInRscyI6InRscyIsInNuaSI6Im1sbm95ZHJldHR3ZS1wcm9kdWN0aW9uLnVwLnJhaWx3YXkuYXBwIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTUzLjUyLjI1NS4yMSIsInBvcnQiOiI0NDMiLCJpZCI6ImRmNDY0ZTg5LTA1MGItNGUzMC05MmNkLWVkMjA4ZjZiOTBmOCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJtbzZ0MzMtcHJvZHVjdGlvbi51cC5yYWlsd2F5LmFwcCIsInBhdGgiOiIvYXBpL051MW5NaiIsInRscyI6InRscyIsInNuaSI6Im1vNnQzMy1wcm9kdWN0aW9uLnVwLnJhaWx3YXkuYXBwIiwiZnAiOiJmaXJlZm94In0=
@@ -102,7 +100,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMy4xNzMuMzUuOTciLCJwb3J0IjoiODAiLCJpZCI6ImExNTBkNTU0LWU5NjItNDYzMi04MjlmLWVlNTgzYWRhM2Y5NSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJkN3B1NW16cjljNGIwLmNsb3VkZnJvbnQubmV0IiwicGF0aCI6Ii9odHVuIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2FuIERpZWdvIHwgQW50aS1SS04iLCJhZGQiOiIxMDMuMjI0LjE4Mi4yNDQiLCJwb3J0IjoiODAiLCJpZCI6IjJmMzhmODQ4LWE4OTktNGM4Ny05ODA3LTIwN2E0MTYxNWUzYyIsIm5ldCI6IndzIiwiaG9zdCI6InVzLmZyZWV5eWRzLmRwZG5zLm9yZyIsInBhdGgiOiIvcm9uZ3NldmVuP2VkPTIwNDgifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiNjYuMzMuMjIuMjM1IiwicG9ydCI6IjQ5MjMyIiwiaWQiOiI3OTdiNGU2ZC0wZDI0LTQ4YWUtOGYxMC0zNTFlYWFhOGVkODgiLCJzY3kiOiJhdXRvIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTMuMjQ4LjE2OS40OCIsInBvcnQiOiI4MCIsImlkIjoiNWM3MGRhNWQtZTY0MS0zYmY4LWI3ZGMtNWJhYmQ4NDNmZjNjIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6IjAyMTh0dzAyLmZhbnM4Lnh5eiIsInBhdGgiOiIvdjJyYXkifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTA0LjI1NC4xNDAuMTQxIiwicG9ydCI6IjIwODIiLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJpcDE4LjY5MjkxOTgueHl6IiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTA3LjE0OC4yMDMuOTkiLCJwb3J0IjoiMzgwMDUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgTG9zIEFuZ2VsZXMgfCBBbnRpLVJLTiIsImFkZCI6IjEwNy4xNjcuMzEuMTI1IiwicG9ydCI6IjMxMDA0IiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoid3d3LjM0MjUwMjAxLnh5eiIsInBhdGgiOiIvcGF0aC8xNzUwNzY2NTI0ODI0IiwidGxzIjoidGxzIiwic25pIjoid3d3LjM0MjUwMjAxLnh5eiIsImZwIjoiZmlyZWZveCJ9
@@ -183,8 +180,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMjE2LjIwNS41Mi4yMTUiLCJwb3J0IjoiODg4MCIsImlkIjoiMGI2N2Y1MzctOWJkZC0zYzEwLWJhYTMtMDU1NDI0OWJkNzg4Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6IlRHLldhbmdDYWkyLnM0LmRiLWxpbmswMi50b3AiLCJwYXRoIjoiL2RhYmFpIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMjE2LjI0LjU3LjU3IiwicG9ydCI6IjQ0MyIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImUxMzA5MTdjLTFiNTgtNDEzNi1iMmQ5LTc2ZGM5MjBlMGFkZC5hZGQ5N2VlOC0wZjE0LTQ4YTMtYjJjZC05NzljNTY3NDJlNjQubG9zZXlvdXJpcC5jb20iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJlMTMwOTE3Yy0xYjU4LTQxMzYtYjJkOS03NmRjOTIwZTBhZGQuYWRkOTdlZTgtMGYxNC00OGEzLWIyY2QtOTc5YzU2NzQyZTY0Lmxvc2V5b3VyaXAuY29tIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgTmV3IFlvcmsgfCBBbnRpLVJLTiIsImFkZCI6IjM4LjkxLjEwMC4yMjgiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJmcCI6ImZpcmVmb3gifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiNzYuMjIzLjU0LjE0NiIsInBvcnQiOiI0NDMiLCJpZCI6IjdmNGZmMmUxLWMwOGYtMzViZC1hZmU3LTRhNmEzODY5MDdhYSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiI0MjJ3a2wuZmFuczgueHl6IiwidGxzIjoidGxzIiwic25pIjoiNDIyd2tsLmZhbnM4Lnh5eiIsImZwIjoiZmlyZWZveCJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTMuMjQ4LjE2OS40OCIsInBvcnQiOiI0NDMiLCJpZCI6IjkzYmRhZWQ1LTEzYzUtMzkyNy05M2Q3LWE2ODc3YzVhYzhkMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiI0MjZoay5mYW5zOC54eXoiLCJwYXRoIjoiL3JheSIsInRscyI6InRscyIsInNuaSI6IjQyNmhrLmZhbnM4Lnh5eiIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiNTAuNjIuOTEuMjE0IiwicG9ydCI6Ijg4ODAiLCJpZCI6ImQxYjc1Y2MzLWU2MTgtMzdjNC05YzU1LWZmMTFiNGVkNDkzYiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJURy5XYW5nQ2FpMi5zNC5kYi1saW5rMDIudG9wIiwicGF0aCI6Ii9kYWJhaSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgSGlsbHNib3JvIHwgQW50aS1SS04iLCJhZGQiOiI1MS44MS4yMDIuNjIiLCJwb3J0IjoiODAiLCJpZCI6ImEyNTg4MWYzLTk2N2YtMzI2NS1iYzdmLTllNjY4NTdiMDE2YiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiI1MS44MS4yMDIuNjIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgSGlsbHNib3JvIHwgQW50aS1SS04iLCJhZGQiOiI1MS44MS4yMjMuMjkiLCJwb3J0IjoiNDQzIiwiaWQiOiJjMDE1NjQ1MS00ZWZiLTQ1ZTItODRmYy04ZDMxNWM0NjUwZGIiLCJzY3kiOiJhdXRvIn0=
@@ -199,26 +194,20 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiNjkuODQuMTgyLjI0OSIsInBvcnQiOiI4ODgwIiwiaWQiOiI0MTY2MGUxNy0wM2U0LTM3YWEtYjIyMi04ZWQ0NDE4ZTI3MzkiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiVEcuV2FuZ0NhaTIuczIuZGItbGluazAyLnRvcCIsInBhdGgiOiIvZGFiYWkmVGVsZWdyYW3wn4eo8J+Hs0BXYW5nQ2FpMi8/ZWQ9MjU2MCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiNjkuODQuMTgyLjQ5IiwicG9ydCI6IjgwIiwiaWQiOiJmODk3NTg3MS1hN2EwLTQ5MDYtODgzNS1hMjNjMTI1OGNhMWUiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uenVsYS51cGxhb2QtbXVzaWMuaXIuIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiNzcuODMuMTQxLjE3MSIsInBvcnQiOiI0NDMiLCJpZCI6IjM1Mzc5MjE5LTY1MzUtNGYyZS1hNGZlLTNlNDRmNjFlMGVlZSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2Yy5mbHkuZGV2IiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiNjYuMjQxLjEyNC45MyIsInBvcnQiOiI0NDMiLCJpZCI6ImRlMDRhZGQ5LTVjNjgtOGJhYi05NTBjLTA4Y2Q1MzIwZGYxOCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJhaHNvcmF0aGl5YWEuZmx5LmRldiIsInBhdGgiOiIvdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhaHNvcmF0aGl5YWEuZmx5LmRldiIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTQxLjE5My4yMTMuMjEiLCJwb3J0IjoiODAiLCJpZCI6IjE1ZGYxZjUzLTkxMDEtNDA0Yi1kZDUyLTc3NzRjZGIzYzIxOCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJuZXQyLnh0bHMubXkuaWQifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgTG9zIEFuZ2VsZXMgfCBBbnRpLVJLTiIsImFkZCI6IjE1MS4xMDEuNzQuMjI4IiwicG9ydCI6IjQ0MyIsImlkIjoiNTg3ZWViMWEtOWQ1ZS00NDA3LTg4NmYtOWU5NDkyZTQyMjczIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Imljb21lZGJhY2tiaXRjaGVzLmNvbSIsInBhdGgiOiIvZXhwcmVzc192MnJheT9lZD0yNTYwIiwidGxzIjoidGxzIiwic25pIjoiaWNvbWVkYmFja2JpdGNoZXMuY29tIiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTMuMjQ4LjE2OS40OCIsInBvcnQiOiI4MCIsImlkIjoiZmM0NTk1MzMtZjhkOS00MTA3LThhYjUtZDg2ZDYyYjk3MDY0Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImNhMDgzMWE3LTlkOWItYTgyOC0xNDRlLTFjYjQ3ZWFlN2ZmOS5jbm5pYy5yaXAifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgTG9zIEFuZ2VsZXMgfCBBbnRpLVJLTiIsImFkZCI6IjY3LjIxLjg1LjIyOCIsInBvcnQiOiI0NDMiLCJpZCI6ImJlOGUzMTM2LWI4NzQtNDA4NS1iZDIzLWVjMzY5OTMwMDQ5MCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJjZzFjMDQud2FpbWFvamQuY29tIiwicGF0aCI6Ii9hcGkvdjEvZ3JhcGhxbCIsInRscyI6InRscyIsInNuaSI6ImNnMWMwNC53YWltYW9qZC5jb20iLCJmcCI6ImZpcmVmb3gifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgTG9zIEFuZ2VsZXMgfCBBbnRpLVJLTiIsImFkZCI6IjkxLjE0OS4yMzkuMjE0IiwicG9ydCI6IjQ0MyIsImlkIjoiYmU4ZTMxMzYtYjg3NC00MDg1LWJkMjMtZWMzNjk5MzAwNDkwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImNnMWMwNy53YWltYW9qZC5jb20iLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwidGxzIjoidGxzIiwic25pIjoiY2cxYzA3LndhaW1hb2pkLmNvbSIsImZwIjoiZmlyZWZveCJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgTG9zIEFuZ2VsZXMgfCBBbnRpLVJLTiIsImFkZCI6IjE0Ni43NS45NC4yMjgiLCJwb3J0IjoiNDQzIiwiaWQiOiI1ODdlZWIxYS05ZDVlLTQ0MDctODg2Zi05ZTk0OTJlNDIyNzMiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiaWNvbWVkYmFja2JpdGNoZXMuY29tIiwicGF0aCI6Ii9leHByZXNzX3YycmF5P2VkPTI1NjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJpY29tZWRiYWNrYml0Y2hlcy5jb20iLCJmcCI6ImZpcmVmb3gifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiNzYuMjIzLjU0LjE0NiIsInBvcnQiOiI4MCIsImlkIjoiZmM0NTk1MzMtZjhkOS00MTA3LThhYjUtZDg2ZDYyYjk3MDY0Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImNhMDgzMWE3LTlkOWItYTgyOC0xNDRlLTFjYjQ3ZWFlN2ZmOS5jbm5pYy5yaXAifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTkyLjIwMC4xNjAuMjAzIiwicG9ydCI6Ijg0NDMiLCJpZCI6IjcyNWY1ZmNkLTcyMWQtNDBhMC1iYTZiLTNjNzQ3NzYzMzExMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJjZGdlLmF2YWFhYWwuaXIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJkbGwuYXZhYWFhbC5pciIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTQxLjE5My4yMTMuMjEiLCJwb3J0IjoiODQ0MyIsImlkIjoiNDRlNTc0ODUtZWNjYy00NmVmLTgwOGYtY2QxN2FjODEwMDE4Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Im5vZGU0LnJ0eGNvbmZpZ3ouY29tIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTYyLjAuMjMyLjM2IiwicG9ydCI6IjQ0MyIsImlkIjoiMmIyMTQxMjItMTkwNi00MjhhLWJiYjctYTAzOWNiYjdjZDVjIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImhvaG0ubWljcm9zb2Z0LmNvbSIsInBhdGgiOiIvOUpaRkRUS0UiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJob2htLm1pY3Jvc29mdC5jb20iLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTYyLjE1OS4xMzAuMTEiLCJwb3J0IjoiODg4MCIsImlkIjoiZTNkYmE5MWYtYjMxYy00NzNhLThmMTctOTJlMWRlZGRhMzhmIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImM4dzZzdHBjZXBoa29tenkuZ29uZ3lpeXVuLmNmIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTYyLjE1OS4xMzAuMTEiLCJwb3J0IjoiNDQzIiwiaWQiOiI2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjUiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoic2ctbGIudmhheC5uZXQiLCJwYXRoIjoiL3NzaGtpdC9FcnR1c2c4Ni82MzUwMTQ2MzhjMjY0LyIsInRscyI6InRscyIsInNuaSI6InNnLWxiLnZoYXgubmV0IiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTcyLjY2LjAuMTU3IiwicG9ydCI6IjQ0MyIsImlkIjoiaWQiLCJuZXQiOiJ3cyIsImhvc3QiOiJ3ZXo3ay5ldS5jYyIsInBhdGgiOiIvaWQtYWttIiwidGxzIjoidGxzIiwic25pIjoid2V6N2suZXUuY2MiLCJmcCI6ImZpcmVmb3gifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTQxLjE5My4yMTMuMjEiLCJwb3J0IjoiNDQzIiwiaWQiOiIxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibGcxMC5jZmNkbjEueHl6IiwicGF0aCI6Ii9BMkRKT1BGVCIsInRscyI6InRscyIsInNuaSI6ImxnMTAuY2ZjZG4xLnh5eiIsImZwIjoiZmlyZWZveCJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTYyLjE1OS4xNDAuMTU5IiwicG9ydCI6IjQ0MyIsImlkIjoiaWQiLCJuZXQiOiJ3cyIsImhvc3QiOiJ3ZXo3ay5ldS5jYyIsInBhdGgiOiIvaWQtYWttIiwidGxzIjoidGxzIiwic25pIjoid2V6N2suZXUuY2MiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgTG9zIEFuZ2VsZXMgfCBBbnRpLVJLTiIsImFkZCI6IjE1MS4xMDEuNzUuMTAiLCJwb3J0IjoiODAiLCJpZCI6ImU1ZDcwNjNiLWFmYmMtNDdiYi1hOTEzLWU0NTlhNzcxNDgzMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJodXJyaWNhbmUzLm5leHR2cG4uY2MiLCJwYXRoIjoiL3Zwbm5lbyJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgRGVzIE1vaW5lcyB8IEFudGktUktOIiwiYWRkIjoiNDguMjE0LjE2MC4yMjQiLCJwb3J0IjoiNDQzIiwiaWQiOiJhODg4Yjg5YS0wOGFjLTQwZTYtOGFkNy1jZmNlOTU2OWY5NjciLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZ2VyTUFueUlTdlAuaVIiLCJwYXRoIjoiL3JhY2V2cG4iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJnZXJNQW55SVN2UC5pUiIsImZwIjoiZmlyZWZveCJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTYyLjE1OS4xNDAuMjIwIiwicG9ydCI6IjgwIiwiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiNTJhYS1zdXBlci1yaXZlci01MmFhLnBvYmluNDk1OTkud29ya2Vycy5kZXYiLCJwYXRoIjoiL29iZGlpLmNmZC9saW5rd3MifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTYyLjE1OS4xNDAuMjIwIiwicG9ydCI6IjQ0MyIsImlkIjoiZmZmZmZmZmYtZmZmZi1mZmZmLWZmZmYtZmZmZmZmZmZmZmZmIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InNwZWVkLmNsb3VkZmxhcmUuY29tIiwicGF0aCI6Ii92bWVzcyIsInRscyI6InRscyIsInNuaSI6InNwZWVkLmNsb3VkZmxhcmUuY29tIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IEFudGktUktOIiwiYWRkIjoiMTYyLjE1OS4xMzMuMzYiLCJwb3J0IjoiMjA1MiIsImlkIjoiYTFlYzMyMTEtYjFmZi00ZTUzLWE3MjktZTViN2I1NTU2N2ViIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImFsaXl1bl9oazEuY24yLmZyZWUuaHIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2VhdHRsZSB8IEFudGktUktOIiwiYWRkIjoiMTA0LjM3LjI5LjE4NCIsInBvcnQiOiI0NDMiLCJpZCI6ImZhNWI1NWNkLWNhZmMtNGRlMC1hNGM4LTcyMmUwMmE5ZjU4ZSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ5ZWxhbi50aGVsYXN0cm9uaW4uY2xvdWRucy5vcmciLCJwYXRoIjoiL2xpbmt3cy9obXMwMy5kb25nZmVuZy5jZmQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ5ZWxhbi50aGVsYXN0cm9uaW4uY2xvdWRucy5vcmciLCJmcCI6ImZpcmVmb3gifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2VhdHRsZSB8IEFudGktUktOIiwiYWRkIjoiMTA0LjM3LjI5LjE4NSIsInBvcnQiOiI0NDMiLCJpZCI6ImZhNWI1NWNkLWNhZmMtNGRlMC1hNGM4LTcyMmUwMmE5ZjU4ZSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ5ZWxhbi50aGVsYXN0cm9uaW4uY2xvdWRucy5vcmciLCJwYXRoIjoiL2xpbmt3cy9obXMwMy5kb25nZmVuZy5jZmQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ5ZWxhbi50aGVsYXN0cm9uaW4uY2xvdWRucy5vcmciLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgQ291bmNpbCBCbHVmZnMgfCBBbnRpLVJLTiIsImFkZCI6IjM0LjQxLjEzOS4xOTMiLCJwb3J0IjoiODAiLCJpZCI6IjI1ZWMzOWY3LTdjZGQtNGMzYy1iYzNjLTYwZTlhODkyN2I0YSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiIvd3MifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgQ291bmNpbCBCbHVmZnMgfCBBbnRpLVJLTiIsImFkZCI6IjM0LjQxLjEzOS4xOTMiLCJwb3J0IjoiNDQzIiwiaWQiOiI2YzdjNWUzYS03M2FkLTQ2N2EtMTI0MS0yMDY5ODdkYWEwNGYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoiL3dzIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2VhdHRsZSB8IEFudGktUktOIiwiYWRkIjoiNDUuMTQ2LjgyLjIzNCIsInBvcnQiOiI0NDMiLCJpZCI6ImQ5ODYzMDM3LTA0NjMtNDYxNS1lOTcyLTM2YmE5NjYyZDFlOSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ4Y2YwMzcuZmFjYWkyMDI0LmNvbSIsInBhdGgiOiIvZDk4NjMwMzciLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4Y2YwMzcuZmFjYWkyMDI0LmNvbSIsImZwIjoiZmlyZWZveCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2FuIEpvc2UgfCBBbnRpLVJLTiIsImFkZCI6IjM4LjExLjk3LjM1IiwicG9ydCI6IjMzMjAyIiwiaWQiOiI5MjA0YWZjZC0wMjNlLTc4MWYtMWFiYy1jMTJlZmNjZDEzNDQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoieWQyLmFpbml2cC5jb20iLCJwYXRoIjoiL3JheSIsInRscyI6InRscyIsInNuaSI6InlkMi5haW5pdnAuY29tIiwiZnAiOiJmaXJlZm94In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2FuIEpvc2UgfCBBbnRpLVJLTiIsImFkZCI6IjM4LjExLjk3LjM1IiwicG9ydCI6IjMzNDE2IiwiaWQiOiI5MjA0YWZjZC0wMjNlLTc4MWYtMWFiYy1jMTJlZmNjZDEzNDQiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoieWQyLmFpbml2cC5jb20iLCJwYXRoIjoiL3JheSIsInRscyI6InRscyIsInNuaSI6InlkMi5haW5pdnAuY29tIiwiZnAiOiJmaXJlZm94In0=
@@ -268,8 +257,6 @@ socks5://68.71.251.134:4145#🇺🇸 United States | Anti-RKN
 socks5://209.50.255.91:1080#🇺🇸 United States, Manassas | Anti-RKN
 socks5://107.174.30.92:1080#🇺🇸 United States, Buffalo | Anti-RKN
 socks5://47.251.166.203:1080#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.40:4526#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.42:4399#🇺🇸 United States | Anti-RKN
 socks4://72.49.49.11:31034#🇺🇸 United States, Fort Thomas | Anti-RKN
 socks4://72.195.114.184:4145#🇺🇸 United States | Anti-RKN
 socks4://24.249.199.12:4145#🇺🇸 United States, San Diego | Anti-RKN
@@ -281,7 +268,6 @@ socks4://184.178.172.14:4145#🇺🇸 United States, Roanoke | Anti-RKN
 socks4://98.188.47.132:4145#🇺🇸 United States | Anti-RKN
 socks4://72.195.114.169:4145#🇺🇸 United States | Anti-RKN
 socks4://98.188.47.150:4145#🇺🇸 United States | Anti-RKN
-socks4://72.195.34.59:4145#🇺🇸 United States | Anti-RKN
 socks4://184.181.217.206:4145#🇺🇸 United States | Anti-RKN
 socks4://184.178.172.3:4145#🇺🇸 United States, Roanoke | Anti-RKN
 socks4://184.178.172.11:4145#🇺🇸 United States, Roanoke | Anti-RKN
@@ -298,9 +284,10 @@ socks4://72.195.34.41:4145#🇺🇸 United States | Anti-RKN
 socks4://184.178.172.23:4145#🇺🇸 United States, Roanoke | Anti-RKN
 socks4://198.8.94.170:4145#🇺🇸 United States | Anti-RKN
 socks4://184.178.172.26:4145#🇺🇸 United States, Roanoke | Anti-RKN
-socks4://184.185.2.12:4145#🇺🇸 United States, Columbus | Anti-RKN
+socks4://184.185.2.12:4145#🇺🇸 United States | Anti-RKN
 socks4://98.181.137.83:4145#🇺🇸 United States, Henderson | Anti-RKN
 socks4://68.1.210.163:4145#🇺🇸 United States, San Diego | Anti-RKN
+socks4://98.181.137.80:4145#🇺🇸 United States, Henderson | Anti-RKN
 socks4://74.119.147.209:4145#🇺🇸 United States | Anti-RKN
 socks4://74.119.144.60:4145#🇺🇸 United States | Anti-RKN
 socks4://184.170.248.5:4145#🇺🇸 United States | Anti-RKN
@@ -308,15 +295,12 @@ socks4://184.170.249.65:4145#🇺🇸 United States | Anti-RKN
 socks4://199.58.185.9:4145#🇺🇸 United States | Anti-RKN
 socks4://184.178.172.13:15311#🇺🇸 United States, Roanoke | Anti-RKN
 socks4://68.1.210.189:4145#🇺🇸 United States, San Diego | Anti-RKN
-socks4://174.75.211.222:4145#🇺🇸 United States | Anti-RKN
 socks4://72.195.101.99:4145#🇺🇸 United States | Anti-RKN
 socks4://72.214.108.67:4145#🇺🇸 United States | Anti-RKN
 socks4://98.191.0.37:4145#🇺🇸 United States, Roanoke | Anti-RKN
 socks4://98.170.57.241:4145#🇺🇸 United States | Anti-RKN
 socks4://199.116.112.6:4145#🇺🇸 United States | Anti-RKN
-socks4://98.175.31.222:4145#🇺🇸 United States, Norfolk | Anti-RKN
 socks4://67.201.35.145:4145#🇺🇸 United States | Anti-RKN
-socks4://206.220.175.2:4145#🇺🇸 United States | Anti-RKN
 socks4://199.102.104.70:4145#🇺🇸 United States | Anti-RKN
 socks4://142.54.231.38:4145#🇺🇸 United States | Anti-RKN
 socks4://142.54.236.97:4145#🇺🇸 United States | Anti-RKN
@@ -334,17 +318,18 @@ socks4://184.182.240.211:4145#🇺🇸 United States, Phoenix | Anti-RKN
 socks4://72.207.33.64:4145#🇺🇸 United States, San Diego | Anti-RKN
 socks4://98.191.0.47:4145#🇺🇸 United States, Roanoke | Anti-RKN
 socks4://72.207.113.97:4145#🇺🇸 United States, Mesquite | Anti-RKN
-socks4://64.49.67.166:5678#🇺🇸 United States, New York | Anti-RKN
+socks4://74.62.23.242:39593#🇺🇸 United States, Paramount | Anti-RKN
 socks4://199.66.183.226:4145#🇺🇸 United States, Hampton | Anti-RKN
 socks4://192.252.210.233:4145#🇺🇸 United States | Anti-RKN
 socks4://72.205.0.67:4145#🇺🇸 United States, Las Vegas | Anti-RKN
 socks4://199.66.183.251:4145#🇺🇸 United States, Hampton | Anti-RKN
 socks4://199.66.182.243:4145#🇺🇸 United States, Hampton | Anti-RKN
 socks4://199.66.182.232:4145#🇺🇸 United States, Hampton | Anti-RKN
-socks4://216.105.143.146:4145#🇺🇸 United States, Atlanta | Anti-RKN
+socks4://216.105.143.146:4145#🇺🇸 United States, Simpsonville | Anti-RKN
 socks4://216.105.128.144:4145#🇺🇸 United States, Atlanta | Anti-RKN
-socks4://216.105.130.131:4145#🇺🇸 United States, Atlanta | Anti-RKN
+socks4://216.105.130.131:4145#🇺🇸 United States, Pelzer | Anti-RKN
 socks4://72.194.42.156:4145#🇺🇸 United States, Las Vegas | Anti-RKN
+socks4://162.255.108.249:5678#🇺🇸 United States, Richland | Anti-RKN
 socks4://179.253.66.78:1080#🇺🇸 United States | Anti-RKN
 socks4://149.248.18.106:1081#🇺🇸 United States, Los Angeles | Anti-RKN
 https://138.199.35.215:9002#🇺🇸 United States, Los Angeles | Anti-RKN
@@ -377,6 +362,7 @@ https://138.197.69.103:443#🇺🇸 United States, Clifton | Anti-RKN
 https://130.52.199.50:443#🇺🇸 United States | Anti-RKN
 https://3.92.137.124:443#🇺🇸 United States, Ashburn | Anti-RKN
 https://45.79.220.116:443#🇺🇸 United States, Atlanta | Anti-RKN
+https://74.103.66.18:443#🇺🇸 United States, Sparrows Point | Anti-RKN
 https://104.236.205.59:443#🇺🇸 United States, Clifton | Anti-RKN
 https://192.154.227.9:3001#🇺🇸 United States, Dallas | Anti-RKN
 https://150.136.9.146:443#🇺🇸 United States, Ashburn | Anti-RKN
@@ -412,14 +398,18 @@ https://162.244.227.36:443#🇺🇸 United States, Sabetha | Anti-RKN
 https://172.183.221.168:443#🇺🇸 United States, Chicago | Anti-RKN
 https://159.203.165.195:443#🇺🇸 United States, Clifton | Anti-RKN
 https://207.244.89.162:3172#🇺🇸 United States, Manassas | Anti-RKN
+https://84.233.159.193:443#🇺🇸 United States, Miami | Anti-RKN
 https://216.218.159.87:443#🇺🇸 United States, Mosier | Anti-RKN
 https://38.28.193.1:443#🇺🇸 United States, Los Angeles | Anti-RKN
+https://38.55.192.122:443#🇺🇸 United States | Anti-RKN
+https://38.95.111.162:443#🇺🇸 United States, Los Angeles | Anti-RKN
 https://38.28.193.47:443#🇺🇸 United States, Los Angeles | Anti-RKN
 https://38.28.193.71:443#🇺🇸 United States, Los Angeles | Anti-RKN
 https://38.28.193.42:443#🇺🇸 United States, Los Angeles | Anti-RKN
 https://38.28.193.6:443#🇺🇸 United States, Los Angeles | Anti-RKN
 https://38.28.193.188:443#🇺🇸 United States, Los Angeles | Anti-RKN
 https://38.28.193.215:443#🇺🇸 United States, Los Angeles | Anti-RKN
+https://84.233.159.193:9443#🇺🇸 United States, Miami | Anti-RKN
 https://38.28.193.178:443#🇺🇸 United States, Los Angeles | Anti-RKN
 https://38.28.193.122:443#🇺🇸 United States, Los Angeles | Anti-RKN
 https://38.28.193.129:443#🇺🇸 United States, Los Angeles | Anti-RKN
@@ -453,6 +443,7 @@ https://38.28.185.163:443#🇺🇸 United States, San Jose | Anti-RKN
 https://38.28.185.222:443#🇺🇸 United States, San Jose | Anti-RKN
 https://198.200.57.153:443#🇺🇸 United States, San Jose | Anti-RKN
 https://38.28.185.197:443#🇺🇸 United States, San Jose | Anti-RKN
+https://193.239.236.134:443#🇺🇸 United States, Chicago | Anti-RKN
 https://38.28.185.187:443#🇺🇸 United States, San Jose | Anti-RKN
 https://38.28.185.152:443#🇺🇸 United States, San Jose | Anti-RKN
 https://38.28.185.180:443#🇺🇸 United States, San Jose | Anti-RKN
@@ -466,7 +457,8 @@ https://38.28.185.205:443#🇺🇸 United States, San Jose | Anti-RKN
 https://87.251.79.232:443#🇺🇸 United States, Fremont | Anti-RKN
 https://137.175.77.35:443#🇺🇸 United States, San Jose | Anti-RKN
 https://3.239.124.130:443#🇺🇸 United States, Ashburn | Anti-RKN
-https://162.191.139.40:8443#🇺🇸 United States, Plainfield | Anti-RKN
+https://149.34.248.65:443#🇺🇸 United States, Miami | Anti-RKN
+https://162.191.139.40:8443#🇺🇸 United States | Anti-RKN
 https://38.28.185.130:443#🇺🇸 United States, San Jose | Anti-RKN
 https://3.91.112.102:443#🇺🇸 United States, Ashburn | Anti-RKN
 https://137.175.22.84:443#🇺🇸 United States, San Jose | Anti-RKN
@@ -479,9 +471,12 @@ https://137.175.22.52:443#🇺🇸 United States, San Jose | Anti-RKN
 https://137.175.22.96:443#🇺🇸 United States, San Jose | Anti-RKN
 https://137.175.22.45:443#🇺🇸 United States, San Jose | Anti-RKN
 https://198.2.214.3:443#🇺🇸 United States, San Jose | Anti-RKN
+https://149.34.248.65:9443#🇺🇸 United States, Miami | Anti-RKN
 https://150.136.74.90:443#🇺🇸 United States, Ashburn | Anti-RKN
+https://198.44.135.27:9443#🇺🇸 United States, Ashburn | Anti-RKN
 https://204.48.31.203:443#🇺🇸 United States, North Bergen | Anti-RKN
-https://207.5.30.9:443#🇺🇸 United States, Bluffton | Anti-RKN
+https://193.239.236.134:9443#🇺🇸 United States, Chicago | Anti-RKN
+https://207.5.30.9:443#🇺🇸 United States, Hilton Head Island | Anti-RKN
 https://89.117.94.201:80#🇺🇸 United States, North Bergen | Anti-RKN
 https://137.175.22.116:443#🇺🇸 United States, San Jose | Anti-RKN
 https://137.175.22.98:443#🇺🇸 United States, San Jose | Anti-RKN
@@ -490,6 +485,7 @@ https://137.175.22.85:443#🇺🇸 United States, San Jose | Anti-RKN
 https://137.175.22.89:443#🇺🇸 United States, San Jose | Anti-RKN
 https://137.175.22.41:443#🇺🇸 United States, San Jose | Anti-RKN
 https://137.175.22.3:443#🇺🇸 United States, San Jose | Anti-RKN
+https://137.175.22.40:443#🇺🇸 United States, San Jose | Anti-RKN
 https://137.175.22.87:443#🇺🇸 United States, San Jose | Anti-RKN
 https://137.175.22.16:443#🇺🇸 United States, San Jose | Anti-RKN
 https://205.178.137.173:8443#🇺🇸 United States, Ashburn | Anti-RKN
@@ -509,8 +505,11 @@ https://43.153.104.3:443#🇺🇸 United States, Santa Clara | Anti-RKN
 https://148.153.56.51:443#🇺🇸 United States, Los Angeles | Anti-RKN
 https://69.161.223.220:8447#🇺🇸 United States, Ashburn | Anti-RKN
 https://172.191.23.249:443#🇺🇸 United States, Dulles | Anti-RKN
+https://68.235.56.59:9443#🇺🇸 United States, Chicago | Anti-RKN
 https://23.254.232.10:443#🇺🇸 United States | Anti-RKN
 https://85.209.157.181:8443#🇺🇸 United States, Los Angeles | Anti-RKN
+https://23.161.192.33:9443#🇺🇸 United States | Anti-RKN
+https://23.161.192.97:9443#🇺🇸 United States | Anti-RKN
 https://3.224.225.34:443#🇺🇸 United States, Ashburn | Anti-RKN
 https://205.186.138.13:443#🇺🇸 United States, Ashburn | Anti-RKN
 https://205.178.186.63:8447#🇺🇸 United States, Ashburn | Anti-RKN
@@ -528,7 +527,6 @@ https://45.150.164.14:8443#🇺🇸 United States, Seattle | Anti-RKN
 https://45.150.164.38:8443#🇺🇸 United States, Seattle | Anti-RKN
 https://45.145.72.122:8443#🇺🇸 United States, Seattle | Anti-RKN
 https://45.150.164.14:443#🇺🇸 United States, Seattle | Anti-RKN
-https://4.227.178.164:443#🇺🇸 United States, Dulles | Anti-RKN
 https://205.178.186.28:8447#🇺🇸 United States, Ashburn | Anti-RKN
 https://205.185.125.136:8888#🇺🇸 United States, Las Vegas | Anti-RKN
 https://206.188.208.181:8447#🇺🇸 United States, Ashburn | Anti-RKN
@@ -541,6 +539,7 @@ https://104.36.250.217:443#🇺🇸 United States | Anti-RKN
 https://137.175.22.49:443#🇺🇸 United States, San Jose | Anti-RKN
 https://137.175.22.44:443#🇺🇸 United States, San Jose | Anti-RKN
 https://137.175.22.46:443#🇺🇸 United States, San Jose | Anti-RKN
+https://149.22.88.65:9443#🇺🇸 United States, Seattle | Anti-RKN
 https://142.0.139.113:443#🇺🇸 United States, San Jose | Anti-RKN
 https://142.0.139.121:443#🇺🇸 United States, San Jose | Anti-RKN
 https://142.0.139.124:443#🇺🇸 United States, San Jose | Anti-RKN
@@ -553,6 +552,7 @@ https://142.0.139.123:443#🇺🇸 United States, San Jose | Anti-RKN
 https://142.0.133.176:443#🇺🇸 United States, San Jose | Anti-RKN
 https://149.28.114.68:443#🇺🇸 United States, Elk Grove Village | Anti-RKN
 https://54.157.89.139:443#🇺🇸 United States, Ashburn | Anti-RKN
+https://137.175.22.65:443#🇺🇸 United States, San Jose | Anti-RKN
 https://34.236.59.94:443#🇺🇸 United States, Ashburn | Anti-RKN
 https://166.157.172.234:8443#🇺🇸 United States | Anti-RKN
 https://166.157.172.235:8443#🇺🇸 United States | Anti-RKN
@@ -562,6 +562,7 @@ https://66.135.172.202:443#🇺🇸 United States, Fort Lauderdale | Anti-RKN
 https://100.20.117.16:443#🇺🇸 United States, Boardman | Anti-RKN
 https://31.77.174.111:443#🇺🇸 United States | Anti-RKN
 https://154.44.10.16:9443#🇺🇸 United States, Los Angeles | Anti-RKN
+https://198.44.138.35:443#🇺🇸 United States, Atlanta | Anti-RKN
 https://38.28.185.194:443#🇺🇸 United States, San Jose | Anti-RKN
 https://38.28.185.202:443#🇺🇸 United States, San Jose | Anti-RKN
 https://38.28.185.221:443#🇺🇸 United States, San Jose | Anti-RKN
@@ -641,9 +642,7 @@ socks4://104.200.152.30:4145#🇺🇸 United States, Los Angeles | Anti-RKN
 http://63.141.128.67:80#🇺🇸 United States | Anti-RKN
 http://52.229.30.3:80#🇺🇸 United States | Anti-RKN
 http://172.200.72.48:80#🇺🇸 United States, Boydton | Anti-RKN
-http://159.65.245.255:80#🇺🇸 United States, Clifton | Anti-RKN
 socks4://192.252.209.158:4145#🇺🇸 United States | Anti-RKN
-socks4://72.37.216.68:4145#🇺🇸 United States | Anti-RKN
 socks4://192.111.135.18:18301#🇺🇸 United States, Atlanta | Anti-RKN
 socks4://98.190.239.3:4145#🇺🇸 United States, Tulsa | Anti-RKN
 socks4://192.111.138.29:4145#🇺🇸 United States | Anti-RKN
@@ -651,7 +650,6 @@ http://159.112.235.1:80#🇺🇸 United States | Anti-RKN
 http://159.112.235.113:80#🇺🇸 United States | Anti-RKN
 socks4://192.252.215.5:16137#🇺🇸 United States | Anti-RKN
 http://159.112.235.30:80#🇺🇸 United States | Anti-RKN
-socks4://192.111.139.165:4145#🇺🇸 United States | Anti-RKN
 http://141.193.213.179:80#🇺🇸 United States | Anti-RKN
 http://69.84.182.30:80#🇺🇸 United States | Anti-RKN
 socks4://70.166.167.55:57745#🇺🇸 United States | Anti-RKN
@@ -662,6 +660,7 @@ http://141.193.213.185:80#🇺🇸 United States | Anti-RKN
 socks4://70.166.167.38:57728#🇺🇸 United States | Anti-RKN
 http://141.193.213.65:80#🇺🇸 United States | Anti-RKN
 http://159.112.235.127:80#🇺🇸 United States | Anti-RKN
+socks4://192.252.220.89:4145#🇺🇸 United States | Anti-RKN
 http://159.112.235.140:80#🇺🇸 United States | Anti-RKN
 http://141.193.213.91:80#🇺🇸 United States | Anti-RKN
 http://141.193.213.170:80#🇺🇸 United States | Anti-RKN
@@ -675,18 +674,18 @@ http://69.84.182.47:80#🇺🇸 United States | Anti-RKN
 http://159.112.235.243:80#🇺🇸 United States | Anti-RKN
 http://159.112.235.87:80#🇺🇸 United States | Anti-RKN
 socks5://199.66.183.251:4145#🇺🇸 United States, Hampton | Anti-RKN
-socks4://72.194.42.131:4145#🇺🇸 United States, Las Vegas | Anti-RKN
 socks4://24.249.199.4:4145#🇺🇸 United States, San Diego | Anti-RKN
+socks5://192.252.211.193:4145#🇺🇸 United States | Anti-RKN
 socks5://174.75.211.193:4145#🇺🇸 United States | Anti-RKN
 socks5://174.77.111.196:4145#🇺🇸 United States | Anti-RKN
 socks5://216.68.128.121:4145#🇺🇸 United States, Cincinnati | Anti-RKN
 socks5://184.178.172.11:4145#🇺🇸 United States, Roanoke | Anti-RKN
 socks5://216.105.128.144:4145#🇺🇸 United States, Atlanta | Anti-RKN
-socks5://184.185.2.12:4145#🇺🇸 United States, Columbus | Anti-RKN
+socks5://184.185.2.12:4145#🇺🇸 United States | Anti-RKN
 socks5://72.195.34.60:27391#🇺🇸 United States | Anti-RKN
 socks5://184.181.217.206:4145#🇺🇸 United States | Anti-RKN
 socks5://174.77.111.197:4145#🇺🇸 United States | Anti-RKN
-socks5://216.105.143.146:4145#🇺🇸 United States, Atlanta | Anti-RKN
+socks5://216.105.143.146:4145#🇺🇸 United States, Simpsonville | Anti-RKN
 socks5://98.181.137.83:4145#🇺🇸 United States, Henderson | Anti-RKN
 socks5://184.178.172.3:4145#🇺🇸 United States, Roanoke | Anti-RKN
 socks5://199.66.183.226:4145#🇺🇸 United States, Hampton | Anti-RKN
@@ -694,6 +693,7 @@ socks5://174.77.111.198:49547#🇺🇸 United States | Anti-RKN
 socks5://143.20.185.219:9150#🇺🇸 United States | Anti-RKN
 socks5://98.191.0.37:4145#🇺🇸 United States, Roanoke | Anti-RKN
 socks5://199.66.182.232:4145#🇺🇸 United States, Hampton | Anti-RKN
+socks5://184.182.240.211:4145#🇺🇸 United States, Phoenix | Anti-RKN
 socks5://98.188.47.132:4145#🇺🇸 United States | Anti-RKN
 socks5://72.195.34.41:4145#🇺🇸 United States | Anti-RKN
 socks5://184.178.172.13:15311#🇺🇸 United States, Roanoke | Anti-RKN
@@ -702,6 +702,7 @@ socks5://184.178.172.26:4145#🇺🇸 United States, Roanoke | Anti-RKN
 socks5://184.181.217.194:4145#🇺🇸 United States | Anti-RKN
 socks5://72.49.49.11:31034#🇺🇸 United States, Fort Thomas | Anti-RKN
 socks4://5.78.181.0:9052#🇺🇸 United States, Hillsboro | Anti-RKN
+socks5://149.248.18.106:1080#🇺🇸 United States, Los Angeles | Anti-RKN
 http://34.43.46.91:443#🇺🇸 United States | Anti-RKN
 socks5://138.68.60.8:1080#🇺🇸 United States, Santa Clara | Anti-RKN
 socks5://184.178.172.23:4145#🇺🇸 United States, Roanoke | Anti-RKN
@@ -714,46 +715,45 @@ http://159.65.230.46:8888#🇺🇸 United States, North Bergen | Anti-RKN
 socks5://47.89.159.212:1081#🇺🇸 United States | Anti-RKN
 socks5://98.190.239.3:4145#🇺🇸 United States, Tulsa | Anti-RKN
 http://47.89.184.18:3128#🇺🇸 United States | Anti-RKN
-http://34.122.187.196:80#🇺🇸 United States, Council Bluffs | Anti-RKN
 socks5://98.170.57.241:4145#🇺🇸 United States | Anti-RKN
 http://143.246.138.227:80#🇺🇸 United States, New York | Anti-RKN
 socks5://72.195.114.184:4145#🇺🇸 United States | Anti-RKN
 http://165.154.162.73:8888#🇺🇸 United States, Los Angeles | Anti-RKN
 socks5://70.166.167.38:57728#🇺🇸 United States | Anti-RKN
 socks5://184.181.217.201:4145#🇺🇸 United States | Anti-RKN
-socks5://72.195.34.59:4145#🇺🇸 United States | Anti-RKN
 http://47.251.73.54:8834#🇺🇸 United States | Anti-RKN
 socks5://24.249.199.12:4145#🇺🇸 United States, San Diego | Anti-RKN
 socks4://174.64.199.82:4145#🇺🇸 United States | Anti-RKN
-http://43.159.128.164:10000#🇺🇸 United States, Santa Clara | Anti-RKN
 http://52.3.254.97:808#🇺🇸 United States, Ashburn | Anti-RKN
+http://154.12.231.32:80#🇺🇸 United States, St Louis | Anti-RKN
 http://64.188.29.191:8080#🇺🇸 United States, Los Angeles | Anti-RKN
-http://45.61.133.104:7777#🇺🇸 United States, Las Vegas | Anti-RKN
+http://216.49.115.7:8080#🇺🇸 United States, Huntingburg | Anti-RKN
 socks5://174.64.199.82:4145#🇺🇸 United States | Anti-RKN
-socks5://70.166.167.55:57745#🇺🇸 United States | Anti-RKN
+socks5://72.195.34.42:4145#🇺🇸 United States | Anti-RKN
+socks5://72.194.42.156:4145#🇺🇸 United States, Las Vegas | Anti-RKN
+socks5://179.253.66.78:1080#🇺🇸 United States | Anti-RKN
+socks5://47.85.9.228:10800#🇺🇸 United States | Anti-RKN
+socks5://174.64.199.79:4145#🇺🇸 United States | Anti-RKN
 socks5://184.181.178.33:4145#🇺🇸 United States | Anti-RKN
 socks5://47.85.37.60:1080#🇺🇸 United States | Anti-RKN
 socks5://98.170.57.231:4145#🇺🇸 United States | Anti-RKN
 socks5://47.252.47.39:1080#🇺🇸 United States | Anti-RKN
-socks5://24.121.73.10:1080#🇺🇸 United States, Lake Havasu City | Anti-RKN
 socks5://158.101.8.92:1080#🇺🇸 United States, Phoenix | Anti-RKN
 socks5://184.181.217.220:4145#🇺🇸 United States | Anti-RKN
 socks5://184.178.172.17:4145#🇺🇸 United States, Roanoke | Anti-RKN
-socks5://216.51.177.106:1080#🇺🇸 United States, Boone | Anti-RKN
-socks5://68.233.8.123:1080#🇺🇸 United States, Lone Grove | Anti-RKN
-socks5://149.104.24.86:40001#🇺🇸 United States | Anti-RKN
 socks5://47.252.11.233:1081#🇺🇸 United States | Anti-RKN
-socks5://192.252.208.70:14282#🇺🇸 United States | Anti-RKN
-socks5://67.201.33.10:25283#🇺🇸 United States | Anti-RKN
+socks5://68.71.240.210:4145#🇺🇸 United States | Anti-RKN
 socks5://98.188.47.150:4145#🇺🇸 United States | Anti-RKN
-socks5://70.166.65.160:4145#🇺🇸 United States, Roanoke | Anti-RKN
-socks5://149.248.18.106:1081#🇺🇸 United States, Los Angeles | Anti-RKN
+socks5://74.119.147.209:4145#🇺🇸 United States | Anti-RKN
 socks5://184.178.172.14:4145#🇺🇸 United States, Roanoke | Anti-RKN
 socks5://47.251.74.38:9098#🇺🇸 United States | Anti-RKN
 socks5://47.251.74.38:808#🇺🇸 United States | Anti-RKN
+socks5://68.1.210.163:4145#🇺🇸 United States, San Diego | Anti-RKN
+socks5://184.181.217.210:4145#🇺🇸 United States | Anti-RKN
 socks5://129.158.48.4:9050#🇺🇸 United States, Ashburn | Anti-RKN
 socks5://129.153.105.194:9050#🇺🇸 United States, Phoenix | Anti-RKN
 socks5://47.252.11.233:18081#🇺🇸 United States | Anti-RKN
 socks5://47.252.11.233:6379#🇺🇸 United States | Anti-RKN
 socks5://198.199.86.11:1080#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://23.134.76.172:1080#🇺🇸 United States | Anti-RKN
 socks5://64.177.114.135:1080#🇺🇸 United States, Elk Grove Village | Anti-RKN

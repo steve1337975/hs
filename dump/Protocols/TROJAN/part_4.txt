@@ -1,16 +1,12 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ⚡ TROJAN — BLACK #4
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
-# servers-count: 561
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 558
 
-trojan://f8d19ba5-8684-45f2-8523-77dbea588955@157.90.33.74:443?security=tls&sni=hgc.iamnotagoodman.com&fp=firefox#🇩🇪 Germany, Falkenstein | Anti-RKN
-trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@104.21.63.135:443?security=tls&sni=Rrr4.8906004.xYZ&fp=firefox#Anti-RKN
-trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@172.67.145.200:443?type=ws&security=tls&sni=Rrr4.8906004.xYZ&host=rrr4.8906004.xyz&path=%2fDZxb5QZyWgQPuXTwt&fp=firefox#Anti-RKN
-trojan://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?security=tls&fp=firefox#🇺🇸 United States | Anti-RKN
 trojan://ff5aeddc-8fea-4d17-b504-1a9fdacca802@45.130.125.160:443?type=ws&security=tls&sni=go.appsflyer.com.r3xxe.eu.cc&host=go.appsflyer.com.r3xxe.eu.cc&path=%2fbr-orcl&fp=firefox#🇸🇨 Seychelles | Anti-RKN
 trojan://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@172.67.220.32:443?type=ws&security=tls&sni=eEEfGty6.999836.XYz&path=%2fXmTzATQPJv9RO3xr1D40NK&fp=firefox#Anti-RKN
 trojan://fivh9CYhgT@104.21.32.1:443?type=httpupgrade&security=tls&sni=esna.twn24.ir&host=esna.twn24.ir&path=%2f16338%2fmehdi&fp=firefox#Anti-RKN
@@ -147,7 +143,7 @@ trojan://humanity@199.181.197.169:443?type=ws&security=tls&sni=www.calmloud.com&
 trojan://humanity@199.181.197.228:443?type=ws&security=tls&sni=www.calmloud.com&host=www.calmloud.com&path=%2fassignment&fp=firefox#🇺🇸 United States | Anti-RKN
 trojan://humanity@202.37.33.80:443?type=ws&security=tls&sni=www.creationlong.org&host=www.creationlong.org&path=%2fassignment&fp=firefox#🇳🇿 New Zealand | Anti-RKN
 trojan://humanity@208.103.161.110:443?type=ws&security=tls&sni=www.creationlong.org&host=www.creationlong.org&path=%2fassignment&allowInsecure=1&fp=firefox#🇺🇸 United States | Anti-RKN
-trojan://humanity@212.183.88.136:443?type=ws&security=tls&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2fassignment&fp=firefox#🇦🇹 Austria, Vienna | Anti-RKN
+trojan://humanity@212.183.88.136:443?type=ws&security=tls&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2fassignment&fp=firefox#🇦🇹 Austria | Anti-RKN
 trojan://humanity@216.24.57.6:443?type=ws&security=tls&sni=www.calmloud.com&host=www.calmloud.com&path=%2fassignment&fp=firefox#🇺🇸 United States | Anti-RKN
 trojan://humanity@216.24.57.7:443?type=ws&security=tls&sni=www.creationlong.org&host=www.creationlong.org&path=%2fassignment&fp=firefox#🇺🇸 United States | Anti-RKN
 trojan://humanity@219.76.13.177:443?type=ws&security=tls&sni=www.pleadcourt.org&host=www.pleadcourt.org&path=%2fassignment&allowInsecure=0&fp=firefox#🇭🇰 Hong Kong | Anti-RKN
@@ -321,15 +317,15 @@ trojan://slch2024@209.46.30.195:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc
 trojan://slch2024@209.46.30.87:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇺🇸 United States | Anti-RKN
 trojan://slch2024@209.94.90.195:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇺🇸 United States | Anti-RKN
 trojan://slch2024@209.94.90.87:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇺🇸 United States | Anti-RKN
-trojan://slch2024@212.183.88.195:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇦🇹 Austria, Vienna | Anti-RKN
-trojan://slch2024@212.183.88.87:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇦🇹 Austria, Vienna | Anti-RKN
+trojan://slch2024@212.183.88.195:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇦🇹 Austria | Anti-RKN
+trojan://slch2024@212.183.88.87:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇦🇹 Austria | Anti-RKN
 trojan://slch2024@213.241.198.195:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇷🇺 Russia | Anti-RKN
 trojan://slch2024@213.241.198.87:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇷🇺 Russia | Anti-RKN
 trojan://slch2024@216.205.52.195:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇺🇸 United States | Anti-RKN
 trojan://slch2024@216.205.52.87:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇺🇸 United States | Anti-RKN
 trojan://slch2024@216.24.57.195:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇺🇸 United States | Anti-RKN
 trojan://slch2024@216.24.57.87:2096?type=ws&security=tls&sni=ocost-dy.wmlefl.cc&path=Telegram%f0%9f%87%a8%f0%9f%87%b3&fp=firefox#🇺🇸 United States | Anti-RKN
-trojan://slch2024@104.18.15.201:2096?security=tls&sni=ocost-dy.wmlefl.cc&fp=firefox#Anti-RKN
+trojan://slch2024@104.18.14.201:2096?security=tls&sni=ocost-dy.wmlefl.cc&fp=firefox#Anti-RKN
 trojan://tXsBdKfoe9@104.25.145.188:2083?type=ws&security=tls&sni=cpuhot.boshrachoice.ir.&host=cpuhot.boshrachoice.ir.&path=%2fVPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM%3fed%3d2048&fp=firefox#Anti-RKN
 trojan://tb5PqFczGQ@104.16.83.43:443?type=ws&security=tls&sni=DieGo.DIEgoMAraDOnA.iR.&host=DieGo.DIEgoMAraDOnA.iR.&path=%2f&fp=firefox#Anti-RKN
 trojan://tg-dns68@104.19.35.123:443?type=ws&security=tls&sni=vip.putata.eu.org&host=vip.putata.eu.org&fp=firefox#Anti-RKN
@@ -548,23 +544,24 @@ trojan://vip@172.65.90.53:443?security=tls&sni=heihu880.pages.dev&fp=firefox#Ant
 trojan://vip@172.67.179.98:443?security=tls&sni=heihu880.pages.dev&fp=firefox#Anti-RKN
 trojan://vip@172.67.182.83:443?security=tls&sni=heihu880.pages.dev&fp=firefox#Anti-RKN
 trojan://vip@104.26.10.222:443?type=ws&security=tls&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
-trojan://vip@104.26.12.140:443?type=ws&security=tls&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
-trojan://vip@104.19.223.79:443?type=ws&security=tls&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
-trojan://vip@172.66.148.229:443?type=ws&security=tls&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
+trojan://vip@172.67.75.194:443?type=ws&security=tls&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
+trojan://vip@104.19.222.79:443?type=ws&security=tls&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
+trojan://vip@104.20.47.114:443?type=ws&security=tls&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
 trojan://vip@104.18.27.94:443?type=ws&security=tls&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
-trojan://vip@104.26.6.214:443?type=ws&security=tls&sni=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
+trojan://vip@172.67.68.240:443?type=ws&security=tls&sni=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
 trojan://vip@104.16.21.118:443?type=ws&security=tls&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
 trojan://vip@172.64.145.158:443?type=ws&security=tls&sni=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
 trojan://vip@104.18.10.143:443?type=ws&security=tls&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
-trojan://vip@104.18.4.250:443?type=ws&security=tls&sni=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
-trojan://vip@172.65.90.53:443?type=ws&security=tls&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
+trojan://vip@104.18.5.250:443?type=ws&security=tls&sni=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
+trojan://vip@172.65.90.52:443?type=ws&security=tls&sni=heihu880.pages.dev&host=heihu880.pages.dev&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
 trojan://vs6f8hvt@104.17.246.203:2053?type=ws&security=tls&fp=firefox#Anti-RKN
 trojan://xxoo@138.124.183.216:443?security=tls&fp=firefox#🇪🇪 Estonia, Tallinn | Anti-RKN
 trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222&fp=firefox#🇪🇪 Estonia, Tallinn | Anti-RKN
 trojan://xxoo@3.34.6.217:443?security=tls&fp=firefox#🇰🇷 South Korea, Incheon | Anti-RKN
-trojan://xxoo@157.90.33.74:443?security=tls&sni=telewebion.com&fp=firefox#🇩🇪 Germany, Falkenstein | Anti-RKN
+trojan://xxoo@157.90.33.73:443?security=tls&sni=telewebion.com&fp=firefox#🇩🇪 Germany, Falkenstein | Anti-RKN
 trojan://yaml777@104.21.61.73:443?type=ws&security=tls&sni=yaml7.ggff.net&path=%2f&fp=firefox#Anti-RKN
-trojan://zWFjJENcljZm@104.18.3.150:443?type=ws&security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=%2f%3fed%3d2560&allowInsecure=1&fp=firefox#Anti-RKN
+trojan://zWFjJENcljZm@104.18.2.150:443?type=ws&security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=%2f%3fed%3d2560&allowInsecure=1&fp=firefox#Anti-RKN
 trojan://xhl549341@104.18.42.98:443?type=ws&security=tls&sni=tro.baiyi.cloudns.org&host=tro.baiyi.cloudns.org&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
 trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@61.224.126.124:443?type=ws&security=tls&sni=zephyr-tw2.bpca2026.top&host=zephyr-tw2.bpca2026.top&path=%2fimages&fp=firefox#🇹🇼 Taiwan, Yuanlin | Anti-RKN
+trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@61.224.114.108:443?type=ws&security=tls&sni=zhilegelian2.bpca2026.top&host=zhilegelian2.bpca2026.top&path=%2fimages&fp=firefox#🇹🇼 Taiwan, Yuanlin | Anti-RKN
 trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@61.223.120.25:443?type=ws&security=tls&sni=t2w2t2w2.bpca2026.top&host=t2w2t2w2.bpca2026.top&path=%2fimages&fp=firefox#🇹🇼 Taiwan, Changhua | Anti-RKN

@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [LT] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
-# servers-count: 99
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 97
 
 vless://bf14dc50-e9f2-49fd-8642-620446edeafb@5.199.173.195:443?type=ws&security=tls&fp=firefox&host=v4-77j.pages.dev&sni=v4-77j.pages.dev#🇱🇹 Lithuania | Anti-RKN
 vless://a55c7536-980a-4d82-abd0-f14909f2489e@85.209.231.232:2083?type=xhttp&security=reality&fp=firefox&sni=cdndownloadlink.song69.fun&pbk=qRf5mE2QZ92-jCXpUSMcucyrOW0i4cw0ZMv3uNRIfhI&path=%2fcontent%2fv2%2fstatic#🇱🇹 Lithuania | Anti-RKN
@@ -15,7 +15,6 @@ vless://c0742f77-5495-43bf-b007-88d368774d7c@88.119.176.64:443?type=tcp&security
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@88.216.67.230:2052#🇱🇹 Lithuania | Anti-RKN
 http://80.208.225.245:7001#🇱🇹 Lithuania, Vilnius | Anti-RKN
 ss://YWVzLTI1Ni1jZmI6eGF1cE1VdmhwdHd4ZERVZw==@195.238.126.20:9012#🇱🇹 Lithuania | Anti-RKN
-http://88.222.65.45:3128#🇱🇹 Lithuania, Kaunas | Anti-RKN
 vless://20e565e1-3858-40bf-94e8-4ec9624fc985@85.206.161.209:443?type=ws&security=tls&fp=firefox&host=wallweb8.pages.dev&sni=wallweb8.pages.dev#🇱🇹 Lithuania, Šiauliai | Anti-RKN
 ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#🇱🇹 Lithuania | Anti-RKN
 vless://f69e272f-e0e5-4e9d-b180-5be63930cde9@84.32.209.54:443?security=reality&fp=firefox&sni=lt.memepn.com&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&flow=xtls-rprx-vision#🇱🇹 Lithuania, Šiauliai | Anti-RKN
@@ -105,4 +104,3 @@ https://185.209.138.16:443#🇱🇹 Lithuania | Anti-RKN
 socks5://78.63.115.20:8899#🇱🇹 Lithuania, Vilnius | Anti-RKN
 socks5://185.193.26.120:9050#🇱🇹 Lithuania | Anti-RKN
 http://84.55.46.85:8080#🇱🇹 Lithuania, Kaunas | Anti-RKN
-http://78.63.115.20:8899#🇱🇹 Lithuania, Vilnius | Anti-RKN

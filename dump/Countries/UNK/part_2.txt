@@ -1,25 +1,26 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [UNK] — BLACK #2
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
+# generated-at: 11/28/2026 10:48:03
 # servers-count: 750
 
+vless://443b1e88-41fa-43bb-ff6c-982544254b74@104.21.14.228:443?type=ws&security=tls&fp=firefox&host=wandering-river-cd33.mramezanian1375.workers.dev&sni=wandering-river-cd33.mramezanian1375.workers.dev&path=%2f87fab74555d6e093#Anti-RKN
 vless://fc46b03d-e185-48e7-8c18-dea03b4a0c25@104.21.15.212:8880?type=ws&host=flat-union-b292.17-4e0.workers.dev#Anti-RKN
 vless://86d998bc-a5a2-45d5-8169-b906259110a6@104.21.21.124:8880?type=ws&path=%2fpyip%3dProxyIP.US.CMLiussss.net#Anti-RKN
 vless://14eccb4f-ca88-4732-b191-d8daacf63448@172.64.155.209:443?type=ws&security=tls&fp=firefox&host=sinavm3.soft10.ir&sni=sinavm3.soft10.ir&path=%2fSiNAVM-SiNAVM-SiNAVM-SiNAVM#Anti-RKN
 vless://645ea5d2-7d0a-4d66-940d-eefc2b84f4e9@188.114.97.6:443?type=ws&security=tls&fp=firefox&host=fragrant-surf-4797.496-345.workers.dev&sni=fragrant-surf-4797.496-345.workers.dev&path=%2fpyip%3dProxyIP.US.CMLiussss.net#Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.48:443?type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.53:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#Anti-RKN
-vless://c18fd69e-92ba-446e-981b-213dbb551593@172.67.222.235:8880?type=ws#Anti-RKN
+vless://c18fd69e-92ba-446e-981b-213dbb551593@104.21.46.29:8880?type=ws#Anti-RKN
 vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?type=ws&security=tls&fp=firefox&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&path=%2f0df6c30383d404f8%3fed%3d2560#Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoiQW50aS1SS04iLCJhZGQiOiIxMDQuMjEuMC4xIiwicG9ydCI6IjIwODMiLCJpZCI6ImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsIm5ldCI6IndzIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsInBhdGgiOiIvb3IzIiwidGxzIjoidGxzIiwic25pIjoib3IzLnNmYWNnLnVrIiwiZnAiOiJmaXJlZm94In0=
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.53:443?type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#Anti-RKN
 vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.20.30.179:2096?type=ws&security=tls&fp=firefox&host=ahmad99hoseini.pages.dev&sni=ahmad99hoseini.pages.dev#Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoiQW50aS1SS04iLCJhZGQiOiIxMDQuMjEuODAuMjA0IiwicG9ydCI6IjQ0MyIsImlkIjoiYTZhY2YyNWUtOGQzMi00ZThlLWE2MmQtOWFjYmY0NzIxOGMzIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJVUzAzMjAxOC5zc2dyZWVuLm9yZyIsImZwIjoiZmlyZWZveCJ9
-vless://201d6c87-5de6-4bda-973c-024129b228fb@104.17.248.77:443?type=ws&security=tls&fp=firefox&host=it-mil.862400.xyz&sni=it-mil.862400.xyz&path=%2fannouncement%3fed%3d2048#Anti-RKN
+vmess://eyJ2IjoiMiIsInBzIjoiQW50aS1SS04iLCJhZGQiOiIxNzIuNjcuMTUzLjIwMSIsInBvcnQiOiI0NDMiLCJpZCI6ImE2YWNmMjVlLThkMzItNGU4ZS1hNjJkLTlhY2JmNDcyMThjMyIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvd2VzIiwidGxzIjoidGxzIiwic25pIjoiVVMwMzIwMTguc3NncmVlbi5vcmciLCJmcCI6ImZpcmVmb3gifQ==
+vless://201d6c87-5de6-4bda-973c-024129b228fb@104.18.8.31:443?type=ws&security=tls&fp=firefox&host=it-mil.862400.xyz&sni=it-mil.862400.xyz&path=%2fannouncement%3fed%3d2048#Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoiQW50aS1SS04iLCJhZGQiOiIxMDQuMTcuNzcuNzciLCJwb3J0IjoiODQ0MyIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwicGF0aCI6Ii9sTW5zWlVONC8ifQ==
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.0.169:2095?type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2f%3fed%3d2560security%3dtls#Anti-RKN
 vless://64726966-0000-4000-8000-740000000000@172.64.155.209:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=parsa-panel-dy55x.railway1385-2a46.workers.dev&sni=parsa-panel-dy55x.railway1385-2a46.workers.dev&path=%2fdrift#Anti-RKN
@@ -36,7 +37,6 @@ trojan://xhl549341@172.64.145.158:443?type=ws&security=tls&sni=tro.baiyi.cloudns
 vless://eaf76557-2219-4799-8171-d7020adfefd0@188.114.98.0:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=muddy-star-d195.aboumansour10313.workers.dev&sni=muddy-star-d195.aboumansour10313.workers.dev&path=%2fws#Anti-RKN
 vless://55b3fd10-3658-40a2-8951-ec90932d1d30@188.114.98.0:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=sinavm2.soft10.ir&sni=sinavm2.soft10.ir&path=%2fSiNAVM-SiNAVM-SiNAVM-SiNAVM#Anti-RKN
 vless://bd8c736e-cae1-43d7-b573-9672e6ca4989@188.114.97.6:8080?type=ws&host=l0n0qgkdttu061g57fhqzbet333s4t.ade-1004.workers.dev&path=%2fvl%2fzXLTmz3hE3szn64f%3fed%3d2560#Anti-RKN
-vless://201d6c87-5de6-4bda-973c-024129b228fb@104.18.20.69:443?type=ws&security=tls&fp=firefox&host=se-sto.862400.xyz&sni=se-sto.862400.xyz&path=%2fannouncement%3fed%3d2048#Anti-RKN
 vless://e56059f1-5a1a-4d0a-a2d0-58ecb4eb2f3f@172.66.47.45:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=ezaccess-project-f62c30.pages.dev&sni=EZAcCESS-pROjECt-F62c30.PAGES.dEv&path=%2feyJqdW5rIjoiZWlPODVjTnhnaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3d%3fed%3d2560#Anti-RKN
 vless://142d1453-9cfe-4045-8e54-f3fb33342185@104.18.28.234:8880?type=ws&host=lively-scene-744f.107-47a.workers.dev&path=%2fpyip#Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.72:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#Anti-RKN
@@ -68,7 +68,7 @@ vless://8d032cfc-4a8c-4769-bd29-4fa0ade77b14@188.114.97.6:443?type=ws&security=t
 vless://91d28760-ecf1-450b-9170-d310111a0e6d@188.114.97.6:443?type=ws&security=tls&fp=firefox&host=us9.69lover.my&sni=us9.69lover.my&path=%2fapi%2fv2%2f63e9687fa53e441c%2fstream#Anti-RKN
 vless://88e79aa6-f431-4453-8dcc-652a0c747198@104.19.45.195:443?type=ws&security=tls&fp=firefox&host=o685y.save-node.com&sni=o685y.save-node.com&path=%2fapi%2fse1k2rfxlsuer3ry4u6e84kl8rqp721p#Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#Anti-RKN
-vless://a8b1d666-d3ba-4b17-90c4-ba7514c74f78@172.67.167.179:443?type=ws&security=tls&fp=firefox&host=xstack.mahanfixe.workers.dev&path=%2fxiron#Anti-RKN
+vless://a8b1d666-d3ba-4b17-90c4-ba7514c74f78@104.21.35.17:443?type=ws&security=tls&fp=firefox&host=xstack.mahanfixe.workers.dev&path=%2fxiron#Anti-RKN
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.47.69.6:2083?type=ws&security=tls&fp=firefox&host=newwk1.f1w.de5.net&sni=newwk1.f1w.de5.net&path=%2f%252F#Anti-RKN
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.33.25:443?type=ws&security=tls&fp=firefox&host=jp3.yohototo.top&sni=jp3.yohototo.top&path=%2ftyxyws#Anti-RKN
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.32.108:80?type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2f%3fed%3d2560security%3dtls#Anti-RKN
@@ -109,7 +109,7 @@ vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.21:8880?type=ws&host=roya
 vless://9b7d9618-29a6-45e9-9eca-dcc7ad42f974@188.114.97.6:8080?type=ws&host=shrill-frost-6da5.155-dec.workers.dev&path=%2fpyip#Anti-RKN
 vless://39abda72-f5a5-4ede-9862-bbb8109aba73@188.114.97.6:443?packetEncoding=none&type=ws&security=tls&fp=firefox&host=bkkkl.maxsparkbox-bekhabdg.site&sni=bkkkl.maxsparkbox-bekhabdg.site&path=%2fbaran#Anti-RKN
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.21.70.21:8080?type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2f%3fed%3d2560security%3dtls#Anti-RKN
-vless://248b7825-58e7-41cc-899f-95e573e0127b@104.21.95.146:8880?type=ws#Anti-RKN
+vless://248b7825-58e7-41cc-899f-95e573e0127b@172.67.170.121:8880?type=ws#Anti-RKN
 vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.17.3.81:443?packetEncoding=xudp&type=ws&security=tls&fp=firefox&host=nautica-cff.kloningstrife002.workers.dev&sni=nautica-cff.kloningstrife002.workers.dev&path=%2f138.2.74.219-28616#Anti-RKN
 vless://96e341a7-3077-4613-b482-41bd9c90cc4d@188.114.97.6:8080?type=ws&host=ezaccess-project-4c7950.ez-dc9bbb.workers.dev&path=%2feyJqdW5rIjoiN2w4dDlRNVV5NkZ5NU1aeSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3d#Anti-RKN
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.46.46:8880?type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2f%3fed%3d2560security%3dtls#Anti-RKN
@@ -128,12 +128,12 @@ vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:443?packetEncoding=x
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2052?type=ws&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&path=%2f%3fed%3d2560#Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@104.21.9.158:443#Anti-RKN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@172.67.160.69:443#Anti-RKN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@104.21.85.20:8080#Anti-RKN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@172.67.201.7:8080#Anti-RKN
 trojan://02XtoczO7V@104.20.5.134:443?type=ws&security=tls&sni=mooshali.arshiacomplus.dpdns.org&host=mooshali.arshiacomplus.dpdns.org&path=%2fhishhhh123&fp=firefox#Anti-RKN
 trojan://03c93f49-d573-4889-a4bb-187047c5a314@104.21.71.83:443?type=ws&security=tls&sni=M7Yyu.777162.xYZ&host=M7Yyu.777162.xYZ&path=%2fRij8gsblmlfrZUch7YcAPgiEbt&fp=firefox#Anti-RKN
 trojan://03e92910-34b1-4245-ac63-04a865f43cd5@104.21.84.242:443?security=tls&sni=3ERt.4444916.XyZ&fp=firefox#Anti-RKN
 trojan://049b291e-5752-448c-9b9d-92c7ea45611f@104.21.24.172:443?type=ws&security=tls&sni=xsdcfrty.852224.dpdns.org&host=xsdcfrty.852224.dpdns.org&path=%2f81bnG0PX0s30mLz663&fp=firefox#Anti-RKN
-trojan://056b39f5-ffb3-4145-8f75-2ffdeb53cb48@104.18.38.47:2087?security=tls&sni=17698512162997.682637.xyz&fp=firefox#Anti-RKN
+trojan://056b39f5-ffb3-4145-8f75-2ffdeb53cb48@172.64.149.209:2087?security=tls&sni=17698512162997.682637.xyz&fp=firefox#Anti-RKN
 trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@104.21.22.211:443?type=ws&security=tls&sni=T.taipEi108.Dpdns.Org&path=%2fDmby2AKiZKvMo1YauoQwY5&fp=firefox#Anti-RKN
 trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?type=ws&security=tls&sni=T.taipEi108.Dpdns.Org&path=%2fDmby2AKiZKvMo1YauoQwY5&fp=firefox#Anti-RKN
 trojan://072f4db4-d89d-420d-9d9e-045ed8d5c9cc@104.21.57.88:443?type=ws&security=tls&sni=10tyu.iran.pp.ua&path=%2fVEP415T5mby2DulPWRIwOavJd&fp=firefox#Anti-RKN
@@ -171,12 +171,11 @@ trojan://1bf36abe-aa32-41f5-9523-70d713645ba6@172.67.203.189:443?type=ws&securit
 trojan://1vkFHbQX_gN1U8V8jVc@172.64.150.28:443?type=ws&security=tls&sni=mhpanel.kigaping.com&host=mhpanel.kigaping.com&path=%2ftrojan-ws&fp=firefox#Anti-RKN
 trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?type=ws&security=tls&sni=uk1.test3.net&host=uk1.test3.net&path=%2fhowdy&allowInsecure=1&fp=firefox#Anti-RKN
 trojan://21e5535e-4783-4a80-a735-24a1162d315c@104.21.28.26:443?security=tls&sni=xxscdF56.999182.xYZ&fp=firefox#Anti-RKN
-trojan://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@104.26.12.54:8443?type=ws&security=tls&sni=cm3-bpg.filegear-sg.me&path=%2fproxyip%3dtw.ttzxw.cf%3a443&fp=firefox#Anti-RKN
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@104.16.148.244:443?type=ws&security=tls&sni=cm3-bpg.filegear-sg.me&path=%2fproxyip%3d210.61.97.241%3a81&fp=firefox#Anti-RKN
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@104.16.148.8:443?type=ws&security=tls&sni=cm3-bpg.filegear-sg.me&path=%2fproxyip%3d210.61.97.241%3a81&fp=firefox#Anti-RKN
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@104.16.149.10:443?type=ws&security=tls&sni=cm3-bpg.filegear-sg.me&path=%2fproxyip%3d210.61.97.241%3a81&fp=firefox#Anti-RKN
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@104.18.38.97:443?type=ws&security=tls&sni=cm2-bpg.filegear-sg.me&host=cm2-bpg.filegear-sg.me&path=%2fproxyip%3d210.61.97.241%3a81&allowInsecure=1&fp=firefox#Anti-RKN
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@104.18.38.47:2096?type=ws&security=tls&sni=cm3-bpg.filegear-sg.me&path=%2fproxyip%3d210.61.97.241%3a81&fp=firefox#Anti-RKN
-trojan://22f86840-bcac-11ee-abea-1239d0255272@172.67.159.13:443?security=tls&fp=firefox#Anti-RKN
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@172.64.149.209:2096?type=ws&security=tls&sni=cm3-bpg.filegear-sg.me&path=%2fproxyip%3d210.61.97.241%3a81&fp=firefox#Anti-RKN
+trojan://22f86840-bcac-11ee-abea-1239d0255272@104.21.41.21:443?security=tls&fp=firefox#Anti-RKN
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?type=ws&security=tls&sni=jobscareertoday.com&host=jobscareertoday.com&path=%2f6b777a91&fp=firefox#Anti-RKN
 trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@104.21.84.58:443?type=ws&security=tls&sni=XXXcddDe.IRaN2035.dpdNs.orG&path=%2fbdtuD5eD7Q29WxRG8DqNAB&fp=firefox#Anti-RKN
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443?type=ws&security=tls&sni=SsXCDfR5.986986.shoP&path=%2fraChT39pjLFYRA5HdHEIupMZeK&fp=firefox#Anti-RKN
@@ -188,14 +187,14 @@ trojan://2e65577e-8fdb-4bb1-a495-96f3122099a7@172.67.191.174:443?security=tls&sn
 trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.148.22:80?type=httpupgrade&security=tls&sni=1i5.diginoshops10.ir&host=1i5.diginoshops10.ir&path=%2f&fp=firefox#Anti-RKN
 trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.30.167:443?security=tls&sni=3y.2032.pp.ua&fp=firefox#Anti-RKN
 trojan://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?type=ws&security=tls&sni=pardazesh18.pages.dev&host=pardazesh18.pages.dev&fp=firefox#Anti-RKN
-trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@104.17.139.67:2053?type=ws&security=tls&sni=17654164551316.796812.xyz&path=%2fagraeabtegrrh&fp=firefox#Anti-RKN
-trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@104.17.227.18:2087?type=ws&security=tls&sni=17654164559160.206355.xyz&path=%2fvideomuaawe&fp=firefox#Anti-RKN
-trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@172.67.74.147:2096?type=ws&security=tls&sni=17654164557740.796813.xyz&path=%2fagrbniuh&fp=firefox#Anti-RKN
+trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@104.17.227.18:2053?type=ws&security=tls&sni=17654164551316.796812.xyz&path=%2fagraeabtegrrh&fp=firefox#Anti-RKN
+trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@172.64.146.115:2087?type=ws&security=tls&sni=17654164559160.206355.xyz&path=%2fvideomuaawe&fp=firefox#Anti-RKN
+trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@104.18.3.21:2096?type=ws&security=tls&sni=17654164557740.796813.xyz&path=%2fagrbniuh&fp=firefox#Anti-RKN
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@104.26.5.60:2053?type=ws&security=tls&sni=17654164558244.796813.xyz&path=%2fagrbniuh&fp=firefox#Anti-RKN
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@104.26.5.60:2083?type=ws&security=tls&sni=17654164557421.206355.xyz&path=%2fvideomuaawe&fp=firefox#Anti-RKN
-trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@104.26.4.60:2087?type=ws&security=tls&sni=17654164559539.796813.xyz&path=%2fagrbniuh&fp=firefox#Anti-RKN
+trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@172.67.70.92:2087?type=ws&security=tls&sni=17654164559539.796813.xyz&path=%2fagrbniuh&fp=firefox#Anti-RKN
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@104.26.5.60:2096?type=ws&security=tls&sni=17654164554016.796813.xyz&path=%2fagrbniuh&fp=firefox#Anti-RKN
-trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@104.26.5.60:8443?type=ws&security=tls&sni=17654164559897.796813.xyz&path=%2fagrbniuh&fp=firefox#Anti-RKN
+trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@172.67.70.92:8443?type=ws&security=tls&sni=17654164559897.796813.xyz&path=%2fagrbniuh&fp=firefox#Anti-RKN
 trojan://357b1bba-6400-4944-baff-1b933311ff28@104.21.88.226:443?security=tls&sni=XxxxxXXXXXXxXf.wwW890604.Dpdns.orG&fp=firefox#Anti-RKN
 trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?type=ws&security=tls&sni=aksnmaioas.pages.dev&host=aksnmaioas.pages.dev&path=%2fTelegram%40V2ray_Alpha%2f%3fed%3d2048&fp=firefox#Anti-RKN
 trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.47.23:443?type=ws&security=tls&sni=aksnmaioas.pages.dev&path=%2fTelegram%40V2ray_Alpha%2f%3fe...&fp=firefox#Anti-RKN
@@ -224,10 +223,10 @@ trojan://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?type=ws&security
 trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@104.21.3.189:443?security=tls&sni=CcCVfGTyU.89060004.Xyz&fp=firefox#Anti-RKN
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&fp=firefox#Anti-RKN
 trojan://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443?type=ws&security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&path=%2fcassiusvpn.pages.dev%2f%3fed%3d2560&fp=firefox#Anti-RKN
-trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@172.67.74.147:443?security=tls&sni=44-ml-1.ccc4vortex.top&allowInsecure=1&fp=firefox#Anti-RKN
-trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@104.18.41.190:443?security=tls&sni=44-ml-1.ccc4vortex.top&allowInsecure=1&fp=firefox#Anti-RKN
-trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@104.17.248.77:443?security=tls&sni=uuu-3-8uuu.ccc3cosmo.top&allowInsecure=1&fp=firefox#Anti-RKN
-trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@104.17.139.67:443?security=tls&sni=hkk-1-8hhh.ccc3cosmo.top&allowInsecure=1&fp=firefox#Anti-RKN
+trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@172.64.146.115:443?security=tls&sni=44-ml-1.ccc4vortex.top&allowInsecure=1&fp=firefox#Anti-RKN
+trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@172.64.146.66:443?security=tls&sni=44-ml-1.ccc4vortex.top&allowInsecure=1&fp=firefox#Anti-RKN
+trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@172.66.142.93:443?security=tls&sni=uuu-3-8uuu.ccc3cosmo.top&allowInsecure=1&fp=firefox#Anti-RKN
+trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@104.18.8.31:443?security=tls&sni=hkk-1-8hhh.ccc3cosmo.top&allowInsecure=1&fp=firefox#Anti-RKN
 trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@104.20.39.210:443?security=tls&sni=0o3vr2n5k2.bpuk2026.top&allowInsecure=1&fp=firefox#Anti-RKN
 trojan://53249200-30ff-436f-a032-0bb00605f8f9@172.67.219.196:443?security=tls&sni=3derty.852224.dpdns.org&fp=firefox#Anti-RKN
 trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.204.22:443?type=ws&security=tls&sni=1SdfghJk.890602.xyz&path=%2fOYzPAeaZdXUq2d6J3gc4aj&fp=firefox#Anti-RKN
@@ -243,28 +242,28 @@ trojan://5a2c16f9@104.19.220.22:443?security=tls&sni=snippets.kkii.eu.org&fp=fir
 trojan://5a2c16f9@104.19.55.205:443?security=tls&sni=snippets.kkii.eu.org&fp=firefox#Anti-RKN
 trojan://5a2c16f9@104.26.1.110:443?security=tls&sni=snippets.kkii.eu.org&fp=firefox#Anti-RKN
 trojan://5a2c16f9@172.64.229.33:443?security=tls&sni=snippets.kkii.eu.org&fp=firefox#Anti-RKN
-trojan://5a2c16f9@172.64.148.75:443?type=ws&security=tls&sni=snippets.kkii.eu.org&host=snippets.kkii.eu.org&path=%2f&allowInsecure=1&fp=firefox#Anti-RKN
+trojan://5a2c16f9@172.64.145.93:443?type=ws&security=tls&sni=snippets.kkii.eu.org&host=snippets.kkii.eu.org&path=%2f&allowInsecure=1&fp=firefox#Anti-RKN
 trojan://5c7bd449-2e23-46f3-af68-0f709e22e84d@172.64.144.21:443?type=ws&security=tls&sni=trojan.775678.dpdns.org&host=trojan.775678.dpdns.org&path=%2fsocks5%3a%2f%2fproxy%3aproxy%40157.230.41.8%3a1080&fp=firefox#Anti-RKN
 trojan://5c7bd449-2e23-46f3-af68-0f709e22e84d@172.64.144.22:443?type=ws&security=tls&sni=trojan.775678.dpdns.org&host=trojan.775678.dpdns.org&path=%2fsocks5%3a%2f%2f123%3a123%403.95.230.208%3a1080&fp=firefox#Anti-RKN
 trojan://6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443?type=ws&security=tls&sni=uK803.890689.Xyz&path=%2fWxWOWO1YA9bs2HOmaeWimvT3&fp=firefox#Anti-RKN
 trojan://6040a753-e35b-4384-8713-96f3c639b621@172.67.200.238:443?type=ws&security=tls&sni=uK803.890689.Xyz&path=%2fWxWOWO1YA9bs2HOmaeWimvT3&fp=firefox#Anti-RKN
 trojan://61374417-9218-4065-909b-ad1e3b50aa83@172.67.168.193:443?type=ws&security=tls&sni=gamang.gpj2.dpdns.org&path=%2fFree-VPN-Geo-Project%2f80.66.85.115-2053&fp=firefox#Anti-RKN
 trojan://6285e567-0c25-4ce2-a2fa-80517c1345e1@172.67.214.246:2096?type=ws&security=tls&sni=1223-9ux.pages.dev&host=1223-9ux.pages.dev&path=%2fTelegram%40V2ray_Alpha%2f%3fed%3d2048&fp=firefox#Anti-RKN
-trojan://6285e567-0c25-4ce2-a2fa-80517c1345e1@104.26.15.30:2096?type=ws&security=tls&sni=1223-9ux.pages.dev&host=1223-9ux.pages.dev&path=%2fTelegram%40V2ray_Alpha%2f%3fed%3d2048&fp=firefox#Anti-RKN
+trojan://6285e567-0c25-4ce2-a2fa-80517c1345e1@104.26.14.30:2096?type=ws&security=tls&sni=1223-9ux.pages.dev&host=1223-9ux.pages.dev&path=%2fTelegram%40V2ray_Alpha%2f%3fed%3d2048&fp=firefox#Anti-RKN
 trojan://65c56e1f-5c41-40bc-b0b5-9346772476ca@104.17.88.251:2053?security=tls&fp=firefox#Anti-RKN
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?type=ws&security=tls&sni=bangladeshipatri.com&host=bangladeshipatri.com&path=%2f6b777a91&fp=firefox#Anti-RKN
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.192.145:443?type=ws&security=tls&sni=jobscareerforlawyers.com&host=jobscareerforlawyers.com&path=%2f6b777a91&fp=firefox#Anti-RKN
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443?type=ws&security=tls&sni=jobscareerforstudent.com&host=jobscareerforstudent.com&path=%2f6b777a91&fp=firefox#Anti-RKN
 trojan://6757b7d6-fa32-4708-b5d1-30e3cf928b51@104.21.6.179:443?security=tls&sni=ZZzzzZZ.890601.XYZ&fp=firefox#Anti-RKN
 trojan://6757b7d6-fa32-4708-b5d1-30e3cf928b51@172.67.201.36:443?type=ws&security=tls&sni=ggGGGGgggGGgGggy.FReevPN2026.DpDNS.Org&host=ggGGGGgggGGgGggy.FReevPN2026.DpDNS.Org&path=%2fl96MZ8se5Kl2p8BiMhP42l&fp=firefox#Anti-RKN
-trojan://67828a6e-0144-4e57-8169-2447a3dd2e61@104.17.248.77:8443?type=ws&security=tls&sni=cdn-node-oss-99.paofu.de&host=cdn-node-oss-99.paofu.de&path=%2fprofile%2ftelegram%40ssrsub&allowInsecure=1&fp=firefox#Anti-RKN
+trojan://67828a6e-0144-4e57-8169-2447a3dd2e61@104.18.3.21:8443?type=ws&security=tls&sni=cdn-node-oss-99.paofu.de&host=cdn-node-oss-99.paofu.de&path=%2fprofile%2ftelegram%40ssrsub&allowInsecure=1&fp=firefox#Anti-RKN
 trojan://67db0c34-ae7a-4369-a6b5-554c99d8e5c9@104.21.86.106:443?type=ws&security=tls&sni=M4rrT.999157.XYz&path=%2fNuDL4mLrBwsbnEcmJLxC&fp=firefox#Anti-RKN
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.21.118:443?type=ws&security=tls&sni=icecream.955850.xyz&host=icecream.955850.xyz&path=%2fproxyip%3d45.67.215.153%3a443%26proxyIP%3dnull&fp=firefox#Anti-RKN
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.64.145.239:443?type=ws&security=tls&sni=icecream.955850.xyz&host=icecream.955850.xyz&path=%2fproxyip%3d45.67.215.153%3a443%26proxyIP%3dnull&fp=firefox#Anti-RKN
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.68.240:443?type=ws&security=tls&sni=icecream.955850.xyz&host=icecream.955850.xyz&path=%2fproxyip%3d45.67.215.153%3a443%26proxyIP%3dnull&fp=firefox#Anti-RKN
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.4.139:443?type=ws&security=tls&sni=icecream.955850.xyz&host=icecream.955850.xyz&path=%2fproxyip%3d45.67.215.153%3a443%26proxyIP%3dnull&fp=firefox#Anti-RKN
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.72.83:443?type=ws&security=tls&sni=icecream.955850.xyz&host=icecream.955850.xyz&path=%2fproxyip%3d45.67.215.153%3a443%26proxyIP%3dnull&fp=firefox#Anti-RKN
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.20.34.212:443?type=ws&security=tls&sni=icecream.955850.xyz&host=icecream.955850.xyz&path=%2fproxyip%3d45.67.215.153%3a443%26proxyIP%3dnull&fp=firefox#Anti-RKN
-trojan://6aWFNbrFDs@172.67.167.29:443?security=tls&fp=firefox#Anti-RKN
+trojan://6aWFNbrFDs@104.21.50.209:443?security=tls&fp=firefox#Anti-RKN
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.21.69.44:8443?type=ws&security=tls&sni=vfarid.xcdi.woRkers.DeV&path=trojan-ws%2f%3fed%3d2048&fp=firefox#Anti-RKN
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.26.12.31:2053?type=ws&security=tls&sni=vfarid.xcdi.wOrkERS.DeV&host=vfarid.xcdi.wOrkERS.DeV&path=trojan-ws%2f%3fed%3d2048&fp=firefox#Anti-RKN
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.66.177:2096?type=ws&security=tls&sni=vfarid.xcdi.wORKeRS.dev&host=vfarid.xcdi.wORKeRS.dev&fp=firefox#Anti-RKN
@@ -289,12 +288,11 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.254:2096?type=ws&securit
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.64:8443?type=ws&security=tls&sni=tjjd.yzyx1.v6.army&host=tjjd.yzyx1.v6.army&path=%2f%3fed%3d2048%26Telegram%f0%9f%87%a8%f0%9f%87%b3+%40WangCai2&allowInsecure=1&fp=firefox#Anti-RKN
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.73:8443?type=ws&security=tls&sni=tjjd.yzyx1.v6.army&host=tjjd.yzyx1.v6.army&path=%2f%3fed%3d2048%26Telegram%f0%9f%87%a8%f0%9f%87%b3+%40WangCai2&allowInsecure=1&fp=firefox#Anti-RKN
 trojan://85950277-f447-48f0-9ead-aaf6d5ff3cad@104.21.49.59:443?security=tls&sni=fghklo5.890617.xyz&fp=firefox#Anti-RKN
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@104.18.38.47:443?security=tls&fp=firefox#Anti-RKN
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@172.64.149.209:443?security=tls&fp=firefox#Anti-RKN
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@172.64.149.209:443?type=ws&security=tls&sni=_acme-challenge.2go.cloudns.be&host=_acme-challenge.2go.cloudns.be&path=%2f&allowInsecure=1&fp=firefox#Anti-RKN
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@172.67.215.250:443?security=tls&sni=hk1.sanfen001.pics&fp=firefox#Anti-RKN
-trojan://8800c518-e68a-4441-a45c-cd67855784c8@172.67.215.250:443?security=tls&fp=firefox#Anti-RKN
-trojan://8800c518-e68a-4441-a45c-cd67855784c8@104.21.91.112:443?security=tls&sni=jp1.sanfen001.pics&fp=firefox#Anti-RKN
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@104.21.91.112:443?security=tls&fp=firefox#Anti-RKN
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@104.21.91.112:443?security=tls&sni=jp1.sanfen001.pics&fp=firefox#Anti-RKN
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@172.67.215.250:443?security=tls&sni=kr1.sanfen001.pics&fp=firefox#Anti-RKN
 trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&security=tls&sni=ltf8.jueson.de5.net&host=ltf8.jueson.de5.net&path=%2f%3fTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&allowInsecure=0&fp=firefox#Anti-RKN
 trojan://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443?type=ws&security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=%2fTelegram%40V2ray_Alpha%2f%3fed%3d2047&fp=firefox#Anti-RKN
@@ -372,17 +370,17 @@ trojan://Aimer@173.245.59.109:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me
 trojan://Aimer@173.245.59.128:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&fp=firefox#Anti-RKN
 trojan://Aimer@173.245.59.202:2083?security=tls&sni=epmf.ambercc.filegear-sg.me&fp=firefox#Anti-RKN
 trojan://Aimer@173.245.59.203:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&fp=firefox#Anti-RKN
-trojan://Aimer@162.159.44.227:443?security=tls&sni=epmf.ambercc.filegear-sg.me&fp=firefox#Anti-RKN
+trojan://Aimer@172.64.35.227:443?security=tls&sni=epmf.ambercc.filegear-sg.me&fp=firefox#Anti-RKN
 trojan://Aimer@104.17.185.207:443?security=tls&sni=epccr.ambercc.filegear-sg.me&fp=firefox#Anti-RKN
 trojan://Aimer@108.162.195.168:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1&fp=firefox#Anti-RKN
-trojan://Aimer@108.162.193.110:443?security=tls&sni=agepw.ambercc.filegear-sg.me&fp=firefox#Anti-RKN
-trojan://Aimer@108.162.195.82:443?security=tls&sni=epmf.ambercc.filegear-sg.me&fp=firefox#Anti-RKN
-trojan://Aimer@173.245.59.128:443?type=ws&security=tls&sni=epml.ambercc.filegear-sg.me&host=epml.ambercc.filegear-sg.me&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
-trojan://Aimer@108.162.193.201:443?type=ws&security=tls&sni=epml.ambercc.filegear-sg.me&host=epml.ambercc.filegear-sg.me&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
-trojan://Aimer@172.64.35.199:443?type=ws&security=tls&sni=epml.ambercc.filegear-sg.me&host=epml.ambercc.filegear-sg.me&path=%2f%3fed%3d2560%26proxyip%3dts.hpc.tw&fp=firefox#Anti-RKN
+trojan://Aimer@173.245.59.110:443?security=tls&sni=agepw.ambercc.filegear-sg.me&fp=firefox#Anti-RKN
+trojan://Aimer@162.159.44.82:443?security=tls&sni=epmf.ambercc.filegear-sg.me&fp=firefox#Anti-RKN
+trojan://Aimer@172.64.33.128:443?type=ws&security=tls&sni=epml.ambercc.filegear-sg.me&host=epml.ambercc.filegear-sg.me&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
+trojan://Aimer@173.245.59.201:443?type=ws&security=tls&sni=epml.ambercc.filegear-sg.me&host=epml.ambercc.filegear-sg.me&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
+trojan://Aimer@108.162.195.199:443?type=ws&security=tls&sni=epml.ambercc.filegear-sg.me&host=epml.ambercc.filegear-sg.me&path=%2f%3fed%3d2560%26proxyip%3dts.hpc.tw&fp=firefox#Anti-RKN
 trojan://Aimer@108.162.195.236:443?security=tls&sni=agepn.ambercc.filegear-sg.me&fp=firefox#Anti-RKN
-trojan://Aimer@108.162.195.127:443?security=tls&sni=epcca.ambercc.filegear-sg.me&fp=firefox#Anti-RKN
-trojan://Aimer@172.64.33.144:443?type=ws&security=tls&sni=epml.ambercc.filegear-sg.me&host=epml.ambercc.filegear-sg.me&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
+trojan://Aimer@172.64.35.127:443?security=tls&sni=epcca.ambercc.filegear-sg.me&fp=firefox#Anti-RKN
+trojan://Aimer@108.162.193.144:443?type=ws&security=tls&sni=epml.ambercc.filegear-sg.me&host=epml.ambercc.filegear-sg.me&path=%2f%3fed%3d2560&fp=firefox#Anti-RKN
 trojan://BTns3czXfT@104.21.15.33:2096?type=ws&security=tls&sni=support.sabapardaziran.ir&host=support.sabapardaziran.ir&path=%2f%f0%9f%86%94%40M3HDIO1&fp=firefox#Anti-RKN
 trojan://DHvwod7oq7@104.21.80.1:2083?type=ws&security=tls&sni=esna.twn24.ir&host=esna.twn24.ir&path=%2fmehdi&fp=firefox#Anti-RKN
 trojan://DailyConfigs@104.18.12.229:2087?type=ws&security=tls&sni=kanale-daily-configs.blackoutconnection.ir&host=kanale-daily-configs.blackoutconnection.ir&fp=firefox#Anti-RKN
@@ -400,7 +398,6 @@ trojan://MITIVPN@104.26.15.137:443?type=ws&security=tls&sni=us-a.App-Cloud.ir&ho
 trojan://MITIVPN@172.67.138.53:443?type=ws&security=tls&sni=Usa.App-Cloud.ir&host=Usa.App-Cloud.ir&path=%2fMiTiVPN%3dUsa&fp=firefox#Anti-RKN
 trojan://MITIVPN@172.67.71.247:443?type=ws&security=tls&sni=Ger.App-Cloud.ir&host=Ger.App-Cloud.ir&path=%2fMiTiVPN%3dDE&allowInsecure=0&fp=firefox#Anti-RKN
 trojan://MITIVPN@104.18.33.45:443?type=ws&security=tls&sni=UsAba-bUbks.App-CloUd.IR&host=my-usjca-ohl.App-CloUd.IR&path=%2f---%40MiTiVPN%2f---%40MiTiVPN%2f---%40MiTiVPN%2f---%40MiTiVPN%2f---%40MiTiVPN%3dU-S-a&allowInsecure=0&fp=firefox#Anti-RKN
-trojan://MITIVPN@104.18.33.45:443?type=ws&security=tls&sni=UsAba-bUbks.App-CloUd.IR&host=my-usjca-ohl.App-CloUd.IR&path=%2f---%40VPNine1%2f---%40VPNine1%2f---%40VPNine1%2f---%40VPNine1%2f---%40VPNine1%3dU-S-a&allowInsecure=0&fp=firefox#Anti-RKN
 trojan://McCPa4vups6yAdDbGokjPA@104.21.22.66:2096?security=tls&fp=firefox#Anti-RKN
 trojan://McCPa4vups6yAdDbGokjPA@172.67.203.79:2096?type=ws&security=tls&sni=ge1.pandaservice.info&host=ge1.pandaservice.info&fp=firefox#Anti-RKN
 trojan://MiTiVPN@104.19.230.21:443?type=ws&security=tls&sni=Nl.App-Cloud.ir&host=Nl.App-Cloud.ir&path=%2fMiTiVPN%3dNL&fp=firefox#Anti-RKN
@@ -757,3 +754,6 @@ trojan://NISHIKUITAN222@173.245.49.186:443?security=tls&fp=firefox#Anti-RKN
 trojan://NISHIKUITAN222@173.245.49.201:443?type=ws&security=tls&sni=ij.ylks.xyz&host=ij.ylks.xyz&path=%2f&fp=firefox#Anti-RKN
 trojan://NISHIKUITAN222@173.245.49.45:443?security=tls&allowInsecure=1&fp=firefox#Anti-RKN
 trojan://NISHIKUITAN222@173.245.58.132:443?security=tls&allowInsecure=1&fp=firefox#Anti-RKN
+trojan://NISHIKUITAN222@173.245.59.185:443?type=ws&security=tls&sni=im.ylks.xyz&host=im.ylks.xyz&path=%2f&fp=firefox#Anti-RKN
+trojan://NISHIKUITAN222@173.245.59.202:443?security=tls&fp=firefox#Anti-RKN
+trojan://NISHIKUITAN222@173.245.59.61:443?type=ws&security=tls&sni=in.ylks.xyz&host=in.ylks.xyz&path=%2f&fp=firefox#Anti-RKN

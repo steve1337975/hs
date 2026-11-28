@@ -1,14 +1,14 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SC] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
-# servers-count: 206
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 199
 
-vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@196.240.5.17:443?type=xhttp&security=tls&fp=firefox&sni=api.ferrin.uk&path=%2fes%2f%3f%40MARAMBASHI#🇸🇨 Seychelles | Anti-RKN
-vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@196.240.4.17:443?type=xhttp&security=tls&fp=firefox&path=%2fes%2f%3f%40MARAMBASHI#🇸🇨 Seychelles | Anti-RKN
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@196.240.4.17:443?type=xhttp&security=tls&fp=firefox&sni=api.ferrin.uk&path=%2fes%2f%3f%40MARAMBASHI#🇸🇨 Seychelles | Anti-RKN
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@196.240.5.17:443?type=xhttp&security=tls&fp=firefox&path=%2fes%2f%3f%40MARAMBASHI#🇸🇨 Seychelles | Anti-RKN
 vless://20b436fc-2c54-4248-b70d-14b8d6916d41@154.197.64.252:443?type=ws&security=tls&fp=firefox&host=worker3.harijo3330.workers.dev&sni=worker3.harijo3330.workers.dev&path=%2fHGCmKaXbRNqpZqMv#🇸🇨 Seychelles | Anti-RKN
 vless://6b9abde8-3909-4705-9408-a445af4143cc@154.197.64.252:443?type=ws&security=tls&fp=firefox&host=worker3.haleya4394.workers.dev#🇸🇨 Seychelles | Anti-RKN
 vless://a299e0aa-1613-476b-b488-8ee8337d9ae1@154.197.64.252:443?type=ws&security=tls&fp=firefox&host=worker3.voxili9688.workers.dev&sni=worker3.voxili9688.workers.dev&path=%2fHGCmKaXbRNqpZqMv#🇸🇨 Seychelles | Anti-RKN
@@ -22,7 +22,6 @@ vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.76:443?type=tcp&securit
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.149.34:443?type=xhttp&security=reality&fp=firefox&sni=35295cx.us8.h1clayd.click&pbk=LsaTohbE6CqCH9UbYKwIybVXG3E5Wgz_X9czqas2LAI&sid=9acff4d98e2fbcc6&path=%2f1812842934d4#🇸🇨 Seychelles | Anti-RKN
 vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.177.90:443?type=xhttp&security=tls&fp=firefox&sni=cab-6b07048f.ferrin.uk#🇸🇨 Seychelles | Anti-RKN
 vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.177.74:443?type=xhttp&security=tls&fp=firefox&sni=cab-6b07048f.ferrin.uk#🇸🇨 Seychelles | Anti-RKN
-vless://8bc3af32-c6bb-4a57-8da1-9a662fd79e3c@196.240.5.17:443?type=xhttp&security=tls&fp=firefox&sni=8bc3af32.ferrin.uk&path=%2flv#🇸🇨 Seychelles | Anti-RKN
 vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.177.108:443?type=xhttp&security=tls&fp=firefox&sni=cab-6b07048f.ferrin.uk#🇸🇨 Seychelles | Anti-RKN
 vless://0173d52e-8e1b-4681-831e-11529677b72f@196.240.125.13:8443?type=tcp&security=tls&fp=firefox&sni=api-v1-6b07048f.vmagnum.win&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://f88bc31a-c30a-4a7f-bca6-5bc95d5bb593@5.157.10.2:443?security=reality&fp=firefox&sni=sweringa.rottshieldsons.pics&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&sid=fb442438e2223836&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
@@ -38,7 +37,6 @@ vless://d3863595-3afe-4a74-8305-612ab69cd21c@196.242.3.9:443?type=xhttp&security
 vless://d3863595-3afe-4a74-8305-612ab69cd21c@196.196.148.226:443?type=tcp&security=reality&fp=firefox&sni=4c980ft.fi15.h1clayd.click&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&sid=597e1c279d224774&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://d3863595-3afe-4a74-8305-612ab69cd21c@196.196.148.226:443?type=xhttp&security=reality&fp=firefox&sni=9bfbf9x.fi15.h1clayd.click&pbk=KbJ6eZwp47FplCgvr6a1YnSJjpfcAEpweXyFtoQ1awA&sid=c16858b18a5fe720&path=%2f62b4692bebe4#🇸🇨 Seychelles | Anti-RKN
 hysteria2://d3863595-3afe-4a74-8305-612ab69cd21c@196.196.148.226:25181?sni=4c980ft.fi15.h1clayd.click#🇸🇨 Seychelles | Anti-RKN
-vless://d3863595-3afe-4a74-8305-612ab69cd21c@196.242.3.9:443?type=tcp&security=reality&fp=firefox&sni=a013fct.es7.h1clayd.click&pbk=cqzzb4oRMuWNC5Ahjq4dEEZt3MKA5EQ7No6SSNoVtiQ&sid=5a750bb3e3806a20&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://3e4ea845-c35b-4e0f-b385-2c8270254d9e@45.145.56.169:443?type=tcp&security=reality&fp=firefox&sni=www.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.187:443?type=tcp&security=reality&fp=firefox&sni=04535dt.us8.h1clayd.click&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092#🇸🇨 Seychelles | Anti-RKN
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?type=tcp&security=reality&fp=firefox&sni=cloudflare-dns.com&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
@@ -51,11 +49,9 @@ vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?packetEncoding=n
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.63:443?type=xhttp&security=reality&fp=firefox&sni=fc82dfx.nl8.h1clayd.click&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&sid=7b2b1a14a6e0630d&path=%2f0616f2d729aa#🇸🇨 Seychelles | Anti-RKN
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.199.122.2:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=7aa271t.es1.h1clayd.click&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.90:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=7aa271t.es9.h1clayd.click&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
-vless://35cbae61-ee10-4cb9-abb8-4950b35e9851@156.226.168.221:35193?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=d_pn_DMaIxhCkNh80h0Mc7nP94hrlN--I8liOIREDxE&sid=e8daed2d&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.187:443?packetEncoding=xudp&type=grpc&security=reality&fp=firefox&sni=0592efg.us8.h1clayd.click&pbk=cO3wYHISTeorXcM8ffaDCDdqZ-olBQL-GyZqb-W7rTk&sid=bd8f712209a9c283&serviceName=99f2107b03f8#🇸🇨 Seychelles | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.178:443?packetEncoding=xudp&type=grpc&security=reality&fp=firefox&sni=15b171g.nl7.h1clayd.click&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&serviceName=5b79e8a94241#🇸🇨 Seychelles | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.63:443?packetEncoding=xudp&type=grpc&security=reality&fp=firefox&sni=717252g.nl8.h1clayd.click&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&sid=d3bd772514c87d28&serviceName=204adda7e3da#🇸🇨 Seychelles | Anti-RKN
-http://154.222.29.105:8888#🇸🇨 Seychelles | Anti-RKN
 vless://0173d52e-8e1b-4681-831e-11529677b72f@196.240.125.11:8443?type=tcp&security=tls&fp=firefox&sni=api-v1-6b07048f.vmagnum.win&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://0173d52e-8e1b-4681-831e-11529677b72f@196.240.125.244:8443?type=tcp&security=tls&fp=firefox&sni=api-v1-6b07048f.vmagnum.win&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.81:443?packetEncoding=xudp&type=xhttp&security=reality&fp=firefox&sni=38917fx.es1.h1clayd.click&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d#🇸🇨 Seychelles | Anti-RKN
@@ -68,6 +64,7 @@ vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@194.156.26.28:443?type=xhttp&securi
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=7aa271t.es1.h1clayd.click&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@194.156.26.28:443?type=xhttp&security=tls&fp=firefox&host=145.baklajann.ru&sni=145.baklajann.ru#🇸🇨 Seychelles | Anti-RKN
 vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@194.156.26.28:443?type=xhttp&security=tls&fp=firefox&host=mama120.baklajann.ru&sni=mama120.baklajann.ru#🇸🇨 Seychelles | Anti-RKN
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.149.34:443?packetEncoding=xudp&type=xhttp&security=reality&fp=firefox&sni=35295cx.us8.h1clayd.click&pbk=LsaTohbE6CqCH9UbYKwIybVXG3E5Wgz_X9czqas2LAI&sid=9acff4d98e2fbcc6&path=%2f1812842934d4#🇸🇨 Seychelles | Anti-RKN
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.81:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=7aa271t.es1.h1clayd.click&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.187:443?type=xhttp&security=reality&fp=firefox&sni=35295cx.us8.h1clayd.click&pbk=LsaTohbE6CqCH9UbYKwIybVXG3E5Wgz_X9czqas2LAI&sid=9acff4d98e2fbcc6&path=%2f1812842934d4#🇸🇨 Seychelles | Anti-RKN
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.199.122.2:443?packetEncoding=none&type=tcp&security=reality&fp=firefox&sni=7aa271t.es1.h1clayd.click&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
@@ -84,11 +81,11 @@ vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?type=grpc&securi
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.199.122.2:443?packetEncoding=xudp&type=xhttp&security=reality&fp=firefox&sni=38917fx.es1.h1clayd.click&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d#🇸🇨 Seychelles | Anti-RKN
 vless://50414e45-4c5f-5a45-5553-d498006b6113@194.156.26.4:443?type=ws&security=tls&fp=firefox&sni=4kzs98enuqus.gametyrhewr06.workers.dev&path=%2fstream%2fPANEL_ZEUS%2fd498006b6113#🇸🇨 Seychelles | Anti-RKN
 vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@194.156.26.244:443?type=xhttp&security=tls&fp=firefox&host=mama120.baklajann.ru&sni=mama120.baklajann.ru#🇸🇨 Seychelles | Anti-RKN
-vless://35cbae61-ee10-4cb9-abb8-4950b35e9851@156.226.168.221:35193?type=tcp&security=reality&fp=firefox&sni=www.apple.com&pbk=d_pn_DMaIxhCkNh80h0Mc7nP94hrlN--I8liOIREDxE&sid=e8daed2d&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.199.122.2:443?type=xhttp&security=reality&fp=firefox&sni=38917fx.es1.h1clayd.click&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d#🇸🇨 Seychelles | Anti-RKN
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=cloudflare-dns.com&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.177:443?type=tcp&security=reality&fp=firefox&sni=4935e4t.de25.h1clayd.click&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sid=6976d670818644cc&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.85:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=5d0319t.nl7.h1clayd.click&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f#🇸🇨 Seychelles | Anti-RKN
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.178:443?type=xhttp&security=reality&fp=firefox&sni=e60833x.nl7.h1clayd.click&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&sid=2d2598d60447a967&path=%2fd20896a4ce30#🇸🇨 Seychelles | Anti-RKN
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.90:443?type=tcp&security=reality&fp=firefox&sni=7aa271t.es9.h1clayd.click&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.177.60:443?type=xhttp&security=tls&fp=firefox&sni=cab-6b07048f.ferrin.uk#🇸🇨 Seychelles | Anti-RKN
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.90:443?type=grpc&security=reality&fp=firefox&sni=b3cd32g.es1.h1clayd.click&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&sid=e7cffac9f8cfb434#🇸🇨 Seychelles | Anti-RKN
@@ -165,7 +162,6 @@ vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?type=ws&security
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.26:8880?type=httpupgrade&host=nufillter.jtip.sbs.#🇸🇨 Seychelles | Anti-RKN
 vless://ba373a70-295f-482d-a471-8bc17b54e23b@136.234.179.168:443?type=tcp&security=reality&fp=firefox&sni=glenharbor.xyz&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://be6111d8-5844-4b25-95aa-e64a08662db5@45.130.125.0:443?type=ws&security=tls&fp=firefox&host=tr15sa.mrnafis.com&sni=tr15sa.mrnafis.com&path=%2f%3fed%3d2560#🇸🇨 Seychelles | Anti-RKN
-vless://c5470a56-1b9b-451c-b075-02c82ee4aa6c@196.196.148.186:443?type=tcp&security=reality&fp=firefox&sni=03e488t.es12.h1clayd.shop&pbk=F-QRCTOgAul242ISSobCpwO8G6JGN0qeIdJdv60HIRo&sid=bd35558b17a4930b&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@45.95.96.236:443?type=tcp&security=reality&fp=firefox&sni=gesmankos.sadiepinki.com&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&sid=4fa44664f6a566d3&flow=xtls-rprx-vision#🇸🇨 Seychelles | Anti-RKN
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@45.194.53.13:2096?type=ws&security=tls&fp=firefox&sni=Bpb005.pageS.dev&path=%2fhzhfpw9GKziUpYAD%2fMTUyLjY3LjIzNC40OQ%3d%3d%3fed%3d2560#🇸🇨 Seychelles | Anti-RKN
 vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.64.208:443?type=grpc&security=tls&fp=firefox&sni=iryiccyne.wwtraveler.com&serviceName=michi#🇸🇨 Seychelles | Anti-RKN
@@ -201,15 +197,12 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ggU2V5Y2hlbGxlcyB8IEFudGktUktOIiwiYWRkIjoi
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ggU2V5Y2hlbGxlcyB8IEFudGktUktOIiwiYWRkIjoiMTU0LjgzLjIuOTAiLCJwb3J0IjoiMjA4NyIsImlkIjoiNzEyNzcyYzItZjdkNy00ZDMzLWJmMDItYjdhN2U1ZjcyOWM0Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InNuYVBQZm9vZDEuZVNNYUlsa29yRWEuc0hvUCIsInRscyI6InRscyIsInNuaSI6InNuYVBQZm9vZDEuZVNNYUlsa29yRWEuc0hvUCIsImZwIjoiZmlyZWZveCJ9
 https://45.91.211.14:443#🇸🇨 Seychelles | Anti-RKN
 https://45.91.211.14:1443#🇸🇨 Seychelles | Anti-RKN
-https://156.232.13.24:8088#🇸🇨 Seychelles | Anti-RKN
 https://156.232.13.157:8088#🇸🇨 Seychelles | Anti-RKN
 https://154.222.21.41:10240#🇸🇨 Seychelles | Anti-RKN
 https://156.240.1.131:443#🇸🇨 Seychelles | Anti-RKN
 socks5://45.202.240.161:10808#🇸🇨 Seychelles | Anti-RKN
 socks5://154.89.195.181:1080#🇸🇨 Seychelles | Anti-RKN
 http://45.130.127.10:80#🇸🇨 Seychelles | Anti-RKN
-http://154.222.25.250:8888#🇸🇨 Seychelles | Anti-RKN
 http://45.202.240.161:10808#🇸🇨 Seychelles | Anti-RKN
-http://45.130.127.14:3128#🇸🇨 Seychelles | Anti-RKN
 vless://0d46fdf1-0dc5-4a71-8dfc-8f68ff6aab66@154.197.64.252:443?type=ws&security=tls&fp=firefox&host=worker3.reviso4655.workers.dev&sni=worker3.reviso4655.workers.dev#🇸🇨 Seychelles | Anti-RKN
 vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?type=ws&security=tls&fp=firefox&host=dfsuporte.garena.com.ex33r.eu.cc&sni=dfsuporte.garena.com.ex33r.eu.cc&path=%2fid-pusat#🇸🇨 Seychelles | Anti-RKN

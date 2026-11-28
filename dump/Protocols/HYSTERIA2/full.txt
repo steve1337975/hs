@@ -1,10 +1,10 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ⚡ HYSTERIA2 — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
+# generated-at: 11/28/2026 10:48:03
 # servers-count: 81
 
 hysteria2://5ec96249-b753-317a-b065-b67ad66b8185@14.137.237.98:60001?sni=hk01.kfc-520.com#🇯🇵 Japan | Anti-RKN
@@ -12,6 +12,7 @@ hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.1.76:443?sni=solidhealth
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.240.41:443?sni=clustertoken.comparecarprices.org#🇺🇸 United States | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@193.233.127.209:443?sni=trendslate.nem-osh-rkp.net#🇷🇺 Russia | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@193.233.74.21:443?sni=circuitinsight.obshock.net#🇷🇺 Russia | Anti-RKN
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@147.45.73.182:443?sni=accountentry.comparecarprices.org#🇸🇪 Sweden, Stockholm | Anti-RKN
 hysteria2://fb721937-6284-4892-9cbd-c3ba2cb66b4a@85.8.201.247:443?sni=cdn.mornismp.ru#🇷🇺 Russia | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@91.196.32.60:443?sni=goldenlogin.newbuzideas.org#🇷🇺 Russia | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.5.151:443?sni=kiosklist.comparecarprices.org#🇵🇱 Poland, Warsaw | Anti-RKN
@@ -19,15 +20,15 @@ hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.3.148:443?sni=headerrunt
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.1.109:443?sni=refundresize.lucheeebezlimitnoekino.stream#🇵🇱 Poland, Warsaw | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@2.26.93.169:443?sni=statslabel.videostockmarket.org#🇺🇸 United States | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@89.23.108.46:443?sni=chatrestore.luxe-self.co.uk#🇩🇪 Germany | Anti-RKN
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@194.124.251.110:443?sni=dutycedar.lucheeebezlimitnoekino.stream#🇨🇭 Switzerland, Zug | Anti-RKN
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@85.209.194.60:443?sni=pointsharbor.videostockmarket.org#🇺🇸 United States, Los Angeles | Anti-RKN
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@194.124.251.110:443?sni=dutycedar.lucheeebezlimitnoekino.stream#🇨🇾 Cyprus | Anti-RKN
 hysteria2://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@84.23.52.100:443?sni=84-23-52-100.sslip.io#🇷🇺 Russia | Anti-RKN
 hysteria2://48818046-00b5-4576-bbe8-d2971fe0f844@217.198.5.195:443?sni=hysteria-gjrao4f1.concept7.ru#🇷🇺 Russia, Moscow | Anti-RKN
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@45.144.53.94:443?sni=canaryform.ratethatrestaurant.org#🇫🇮 Finland, Helsinki | Anti-RKN
 hysteria2://84061c08-bb5f-4b24-9026-59005d62c13a@94.228.126.146:443?sni=poery.1nm.uk#🇷🇺 Russia, St Petersburg | Anti-RKN
 hysteria2://81f705b5-9039-4adf-8671-783095bba0e8@94.249.225.65:443?sni=nl1.nuvoryxdata.com#🇩🇪 Germany | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@31.76.3.7:443?sni=revisionbuyer.videostockmarket.org#🇺🇸 United States | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@176.123.11.40:443?sni=seriesseller.ratethatrestaurant.org#🇲🇩 Moldova, Chisinau | Anti-RKN
-hysteria2://6ac6d17d-040c-4fab-940e-8f5d72c3fed6@135.126.21.107:443?sni=de2-balance.rezproffx.ru#🇵🇱 Poland | Anti-RKN
+hysteria2://6ac6d17d-040c-4fab-940e-8f5d72c3fed6@135.126.21.107:443?sni=de2-balance.rezproffx.ru#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
 hysteria2://2444df7f-4a0c-45bd-9c62-25a7ff8c4dba@193.124.66.172:443?sni=lv.0000000000000.space#🇷🇺 Russia, Moscow | Anti-RKN
 hysteria2://d3895603-3164-4003-b85c-70f171ab30b5@62.212.79.76:443?sni=62-212-79-76.sslip.io#🇳🇱 The Netherlands | Anti-RKN
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@212.18.104.25:443?sni=ledgerclient.newbuzideas.org#🇺🇸 United States, Phoenix | Anti-RKN
@@ -52,6 +53,7 @@ hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=css.rbxcdn.com&allowInsecur
 hysteria2://lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf:np2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM@45.88.12.121:443?sni=n48.neproxy.net#🇫🇮 Finland, Helsinki | Anti-RKN
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=www.amazon.com#🇷🇴 Romania, Bucharest | Anti-RKN
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=whatsapp.com#🇷🇴 Romania, Bucharest | Anti-RKN
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?obfs=salamander&obfs-password=HysteriaHowdy&sni=vk.com#🇳🇱 The Netherlands, Haarlem | Anti-RKN
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=css.rbxcdn.com#🇷🇴 Romania, Bucharest | Anti-RKN
 hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?obfs=salamander&obfs-password=HysteriaHowdy&sni=t.me#🇳🇱 The Netherlands, Haarlem | Anti-RKN
 hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=bing.com#🇯🇵 Japan, Tokyo | Anti-RKN
@@ -63,14 +65,12 @@ hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:443?sni=cloudeho
 hysteria2://gf1:gfhysteria2024@66.94.121.46:443?sni=www.broadcom.com#🇺🇸 United States, Seattle | Anti-RKN
 hysteria2://fce629d692a7b1ad71a17dae29d8b3c6@172.87.24.53:8443?sni=hy2k2p.local#🇺🇸 United States | Anti-RKN
 hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=8.209.247.109#🇯🇵 Japan, Tokyo | Anti-RKN
-hysteria2://gf1:gfhysteria2024@5.129.235.85:443?sni=speedtest.tinkoff.ru#🇳🇱 The Netherlands, Amsterdam | Anti-RKN
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443?sni=vk.com#🇳🇱 The Netherlands, Amsterdam | Anti-RKN
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443?sni=t.me#🇳🇱 The Netherlands, Amsterdam | Anti-RKN
 hysteria2://gf1:gfhysteria2024@66.94.121.46:443?sni=66.94.121.46#🇺🇸 United States, Seattle | Anti-RKN
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?obfs=salamander&obfs-password=HysteriaHowdy&sni=hysteria.udpgw.com#🇳🇱 The Netherlands, Haarlem | Anti-RKN
 hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443?obfs=salamander&obfs-password=ZuPf4OcXKvotJdDxlTus&sni=www.microsoft.com#🇺🇸 United States, North Bergen | Anti-RKN
 hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443#🇯🇵 Japan, Tokyo | Anti-RKN
-hysteria2://gf1:gfhysteria2024@5.129.235.85:443#🇳🇱 The Netherlands, Amsterdam | Anti-RKN
-hysteria2://gf1:gfhysteria2024@5.129.235.85:443?sni=www.linux.com#🇳🇱 The Netherlands, Amsterdam | Anti-RKN
 hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com#🇫🇷 France, Paris | Anti-RKN
 hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@13.143.239.127:443?sni=nl1.obxodvpn.us#🇪🇪 Estonia, Tallinn | Anti-RKN
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.243:443?sni=pixelcast.wwwinternetvideo.click#🇩🇪 Germany, Frankfurt am Main | Anti-RKN

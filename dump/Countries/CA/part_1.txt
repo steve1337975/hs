@@ -1,14 +1,13 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CA] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
-# servers-count: 165
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 167
 
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.197:443?type=tcp&security=tls&fp=firefox&sni=kuruish.org#🇨🇦 Canada, Montreal | Anti-RKN
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.197:443?type=tcp&security=tls&fp=firefox#🇨🇦 Canada, Montreal | Anti-RKN
 vless://ba373a70-295f-482d-a471-8bc17b54e23b@79.141.166.81:443?type=grpc&security=reality&fp=firefox&sni=hazelforge.xyz&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&serviceName=neurex#🇨🇦 Canada, Toronto | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBUb3JvbnRvIHwgQW50aS1SS04iLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwic2N5IjoiYXV0byJ9
 vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.171:443?type=ws&security=tls&fp=firefox&host=eeeccc.ttttlefjljl.xyz&sni=eeeccc.ttttlefjljl.xyz#🇨🇦 Canada, Ottawa | Anti-RKN
@@ -29,7 +28,6 @@ http://35.183.29.62:24659#🇨🇦 Canada, Montreal | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBUb3JvbnRvIHwgQW50aS1SS04iLCJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInNjeSI6ImF1dG8ifQ==
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&sni=learn.connectingpeoplewithgreatjobs.com&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBUb3JvbnRvIHwgQW50aS1SS04iLCJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSJ9
-vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&sid=f98843107912e782&flow=xtls-rprx-vision#🇨🇦 Canada, Toronto | Anti-RKN
 http://23.132.28.60:3128#🇨🇦 Canada, Montreal | Anti-RKN
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#🇨🇦 Canada | Anti-RKN
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com&headerType=none&fp=firefox#🇨🇦 Canada, Toronto | Anti-RKN
@@ -122,7 +120,8 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFk
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOS4yNCIsInBvcnQiOiI4MDgwIiwiaWQiOiI5MjU4MTUzYS1kYzk3LTRlMzktOTAzNy0wMDlhYmZjNGZlZDAiLCJuZXQiOiJ3cyIsImhvc3QiOiJwZXItZXNzZXgtcGF0dGVybnMtYm93bGluZy50cnljbG91ZGZsYXJlLmNvbSIsInBhdGgiOiI5MjU4MTUzYS1kYzk3LTRlMzktOTAzNy0wMDlhYmZjNGZlZDAtdm0ifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhIHwgQW50aS1SS04iLCJhZGQiOiIyMy4yMjcuNjAuMTg0IiwicG9ydCI6IjIwOTYiLCJpZCI6IjczMzc2YzcwLTMxMDgtMTFlZS05NzEwLTEyMzlkMDI1NTI3MiIsIm5ldCI6ImdycGMiLCJ0bHMiOiJ0bHMiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhIHwgQW50aS1SS04iLCJhZGQiOiI1MS43OS4xMDIuMjUzIiwicG9ydCI6IjgwIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOC4zMyIsInBvcnQiOiI4MCIsImlkIjoiMzUzYmJmNWYtYTI2NC00NzMxLWU3MzUtOTg0ZTYxMWMyZTAxIiwibmV0Ijoid3MiLCJob3N0IjoidGd1cy5jbG91ZGZsYXJlLnF1ZXN0In0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOC4zMyIsInBvcnQiOiI4MCIsImlkIjoiNDM5N2QwNjYtZjc1My00MzAwLWU3ZWQtNDQ3OTdkZGZjZDI0IiwibmV0Ijoid3MiLCJob3N0IjoibGlub2RlLmNsb3VkZmxhcmUucXVlc3QiLCJwYXRoIjoiL2FyaWVzIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOC4zMyIsInBvcnQiOiI4MCIsImlkIjoiMzZiZDk5NjktYmI5Ni00YmRkLWE2ZGYtOTYwYmJkOGU0NDM5IiwibmV0Ijoid3MiLCJob3N0IjoidGd1ay5jbG91ZGZsYXJlLnF1ZXN0In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBWYW5jb3V2ZXIgfCBBbnRpLVJLTiIsImFkZCI6IjE1OC41MS4xMjMuNDIiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsInNjeSI6ImF1dG8ifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBNb250cmVhbCB8IEFudGktUktOIiwiYWRkIjoiNjYuMTYzLjExMy4xNzYiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsInNjeSI6ImF1dG8ifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBNb250cmVhbCB8IEFudGktUktOIiwiYWRkIjoiMTQ5LjU2LjEyOS4xMyIsInBvcnQiOiIyMDUzIiwiaWQiOiIzYWVhNjg3ZC1jNmMwLTQ2MDktODcxOS1lZDhhNTYxNGZjNDciLCJzY3kiOiJhdXRvIiwidGxzIjoidGxzIiwiZnAiOiJmaXJlZm94In0=
@@ -134,6 +133,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFk
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOC44IiwicG9ydCI6IjIwODYiLCJpZCI6ImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJpcDUtMTAuZnJlZWdyYWRlbHkueHl6IiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5In0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOS4xNzIiLCJwb3J0IjoiODg4MCIsImlkIjoiNzBkZjdjMWUtMTJjOC0zMjVmLWExMmEtMzRhYTQ2OTQ5ZTYwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9kYWJhaSZUZWxlZ3JhbfCfh6jwn4ezIEBXYW5nQ2FpMiAvP2VkPTI1NjAifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhLCBPdHRhd2EgfCBBbnRpLVJLTiIsImFkZCI6IjIzLjIyNy4zOC4xMyIsInBvcnQiOiIyMDUyIiwiaWQiOiJkNmI2ZDk4Mi1kNTJmLTQ2NWEtYjk4OC04NTY3MGIyM2Y2NGEiLCJuZXQiOiJ3cyIsImhvc3QiOiJjZG4yLmZyZWVncmFkZWx5Lnh5eiJ9
+socks4://24.37.245.42:51056#🇨🇦 Canada, Montreal | Anti-RKN
 https://129.97.50.72:443#🇨🇦 Canada, Waterloo | Anti-RKN
 https://66.70.143.16:443#🇨🇦 Canada | Anti-RKN
 https://192.95.37.111:443#🇨🇦 Canada, Montreal | Anti-RKN
@@ -143,11 +143,16 @@ https://198.100.153.39:443#🇨🇦 Canada | Anti-RKN
 https://15.235.104.61:443#🇨🇦 Canada | Anti-RKN
 https://66.70.170.84:443#🇨🇦 Canada | Anti-RKN
 https://51.161.54.150:443#🇨🇦 Canada | Anti-RKN
+https://95.173.219.14:443#🇨🇦 Canada, Vancouver | Anti-RKN
+https://95.173.219.14:9443#🇨🇦 Canada, Vancouver | Anti-RKN
+https://198.44.157.19:9443#🇨🇦 Canada, Toronto | Anti-RKN
+https://149.57.28.9:443#🇨🇦 Canada, Toronto | Anti-RKN
 https://4.172.245.121:443#🇨🇦 Canada, Toronto | Anti-RKN
 https://208.72.4.50:443#🇨🇦 Canada | Anti-RKN
 https://208.66.248.70:443#🇨🇦 Canada, Richmond | Anti-RKN
 https://15.156.139.160:443#🇨🇦 Canada, Montreal | Anti-RKN
 https://155.138.145.11:443#🇨🇦 Canada, Toronto | Anti-RKN
+https://109.204.35.65:9443#🇨🇦 Canada, Calgary | Anti-RKN
 https://3.97.6.83:443#🇨🇦 Canada, Montreal | Anti-RKN
 http://23.227.38.192:80#🇨🇦 Canada, Ottawa | Anti-RKN
 http://23.227.38.158:80#🇨🇦 Canada, Ottawa | Anti-RKN
@@ -158,17 +163,14 @@ http://23.227.60.245:80#🇨🇦 Canada | Anti-RKN
 http://23.227.39.241:80#🇨🇦 Canada, Ottawa | Anti-RKN
 http://23.227.39.186:80#🇨🇦 Canada, Ottawa | Anti-RKN
 http://40.177.65.8:80#🇨🇦 Canada, Calgary | Anti-RKN
-http://151.243.236.236:80#🇨🇦 Canada, Beauharnois | Anti-RKN
 socks5://24.201.38.52:9050#🇨🇦 Canada, Saint-Eustache | Anti-RKN
 http://3.96.141.200:20385#🇨🇦 Canada, Montreal | Anti-RKN
 http://159.203.13.121:80#🇨🇦 Canada, Toronto | Anti-RKN
 http://159.203.61.169:3128#🇨🇦 Canada, Toronto | Anti-RKN
 http://23.132.28.60:3133#🇨🇦 Canada, Montreal | Anti-RKN
+socks4://50.67.100.178:8080#🇨🇦 Canada, West Vancouver | Anti-RKN
 socks4://70.38.101.182:40000#🇨🇦 Canada | Anti-RKN
 http://159.203.61.169:1080#🇨🇦 Canada, Toronto | Anti-RKN
 http://24.201.38.52:9050#🇨🇦 Canada, Saint-Eustache | Anti-RKN
-socks4://56.112.92.32:40066#🇨🇦 Canada, Calgary | Anti-RKN
 socks4://159.203.61.169:3128#🇨🇦 Canada, Toronto | Anti-RKN
-socks5://56.112.92.32:40066#🇨🇦 Canada, Calgary | Anti-RKN
 socks5://159.203.61.169:3128#🇨🇦 Canada, Toronto | Anti-RKN
-http://56.112.92.32:40066#🇨🇦 Canada, Calgary | Anti-RKN

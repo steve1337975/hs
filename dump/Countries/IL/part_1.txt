@@ -1,10 +1,10 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IL] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
+# generated-at: 11/28/2026 10:48:03
 # servers-count: 16
 
 vless://26843758-24de-4f76-b5d0-624038e353c4@79.182.59.24:443?type=tcp&security=reality&fp=firefox&sni=71b840t.de7.h1clayd.click&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4#🇮🇱 Israel | Anti-RKN
@@ -21,5 +21,5 @@ vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?type=tcp&securit
 vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.166.143:443?type=tcp&security=reality&fp=firefox&sni=store.steampowered.com&pbk=tboI265nKvT77HoZPyA6bgZNuLap_Jy-XvAx2-4Rcwk&sid=0c1553316a645758&flow=xtls-rprx-vision#🇮🇱 Israel, Tel Aviv | Anti-RKN
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?type=xhttp&security=reality&fp=firefox&sni=res.cdn.office.net&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo#🇮🇱 Israel, Jerusalem | Anti-RKN
 vless://dd9b5b35-c3bb-4e26-8b26-daedffcb3921@45.140.204.119:443?type=tcp&security=reality&fp=firefox&sni=yahoo.com&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&sid=67fb#🇮🇱 Israel | Anti-RKN
-https://62.90.77.30:443#🇮🇱 Israel, Jerusalem | Anti-RKN
+https://62.90.77.30:443#🇮🇱 Israel, Tel Aviv | Anti-RKN
 http://51.17.99.135:10801#🇮🇱 Israel, Tel Aviv | Anti-RKN

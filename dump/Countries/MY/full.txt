@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [MY] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
-# servers-count: 73
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 70
 
 trojan://humanity@76.13.188.13:8443?type=ws&security=tls&sni=www.cordweave.com&host=www.cordweave.com&path=%2fassignment&fp=firefox#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&fp=firefox#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
@@ -15,19 +15,21 @@ http://56.68.116.64:45270#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1&fp=firefox#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&allowInsecure=1&fp=firefox#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://43.216.197.62:34340#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh74gTWFsYXlzaWEsIEt1YWxhIEx1bXB1ciB8IEFudGktUktOIiwiYWRkIjoiNDcuMjUwLjEzNS4yNDQiLCJwb3J0IjoiMTAwMDAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsInNjeSI6ImF1dG8ifQ==
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@202.43.102.57:443?security=tls&sni=45.32.28.232&fp=firefox#🇲🇾 Malaysia | Anti-RKN
 vless://33d67a80-909e-4cec-aa8f-601f6019a8f0@23.27.199.148:24378?type=tcp&security=reality&fp=firefox&sni=shield.nvidia.hk&pbk=neyQkmBRy_PQjVEN1c6a9UqGyTf-UePx1HNoRCmgFkw&sid=31a5fe51#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 vless://adb16f46-ebc3-4f72-ba20-f8872dec43a9@47.250.139.22:443?type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=erG7hYnWx8wELFn1-USl81_0mJlSJFlr8VBhtSsJwhY&sid=734c1ee6#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh74gTWFsYXlzaWEgfCBBbnRpLVJLTiIsImFkZCI6IjQ1LjEyNy41LjEzMiIsInBvcnQiOiIyMDgzIiwiaWQiOiJmM2E3YWVhMS0wZjVhLTRlZDAtOGE1MC1mNmU3YTc4YmVkM2MiLCJzY3kiOiJhdXRvIn0=
+socks4://103.1.105.10:4153#🇲🇾 Malaysia | Anti-RKN
 https://210.19.96.163:443#🇲🇾 Malaysia, Petaling Jaya | Anti-RKN
 https://47.250.36.85:9001#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-https://58.26.247.226:443#🇲🇾 Malaysia | Anti-RKN
+https://58.26.247.226:443#🇲🇾 Malaysia, Bayan Lepas | Anti-RKN
+https://113.23.216.129:9088#🇲🇾 Malaysia, Johor Bahru | Anti-RKN
+https://113.23.216.128:9088#🇲🇾 Malaysia, Johor Bahru | Anti-RKN
+https://47.254.229.162:443#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://175.138.231.145:80#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 socks5://47.250.177.202:5060#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 socks5://47.250.177.202:80#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 socks4://47.250.159.65:8889#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-http://219.93.101.60:80#🇲🇾 Malaysia | Anti-RKN
 socks5://47.250.155.254:8000#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 socks5://47.250.155.254:41451#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 socks5://47.250.155.254:8080#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
@@ -55,9 +57,9 @@ socks5://47.250.159.65:800#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 socks5://47.250.159.65:8443#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 socks5://47.250.159.65:1080#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 socks5://47.250.159.65:60000#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
+socks4://219.93.248.80:4153#🇲🇾 Malaysia, Ipoh | Anti-RKN
 socks5://47.250.11.111:8081#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 socks5://47.250.11.111:8181#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-http://175.139.200.17:4153#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://47.250.11.111:5060#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://47.250.11.111:8085#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://47.250.177.202:5060#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
@@ -75,8 +77,3 @@ socks5://47.250.177.202:8090#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 socks5://47.250.145.191:80#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://47.250.11.111:1080#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
 http://47.250.177.202:8090#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-http://47.250.140.201:7000#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-http://47.250.51.110:4145#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-http://47.250.51.110:13#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks5://47.250.155.254:6379#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN
-socks5://47.250.155.254:80#🇲🇾 Malaysia, Kuala Lumpur | Anti-RKN

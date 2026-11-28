@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SI] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
-# servers-count: 25
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 24
 
 vless://aac58603-fe15-41e5-bd10-bae80815b082@109.224.230.174:443?type=ws&security=tls&fp=firefox&host=xray-vless-aac5-8z4azf.cranl.net&sni=xray-vless-aac5-8z4azf.cranl.net#🇸🇮 Slovenia | Anti-RKN
 trojan://Aimer@92.53.190.161:2087?security=tls&sni=epccf.ambercc.filegear-sg.me&fp=firefox#🇸🇮 Slovenia | Anti-RKN
@@ -21,7 +21,6 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.191.80:443?type=grpc&security
 vless://50414e45-4c5f-5a45-5553-acb244465ac1@92.53.191.250:443?type=ws&security=tls&fp=firefox&host=1vz2hle8uh1s.y09920213769.workers.dev&sni=1vz2hle8uh1s.y09920213769.workers.dev&path=%2fstream%2fPANEL_ZEUS%2facb244465ac1%2floc-0#🇸🇮 Slovenia | Anti-RKN
 vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?type=tcp&security=reality&fp=firefox&sni=node-slo04.rkitman.ru&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&sid=e204defc87a8949e&flow=xtls-rprx-vision#🇸🇮 Slovenia, Maribor | Anti-RKN
 vless://aac58603-fe15-41e5-bd10-bae80815b082@109.224.231.4:443#🇸🇮 Slovenia | Anti-RKN
-vless://aac58603-fe15-41e5-bd10-bae80815b082@109.224.231.4:443?type=ws&security=tls&fp=firefox&host=xray-vless-aac5-8z4azf.cranl.net&sni=xray-vless-aac5-8z4azf.cranl.net&path=%2fvless#🇸🇮 Slovenia | Anti-RKN
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@92.53.190.149:443?type=ws&security=tls&fp=firefox&sni=bpB005.paGeS.DEv&path=%2f1bD7yey9071NU9bu%2fMTUyLjY3LjIzNC40OQ%3d%3d%3fed%3d2560#🇸🇮 Slovenia | Anti-RKN
 vless://cc6b985d-0362-4129-8763-38564174fb3e@92.53.188.180:443?type=grpc&security=tls&fp=firefox&sni=iryiccyne.wwtraveler.com&serviceName=michi#🇸🇮 Slovenia | Anti-RKN
 vless://cc6b985d-0362-4129-8763-38564174fb3e@92.53.189.149:443?type=grpc&security=tls&fp=firefox&sni=iryiccyne.wwtraveler.com&serviceName=%f0%9f%91%a8%e2%80%8d%f0%9f%9a%80Free%f0%9f%91%a8%e2%80%8d%f0%9f%9a%80#🇸🇮 Slovenia | Anti-RKN

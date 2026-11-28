@@ -1,18 +1,15 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [VE] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
-# servers-count: 9
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 6
 
-http://38.188.99.66:999#🇻🇪 Venezuela, Caracas | Anti-RKN
-http://154.59.56.73:999#🇻🇪 Venezuela | Anti-RKN
-http://154.59.56.72:999#🇻🇪 Venezuela | Anti-RKN
-http://161.22.37.20:999#🇻🇪 Venezuela | Anti-RKN
-http://38.51.220.64:999#🇻🇪 Venezuela, San Diego | Anti-RKN
-http://190.94.213.132:999#🇻🇪 Venezuela, Caracas | Anti-RKN
-http://190.97.253.235:999#🇻🇪 Venezuela, Mérida | Anti-RKN
-http://161.22.33.194:999#🇻🇪 Venezuela, Caracas | Anti-RKN
-http://190.94.244.30:8080#🇻🇪 Venezuela, Caracas | Anti-RKN
+http://38.172.181.0:999#🇻🇪 Venezuela, Quíbor | Anti-RKN
+http://161.22.33.213:999#🇻🇪 Venezuela, Caracas | Anti-RKN
+http://38.137.236.53:999#🇻🇪 Venezuela, Guarenas | Anti-RKN
+socks4://200.8.235.10:4145#🇻🇪 Venezuela, La Guaira | Anti-RKN
+http://170.244.91.144:999#🇻🇪 Venezuela | Anti-RKN
+http://190.97.249.30:999#🇻🇪 Venezuela | Anti-RKN

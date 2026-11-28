@@ -1,21 +1,19 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [US] — BLACK #5
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
-# servers-count: 460
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 470
 
 socks5://38.9.97.67:1080#🇺🇸 United States | Anti-RKN
 socks5://47.90.167.27:9999#🇺🇸 United States | Anti-RKN
-socks5://23.94.181.74:8888#🇺🇸 United States, Los Angeles | Anti-RKN
 socks5://23.134.76.171:1080#🇺🇸 United States | Anti-RKN
 socks5://47.251.87.74:9050#🇺🇸 United States | Anti-RKN
 socks5://47.251.87.74:9098#🇺🇸 United States | Anti-RKN
-socks5://104.252.175.210:1080#🇺🇸 United States, Kansas City | Anti-RKN
-socks5://158.101.1.100:42171#🇺🇸 United States, Phoenix | Anti-RKN
 socks5://198.252.108.20:9050#🇺🇸 United States | Anti-RKN
+socks5://172.86.84.97:1088#🇺🇸 United States, Ogden | Anti-RKN
 socks5://129.80.80.197:9050#🇺🇸 United States, Ashburn | Anti-RKN
 socks5://23.95.171.196:9050#🇺🇸 United States, Buffalo | Anti-RKN
 socks5://185.213.91.24:9100#🇺🇸 United States, Manassas | Anti-RKN
@@ -27,19 +25,18 @@ socks5://157.230.186.76:9050#🇺🇸 United States, North Bergen | Anti-RKN
 socks5://198.46.249.70:1080#🇺🇸 United States, Marietta | Anti-RKN
 socks5://109.105.218.62:1080#🇺🇸 United States | Anti-RKN
 socks5://50.239.136.10:1080#🇺🇸 United States, Charleston | Anti-RKN
-socks5://64.72.211.57:1080#🇺🇸 United States, American Fork | Anti-RKN
 socks5://199.66.182.243:4145#🇺🇸 United States, Hampton | Anti-RKN
-socks5://216.105.130.131:4145#🇺🇸 United States, Atlanta | Anti-RKN
+socks5://216.105.130.131:4145#🇺🇸 United States, Pelzer | Anti-RKN
 socks5://162.243.102.207:9764#🇺🇸 United States, Secaucus | Anti-RKN
 socks5://149.248.201.109:9000#🇺🇸 United States | Anti-RKN
 socks5://72.36.32.222:9050#🇺🇸 United States, Kaycee | Anti-RKN
 socks5://149.248.213.249:9000#🇺🇸 United States | Anti-RKN
 socks5://5.180.147.89:1080#🇺🇸 United States, Los Angeles | Anti-RKN
-socks5://45.42.4.71:1080#🇺🇸 United States, Dubuque | Anti-RKN
 socks5://149.248.194.233:9000#🇺🇸 United States | Anti-RKN
 socks5://142.93.65.222:1088#🇺🇸 United States, Clifton | Anti-RKN
 socks5://47.90.162.114:5555#🇺🇸 United States | Anti-RKN
 socks5://137.66.24.131:1080#🇺🇸 United States | Anti-RKN
+socks5://192.254.90.67:1080#🇺🇸 United States, Los Angeles | Anti-RKN
 socks5://66.154.112.131:1080#🇺🇸 United States, Secaucus | Anti-RKN
 socks5://5.78.108.236:5555#🇺🇸 United States, Hillsboro | Anti-RKN
 socks5://192.73.242.77:9050#🇺🇸 United States, Denver | Anti-RKN
@@ -50,12 +47,13 @@ socks5://66.59.197.63:3128#🇺🇸 United States | Anti-RKN
 socks5://66.59.197.61:4000#🇺🇸 United States | Anti-RKN
 socks5://66.59.197.63:4000#🇺🇸 United States | Anti-RKN
 socks5://66.59.197.62:3128#🇺🇸 United States | Anti-RKN
-socks5://24.94.78.164:1080#🇺🇸 United States, ‘Aiea | Anti-RKN
+socks5://192.210.197.131:1080#🇺🇸 United States, Buffalo | Anti-RKN
 socks5://37.16.2.124:1080#🇺🇸 United States | Anti-RKN
 socks5://169.155.50.87:1080#🇺🇸 United States | Anti-RKN
 socks5://43.135.130.18:1080#🇺🇸 United States, Santa Clara | Anti-RKN
 socks5://38.246.114.120:22233#🇺🇸 United States, Draper | Anti-RKN
 socks5://38.246.114.120:23135#🇺🇸 United States, Draper | Anti-RKN
+socks5://23.95.130.184:1081#🇺🇸 United States, Buffalo | Anti-RKN
 socks5://155.103.157.110:9999#🇺🇸 United States | Anti-RKN
 socks5://107.149.141.54:5001#🇺🇸 United States, Los Angeles | Anti-RKN
 socks5://170.205.37.145:443#🇺🇸 United States, New York | Anti-RKN
@@ -70,7 +68,6 @@ http://64.83.0.132:1080#🇺🇸 United States, Los Angeles | Anti-RKN
 http://47.251.73.54:4145#🇺🇸 United States | Anti-RKN
 http://3.21.247.154:2280#🇺🇸 United States, Columbus | Anti-RKN
 http://47.254.36.213:8081#🇺🇸 United States | Anti-RKN
-http://43.153.45.165:8118#🇺🇸 United States, Santa Clara | Anti-RKN
 http://47.90.149.238:8080#🇺🇸 United States | Anti-RKN
 http://24.102.236.218:8888#🇺🇸 United States, Lititz | Anti-RKN
 http://157.230.219.85:8118#🇺🇸 United States, North Bergen | Anti-RKN
@@ -83,10 +80,13 @@ http://143.42.6.185:3128#🇺🇸 United States, Cedar Knolls | Anti-RKN
 http://18.217.248.118:8158#🇺🇸 United States, Columbus | Anti-RKN
 http://18.191.250.90:58119#🇺🇸 United States, Columbus | Anti-RKN
 http://47.251.73.54:9050#🇺🇸 United States | Anti-RKN
+http://34.207.102.197:12662#🇺🇸 United States, Ashburn | Anti-RKN
 http://137.184.197.190:80#🇺🇸 United States, North Bergen | Anti-RKN
 http://18.188.168.99:8741#🇺🇸 United States, Columbus | Anti-RKN
+http://173.197.98.164:8111#🇺🇸 United States, Honolulu | Anti-RKN
+http://192.73.243.65:3128#🇺🇸 United States, Miami | Anti-RKN
 http://174.77.111.198:49547#🇺🇸 United States | Anti-RKN
-http://159.65.221.25:80#🇺🇸 United States, North Bergen | Anti-RKN
+http://217.216.55.252:80#🇺🇸 United States, Carlstadt | Anti-RKN
 http://184.178.172.23:4145#🇺🇸 United States, Roanoke | Anti-RKN
 http://5.180.147.89:1080#🇺🇸 United States, Los Angeles | Anti-RKN
 http://12.50.107.221:80#🇺🇸 United States | Anti-RKN
@@ -98,99 +98,95 @@ http://54.198.140.56:8049#🇺🇸 United States, Ashburn | Anti-RKN
 http://209.97.150.167:1080#🇺🇸 United States, Clifton | Anti-RKN
 http://184.178.172.3:4145#🇺🇸 United States, Roanoke | Anti-RKN
 http://47.90.167.27:3128#🇺🇸 United States | Anti-RKN
+http://172.86.126.201:3128#🇺🇸 United States, Los Angeles | Anti-RKN
 http://191.101.1.116:80#🇺🇸 United States, Phoenix | Anti-RKN
 http://47.89.159.212:8080#🇺🇸 United States | Anti-RKN
-http://70.166.167.55:57745#🇺🇸 United States | Anti-RKN
 http://18.222.28.236:8090#🇺🇸 United States, Columbus | Anti-RKN
-http://192.73.243.98:3128#🇺🇸 United States, Miami | Anti-RKN
 http://107.173.125.200:443#🇺🇸 United States, Dallas | Anti-RKN
 http://184.178.172.25:15291#🇺🇸 United States, Roanoke | Anti-RKN
 http://154.53.61.174:3128#🇺🇸 United States, Seattle | Anti-RKN
 http://38.127.179.186:37234#🇺🇸 United States, Washington | Anti-RKN
-http://208.67.28.28:58090#🇺🇸 United States, Eagle River | Anti-RKN
 http://34.229.190.39:4091#🇺🇸 United States, Ashburn | Anti-RKN
 http://98.94.14.234:8181#🇺🇸 United States, Ashburn | Anti-RKN
 http://184.178.172.11:4145#🇺🇸 United States, Roanoke | Anti-RKN
 http://47.251.74.38:199#🇺🇸 United States | Anti-RKN
 http://50.210.166.34:80#🇺🇸 United States, Detroit | Anti-RKN
+http://151.243.153.157:8118#🇺🇸 United States | Anti-RKN
 http://98.81.204.137:9459#🇺🇸 United States, Ashburn | Anti-RKN
 http://68.183.60.51:3129#🇺🇸 United States, Clifton | Anti-RKN
 http://213.188.215.223:80#🇺🇸 United States | Anti-RKN
 http://98.188.47.132:4145#🇺🇸 United States | Anti-RKN
 http://3.21.247.154:4761#🇺🇸 United States, Columbus | Anti-RKN
+http://52.118.206.133:9443#🇺🇸 United States | Anti-RKN
 http://18.144.86.139:23407#🇺🇸 United States, San Jose | Anti-RKN
+http://168.235.80.215:3128#🇺🇸 United States, Piscataway | Anti-RKN
 http://5.161.103.41:88#🇺🇸 United States, Ashburn | Anti-RKN
-http://162.248.227.230:3128#🇺🇸 United States | Anti-RKN
 http://47.254.36.213:9098#🇺🇸 United States | Anti-RKN
 http://98.181.137.83:4145#🇺🇸 United States, Henderson | Anti-RKN
-http://89.106.84.72:1081#🇺🇸 United States, Miami | Anti-RKN
-http://129.213.162.27:17777#🇺🇸 United States, Ashburn | Anti-RKN
+http://107.155.87.251:3128#🇺🇸 United States, Los Angeles | Anti-RKN
 http://198.252.108.20:9050#🇺🇸 United States | Anti-RKN
 http://47.251.249.48:7777#🇺🇸 United States | Anti-RKN
 http://18.222.231.188:27161#🇺🇸 United States, Columbus | Anti-RKN
 http://31.44.5.192:1081#🇺🇸 United States, Newark | Anti-RKN
 http://167.99.3.26:10007#🇺🇸 United States, North Bergen | Anti-RKN
 http://129.158.48.4:9050#🇺🇸 United States, Ashburn | Anti-RKN
+http://74.119.147.209:4145#🇺🇸 United States | Anti-RKN
 http://47.251.87.74:1036#🇺🇸 United States | Anti-RKN
-http://34.220.80.147:34889#🇺🇸 United States, Boardman | Anti-RKN
-http://68.169.55.189:80#🇺🇸 United States | Anti-RKN
 http://174.77.111.197:4145#🇺🇸 United States | Anti-RKN
 http://18.224.94.46:10366#🇺🇸 United States, Columbus | Anti-RKN
 http://138.91.159.185:80#🇺🇸 United States, San Jose | Anti-RKN
 http://47.90.149.238:41#🇺🇸 United States | Anti-RKN
 http://3.21.156.147:20303#🇺🇸 United States, Columbus | Anti-RKN
-http://34.148.25.49:8080#🇺🇸 United States, North Charleston | Anti-RKN
 http://184.181.217.220:4145#🇺🇸 United States | Anti-RKN
 http://45.79.62.192:3128#🇺🇸 United States, Richardson | Anti-RKN
-http://198.111.166.184:80#🇺🇸 United States, Westland | Anti-RKN
+http://85.239.235.128:3128#🇺🇸 United States, Seattle | Anti-RKN
 http://184.181.217.194:4145#🇺🇸 United States | Anti-RKN
-http://149.104.24.86:40001#🇺🇸 United States | Anti-RKN
+http://66.135.27.9:443#🇺🇸 United States, Piscataway | Anti-RKN
 http://44.200.234.67:8097#🇺🇸 United States, Ashburn | Anti-RKN
 socks5://167.99.3.26:8080#🇺🇸 United States, North Bergen | Anti-RKN
 socks5://167.99.3.26:8282#🇺🇸 United States, North Bergen | Anti-RKN
-socks5://45.74.31.46:17852#🇺🇸 United States | Anti-RKN
 socks4://167.99.3.26:7742#🇺🇸 United States, North Bergen | Anti-RKN
-socks5://45.74.31.42:4212#🇺🇸 United States | Anti-RKN
 socks5://47.251.74.38:5060#🇺🇸 United States | Anti-RKN
 socks5://47.251.74.38:7777#🇺🇸 United States | Anti-RKN
 http://47.254.36.213:1080#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.40:4022#🇺🇸 United States | Anti-RKN
 socks5://47.251.74.38:202#🇺🇸 United States | Anti-RKN
 socks5://47.251.74.38:1000#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.46:18610#🇺🇸 United States | Anti-RKN
 socks5://47.251.74.38:79#🇺🇸 United States | Anti-RKN
 socks5://47.251.74.38:199#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.41:20826#🇺🇸 United States | Anti-RKN
 socks5://47.251.74.38:3129#🇺🇸 United States | Anti-RKN
 socks5://47.251.74.38:4840#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.47:4531#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.47:4172#🇺🇸 United States | Anti-RKN
+http://64.31.49.174:3128#🇺🇸 United States, Miami | Anti-RKN
 socks5://47.252.11.233:20#🇺🇸 United States | Anti-RKN
 http://167.99.3.26:6178#🇺🇸 United States, North Bergen | Anti-RKN
 socks5://47.252.11.233:91#🇺🇸 United States | Anti-RKN
 socks5://47.252.11.233:8010#🇺🇸 United States | Anti-RKN
 socks5://47.252.11.233:3128#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.40:4061#🇺🇸 United States | Anti-RKN
 socks5://47.252.11.233:8085#🇺🇸 United States | Anti-RKN
 socks5://47.252.11.233:9080#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.47:4399#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.47:10245#🇺🇸 United States | Anti-RKN
 socks5://47.252.11.233:1080#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.47:5262#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.47:4048#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.42:13657#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.40:4096#🇺🇸 United States | Anti-RKN
 socks5://47.252.11.233:8080#🇺🇸 United States | Anti-RKN
 socks5://47.252.11.233:82#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.42:4301#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.46:4119#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.42:5118#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.46:4191#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.42:4028#🇺🇸 United States | Anti-RKN
+http://209.62.196.68:8080#🇺🇸 United States, Cut Off | Anti-RKN
+socks5://45.74.31.41:4277#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.46:4144#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.41:4031#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.41:26810#🇺🇸 United States | Anti-RKN
 socks5://47.90.149.238:4002#🇺🇸 United States | Anti-RKN
 socks5://47.90.149.238:8888#🇺🇸 United States | Anti-RKN
 socks5://47.90.149.238:8081#🇺🇸 United States | Anti-RKN
-http://35.194.4.51:3128#🇺🇸 United States, Council Bluffs | Anti-RKN
 http://78.40.211.252:3128#🇺🇸 United States | Anti-RKN
 socks4://47.252.47.39:1080#🇺🇸 United States | Anti-RKN
 socks4://103.83.36.1:5678#🇺🇸 United States, Asheville | Anti-RKN
-socks5://64.83.0.132:1080#🇺🇸 United States, Los Angeles | Anti-RKN
-http://70.61.188.34:3128#🇺🇸 United States, Columbus | Anti-RKN
-socks4://64.64.152.248:39593#🇺🇸 United States, Imperial | Anti-RKN
-http://116.204.166.40:8080#🇺🇸 United States | Anti-RKN
 http://23.177.184.175:3128#🇺🇸 United States, Fremont | Anti-RKN
-http://52.254.114.3:8443#🇺🇸 United States, Boydton | Anti-RKN
 socks4://167.99.3.26:5432#🇺🇸 United States, North Bergen | Anti-RKN
 socks4://167.99.3.26:7055#🇺🇸 United States, North Bergen | Anti-RKN
 socks4://167.99.3.26:5381#🇺🇸 United States, North Bergen | Anti-RKN
@@ -203,7 +199,6 @@ socks5://47.254.36.213:104#🇺🇸 United States | Anti-RKN
 socks5://47.254.36.213:80#🇺🇸 United States | Anti-RKN
 socks5://47.254.36.213:3128#🇺🇸 United States | Anti-RKN
 socks5://47.251.74.38:2000#🇺🇸 United States | Anti-RKN
-http://69.36.63.128:1080#🇺🇸 United States, Lowell | Anti-RKN
 http://96.3.60.222:8888#🇺🇸 United States, Bismarck | Anti-RKN
 http://208.102.51.6:58208#🇺🇸 United States, Alexandria | Anti-RKN
 http://69.61.200.104:36181#🇺🇸 United States, Cincinnati | Anti-RKN
@@ -220,41 +215,42 @@ http://69.55.49.177:38182#🇺🇸 United States, North Bergen | Anti-RKN
 http://107.174.30.93:1080#🇺🇸 United States, Buffalo | Anti-RKN
 http://107.174.30.94:1080#🇺🇸 United States, Buffalo | Anti-RKN
 http://47.251.166.203:1080#🇺🇸 United States | Anti-RKN
-http://45.74.31.40:4526#🇺🇸 United States | Anti-RKN
 http://199.66.183.251:4145#🇺🇸 United States, Hampton | Anti-RKN
+http://192.252.211.193:4145#🇺🇸 United States | Anti-RKN
 http://174.75.211.193:4145#🇺🇸 United States | Anti-RKN
 http://174.77.111.196:4145#🇺🇸 United States | Anti-RKN
 http://216.68.128.121:4145#🇺🇸 United States, Cincinnati | Anti-RKN
 http://5.78.181.0:9052#🇺🇸 United States, Hillsboro | Anti-RKN
 http://216.105.128.144:4145#🇺🇸 United States, Atlanta | Anti-RKN
-http://184.185.2.12:4145#🇺🇸 United States, Columbus | Anti-RKN
+http://184.185.2.12:4145#🇺🇸 United States | Anti-RKN
 http://72.195.34.60:27391#🇺🇸 United States | Anti-RKN
 http://184.181.217.206:4145#🇺🇸 United States | Anti-RKN
-http://216.105.143.146:4145#🇺🇸 United States, Atlanta | Anti-RKN
+http://216.105.143.146:4145#🇺🇸 United States, Simpsonville | Anti-RKN
 http://199.66.183.226:4145#🇺🇸 United States, Hampton | Anti-RKN
 http://143.20.185.219:9150#🇺🇸 United States | Anti-RKN
 http://98.191.0.37:4145#🇺🇸 United States, Roanoke | Anti-RKN
 http://199.66.182.232:4145#🇺🇸 United States, Hampton | Anti-RKN
+http://184.182.240.211:4145#🇺🇸 United States, Phoenix | Anti-RKN
 http://45.66.156.107:2080#🇺🇸 United States, Redondo Beach | Anti-RKN
 http://72.195.34.41:4145#🇺🇸 United States | Anti-RKN
 http://72.49.49.11:31034#🇺🇸 United States, Fort Thomas | Anti-RKN
+http://149.248.18.106:1080#🇺🇸 United States, Los Angeles | Anti-RKN
 http://138.68.60.8:1080#🇺🇸 United States, Santa Clara | Anti-RKN
 http://47.89.159.212:9098#🇺🇸 United States | Anti-RKN
 http://47.89.159.212:1081#🇺🇸 United States | Anti-RKN
 http://98.190.239.3:4145#🇺🇸 United States, Tulsa | Anti-RKN
 http://98.170.57.241:4145#🇺🇸 United States | Anti-RKN
 http://72.195.114.184:4145#🇺🇸 United States | Anti-RKN
-http://72.195.34.59:4145#🇺🇸 United States | Anti-RKN
+http://70.166.167.38:57728#🇺🇸 United States | Anti-RKN
 http://24.249.199.12:4145#🇺🇸 United States, San Diego | Anti-RKN
 http://174.64.199.82:4145#🇺🇸 United States | Anti-RKN
+http://72.195.34.42:4145#🇺🇸 United States | Anti-RKN
+http://179.253.66.78:1080#🇺🇸 United States | Anti-RKN
 http://47.85.37.60:1080#🇺🇸 United States | Anti-RKN
 http://47.252.47.39:1080#🇺🇸 United States | Anti-RKN
 http://158.101.8.92:1080#🇺🇸 United States, Phoenix | Anti-RKN
 http://47.252.11.233:1081#🇺🇸 United States | Anti-RKN
-http://192.252.208.70:14282#🇺🇸 United States | Anti-RKN
-http://67.201.33.10:25283#🇺🇸 United States | Anti-RKN
-http://78.142.217.197:1080#🇺🇸 United States | Anti-RKN
-http://70.166.65.160:4145#🇺🇸 United States, Roanoke | Anti-RKN
+http://68.71.240.210:4145#🇺🇸 United States | Anti-RKN
 http://47.251.74.38:9098#🇺🇸 United States | Anti-RKN
 http://47.251.74.38:808#🇺🇸 United States | Anti-RKN
 http://129.153.105.194:9050#🇺🇸 United States, Phoenix | Anti-RKN
@@ -271,28 +267,28 @@ http://47.90.167.27:8443#🇺🇸 United States | Anti-RKN
 http://47.90.167.27:8080#🇺🇸 United States | Anti-RKN
 http://47.89.159.212:6379#🇺🇸 United States | Anti-RKN
 http://47.90.167.27:443#🇺🇸 United States | Anti-RKN
+http://45.74.31.42:4282#🇺🇸 United States | Anti-RKN
 http://167.99.3.26:5437#🇺🇸 United States, North Bergen | Anti-RKN
 http://167.99.3.26:5712#🇺🇸 United States, North Bergen | Anti-RKN
-http://45.74.31.41:4036#🇺🇸 United States | Anti-RKN
-http://45.74.31.41:4233#🇺🇸 United States | Anti-RKN
+http://45.74.31.42:23939#🇺🇸 United States | Anti-RKN
+http://45.74.31.46:31954#🇺🇸 United States | Anti-RKN
 socks4://158.101.8.92:1080#🇺🇸 United States, Phoenix | Anti-RKN
 socks4://3.231.160.150:443#🇺🇸 United States, Ashburn | Anti-RKN
 socks4://167.99.3.26:10007#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://216.125.18.67:3128#🇺🇸 United States, Brookfield | Anti-RKN
 socks4://50.238.106.26:3128#🇺🇸 United States, Atlanta | Anti-RKN
 socks4://3.21.156.147:20303#🇺🇸 United States, Columbus | Anti-RKN
 socks4://18.222.28.236:8090#🇺🇸 United States, Columbus | Anti-RKN
 socks4://47.85.161.37:3128#🇺🇸 United States | Anti-RKN
-socks4://45.61.133.104:7777#🇺🇸 United States, Las Vegas | Anti-RKN
-socks4://129.153.97.250:9443#🇺🇸 United States, Phoenix | Anti-RKN
 socks4://47.254.36.213:999#🇺🇸 United States | Anti-RKN
-socks4://209.141.62.12:5555#🇺🇸 United States, Las Vegas | Anti-RKN
+socks4://34.207.102.197:12662#🇺🇸 United States, Ashburn | Anti-RKN
 socks4://143.246.138.227:80#🇺🇸 United States, New York | Anti-RKN
 socks4://198.199.86.11:1080#🇺🇸 United States, North Bergen | Anti-RKN
 socks4://174.138.119.88:80#🇺🇸 United States, Clifton | Anti-RKN
 socks4://47.89.159.212:8010#🇺🇸 United States | Anti-RKN
-socks4://72.195.34.35:27360#🇺🇸 United States | Anti-RKN
 socks4://47.251.87.74:8443#🇺🇸 United States | Anti-RKN
 socks4://47.254.36.213:8081#🇺🇸 United States | Anti-RKN
+socks4://168.235.80.215:3128#🇺🇸 United States, Piscataway | Anti-RKN
 socks4://3.21.247.154:4761#🇺🇸 United States, Columbus | Anti-RKN
 socks4://47.252.11.233:9050#🇺🇸 United States | Anti-RKN
 socks4://47.254.36.213:20000#🇺🇸 United States | Anti-RKN
@@ -301,7 +297,6 @@ socks4://47.90.167.27:9999#🇺🇸 United States | Anti-RKN
 socks4://64.188.29.191:8080#🇺🇸 United States, Los Angeles | Anti-RKN
 socks4://209.97.150.167:3128#🇺🇸 United States, Clifton | Anti-RKN
 socks4://47.89.159.212:8080#🇺🇸 United States | Anti-RKN
-socks4://89.106.84.72:1081#🇺🇸 United States, Miami | Anti-RKN
 socks4://34.229.190.39:4091#🇺🇸 United States, Ashburn | Anti-RKN
 socks4://47.90.167.27:3129#🇺🇸 United States | Anti-RKN
 socks4://47.251.87.199:5060#🇺🇸 United States | Anti-RKN
@@ -331,9 +326,7 @@ socks4://198.199.86.11:3128#🇺🇸 United States, North Bergen | Anti-RKN
 socks4://47.89.159.212:3129#🇺🇸 United States | Anti-RKN
 socks4://216.154.201.132:54321#🇺🇸 United States, Stone Mountain | Anti-RKN
 socks4://18.224.94.46:10366#🇺🇸 United States, Columbus | Anti-RKN
-socks4://20.98.234.24:8080#🇺🇸 United States, Boydton | Anti-RKN
 socks4://18.188.168.99:8741#🇺🇸 United States, Columbus | Anti-RKN
-socks4://198.111.166.184:80#🇺🇸 United States, Westland | Anti-RKN
 socks4://47.251.87.199:8008#🇺🇸 United States | Anti-RKN
 socks4://107.174.30.92:1080#🇺🇸 United States, Buffalo | Anti-RKN
 socks4://18.191.250.90:58119#🇺🇸 United States, Columbus | Anti-RKN
@@ -341,7 +334,6 @@ socks4://47.251.74.38:8080#🇺🇸 United States | Anti-RKN
 socks4://47.254.36.213:5060#🇺🇸 United States | Anti-RKN
 socks4://47.89.159.212:8443#🇺🇸 United States | Anti-RKN
 socks4://47.252.18.37:8834#🇺🇸 United States | Anti-RKN
-socks4://192.252.208.70:14282#🇺🇸 United States | Anti-RKN
 socks4://47.251.74.38:8008#🇺🇸 United States | Anti-RKN
 socks4://47.251.73.54:9050#🇺🇸 United States | Anti-RKN
 socks4://47.254.36.213:1080#🇺🇸 United States | Anti-RKN
@@ -351,12 +343,12 @@ socks4://98.94.14.234:8181#🇺🇸 United States, Ashburn | Anti-RKN
 socks5://3.231.160.150:443#🇺🇸 United States, Ashburn | Anti-RKN
 socks5://167.99.3.26:10007#🇺🇸 United States, North Bergen | Anti-RKN
 socks5://50.238.106.26:3128#🇺🇸 United States, Atlanta | Anti-RKN
+socks5://216.125.18.67:3128#🇺🇸 United States, Brookfield | Anti-RKN
 socks5://3.21.156.147:20303#🇺🇸 United States, Columbus | Anti-RKN
-socks5://45.74.31.40:34617#🇺🇸 United States | Anti-RKN
 socks5://18.222.28.236:8090#🇺🇸 United States, Columbus | Anti-RKN
 socks5://47.85.161.37:3128#🇺🇸 United States | Anti-RKN
-socks5://129.153.97.250:9443#🇺🇸 United States, Phoenix | Anti-RKN
 socks5://47.254.36.213:999#🇺🇸 United States | Anti-RKN
+socks5://34.207.102.197:12662#🇺🇸 United States, Ashburn | Anti-RKN
 socks5://143.246.138.227:80#🇺🇸 United States, New York | Anti-RKN
 socks5://174.138.119.88:80#🇺🇸 United States, Clifton | Anti-RKN
 socks5://47.89.159.212:8010#🇺🇸 United States | Anti-RKN
@@ -369,7 +361,6 @@ socks5://159.65.230.46:8888#🇺🇸 United States, North Bergen | Anti-RKN
 socks5://64.188.29.191:8080#🇺🇸 United States, Los Angeles | Anti-RKN
 socks5://209.97.150.167:3128#🇺🇸 United States, Clifton | Anti-RKN
 socks5://47.89.159.212:8080#🇺🇸 United States | Anti-RKN
-socks5://89.106.84.72:1081#🇺🇸 United States, Miami | Anti-RKN
 socks5://34.229.190.39:4091#🇺🇸 United States, Ashburn | Anti-RKN
 socks5://47.90.167.27:3129#🇺🇸 United States | Anti-RKN
 socks5://47.251.87.199:5060#🇺🇸 United States | Anti-RKN
@@ -393,9 +384,7 @@ socks5://54.198.140.56:8049#🇺🇸 United States, Ashburn | Anti-RKN
 socks5://198.199.86.11:3128#🇺🇸 United States, North Bergen | Anti-RKN
 socks5://47.89.159.212:3129#🇺🇸 United States | Anti-RKN
 socks5://18.224.94.46:10366#🇺🇸 United States, Columbus | Anti-RKN
-socks5://20.98.234.24:8080#🇺🇸 United States, Boydton | Anti-RKN
 socks5://18.188.168.99:8741#🇺🇸 United States, Columbus | Anti-RKN
-socks5://198.111.166.184:80#🇺🇸 United States, Westland | Anti-RKN
 socks5://47.251.87.199:8008#🇺🇸 United States | Anti-RKN
 socks5://18.191.250.90:58119#🇺🇸 United States, Columbus | Anti-RKN
 socks5://47.251.74.38:8080#🇺🇸 United States | Anti-RKN
@@ -419,47 +408,68 @@ http://47.251.87.74:60000#🇺🇸 United States | Anti-RKN
 http://47.251.87.74:8000#🇺🇸 United States | Anti-RKN
 http://47.251.87.199:8181#🇺🇸 United States | Anti-RKN
 http://47.89.159.212:3129#🇺🇸 United States | Anti-RKN
+http://45.79.62.197:3128#🇺🇸 United States, Richardson | Anti-RKN
 http://47.251.74.38:8080#🇺🇸 United States | Anti-RKN
 http://47.251.87.199:4443#🇺🇸 United States | Anti-RKN
 http://47.254.36.213:5060#🇺🇸 United States | Anti-RKN
 http://47.251.74.38:8008#🇺🇸 United States | Anti-RKN
 http://47.251.74.38:3128#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.46:4045#🇺🇸 United States | Anti-RKN
-socks4://167.99.3.26:6951#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://167.99.3.26:6666#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://167.99.3.26:6172#🇺🇸 United States, North Bergen | Anti-RKN
-http://167.99.3.26:8585#🇺🇸 United States, North Bergen | Anti-RKN
-http://47.252.18.37:6379#🇺🇸 United States | Anti-RKN
-socks5://167.99.3.26:8212#🇺🇸 United States, North Bergen | Anti-RKN
-socks5://167.99.3.26:9869#🇺🇸 United States, North Bergen | Anti-RKN
-socks5://45.74.31.41:4065#🇺🇸 United States | Anti-RKN
-http://167.99.3.26:8773#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://167.99.3.26:6914#🇺🇸 United States, North Bergen | Anti-RKN
-http://47.252.18.37:80#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.47:6647#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.47:6606#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.41:4296#🇺🇸 United States | Anti-RKN
-http://167.99.3.26:6821#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://167.99.3.26:5887#🇺🇸 United States, North Bergen | Anti-RKN
-socks5://45.74.31.47:6582#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.41:6641#🇺🇸 United States | Anti-RKN
-socks5://45.74.31.40:5952#🇺🇸 United States | Anti-RKN
-http://167.99.3.26:7371#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://167.99.3.26:6519#🇺🇸 United States, North Bergen | Anti-RKN
-socks4://64.83.0.132:1080#🇺🇸 United States, Los Angeles | Anti-RKN
-socks4://167.99.3.26:5297#🇺🇸 United States, North Bergen | Anti-RKN
-socks5://45.74.31.41:16919#🇺🇸 United States | Anti-RKN
+socks4://167.99.3.26:9132#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://167.99.3.26:5033#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://167.99.3.26:9284#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://167.99.3.26:6671#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://167.99.3.26:5540#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://45.74.31.40:5811#🇺🇸 United States | Anti-RKN
 socks5://45.74.31.46:5053#🇺🇸 United States | Anti-RKN
-http://167.99.3.26:8448#🇺🇸 United States, North Bergen | Anti-RKN
-http://167.99.3.26:9143#🇺🇸 United States, North Bergen | Anti-RKN
-socks5://167.99.3.26:5953#🇺🇸 United States, North Bergen | Anti-RKN
-socks5://45.74.31.47:6554#🇺🇸 United States | Anti-RKN
-http://167.99.3.26:5678#🇺🇸 United States, North Bergen | Anti-RKN
-socks5://45.74.31.42:22026#🇺🇸 United States | Anti-RKN
-http://167.99.3.26:5086#🇺🇸 United States, North Bergen | Anti-RKN
-http://167.99.3.26:8899#🇺🇸 United States, North Bergen | Anti-RKN
-http://47.251.87.74:10002#🇺🇸 United States | Anti-RKN
-vless://57125715-05a3-4ece-9943-2b22b37582dd@199.232.153.242:443?type=ws&security=tls&fp=firefox&host=sparkling-gadabout.quick-cdn.net&sni=sparkling-gadabout.quick-cdn.net&path=%2fws#🇺🇸 United States, Phoenix | Anti-RKN
+http://167.99.3.26:6810#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://45.74.31.40:4205#🇺🇸 United States | Anti-RKN
+http://167.99.3.26:5822#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://45.74.31.40:5852#🇺🇸 United States | Anti-RKN
+socks5://167.99.3.26:7039#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://167.99.3.26:5059#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://167.99.3.26:6554#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://45.74.31.40:6078#🇺🇸 United States | Anti-RKN
+socks4://167.99.3.26:5826#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://167.99.3.26:6185#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://167.99.3.26:9282#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://167.99.3.26:7282#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://167.99.3.26:8173#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://45.74.31.40:6218#🇺🇸 United States | Anti-RKN
+http://167.99.3.26:8531#🇺🇸 United States, North Bergen | Anti-RKN
+http://167.99.8.113:8006#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://45.74.31.47:6298#🇺🇸 United States | Anti-RKN
+http://167.99.3.26:10107#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://167.99.3.26:6197#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://167.99.3.26:6263#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://167.99.3.26:7370#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://45.74.31.46:19419#🇺🇸 United States | Anti-RKN
+http://167.99.3.26:5059#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://45.74.31.41:4142#🇺🇸 United States | Anti-RKN
+socks5://167.99.3.26:9974#🇺🇸 United States, North Bergen | Anti-RKN
+socks4://167.99.3.26:7766#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://45.74.31.47:6623#🇺🇸 United States | Anti-RKN
+socks5://47.254.36.213:9999#🇺🇸 United States | Anti-RKN
+socks5://47.254.36.213:8083#🇺🇸 United States | Anti-RKN
+socks5://47.251.87.199:1081#🇺🇸 United States | Anti-RKN
+socks5://47.251.87.199:8080#🇺🇸 United States | Anti-RKN
+socks5://47.254.36.213:32764#🇺🇸 United States | Anti-RKN
+socks5://167.99.3.26:10015#🇺🇸 United States, North Bergen | Anti-RKN
+http://167.99.3.26:9109#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://47.254.36.213:9091#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.47:6367#🇺🇸 United States | Anti-RKN
+socks5://47.251.87.199:312#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.40:6182#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.47:4698#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.47:6130#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.41:6684#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.47:4077#🇺🇸 United States | Anti-RKN
+socks5://45.74.31.47:4363#🇺🇸 United States | Anti-RKN
+http://167.99.3.26:6662#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://45.74.31.41:4046#🇺🇸 United States | Anti-RKN
+http://167.99.3.26:9183#🇺🇸 United States, North Bergen | Anti-RKN
+socks5://47.251.87.74:5060#🇺🇸 United States | Anti-RKN
+http://146.148.34.56:3128#🇺🇸 United States, Council Bluffs | Anti-RKN
+vless://57125715-05a3-4ece-9943-2b22b37582dd@146.75.93.242:443?type=ws&security=tls&fp=firefox&host=sparkling-gadabout.quick-cdn.net&sni=sparkling-gadabout.quick-cdn.net&path=%2fws#🇺🇸 United States, Los Angeles | Anti-RKN
 vless://9f897d48-22f9-4ea2-9bb8-456447c70ec4@151.101.1.242:443?type=ws&security=tls&fp=firefox&host=guessable-turnpikes.cdn-content.com&sni=guessable-turnpikes.cdn-content.com&path=%2fws#🇺🇸 United States | Anti-RKN
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@172.66.0.172:443?type=ws&security=tls&fp=firefox&host=v1n3.11676767.xyz&sni=v1n3.11676767.xyz&path=%2fgo.php%2fproducts#🇺🇸 United States | Anti-RKN
 vless://4522dc13-e4f2-4ab4-94b6-5793770bafeb@50.7.154.74:443?type=tcp&security=reality&fp=firefox&sni=api.mediasvyaz.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&flow=xtls-rprx-vision#🇺🇸 United States | Anti-RKN

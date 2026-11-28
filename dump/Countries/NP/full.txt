@@ -1,16 +1,12 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [NP] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827484934
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827485283
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/28/2026 10:42:14
-# servers-count: 7
+# generated-at: 11/28/2026 10:48:03
+# servers-count: 3
 
-http://116.90.224.50:8080#🇳🇵 Nepal | Anti-RKN
-socks4://110.34.1.212:1080#🇳🇵 Nepal, Kathmandu | Anti-RKN
-socks5://124.41.225.101:1080#🇳🇵 Nepal, Kathmandu | Anti-RKN
+socks4://124.41.226.10:1080#🇳🇵 Nepal, Kathmandu | Anti-RKN
 http://202.166.219.80:4153#🇳🇵 Nepal, Kathmandu | Anti-RKN
 socks4://202.166.219.80:4153#🇳🇵 Nepal, Kathmandu | Anti-RKN
-socks4://202.79.35.12:1080#🇳🇵 Nepal, Kathmandu | Anti-RKN
-socks4://182.93.75.162:1080#🇳🇵 Nepal, Kathmandu | Anti-RKN

@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [HU] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 14:13:59
-# servers-count: 20
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 19
 
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@85.155.246.26:2063?type=tcp&security=reality&fp=firefox&sni=rusbid.de&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&flow=xtls-rprx-vision#🇭🇺 Hungary | Anti-RKN
 trojan://humanity@185.225.68.232:443?type=ws&security=tls&fp=firefox&sni=www.calmlunch.com&host=www.calmlunch.com&path=%2fassignment#🇭🇺 Hungary, Budapest | Anti-RKN
@@ -16,14 +16,13 @@ vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.13.104.149:443?type=tcp&securit
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.13.104.154:443?type=tcp&security=reality&fp=firefox&sni=travel.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=f85b0cdd7d20c84c&flow=xtls-rprx-vision#🇭🇺 Hungary | Anti-RKN
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@217.13.104.148:443?type=tcp&security=reality&fp=firefox&sni=hu.jojack.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=3f200574d011010f&flow=xtls-rprx-vision#🇭🇺 Hungary | Anti-RKN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7ogSHVuZ2FyeSwgQnVkYXBlc3QgfCBBbnRpLVJLTiIsImFkZCI6IjE4NS4xMjguMjYuNzAiLCJwb3J0IjoiNDQzIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsImhvc3QiOiJ3d3cuOTY0Mzc2NTgueHl6IiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyIsImZwIjoiZmlyZWZveCJ9
-socks4://91.147.235.162:4153#🇭🇺 Hungary, Debrecen | Anti-RKN
+socks4://109.61.117.11:1080#🇭🇺 Hungary | Anti-RKN
 https://193.201.185.68:443#🇭🇺 Hungary | Anti-RKN
 https://193.201.185.155:443#🇭🇺 Hungary | Anti-RKN
 https://193.201.185.63:443#🇭🇺 Hungary | Anti-RKN
 https://46.29.140.237:443#🇭🇺 Hungary | Anti-RKN
 https://193.226.205.54:443#🇭🇺 Hungary | Anti-RKN
 http://89.43.132.239:8080#🇭🇺 Hungary | Anti-RKN
-socks4://84.2.239.42:4153#🇭🇺 Hungary | Anti-RKN
 socks4://178.48.13.177:80#🇭🇺 Hungary, Nagyréde | Anti-RKN
-http://89.43.132.219:8080#🇭🇺 Hungary | Anti-RKN
-http://84.2.239.42:4153#🇭🇺 Hungary | Anti-RKN
+socks4://84.2.239.42:4153#🇭🇺 Hungary | Anti-RKN
+socks4://89.43.132.239:8080#🇭🇺 Hungary | Anti-RKN

@@ -1,14 +1,13 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [LU] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 14:13:59
-# servers-count: 30
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 31
 
-vless://0c96aeeb-b691-48c9-91e2-8b5de4b29e01@92.223.84.254:443?encryption=mlkem768x25519plus.native.0rtt.ikrygnty5rd9tkgz209s8gbevg-ath6tj4jupxpmimg&type=ws&security=tls&fp=firefox&host=subgift2.gcorecdn.com&sni=subgift2.gcorecdn.com#🇱🇺 Luxembourg | Anti-RKN
-vless://047020df-f518-4b9b-a2d6-8e86f56f8c6e@92.223.84.254:443?encryption=mlkem768x25519plus.native.0rtt.8zxhnnlvq76p6zwmb6kn8crgkur765mkt9-lpqp7cqk&type=ws&security=tls&fp=firefox&host=subgift3.gcorecdn.com&sni=subgift3.gcorecdn.com#🇱🇺 Luxembourg | Anti-RKN
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@107.189.2.206:8443?security=tls&fp=firefox#🇱🇺 Luxembourg, Luxembourg | Anti-RKN
 vless://391a32c6-084c-4d61-8e8d-472678021dac@45.65.8.84:6443?type=grpc&security=reality&fp=firefox&sni=download.virtualbox.org&pbk=j0S1c1otF2nPttqWdl1jvO3Lpo46deTj5UYBeZoUB0w&sid=1265c88595b5c91a&serviceName=%2fapi%2fv1%2fupdate#🇱🇺 Luxembourg | Anti-RKN
 vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.84.183:6443?type=grpc&security=reality&fp=firefox&sni=download.virtualbox.org&pbk=yB9Q2h_OxKiAgUC39VmgLcqvEWOMW0Qf6h7-ymAD4Q4&sid=55e3bb77815eec08&serviceName=%2fapi%2fv1%2fupdate#🇱🇺 Luxembourg | Anti-RKN
 vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?type=ws&security=tls&fp=firefox&host=subgift.gcorecdn.com&sni=subgift.gcorecdn.com&path=%2ft.me-SubGift#🇱🇺 Luxembourg | Anti-RKN
@@ -17,6 +16,8 @@ trojan://Aimer@45.80.209.25:81?type=ws&security=tls&fp=firefox&sni=epmk.ambercc.
 trojan://NISHIKUITAN111@188.42.88.52:443?type=ws&security=tls&fp=firefox&sni=za.ylks.xyz&host=za.ylks.xyz#🇱🇺 Luxembourg | Anti-RKN
 trojan://Z5+!cnPuRr!+X7f&@188.42.89.96:2096?type=ws&security=tls&fp=firefox&sni=lITTle-darKness-6057.eDWARDFERaNK0923.WORKERS.dev&host=little-darkness-6057.edwardferank0923.workers.dev&path=%2ftrep7IDWJcI0KhhM0u%3fed%3d2560#🇱🇺 Luxembourg | Anti-RKN
 trojan://blue2024@188.42.88.34:443?security=tls&fp=firefox&sni=ta.promote.icu#🇱🇺 Luxembourg | Anti-RKN
+vless://047020df-f518-4b9b-a2d6-8e86f56f8c6e@92.223.84.254:443?encryption=mlkem768x25519plus.native.0rtt.8zXHNNlVq76P6zwMb6KN8crgkUR765MKT9-lpQP7CQk&type=ws&security=tls&fp=firefox&host=subgift3.gcorecdn.com&sni=subgift3.gcorecdn.com&path=%2ft.me-SubGift#🇱🇺 Luxembourg | Anti-RKN
+vless://0c96aeeb-b691-48c9-91e2-8b5de4b29e01@92.223.84.254:443?encryption=mlkem768x25519plus.native.0rtt.ikrYGntY5rd9tKGz209S8GbeVg-aTh6tJ4jUpxpmimg&type=ws&security=tls&fp=firefox&host=subgift2.gcorecdn.com&sni=subgift2.gcorecdn.com&path=%2ft.me-SubGift#🇱🇺 Luxembourg | Anti-RKN
 vless://0f494b87-2fdd-4978-b467-04f58d7375ce@92.223.84.79:80?type=ws&host=ipcfgermany.dev&path=%2f%40iP_CF----%40iP_CF----%254...#🇱🇺 Luxembourg | Anti-RKN
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@188.42.89.254:443?type=ws&security=tls&fp=firefox&host=myphotograpicpicture.ir&sni=mypHOtoGRAPICpIctUre.iR&path=%2ffJBvsL0uR2MtzRig#🇱🇺 Luxembourg | Anti-RKN
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@188.42.89.71:443?type=ws&security=tls&fp=firefox&host=myphotograpicpicture.ir&sni=mypHOtoGRAPICpIctUre.iR&path=%2ffJBvsL0uR2MtzRig#🇱🇺 Luxembourg | Anti-RKN

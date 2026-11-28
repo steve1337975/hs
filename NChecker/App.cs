@@ -26,7 +26,9 @@ namespace NChecker
             });
 
             servers = servers.Where(x => x.IsValid).DistinctBy(x => x.ConfigData.GetCoreSignature()).ToArray();
-            servers = servers.OrderBy(x => x.ConfigData.UUID.Length).ToArray();
+
+            //servers = servers.OrderBy(x => x.ConfigData.UUID.Length).ToArray();
+
 
             Console.WriteLine($"Отфильтровано серверов по IP: {servers.Length}");
             var deadEndpoints = new ConcurrentDictionary<string, byte>();

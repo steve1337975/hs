@@ -1,28 +1,24 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [MX] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 14:13:59
-# servers-count: 38
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 35
 
 socks5://DJy1T0dt:sZnD8GTz@144.225.47.106:42000#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://Tek2x6av:DJy1T0dt@144.225.47.161:42000#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://rVkkraqT:2j7CCZQb@94.194.164.203:62000#🇲🇽 Mexico, Mexico City | Anti-RKN
+http://201.150.116.3:999#🇲🇽 Mexico, Tetepango | Anti-RKN
 socks5://Tek2x6av:DJy1T0dt@144.225.47.8:42000#🇲🇽 Mexico, Mexico City | Anti-RKN
-http://170.78.208.28:999#🇲🇽 Mexico, San Juan del Río | Anti-RKN
-http://45.174.175.27:999#🇲🇽 Mexico, Comalcalco | Anti-RKN
 socks5://QyVdo5ks:lcFa8dTH@94.194.165.96:62000#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://UBXich0K:VvUAFi2E@72.57.228.87:62000#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://UBXich0K:VvUAFi2E@72.57.228.30:62000#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://DJy1T0dt:sZnD8GTz@144.225.47.68:42000#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://DJy1T0dt:sZnD8GTz@144.225.47.158:42000#🇲🇽 Mexico, Mexico City | Anti-RKN
-http://148.224.12.147:999#🇲🇽 Mexico, Uruapan | Anti-RKN
-http://38.194.253.115:999#🇲🇽 Mexico, Apaseo el Alto | Anti-RKN
-http://187.190.114.40:999#🇲🇽 Mexico, Poza Rica | Anti-RKN
-http://38.191.149.221:999#🇲🇽 Mexico, Santa Cruz de Rosales | Anti-RKN
-http://130.250.199.73:999#🇲🇽 Mexico, Hermosillo | Anti-RKN
+http://189.51.168.164:999#🇲🇽 Mexico, Hunucmá | Anti-RKN
+http://206.135.58.226:999#🇲🇽 Mexico, Atotonilco el Grande | Anti-RKN
 hysteria2://1fb67fa2-19c1-4dc8-9761-3f09d63e3a4a@216.238.78.221:443?sni=cdn.bobrui.ca#🇲🇽 Mexico, Querétaro City | Anti-RKN
 trojan://NX7LOtiM.=RdQTq..yxi-dm6OcQrkgE5rg@149.104.87.141:443?security=tls&fp=firefox#🇲🇽 Mexico, Mexico City | Anti-RKN
 trojan://humanity@131.196.254.151:443?type=ws&security=tls&fp=firefox&sni=www.pleadcourt.org&host=www.pleadcourt.org&path=%2fassignment#🇲🇽 Mexico, Mérida | Anti-RKN
@@ -32,16 +28,17 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.176.74:80?type=ws&host=en.m
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.183.178:80?type=ws&host=aliii.ir&path=%2fkptMTT8pTmxLWsoJ%3fed%3d2560#🇲🇽 Mexico, Mexico City | Anti-RKN
 https://78.12.246.160:1080#🇲🇽 Mexico, Querétaro City | Anti-RKN
 https://78.14.19.3:21834#🇲🇽 Mexico, Querétaro City | Anti-RKN
-http://45.174.168.253:999#🇲🇽 Mexico, Tulancingo | Anti-RKN
-http://45.188.76.238:999#🇲🇽 Mexico, Nacajuca | Anti-RKN
+http://204.199.201.133:999#🇲🇽 Mexico, Pachuca | Anti-RKN
+http://45.174.168.1:999#🇲🇽 Mexico, Tulancingo | Anti-RKN
 socks5://103.88.234.239:40002#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://103.88.234.239:40005#🇲🇽 Mexico, Mexico City | Anti-RKN
 socks5://103.88.234.239:40016#🇲🇽 Mexico, Mexico City | Anti-RKN
-http://206.135.80.94:999#🇲🇽 Mexico | Anti-RKN
-http://45.174.168.25:999#🇲🇽 Mexico, Tulancingo | Anti-RKN
-http://189.196.45.158:999#🇲🇽 Mexico, Guaymas | Anti-RKN
+http://89.213.106.98:999#🇲🇽 Mexico, San Luis de la Paz | Anti-RKN
+http://187.249.37.227:2024#🇲🇽 Mexico, Reynosa | Anti-RKN
+http://201.139.180.42:999#🇲🇽 Mexico, Puebla City | Anti-RKN
+http://138.122.184.167:999#🇲🇽 Mexico, Mérida | Anti-RKN
+http://201.165.164.22:999#🇲🇽 Mexico | Anti-RKN
+http://45.168.239.59:999#🇲🇽 Mexico, Cárdenas | Anti-RKN
+socks4://189.203.181.34:1080#🇲🇽 Mexico | Anti-RKN
 socks5://userLRgK:KsPAxZGn@94.194.166.52:42000#🇲🇽 Mexico, Mexico City | Anti-RKN
-http://131.196.246.4:999#🇲🇽 Mexico | Anti-RKN
-socks4://170.78.208.28:999#🇲🇽 Mexico, San Juan del Río | Anti-RKN
-http://45.168.236.54:3128#🇲🇽 Mexico, San Juan del Río | Anti-RKN
-http://38.43.88.102:999#🇲🇽 Mexico, Villahermosa | Anti-RKN
+http://45.230.174.21:4153#🇲🇽 Mexico, Culiacán | Anti-RKN

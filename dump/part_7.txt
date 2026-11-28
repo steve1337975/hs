@@ -1,82 +1,12 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🛡️ VPN BLACK #7
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411238
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 14:13:58
+# generated-at: 11/28/2026 02:32:22
 # servers-count: 1000
 
-trojan://NISHIKUITAN111@104.16.126.216:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.129.193:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.130.216:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.130.249:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.158.225:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.189.150:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.190.212:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.191.33:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.194.126:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.202.117:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.204.50:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.218.64:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.23.120:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.36.151:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.37.91:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.80.174:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.83.120:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.90.87:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.91.99:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.16.94.96:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.0.118:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.120.240:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.121.241:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.124.126:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.134.221:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.14.58:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.141.253:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.143.199:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.149.25:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.153.15:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.157.109:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.174.192:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.177.209:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.181.146:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.184.125:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.202.164:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.218.123:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.221.247:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.244.30:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.255.213:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.27.213:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.28.242:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.3.123:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.36.79:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.46.120:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.47.199:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.72.73:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.85.90:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.88.219:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.17.9.34:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.1.1:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.100.255:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.110.162:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.118.254:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.120.151:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.169.141:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.173.255:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.189.129:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.19.56:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.198.40:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.202.154:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.210.86:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.216.13:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.223.98:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.231.2:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.244.210:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.255.98:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.31.255:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.42.149:443?security=tls&fp=firefox#Anti-RKN
-trojan://NISHIKUITAN111@104.18.58.44:443?security=tls&fp=firefox#Anti-RKN
 trojan://NISHIKUITAN111@104.18.67.178:443?security=tls&fp=firefox#Anti-RKN
 trojan://NISHIKUITAN111@104.18.74.207:443?security=tls&fp=firefox#Anti-RKN
 trojan://NISHIKUITAN111@104.18.75.54:443?security=tls&fp=firefox#Anti-RKN
@@ -493,7 +423,7 @@ trojan://Trojan-Hqv2rayNG@151.101.66.219:443?type=ws&security=tls&fp=firefox&sni
 trojan://V+@iFj2PAdz.}_Hq@172.66.47.183:8443?type=ws&security=tls&fp=firefox&sni=jOinmAhdIsERveR-62E.PaGes.dEv&host=joinmahdiserver-62e.pages.dev#Anti-RKN
 trojan://VPNCSTOMIZE@104.18.218.118:8443?type=ws&security=tls&fp=firefox&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#Anti-RKN
 trojan://VtEmSN3CPs@172.67.175.40:2096?type=ws&security=tls&fp=firefox&sni=iran.farsonline24.ir&host=iran.farsonline24.ir&path=%2f%f0%9f%86%94%40M3HDIO1#Anti-RKN
-trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@185.179.155.94:443?security=tls&fp=firefox&sni=fi.zhabulik.ru#🇩🇪 Germany, Frankfurt am Main | Anti-RKN
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@31.77.6.32:443?security=tls&fp=firefox&sni=fi.zhabulik.ru#🇺🇸 United States | Anti-RKN
 trojan://WOeXShhJpL@104.16.148.178:443?type=ws&security=tls&fp=firefox&sni=07jzus.zdzdzd.xyz&host=07jzus.zdzdzd.xyz&path=%2fjuzigongyi#Anti-RKN
 trojan://WOeXShhJpL@104.16.151.226:443?security=tls&fp=firefox&sni=08jzus.zdzdzd.xyz#Anti-RKN
 trojan://WOeXShhJpL@104.17.8.124:443?type=ws&security=tls&fp=firefox&sni=10jzus.zdzdzd.xyz&host=10jzus.zdzdzd.xyz&path=%2fjuzigongyi#Anti-RKN
@@ -1007,3 +937,73 @@ trojan://blue2024@185.148.105.22:443?security=tls&fp=firefox&sni=b.promote.icu#�
 trojan://blue2024@185.148.106.55:443?security=tls&fp=firefox&sni=b.promote.icu#🇷🇺 Russia | Anti-RKN
 trojan://blue2024@185.176.26.193:443?security=tls&fp=firefox&sni=b.promote.icu#🇰🇿 Kazakhstan, Almaty | Anti-RKN
 trojan://blue2024@188.114.96.158:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@188.114.96.208:443?type=ws&security=tls&fp=firefox&sni=hb.lii2010.us...&host=hb.lii2010.us...#Anti-RKN
+trojan://blue2024@188.114.96.88:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@188.114.97.122:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@188.114.99.102:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@188.114.99.181:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@188.114.99.186:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@188.114.99.231:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@188.42.88.34:443?security=tls&fp=firefox&sni=ta.promote.icu#🇱🇺 Luxembourg | Anti-RKN
+trojan://blue2024@190.93.244.198:443?security=tls&fp=firefox&sni=td.promote.icu#Anti-RKN
+trojan://blue2024@190.93.244.208:443?type=ws&security=tls&fp=firefox&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@190.93.244.27:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@190.93.244.93:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@190.93.245.154:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@190.93.245.234:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@190.93.245.62:443?security=tls&fp=firefox&sni=td.promote.icu#Anti-RKN
+trojan://blue2024@190.93.246.36:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@190.93.247.133:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@190.93.247.65:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@190.93.247.89:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@195.85.59.161:443?type=ws&security=tls&fp=firefox&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg&path=%2f%3fed%3d2560#🇨🇾 Cyprus | Anti-RKN
+trojan://blue2024@195.85.59.95:443?security=tls&fp=firefox&sni=ta.promote.icu#🇨🇾 Cyprus | Anti-RKN
+trojan://blue2024@198.41.194.21:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@198.41.195.177:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@198.41.200.142:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
+trojan://blue2024@198.41.202.9:443?type=ws&security=tls&fp=firefox&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg&path=%2f%3fed%3d2560#Anti-RKN
+trojan://blue2024@198.41.207.96:443?type=ws&security=tls&fp=firefox&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg&path=%2f%3fed%3d2560#Anti-RKN
+trojan://blue2024@198.41.208.189:443?security=tls&fp=firefox&sni=ha.lii2010.us.kg#Anti-RKN
+trojan://blue2024@198.41.214.170:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@198.41.215.238:443?type=ws&security=tls&fp=firefox&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@198.41.223.223:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
+trojan://blue2024@198.62.62.156:443?security=tls&fp=firefox&sni=ta.promote.icu#🇺🇸 United States | Anti-RKN
+trojan://blue2024@31.43.179.118:443?security=tls&fp=firefox&sni=b.promote.icu#🇰🇿 Kazakhstan | Anti-RKN
+trojan://blue2024@45.85.118.20:443?type=ws&security=tls&fp=firefox&sni=ta.promote.icu&host=ta.promote.icu&path=%2f%3fed%3d2560#🇷🇴 Romania | Anti-RKN
+trojan://blue2024@66.235.200.173:443?security=tls&fp=firefox&sni=ta.promote.icu#🇺🇸 United States | Anti-RKN
+trojan://blue2024@75.2.32.4:443?security=tls&fp=firefox&sni=ta.promote.icu#🇺🇸 United States | Anti-RKN
+trojan://blue2024@92.53.188.162:443?security=tls&fp=firefox&sni=ta.promote.icu#🇸🇮 Slovenia | Anti-RKN
+trojan://blue2024@108.162.195.205:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
+trojan://blue2024@108.162.195.83:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
+trojan://blue2024@162.159.44.202:443?type=ws&security=tls&fp=firefox&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg&path=%2f%3fed%3d2560#Anti-RKN
+trojan://blue2024@162.159.44.155:443?security=tls&fp=firefox&sni=tb.promote.icu#Anti-RKN
+trojan://blue2024@172.66.158.115:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
+trojan://blue2024@104.21.21.129:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
+trojan://blue2024@104.26.13.31:443?type=ws&security=tls&fp=firefox&sni=tb.promote.icu&host=tb.promote.icu&path=%2f%3fed%3d2560#Anti-RKN
+trojan://blue2024@172.64.35.207:443?type=ws&security=tls&fp=firefox&sni=tb.promote.icu&host=tb.promote.icu&path=%2f%3fed%3d2560#Anti-RKN
+trojan://blue2024@172.64.35.159:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
+trojan://blue2024@162.159.44.217:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@108.162.195.135:443?type=ws&security=tls&fp=firefox&sni=tb.promote.icu&host=tb.promote.icu&path=%2f%3fed%3d2560#Anti-RKN
+trojan://blue2024@172.67.72.18:443?security=tls&fp=firefox&sni=tb.promote.icu#Anti-RKN
+trojan://blue2024@172.64.35.154:443?security=tls&fp=firefox&sni=ta.promote.icu#Anti-RKN
+trojan://blue2024@36.153.95.133:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#🇨🇳 China | Anti-RKN
+trojan://blue2024@91.134.121.55:443?security=tls&fp=firefox&sni=ta.promote.icu#🇫🇷 France | Anti-RKN
+trojan://blue2024@43.174.247.41:443?security=tls&fp=firefox&sni=ta.promote.icu#🇸🇬 Singapore | Anti-RKN
+trojan://blue2024@104.16.143.237:443?security=tls&fp=firefox&sni=hb.lii2010.us.kg#Anti-RKN
+trojan://blue2024@172.66.159.51:443?security=tls&fp=firefox&sni=tb.promote.icu#Anti-RKN
+trojan://bpb-trojan@104.16.147.158:443?security=tls&fp=firefox&sni=fcspring.ggff.net#Anti-RKN
+trojan://bpb-trojan@104.16.148.244:2053?type=ws&security=tls&fp=firefox&sni=g1-21N.paGeS.deV&host=g1-21n.pages.dev&path=%2ftrEgQ1o8ai3RyG9E9z%2fZGUucmFkaWNhbGx5LnBybw%3d%3d#Anti-RKN
+trojan://bpb-trojan@104.16.17.212:443?security=tls&fp=firefox&sni=fcspring.ggff.net#Anti-RKN
+trojan://bpb-trojan@104.16.193.133:443?security=tls&fp=firefox&sni=bpb.my79801.com#Anti-RKN
+trojan://bpb-trojan@104.16.235.24:443?security=tls&fp=firefox&sni=fcspring.ggff.net#Anti-RKN
+trojan://bpb-trojan@104.17.102.149:2053?type=ws&security=tls&fp=firefox&sni=bpb-WorkEr-panel-bcr.PagEs.DEv&host=bpb-worker-panel-bcr.pages.dev&path=%2ftrlBYH5QQYGYnWgP5T%3fed%3d2560#Anti-RKN
+trojan://bpb-trojan@104.17.147.22:2053?security=tls&fp=firefox&sni=bPB-worker-PANeL1-e4p.paGes.DeV#Anti-RKN
+trojan://bpb-trojan@104.17.147.22:443?type=ws&security=tls&fp=firefox&sni=10-bpb-wORkER-paNel.pAGEs.DeV&host=10-bpb-worker-panel.pages.dev#Anti-RKN
+trojan://bpb-trojan@104.17.159.75:443?security=tls&fp=firefox&sni=fcspring.ggff.net#Anti-RKN
+trojan://bpb-trojan@104.17.177.180:443?security=tls&fp=firefox&sni=adagio.us.kg#Anti-RKN
+trojan://bpb-trojan@104.17.26.134:443?security=tls&fp=firefox&sni=adagio.us.kg#Anti-RKN
+trojan://bpb-trojan@104.17.27.106:443?security=tls&fp=firefox&sni=fcspring.ggff.net#Anti-RKN
+trojan://bpb-trojan@104.17.51.115:443?security=tls&fp=firefox&sni=fcspring.ggff.net#Anti-RKN
+trojan://bpb-trojan@104.17.76.107:443?type=ws&security=tls&fp=firefox&sni=bpb.my79801.com&host=bpb.my79801.com&path=%2ftr%3fed%3d2560#Anti-RKN
+trojan://bpb-trojan@104.18.107.117:443?security=tls&fp=firefox&sni=bpb.my79801.com#Anti-RKN
+trojan://bpb-trojan@104.18.113.223:443?security=tls&fp=firefox&sni=fcspring.ggff.net#Anti-RKN

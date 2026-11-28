@@ -1,11 +1,11 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BY] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 14:13:59
-# servers-count: 15
+# generated-at: 11/28/2026 02:32:22
+# servers-count: 17
 
 trojan://humanity@91.149.167.147:8443?security=tls&fp=firefox#🇧🇾 Belarus | Anti-RKN
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443#🇧🇾 Belarus | Anti-RKN
@@ -21,4 +21,6 @@ vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?type=ws&path=
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?packetEncoding=xudp&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&flow=xtls-rprx-vision#🇧🇾 Belarus | Anti-RKN
 vless://e2bfac1b-5f89-49a2-80af-965af6e59e7b@186.246.54.191:443?type=tcp&security=reality&fp=firefox&sni=by-cdn.xhttp.dev&pbk=RHft3k9A1v9U-vt4m5NxZ7CR1tEZDx-IAXdpybHa4gE&sid=4640a2f00a8b7e07&flow=xtls-rprx-vision#🇧🇾 Belarus, Bereza | Anti-RKN
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?type=ws&host=178.172.227.124&path=%2fvless#🇧🇾 Belarus | Anti-RKN
+vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?type=ws&host=95.128.71.79&path=%2fvless#🇧🇾 Belarus | Anti-RKN
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?type=ws&host=178.172.227.228&path=%2fvless#🇧🇾 Belarus | Anti-RKN
+socks5://80.249.81.179:9050#🇧🇾 Belarus | Anti-RKN

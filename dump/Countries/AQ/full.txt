@@ -1,10 +1,10 @@
 ﻿# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AQ] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827411239
+# subscription-userinfo: upload=0; download=0; total=1000000000000000; expire=1827455542
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/27/2026 14:13:59
+# generated-at: 11/28/2026 02:32:22
 # servers-count: 1
 
 vless://9fdec6be-b6b5-4f18-bac0-461cb7953ff0@2.27.26.142:443?type=tcp&security=reality&fp=firefox&sni=aq-1.global-cdn.org&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&sid=90f9d05bf95cb335&flow=xtls-rprx-vision#🇦🇶 Antarctica | Anti-RKN
